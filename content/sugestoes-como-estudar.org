@@ -32,7 +32,7 @@ pequenos intervalos de descanso.
 
 🌐 [[https://brasilescola.uol.com.br/dicas-de-estudo/tecnica-pomodoro-que-e-e-como-funciona.htm][Técnica Pomodoro - Brasil Escola Uol]]
 
-🎥 https://youtu.be/YI9oxHGf6iE
+🎥 [[https://youtu.be/YI9oxHGf6iE][Técnica Pomodoro - Dicas de estudo - Canal: Socratica Português]]
 
 - **Busque motivação**
 
@@ -40,4 +40,4 @@ As motivações podem ser as mais variadas, e diferentes para cada
 um. Mas ela deve existir. Mais a melhor motivação é aquela que te faz
 gostar do processo. Sobre isso, sugiro o vídeo abaixo:
 
-[[https://youtu.be/RQE_UHooRic][Feynman sobre o MELHOR método de ESTUDOS! - Canal: Universo Narrado]]
+🎥 [[https://youtu.be/RQE_UHooRic][Feynman sobre o MELHOR método de ESTUDOS! - Canal: Universo Narrado]]
