@@ -18,6 +18,7 @@ jobs:
       - name: Build the site
         run: ./build.sh
 
+
      - name: Create gh-pages branch if it doesn't exist
         id: create-gh-pages
         run: |
