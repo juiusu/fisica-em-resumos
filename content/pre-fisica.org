@@ -20,6 +20,8 @@ Na tabela abaixo estão algumas grandezas físicas com correspondentes unidades 
 | Comprimento | Metro, Centímetro    | m, cm             |
 | Tempo       | Hora, Segundo        | h, s              |
 
+[[file:quest-pre-fisica1.org][Questões de Revisão: Grandezas e Unidades de Medida]] 
+
 ** Equações
 As equações na física são relações matemáticas entre
 grandezas. Considere os seguintes dados de uma substância hipotética:
@@ -69,8 +71,6 @@ Podem ser representados pela figura
 #+ATTR_HTML: :alt Figura 1 :width 400px
 #+ATTR_ORG: :align center
 [[file:graphics/grafico1.png]]
-
-
 
 
 

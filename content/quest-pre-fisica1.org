@@ -1,0 +1,32 @@
+
+
+* Questões de Revisão: Grandezas e Unidades de Medida
+
+1. Relacione as grandezas físicas da coluna A com suas respectivas
+   unidades de medida (símbolos) na coluna B.
+
+   | Coluna A       | Coluna B         |
+   |----------------+------------------|
+   | 1. Massa       | ( _ ) °C         |
+   | 2. Temperatura | ( **1** ) kg     |
+   | 3. Densidade   | ( _ ) L          |
+   | 4. Volume      | ( _ ) s, h       |
+   | 5. Tempo       | ( _ ) m, km      |
+   | 6. Velocidade  | ( _ ) g/mL, kg/L |
+   | 7. Distância   | ( _ ) km/h, m/s  |
+
+   
+2. Um líquido possui volume de 500 mL e massa de 600 g.
+
+   a. Qual grandeza física pode ser calculada com esses dados?
+
+   b. Calcule o valor dessa grandeza e indique a unidade de medida adequada
+
+3. Imagine uma situação em que um automóvel se mova de modo totalmente uniforme, durante 2h e percorra uma distância de 140 Km.
+
+   a. De acordo com as informações da questão 1, qual grandeza você acha que
+   poderia ser calculada com esses dados?
+
+   b. Calcule essa grandeza, indicando a sua unidade de medida.
+
+
