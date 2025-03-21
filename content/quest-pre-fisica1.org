@@ -5,15 +5,16 @@
 1. Relacione as grandezas físicas da coluna A com suas respectivas
    unidades de medida (símbolos) na coluna B.
 
-   | Coluna A       | Coluna B         |
-   |----------------+------------------|
-   | 1. Massa       | ( _ ) °C         |
-   | 2. Temperatura | ( **1** ) kg     |
-   | 3. Densidade   | ( _ ) L          |
-   | 4. Volume      | ( _ ) s, h       |
-   | 5. Tempo       | ( _ ) m, km      |
-   | 6. Velocidade  | ( _ ) g/mL, kg/L |
-   | 7. Distância   | ( _ ) km/h, m/s  |
+   | Coluna A       | Coluna B            |
+   |----------------+---------------------|
+   | 1. Massa       | a. ( _ ) °C         |
+   | 2. Temperatura | b. ( **1** ) kg     |
+   | 3. Densidade   | c. ( _ ) L          |
+   | 4. Volume      | d. ( _ ) s, h       |
+   | 5. Tempo       | e. ( _ ) m, km      |
+   | 6. Velocidade  | f. ( _ ) g/mL, kg/L |
+   | 7. Distância   | g. ( _ ) km/h, m/s  |
+
 
    
 2. Um líquido possui volume de 500 mL e massa de 600 g.
