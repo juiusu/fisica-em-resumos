@@ -1,0 +1,28 @@
+#+TITLE: Resumos das Aulas de Física
+#+AUTHOR: Joilson Silva Porto
+#+DATE: 2025
+#+OPTIONS: toc:2
+
+* Física III
+
+** Eletrostática
+
+*** Estrutura da matéria
+
+- Átomos
+  - Prótons
+  - Néutrons
+  - Elétrons
+- Moléculas
+
+*** Conceitos iniciais
+
+- Condutores
+- Isolantes
+- Supercondutores
+- Semicondutores
+- Carga elétrica
+
+(Conteúdo a ser adicionado.)
+
+*** Força elétrica

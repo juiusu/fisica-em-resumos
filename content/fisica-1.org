@@ -1,0 +1,14 @@
+
+* Física I
+
+
+** Mecânica
+A mecânica estuda o movimento dos corpos e as forças que atuam sobre eles.
+
+
+(Conteúdo a ser adicionado.)
+
+** Mecânica dos Fluidos
+A mecânica dos fluidos estuda o comportamento de líquidos e gases em repouso ou em movimento.
+
+(Conteúdo a ser adicionado.)
