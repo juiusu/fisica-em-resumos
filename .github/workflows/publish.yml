@@ -18,6 +18,19 @@ jobs:
       - name: Build the site
         run: ./build.sh
 
+     - name: Create gh-pages branch if it doesn't exist
+        id: create-gh-pages
+        run: |
+          if ! git ls-remote --exit-code --heads origin gh-pages; then
+            git checkout --orphan gh-pages
+            git rm -rf .
+            echo "Hello, GitHub Pages!" > index.html
+            git add index.html
+            git commit -m "Initial commit for gh-pages branch"
+            git push origin gh-pages
+          fi
+
+
       - name: Publish generated content to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
