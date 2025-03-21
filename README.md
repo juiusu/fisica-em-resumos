@@ -1,4 +1,4 @@
-#+title: Resumos de Física - Ensino Médio
+# Resumos de Física - Ensino Médio
 
 
 
@@ -12,8 +12,8 @@ Professor: Joilson Silva Porto
 Ano letivo: 2025
 
 
-REFERÊNCIAS
+## REFERÊNCIAS
 
 [https://github.com/SystemCrafters/org-website-example/ ](https://github.com/SystemCrafters/org-website-example/)
 
-Check out the [[https://systemcrafters.net/publishing-websites-with-org-mode/][Publishing Websites with Org Mode]] series to learn how this was created!
+Check out the [[https://systemcrafters.net/publishing-websites-with-org-mode/](Publishing Websites with Org Mode) series to learn how this was created!
