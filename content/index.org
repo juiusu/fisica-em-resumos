@@ -1,8 +1,9 @@
 
 #+TITLE: Resumos das Aulas de Física
-#+AUTHOR: Joilson Silva Porto
 #+DATE: 2025
 #+OPTIONS: toc:nil
+#+AUTHOR: Joilson Silva Porto
+#+EMAIL: joilson.porto@ifam.edu.br
 
 * Introdução
 Nessa página serão resumidas as aulas de **física** dos Cursos Técnicos de Nível Médio em Informática, Administração e Agropecuária na Forma Integrada, do IFAM /Campus/ Eirunepé; ministradas no ano de 2025.

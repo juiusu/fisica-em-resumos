@@ -1,4 +1,5 @@
 
+
 * Pré-física
 
 ** Grandezas e Unidades de Medida
@@ -70,6 +71,6 @@ Podem ser representados pela figura
 [[file:graphics/grafico1.png]]
 
 
-fig:graphics/grafico1.png 
+
 
 

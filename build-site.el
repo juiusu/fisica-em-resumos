@@ -24,11 +24,43 @@
 (image-type-available-p 'png)
 
 
+
 ;; Customize the HTML output
 (setq org-html-validation-link nil            ;; Don't show validation link
       org-html-head-include-scripts nil       ;; Use our own scripts
       org-html-head-include-default-style nil ;; Use our own styles
-      org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\" />")
+      org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\" />"
+      org-html-head "<meta http-equiv=\"Content-Language\" content=\"pt-BR\">\n
+                     <link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\" />")
+
+
+
+;; traduções - VERIFICAR POR QUE NÃO ESTÁ TRADUZINDO
+;; ORG
+
+(setq org-export-dictionary
+      '(
+        (pt-BR  ; Language code
+	 ("Table of Contents" . "Índice")
+         ("Author" . "Autor")
+         ("Date" . "Data")
+	 ("Figure" . "Figura")
+	 ("Table" . "Tabela")
+	 )
+        ))
+
+;;HTML 
+
+(setq org-html-element-dictionary
+      '(
+        (pt-BR
+         ("Table of Contents" . "Índice")
+         ("Author" . "Autor")
+         ("Date" . "Data")
+	 ("Figure" . "Figura")
+	 ("Table" . "Tabela")
+         )
+        ))
 
 ;; Define the publishing project
 (setq org-publish-project-alist
@@ -38,9 +70,13 @@
              :base-directory "./content"
              :publishing-function 'org-html-publish-to-html
              :publishing-directory "./public"
-             :with-author nil           ;; Don't include author name
+             :with-author t
+	     :with-email t
+	     :email "joilson.porto@ifam.edu.br"
+	     :author "Joilson Silva Porto"
+             :language "pt-BR"
              :with-creator t            ;; Include Emacs and Org versions in footer
-             :with-toc nil                ;; Include a table of contents
+             :with-toc nil                ;; Don't include a table of contents
              :section-numbers nil       ;; Don't include section numbers
              :time-stamp-file nil)))    ;; Don't include time stamp in file
 

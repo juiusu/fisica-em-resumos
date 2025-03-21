@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR">
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>&lrm;</title>
 <meta name="generator" content="Org mode" />
-<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
+<meta name="author" content="Joilson Silva Porto" />
+<meta http-equiv="Content-Language" content="pt-BR">
+
+                     <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
         displayAlign: "center",
@@ -33,13 +36,13 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-orgceb37ec" class="outline-2">
-<h2 id="orgceb37ec">Pré-física</h2>
-<div class="outline-text-2" id="text-orgceb37ec">
+<div id="outline-container-org130a745" class="outline-2">
+<h2 id="org130a745">Pré-física</h2>
+<div class="outline-text-2" id="text-org130a745">
 </div>
-<div id="outline-container-org153b0cb" class="outline-3">
-<h3 id="org153b0cb">Grandezas e Unidades de Medida</h3>
-<div class="outline-text-3" id="text-org153b0cb">
+<div id="outline-container-org764be38" class="outline-3">
+<h3 id="org764be38">Grandezas e Unidades de Medida</h3>
+<div class="outline-text-3" id="text-org764be38">
 <p>
 As grandezas físicas são conceitos aos quais podemos atribuir valores
 numéricos, enquanto que as unidades de medida são padrões de medida
@@ -103,9 +106,9 @@ Na tabela abaixo estão algumas grandezas físicas com correspondentes unidades 
 </div>
 </div>
 
-<div id="outline-container-org6244c41" class="outline-3">
-<h3 id="org6244c41">Equações</h3>
-<div class="outline-text-3" id="text-org6244c41">
+<div id="outline-container-orgc615f02" class="outline-3">
+<h3 id="orgc615f02">Equações</h3>
+<div class="outline-text-3" id="text-orgc615f02">
 <p>
 As equações na física são relações matemáticas entre
 grandezas. Considere os seguintes dados de uma substância hipotética:
@@ -186,9 +189,9 @@ Com dois valores conhecidos, podemos calcular o terceiro.
 </div>
 </div>
 
-<div id="outline-container-org1366d87" class="outline-3">
-<h3 id="org1366d87">Gráficos</h3>
-<div class="outline-text-3" id="text-org1366d87">
+<div id="outline-container-org8b0cfba" class="outline-3">
+<h3 id="org8b0cfba">Gráficos</h3>
+<div class="outline-text-3" id="text-org8b0cfba">
 <p>
 Gráficos são ferramentas visuais importantes para representar dados e relações entre grandezas físicas. Eles ajudam a identificar padrões e tendências.
 </p>
@@ -250,16 +253,13 @@ Podem ser representados pela figura
 </p>
 <p><span class="figure-number">Figure 1: </span>Gráfico que relaciona os valores de massa e volume da tabela anterior.</p>
 </div>
-
-
-<p>
-fig:graphics/grafico1.png 
-</p>
 </div>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
+<p class="author">Author: Joilson Silva Porto</p>
+<p class="email">Email: <a href="mailto:joilson.porto@ifam.edu.br">joilson.porto@ifam.edu.br</a></p>
 <p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.1 (<a href="https://orgmode.org">Org</a> mode 9.3)</p>
 </div>
 </body>

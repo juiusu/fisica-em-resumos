@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR">
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Resumos das Aulas de Física</title>
 <meta name="generator" content="Org mode" />
-<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
+<meta name="author" content="Joilson Silva Porto" />
+<meta http-equiv="Content-Language" content="pt-BR">
+
+                     <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
 </head>
 <body>
 <div id="content">
 <h1 class="title">Resumos das Aulas de Física</h1>
 
-<div id="outline-container-orgbddafe1" class="outline-2">
-<h2 id="orgbddafe1">Introdução</h2>
-<div class="outline-text-2" id="text-orgbddafe1">
+
+<div id="outline-container-org251a4ea" class="outline-2">
+<h2 id="org251a4ea">Introdução</h2>
+<div class="outline-text-2" id="text-org251a4ea">
 <p>
 Nessa página serão resumidas as aulas de <b><b>física</b></b> dos Cursos Técnicos de Nível Médio em Informática, Administração e Agropecuária na Forma Integrada, do IFAM <i>Campus</i> Eirunepé; ministradas no ano de 2025.
 </p>
@@ -30,29 +34,29 @@ Sugestões dos alunos serão sempre bem-vindas.
 </div>
 </div>
 
-<div id="outline-container-org7397fa6" class="outline-2">
-<h2 id="org7397fa6"><a href="sugestoes-como-estudar.html">Sugestões sobre como estudar</a></h2>
+<div id="outline-container-orgaba72a7" class="outline-2">
+<h2 id="orgaba72a7"><a href="sugestoes-como-estudar.html">Sugestões sobre como estudar</a></h2>
 </div>
 
-<div id="outline-container-org27f937a" class="outline-2">
-<h2 id="org27f937a"><a href="pre-fisica.html">Pré-Física</a></h2>
+<div id="outline-container-org0de369e" class="outline-2">
+<h2 id="org0de369e"><a href="pre-fisica.html">Pré-Física</a></h2>
 </div>
 
-<div id="outline-container-org2724176" class="outline-2">
-<h2 id="org2724176"><a href="fisica-1.html">Física I</a></h2>
+<div id="outline-container-org6dda442" class="outline-2">
+<h2 id="org6dda442"><a href="fisica-1.html">Física I</a></h2>
 </div>
 
-<div id="outline-container-org33ddcc4" class="outline-2">
-<h2 id="org33ddcc4"><a href="fisica-2.html">Física II</a></h2>
+<div id="outline-container-orgccfbb1d" class="outline-2">
+<h2 id="orgccfbb1d"><a href="fisica-2.html">Física II</a></h2>
 </div>
 
-<div id="outline-container-org59e0d94" class="outline-2">
-<h2 id="org59e0d94"><a href="fisica-3.html">Física III</a></h2>
+<div id="outline-container-org9f57dbb" class="outline-2">
+<h2 id="org9f57dbb"><a href="fisica-3.html">Física III</a></h2>
 </div>
 
-<div id="outline-container-org289680b" class="outline-2">
-<h2 id="org289680b">Referências</h2>
-<div class="outline-text-2" id="text-org289680b">
+<div id="outline-container-org9e79959" class="outline-2">
+<h2 id="org9e79959">Referências</h2>
+<div class="outline-text-2" id="text-org9e79959">
 <ul class="org-ul">
 <li>HEWITT, Paul G. <b>Física Conceitual</b>. Bookman Editora, 2023.</li>
 <li>ALVARENGA, Beatriz; MÁXIMO, Antônio. <b>Física Ensino Médio</b>. São Paulo: Editora Scipione, 2006.</li>
@@ -62,13 +66,15 @@ Sugestões dos alunos serão sempre bem-vindas.
 
 
 <p width="25px">
-<img src="ifam-logo.png" alt="ifam-logo.png" width="25px" /> Insituto Federal do Amazonas - <i>Campus</i> Eirunepé
+<img src="ifam-logo.png" alt="ifam-logo.png" width="25px" />    Insituto Federal do Amazonas - <i>Campus</i> Eirunepé
 </p>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
 <p class="date">Date: 2025</p>
+<p class="author">Author: Joilson Silva Porto</p>
+<p class="email">Email: <a href="mailto:joilson.porto@ifam.edu.br">joilson.porto@ifam.edu.br</a></p>
 <p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.1 (<a href="https://orgmode.org">Org</a> mode 9.3)</p>
 </div>
 </body>
