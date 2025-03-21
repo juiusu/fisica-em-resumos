@@ -12,4 +12,4 @@ Ano letivo: 2025
 
 [https://github.com/SystemCrafters/org-website-example/ ](https://github.com/SystemCrafters/org-website-example/)
 
-Check out the [https://systemcrafters.net/publishing-websites-with-org-mode/](Publishing Websites with Org Mode) series to learn how this was created!
+Check out the [ Publishing Websites with Org Mode](https://systemcrafters.net/publishing-websites-with-org-mode/ ) series to learn how this was created!
