@@ -33,7 +33,7 @@ descrito no gráfico acima.
 - a) Faça um novo gráfico, considerando, um segundo carro que tem o
   dobro da velocidade do primeiro (o primeiro é o que está
   representado acima)
-- b) Faça um novo gráfico, agroa relacionando posição e tempo, com a
+- b) Faça um novo gráfico, agora relacionando posição e tempo, com a
   mesma velocidade do item anterior. Porém, sabendo que o carro começa em 100 km; ou seja, para \(t\)=0 , \(d\) = 100 km.
 
   Sugestão, faça primeiro uma tabela:

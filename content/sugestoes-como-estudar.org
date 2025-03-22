@@ -3,7 +3,7 @@
 
 É importante se atentar para a como estamos estudando e aprendendo, de
 moda a tornar o estudo mais eficiente. Abaixo estão lincados alguns
-artigos e vídeos simples sobre cada uma das sugestões para tornar o estudo mais eficiente.
+artigos e vídeos sobre algumas técnicas simples para tornar o estudo mais eficiente.
 
 - **Método Feynman**
 
@@ -17,14 +17,17 @@ Eureka!]]
 
 - **Repetição Espaçada**
 
-Baseada no conceito da Curva do Esquecimento.
+Baseada no ideia de Curva do Esquecimento.
+Observação: A Curva do Esquecimento não é exata, mas serve como uma
+ideia, ou uma média, de como memorizamos (ou não)um conteúdo, em função
+do seu uso ou revisão algo do tempo.
 
 🌐 [[https://blog.duolingo.com/pt/repeticao-espacada-no-aprendizado/][Repetição espaçada no aprendizado - Blog Duolingo]]
 
 🎥 [[https://youtu.be/XG0CAM_VYdE][3 Formas de Aplicar a Prática Espaçada nos Estudos  - Susane Ribeiro]] 
 
 
-- **Técnica do Pomodoro**
+- **Técnica Pomodoro**
 
 Nosso cérebro tem um limite de tempo de concentração e precisa de
 pequenos intervalos de descanso.
