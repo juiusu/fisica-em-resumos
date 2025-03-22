@@ -36,9 +36,9 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-orga5d09af" class="outline-2">
-<h2 id="orga5d09af">Questões de revisão: gráficos</h2>
-<div class="outline-text-2" id="text-orga5d09af">
+<div id="outline-container-orgedef2c9" class="outline-2">
+<h2 id="orgedef2c9">Questões de revisão: gráficos</h2>
+<div class="outline-text-2" id="text-orgedef2c9">
 <p>
 O gráfico abaixo será usado em todas as questões desse tópico.
 </p>
@@ -51,9 +51,9 @@ O gráfico abaixo será usado em todas as questões desse tópico.
 </div>
 </div>
 
-<div id="outline-container-orgfd9c8db" class="outline-3">
-<h3 id="orgfd9c8db">Questão 1</h3>
-<div class="outline-text-3" id="text-orgfd9c8db">
+<div id="outline-container-org4413966" class="outline-3">
+<h3 id="org4413966">Questão 1</h3>
+<div class="outline-text-3" id="text-org4413966">
 <p>
 Considere que o gráfico acima representa o movimento uniforme de um
 carrro em uma rodovia.
@@ -62,14 +62,25 @@ carrro em uma rodovia.
 <ul class="org-ul">
 <li>a) Qual é a distâcia percorrida em 6 horas?</li>
 <li>b) Qual é a distância percorrida em 3 horas?</li>
-<li>c) Qual é a velocidade do carro?</li>
+<li><p>
+c) Qual é a velocidade do carro?
+</p>
+
+<p>
+Observação: lembrando que
+</p>
+
+\begin{equation}
+v = \frac{d}{t}
+\end{equation}</li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org9de58b3" class="outline-3">
-<h3 id="org9de58b3">Questão 2</h3>
-<div class="outline-text-3" id="text-org9de58b3">
+
+<div id="outline-container-org3128495" class="outline-3">
+<h3 id="org3128495">Questão 2</h3>
+<div class="outline-text-3" id="text-org3128495">
 <p>
 Construa uma tabela relacionando distância e tempo para o movimento
 descrito no gráfico acima.
@@ -77,9 +88,9 @@ descrito no gráfico acima.
 </div>
 </div>
 
-<div id="outline-container-org01a8cb9" class="outline-3">
-<h3 id="org01a8cb9">Questão 3</h3>
-<div class="outline-text-3" id="text-org01a8cb9">
+<div id="outline-container-org750968e" class="outline-3">
+<h3 id="org750968e">Questão 3</h3>
+<div class="outline-text-3" id="text-org750968e">
 <ul class="org-ul">
 <li>a) Faça um novo gráfico, considerando, um segundo carro que tem o
 dobro da velocidade do primeiro (o primeiro é o que está
