@@ -1,0 +1,39 @@
+
+* Questões de revisão: equações
+
+
+** Questão 1
+
+Considerando que o mercúrio tem densidade de 13,5 g/mL,
+
+- **a)** Calcule a massa de 10 mL de mercúrio.
+- **b)** Calcule o volume de 40,5 g de marcúrio.
+
+** Questão 2
+
+Imagine que foram realizadas medidas de massa e volume de porções de
+mel, e que o valor obtido para a densidade foi 1,5 g/mL.
+
+- **a)** Calcule o volume de 10 g desse mel?
+- **b)** Construa uma tabela com quatro conjuto de valores de massa e
+  volume para esse mel.
+
+** Questão 3
+
+Imagine que a distância percorrida por um carro está relacionada com a
+velocidade e com o tempo pela equação:
+
+\begin{equation}
+v = \frac{d}{t}
+\end{equation}
+
+Onde:
+\( v \) = velocidade ;  \( d \) = distância ;  \( t \) = tempo
+
+
+
+- **a)** Qual é o valor da velocidade para que o carro percorra 90 km em
+  uma hora e meia?
+
+- **b)** Qual é o tempo necessário para que, nessa mesma velocidade, o
+  carro percorra 210 km?
