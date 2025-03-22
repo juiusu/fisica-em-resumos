@@ -19,9 +19,10 @@ carrro em uma rodovia.
   Observação: lembrando que
 
   \begin{equation}
-v = \frac{d}{t}
+  v = \frac{d}{t}
   \end{equation}
 
+  
 ** Questão 2
 
 Construa uma tabela relacionando distância e tempo para o movimento

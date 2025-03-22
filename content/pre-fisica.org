@@ -74,5 +74,5 @@ Podem ser representados pela figura
 #+ATTR_ORG: :align center
 [[file:graphics/grafico1.png]]
 
-[[file:quest-pre-fisica3.org][Questões de revisão: gráficos]]
+[[file:quest-pre-fisica3.org][Questões de revisão: gráficos]] 
 
