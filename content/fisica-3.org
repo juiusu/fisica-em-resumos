@@ -7,15 +7,30 @@
 
 ** Eletrostática
 
-*** Estrutura da matéria
-
-- Átomos
+*** Carga elétrica
+- Unidade de medida: Coulomb (\(C\))
+  - $C=1,6\times 10 ^{-19} \, C$
+- Constituíntes básicos da matéria
   - Prótons
-  - Néutrons
+    - Carga elétrica elementar
+    - Massa
+  - Neutrôns
+    - Cargla elétrica zero
+    - Massa
   - Elétrons
+    - Carga elétrica elementar negativa
+    - Massa
+- Átomos
+
+  - Núcleo possui prótons e neutrôns, elétrons em orbitas bem definidas
+
+  - Elétrons de valência
+
 - Moléculas
 
-*** Conceitos iniciais
+  - Definição: Conjunto de átomos ligados químicamente
+
+*** Condutores e isolantes
 
 - Condutores
 - Isolantes
