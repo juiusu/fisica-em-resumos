@@ -38,7 +38,8 @@ assim como a massa é a propriedade da matéria que gera força gravitacional.
     órbitas bem definidas.
 
   - Elétrons de valência (mas afastados do núcleo) são os responsáveis
-    pela eletrização dos objetos macroscópicos.
+    pela eletrização dos objetos macroscópicos, bem como pela
+    *condução* de eletricidade.
 
 - Moléculas
 
