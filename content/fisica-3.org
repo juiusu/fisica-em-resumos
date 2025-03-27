@@ -56,8 +56,8 @@ assim como a massa é a propriedade da matéria que gera força gravitacional.
         - ex.: \( NaCl \rightarrow Na⁺ + Cl⁻ \)
 - Isolantes
 
-
   - Água pura (\(H_2O\)), vidro (\(SiO_2\)), borracha.
+
     - Os elétrons estão localizados nas ligações covalentes, e por
       isso, não possuem *mobilidade* como nos metais.
 
