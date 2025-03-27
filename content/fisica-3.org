@@ -69,13 +69,15 @@ assim como a massa é a propriedade da matéria que gera força gravitacional.
 
 - Eletrização *por atrito*
 
-  Quando atritamos dois corpos, há uma troca de elétrons, um corpo ganha
-e o outro perde. Assim, um corpo fica com uma carga elétrica negativa
-e, e o outro, positiva.
+  Quando atritamos dois corpos, há uma troca de elétrons, um corpo
+  ganha e o outro perde. Assim, um corpo fica com uma carga elétrica
+  negativa e, e o outro, positiva.
+  
 
-    - Exemplos:
+  - Exemplos:
       - Atrito entre caneta e cabelo (experimento realizado em sala)
       - Correia e rolete isolante no [[https://pt.wikipedia.org/wiki/Gerador_de_Van_de_Graaff#:~:text=O%20gerador%20de%20Van%20de,necess%C3%A1rias%20em%20aceleradores%20de%20part%C3%ADculas.&text=Vers%C3%B5es%20pequenas%20do%20gerador%20de,polaridade%2C%20que%20consequentemente%20se%20repelem.][Gerador de Van de Graff]]
+
   
 - Eletrização *por contato*
   Quando um objeto eletrizado toca um objeto neutro, carregando-o.
@@ -88,12 +90,10 @@ superfície. *por que?*
  
 - Eletrização *por indução*
 
-    Nesse processo, um corpo nele é eletrizado sem que seja colocado em
-  contato com um corpo eletrizado. Primeiro é induzido uma polarização
-  das cargas no corpo neutro, que depois é aterrado, neutralizando um
-  dos lados.
+    Nesse processo, um corpo nele é eletrizado sem que seja colocado em contato com um corpo eletrizado. Primeiro é induzido uma polarização das cargas no corpo neutro, que depois é aterrado, neutralizando um dos lados.
 
   - exemplo: [[https://pt.wikipedia.org/wiki/Eletrosc%C3%B3pio][Eletroscópio]]   
+
   
 *** Força elétrica
 
