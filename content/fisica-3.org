@@ -45,6 +45,9 @@ assim como a massa é a propriedade da matéria que gera força gravitacional.
 
   - Definição: Conjunto de átomos ligados químicamente
 
+[[file:quest-fisca3-1.org][Questões de revisão: Carga elétrica]]
+
+
 *** Condutores e isolantes
 
 - Condutores
@@ -64,6 +67,8 @@ assim como a massa é a propriedade da matéria que gera força gravitacional.
 
 - Supercondutores
 - Semicondutores
+
+[[file:quest-fisca3-2.org][Questões de revisão: condutores e isolantes]] 
 
 *** Processos de eletrização
 
@@ -92,9 +97,11 @@ superfície. *por que?*
 
     Nesse processo, um corpo nele é eletrizado sem que seja colocado em contato com um corpo eletrizado. Primeiro é induzido uma polarização das cargas no corpo neutro, que depois é aterrado, neutralizando um dos lados.
 
-  - exemplo: [[https://pt.wikipedia.org/wiki/Eletrosc%C3%B3pio][Eletroscópio]]   
+  - exemplo: [[https://pt.wikipedia.org/wiki/Eletrosc%C3%B3pio][Eletroscópio]]
 
-  
+    
+[[file:quest-fisca3-3.org][Questões de revisão: Processos de eletrização]]
+
 *** Força elétrica
 
 A força elétrica é gerada pela carga elétrica. Assim, dois corpos
@@ -107,7 +114,7 @@ A intensidade da força é dada pela Lei de Coulomb:
 
 #+begin_quote
 A força é proporcional ao produto das cargas, e inversamente
-proporcional ao quadrado da distância ente os corpos.
+proporcional ao quadrado da distância entre os corpos.
 #+end_quote
 
 Em equação:
@@ -125,6 +132,8 @@ k=9,0\times 10^{9} \, N\cdot m^2 \cdot C^{-2}
 
 
 Essa lei é análoga à [[https://pt.wikipedia.org/wiki/Lei_da_gravita%C3%A7%C3%A3o_universal][Lei da Gravitação Universal de Newton]] .
+
+[[file:quest-fisca3-4.org][Questões de revisão: Força elétrica]] 
 
 *** Polarização
 

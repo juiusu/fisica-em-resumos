@@ -36,66 +36,69 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-org6c7d278" class="outline-2">
-<h2 id="org6c7d278">Questões de revisão: equações</h2>
-<div class="outline-text-2" id="text-org6c7d278">
+<div id="outline-container-org8646cb5" class="outline-2">
+<h2 id="org8646cb5">Questões de revisão: Carga elétrica</h2>
+<div class="outline-text-2" id="text-org8646cb5">
 </div>
-<div id="outline-container-orgd471590" class="outline-3">
-<h3 id="orgd471590">Questão 1</h3>
-<div class="outline-text-3" id="text-orgd471590">
+<div id="outline-container-orge7742df" class="outline-3">
+<h3 id="orge7742df">Questão 1</h3>
+<div class="outline-text-3" id="text-orge7742df">
 <p>
-Considerando que o mercúrio tem densidade de 13,5 g/mL,
+<b>a)</b> Quais são as partículas básicas que constituem a matéria?
 </p>
 
-<ul class="org-ul">
-<li><b><b>a)</b></b> Calcule a massa de 10 mL de mercúrio.</li>
-<li><b><b>b)</b></b> Calcule o volume de 40,5 g de marcúrio.</li>
-</ul>
-</div>
-</div>
-
-<div id="outline-container-orgc28d6ed" class="outline-3">
-<h3 id="orgc28d6ed">Questão 2</h3>
-<div class="outline-text-3" id="text-orgc28d6ed">
 <p>
-Imagine que foram realizadas medidas de massa e volume de porções de
-mel, e que o valor obtido para a densidade foi 1,5 g/mL.
+<b>b)</b> Explique por que um átomo é eletricamente neutro em condições
+normais.
 </p>
 
-<ul class="org-ul">
-<li><b><b>a)</b></b> Calcule o volume de 10 g desse mel?</li>
-<li><b><b>b)</b></b> Construa uma tabela com quatro conjuto de valores de massa e
-volume para esse mel.</li>
-</ul>
+<p>
+<b>c)</b> Explique por que, em um átomo, os elétrons são as partículas que
+orbitam o núcleo, e não os prótons?
+</p>
 </div>
 </div>
 
-<div id="outline-container-orgc75a84b" class="outline-3">
-<h3 id="orgc75a84b">Questão 3</h3>
-<div class="outline-text-3" id="text-orgc75a84b">
+<div id="outline-container-org323354c" class="outline-3">
+<h3 id="org323354c">Questão 3</h3>
+<div class="outline-text-3" id="text-org323354c">
 <p>
-Imagine que a distância percorrida por um carro está relacionada com a
-velocidade e com o tempo pela equação:
+a) O que deve acontecer para que um átomo fique com carga $+ e $?
 </p>
 
-\begin{equation}
-v = \frac{d}{t}
-\end{equation}
-
 <p>
-Onde:
-\( v \) = velocidade ;  \( d \) = distância ;  \( t \) = tempo
+b) O que deve acontecer para que um átomo fique com carga $- 3e $
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-orgafd41fd" class="outline-3">
+<h3 id="orgafd41fd">Questão 4</h3>
+<div class="outline-text-3" id="text-orgafd41fd">
+<p>
+<b>a)</b> Cacule a carga elétrica total (em Coulombs) de um ojeto que
+possui $ 3 &times; 10<sup>12</sup> elétrons.
 </p>
 
+<p>
+<b>b)</b> Quantos elétrons precisam ser removidos de um corpo neutro para
+ que ele adquira uma carga de \(+4,8 \times 10^{-12}\, C\)
+</p>
+</div>
+</div>
 
 
-<ul class="org-ul">
-<li><b><b>a)</b></b> Qual é o valor da velocidade para que o carro percorra 90 km em
-uma hora e meia?</li>
 
-<li><b><b>b)</b></b> Qual é o tempo necessário para que, nessa mesma velocidade, o
-carro percorra 210 km?</li>
-</ul>
+
+<div id="outline-container-org77efadd" class="outline-3">
+<h3 id="org77efadd">Questão 5 - SIS-UEA-2014</h3>
+<div class="outline-text-3" id="text-org77efadd">
+
+<div class="figure">
+<p><img src="uea-sis3-2014-1.png" alt="uea-sis3-2014-1.png" /> 
+</p>
+</div>
 </div>
 </div>
 </div>

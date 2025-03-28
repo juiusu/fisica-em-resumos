@@ -1,0 +1,25 @@
+* Questões de revisão: Condutores e isolantes
+
+** Questão 1
+
+*a)* Explique, em termos da mobilidade das cargas elétricas, o que
+diferencia um condutor de um isolante
+
+*b)* Cite dois exemplos de materiais condutores, e dois exemplos de
+ materiais isolantes.
+
+** Questão 2
+
+*a)* A água pura (água destilada) é um bom condutor de eletricidade? e a
+água comum (encontrada na natureza) ? Justifique.
+
+*b)* O ar é um isolante ou um condutor de eletricidade? Justifique sua
+ resposta a partir de uma observação empírica.
+
+** Questão 3
+
+Todos os objetos são formados por partículas com carga elétrica (prótons e elétrons). No entanto, a carga líquida de um objeto depende do balanço entre essas cargas. Explique como um objeto pode ter carga líquida nula, positiva ou negativa, utilizando exemplos.
+
+
+
+ 

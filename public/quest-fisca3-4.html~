@@ -36,66 +36,71 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-org6c7d278" class="outline-2">
-<h2 id="org6c7d278">Questões de revisão: equações</h2>
-<div class="outline-text-2" id="text-org6c7d278">
+<div id="outline-container-org2edfdb7" class="outline-2">
+<h2 id="org2edfdb7">Questões de revisão: Força elétrica</h2>
+<div class="outline-text-2" id="text-org2edfdb7">
 </div>
-<div id="outline-container-orgd471590" class="outline-3">
-<h3 id="orgd471590">Questão 1</h3>
-<div class="outline-text-3" id="text-orgd471590">
+<div id="outline-container-org8bc0b2b" class="outline-3">
+<h3 id="org8bc0b2b">Questão 1</h3>
+<div class="outline-text-3" id="text-org8bc0b2b">
 <p>
-Considerando que o mercúrio tem densidade de 13,5 g/mL,
+Imagine que dois objetos com cargas, respectivamente, \(q_1\) e \(q_2\)
+estão separados por uma distância \(d\).
 </p>
 
-<ul class="org-ul">
-<li><b><b>a)</b></b> Calcule a massa de 10 mL de mercúrio.</li>
-<li><b><b>b)</b></b> Calcule o volume de 40,5 g de marcúrio.</li>
-</ul>
-</div>
-</div>
-
-<div id="outline-container-orgc28d6ed" class="outline-3">
-<h3 id="orgc28d6ed">Questão 2</h3>
-<div class="outline-text-3" id="text-orgc28d6ed">
 <p>
-Imagine que foram realizadas medidas de massa e volume de porções de
-mel, e que o valor obtido para a densidade foi 1,5 g/mL.
+<b>a)</b> Se \(q_1 > 0\) e \(q_2 > 0\), a força será de atração ou repulsão?
 </p>
 
-<ul class="org-ul">
-<li><b><b>a)</b></b> Calcule o volume de 10 g desse mel?</li>
-<li><b><b>b)</b></b> Construa uma tabela com quatro conjuto de valores de massa e
-volume para esse mel.</li>
-</ul>
+<p>
+<b>b)</b> Se \(q_1 > 0\) e \(q_2 < 0\), a força será de atração ou repulsão?
+</p>
+
+<p>
+<b>c)</b> Se \(q_1 < 0\) e \(q_2 > 0\), a força será de atração ou repulsão?
+</p>
+
+<p>
+<b>d)</b> Se \(q_1 < 0\) e \(q_2 < 0\), a força será de atração ou repulsão?
+</p>
+
+<p>
+<b>e)</b> O que acontecerá com a força se a carga \(q_1\) for dobrada?
+</p>
+
+<p>
+<b>f)</b> O que acontecerá com a força se a carga \(q_2\) for triplicada?
+</p>
+
+<p>
+<b>g)</b> O que acontecerá com a força se a distância for dobrada?
+</p>
+
+<p>
+<b>h)</b> O que acontecerá com a força se a distância dor triplicada?
+</p>
 </div>
 </div>
 
-<div id="outline-container-orgc75a84b" class="outline-3">
-<h3 id="orgc75a84b">Questão 3</h3>
-<div class="outline-text-3" id="text-orgc75a84b">
+<div id="outline-container-org0f05f21" class="outline-3">
+<h3 id="org0f05f21">Questão 2</h3>
+<div class="outline-text-3" id="text-org0f05f21">
 <p>
-Imagine que a distância percorrida por um carro está relacionada com a
-velocidade e com o tempo pela equação:
+Usando apenas ordem de grandeza para os valores necessários (exemplo
+\(9\times10^{9} \sim 10^{10}\)), compare a força elétrica com a força
+gravitacional entre um próton e um elétron.
 </p>
+</div>
+</div>
 
-\begin{equation}
-v = \frac{d}{t}
-\end{equation}
+<div id="outline-container-org91a5f19" class="outline-3">
+<h3 id="org91a5f19">Questão 4 - UEA-SIS-2016</h3>
+<div class="outline-text-3" id="text-org91a5f19">
 
-<p>
-Onde:
-\( v \) = velocidade ;  \( d \) = distância ;  \( t \) = tempo
+<div class="figure">
+<p><img src="uea-sis3-2016-1.png" alt="uea-sis3-2016-1.png" /> 
 </p>
-
-
-
-<ul class="org-ul">
-<li><b><b>a)</b></b> Qual é o valor da velocidade para que o carro percorra 90 km em
-uma hora e meia?</li>
-
-<li><b><b>b)</b></b> Qual é o tempo necessário para que, nessa mesma velocidade, o
-carro percorra 210 km?</li>
-</ul>
+</div>
 </div>
 </div>
 </div>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Joilson Silva Porto" />
+<meta http-equiv="Content-Language" content="pt-BR">
+
+                     <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        displayAlign: "center",
+        displayIndent: "0em",
+
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
+             }
+});
+</script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body>
+<div id="content">
+<div id="outline-container-orgb68da19" class="outline-2">
+<h2 id="orgb68da19">Questões de revisão: Processos de eletrização</h2>
+<div class="outline-text-2" id="text-orgb68da19">
+</div>
+<div id="outline-container-orgd0a41c5" class="outline-3">
+<h3 id="orgd0a41c5">Questão 1</h3>
+<div class="outline-text-3" id="text-orgd0a41c5">
+<p>
+<b>a)</b> Explique o que acontece com os elétrons quando dois materiais
+diferentes são atritados. Por que um corpo fica carregado
+positivamente e o outro negativamente?
+</p>
+
+<p>
+<b>b)</b> Dê dois exemplos práticos de eletrização por atrito e descreva
+como ocorre a transferência de elétrons em cada caso.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org02197cb" class="outline-3">
+<h3 id="org02197cb">Questão 2</h3>
+<div class="outline-text-3" id="text-org02197cb">
+<p>
+<b>a)</b> Se uma esfera metálica carregada negativamente tocar outra esfera
+ idêntica neutra, qual será a carga final de cada uma? Justifique sua
+ resposta.
+</p>
+
+<p>
+<b>b)</b> Duas esferas idênticas tem cargas, respectivamente, \(+10 \,C\) e
+ \(-5\,C\) . Ao tocar essas duas esferas, qual será a carga final de
+ cada uma?  Justifique sua  resposta.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3c183d1" class="outline-3">
+<h3 id="org3c183d1">Questão 3 - SIS-UEA-2018</h3>
+<div class="outline-text-3" id="text-org3c183d1">
+
+<div class="figure">
+<p><img src="uea-sis3-2018.png" alt="uea-sis3-2018.png" /> 
+</p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-org4b42820" class="outline-3">
+<h3 id="org4b42820">Questão 4 - SIS-UEA-2016</h3>
+<div class="outline-text-3" id="text-org4b42820">
+
+<div class="figure">
+<p><img src="uea-sis3-2016.png" alt="uea-sis3-2016.png" /> 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgecf693e" class="outline-3">
+<h3 id="orgecf693e">Questão 5 - SIS-UEA-2014</h3>
+<div class="outline-text-3" id="text-orgecf693e">
+
+<div class="figure">
+<p><img src="uea-sis3-2014.png" alt="uea-sis3-2014.png" /> 
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org593bddd" class="outline-3">
+<h3 id="org593bddd">Questão 6 - SIS-UEA-2019</h3>
+<div class="outline-text-3" id="text-org593bddd">
+
+<div class="figure">
+<p><img src="uea-sis3-2019.png" alt="uea-sis3-2019.png" /> 
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Joilson Silva Porto</p>
+<p class="email">Email: <a href="mailto:joilson.porto@ifam.edu.br">joilson.porto@ifam.edu.br</a></p>
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.1 (<a href="https://orgmode.org">Org</a> mode 9.3)</p>
+</div>
+</body>
+</html>
