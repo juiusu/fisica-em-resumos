@@ -41,26 +41,26 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org2423cb8">Física III</a>
+<li><a href="#org37f6a3c">Física III</a>
 <ul>
-<li><a href="#org3fb2013">Eletrostática</a></li>
+<li><a href="#orgf20a302">Eletrostática</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org2423cb8" class="outline-2">
-<h2 id="org2423cb8">Física III</h2>
-<div class="outline-text-2" id="text-org2423cb8">
+<div id="outline-container-org37f6a3c" class="outline-2">
+<h2 id="org37f6a3c">Física III</h2>
+<div class="outline-text-2" id="text-org37f6a3c">
 </div>
-<div id="outline-container-org3fb2013" class="outline-3">
-<h3 id="org3fb2013">Eletrostática</h3>
-<div class="outline-text-3" id="text-org3fb2013">
+<div id="outline-container-orgf20a302" class="outline-3">
+<h3 id="orgf20a302">Eletrostática</h3>
+<div class="outline-text-3" id="text-orgf20a302">
 </div>
-<div id="outline-container-orgca5559e" class="outline-4">
-<h4 id="orgca5559e">Carga elétrica</h4>
-<div class="outline-text-4" id="text-orgca5559e">
+<div id="outline-container-org58e395e" class="outline-4">
+<h4 id="org58e395e">Carga elétrica</h4>
+<div class="outline-text-4" id="text-org58e395e">
 <p>
 A Carga elétrica é a propriedade da matéria que gera força elétrica;
 assim como a massa é a propriedade da matéria que gera força gravitacional.
@@ -137,7 +137,8 @@ elemento químico.</li>
 órbitas bem definidas.</li>
 
 <li>Elétrons de valência (mas afastados do núcleo) são os responsáveis
-pela eletrização dos objetos macroscópicos.</li>
+pela eletrização dos objetos macroscópicos, bem como pela
+<b>condução</b> de eletricidade.</li>
 </ul></li>
 
 <li>Moléculas
@@ -146,12 +147,17 @@ pela eletrização dos objetos macroscópicos.</li>
 <li>Definição: Conjunto de átomos ligados químicamente</li>
 </ul></li>
 </ul>
+
+<p>
+<a href="quest-fisca3-1.html">Questões de revisão: Carga elétrica</a>
+</p>
 </div>
 </div>
 
-<div id="outline-container-org37dda51" class="outline-4">
-<h4 id="org37dda51">Condutores e isolantes</h4>
-<div class="outline-text-4" id="text-org37dda51">
+
+<div id="outline-container-orga96ae83" class="outline-4">
+<h4 id="orga96ae83">Condutores e isolantes</h4>
+<div class="outline-text-4" id="text-orga96ae83">
 <ul class="org-ul">
 <li>Condutores
 <ul class="org-ul">
@@ -169,40 +175,42 @@ valência possuem certa mobilidade</b> no meio.</li>
 </ul></li>
 </ul></li>
 </ul></li>
-<li>Isolantes</li>
-</ul>
-
+<li>Isolantes
 
 <ul class="org-ul">
 <li>Água pura (\(H_2O\)), vidro (\(SiO_2\)), borracha.
+
 <ul class="org-ul">
 <li>Os elétrons estão localizados nas ligações covalentes, e por
 isso, não possuem <b>mobilidade</b> como nos metais.</li>
 </ul></li>
-</ul>
-<ul class="org-ul">
+</ul></li>
+
 <li>Supercondutores</li>
 <li>Semicondutores</li>
 </ul>
+
+<p>
+<a href="quest-fisca3-2.html">Questões de revisão: condutores e isolantes</a> 
+</p>
 </div>
 </div>
 
-<div id="outline-container-org5ce74df" class="outline-4">
-<h4 id="org5ce74df">Processos de eletrização</h4>
-<div class="outline-text-4" id="text-org5ce74df">
+<div id="outline-container-org7b4d55e" class="outline-4">
+<h4 id="org7b4d55e">Processos de eletrização</h4>
+<div class="outline-text-4" id="text-org7b4d55e">
 <ul class="org-ul">
 <li><p>
 Eletrização <b>por atrito</b>
 </p>
 
 <p>
-Quando atritamos dois corpos, há uma troca de elétrons, um corpo ganha
+Quando atritamos dois corpos, há uma troca de elétrons, um corpo
+ganha e o outro perde. Assim, um corpo fica com uma carga elétrica
+negativa e, e o outro, positiva.
 </p></li>
 </ul>
-<p>
-e o outro perde. Assim, um corpo fica com uma carga elétrica negativa
-e, e o outro, positiva.
-</p>
+
 
 <ul class="org-ul">
 <li>Exemplos:
@@ -211,6 +219,8 @@ e, e o outro, positiva.
 <li>Correia e rolete isolante no <a href="https://pt.wikipedia.org/wiki/Gerador_de_Van_de_Graaff#:~:text=O%20gerador%20de%20Van%20de,necess%C3%A1rias%20em%20aceleradores%20de%20part%C3%ADculas.&amp;text=Vers%C3%B5es%20pequenas%20do%20gerador%20de,polaridade%2C%20que%20consequentemente%20se%20repelem.">Gerador de Van de Graff</a></li>
 </ul></li>
 </ul>
+
+
 <ul class="org-ul">
 <li>Eletrização <b>por contato</b>
 Quando um objeto eletrizado toca um objeto neutro, carregando-o.</li>
@@ -230,32 +240,32 @@ Eletrização <b>por indução</b>
 </p>
 
 <p>
-  Nesse processo, um corpo nele é eletrizado sem que seja colocado em
-contato com um corpo eletrizado. Primeiro é induzido uma polarização
-das cargas no corpo neutro, que depois é aterrado, neutralizando um
-dos lados.
+Nesse processo, um corpo nele é eletrizado sem que seja colocado em contato com um corpo eletrizado. Primeiro é induzido uma polarização das cargas no corpo neutro, que depois é aterrado, neutralizando um dos lados.
 </p>
 
 <ul class="org-ul">
 <li>exemplo: <a href="https://pt.wikipedia.org/wiki/Eletrosc%C3%B3pio">Eletroscópio</a></li>
 </ul></li>
 </ul>
+
+
+<p>
+<a href="quest-fisca3-3.html">Questões de revisão: Processos de eletrização</a>
+</p>
 </div>
 </div>
 
-<div id="outline-container-org804434d" class="outline-4">
-<h4 id="org804434d">Força elétrica (ou força eletrostática)</h4>
-<div class="outline-text-4" id="text-org804434d">
+<div id="outline-container-orgd182f1c" class="outline-4">
+<h4 id="orgd182f1c">Força elétrica</h4>
+<div class="outline-text-4" id="text-orgd182f1c">
 <p>
-A força elétrica é gerada pela carga elétrica, de modo que, dois
-corpos eletrizados exercem, entre si, uma força, que pode ser de
-atração ou repulsão.
+A força elétrica é gerada pela carga elétrica. Assim, dois corpos
+eletrizados exercem, entre si, uma força, que pode ser de atração ou repulsão.
 </p>
 
 <p>
 A carga elétrica é caracterizada por um sinal (positivo ou negativo)
-de modo que, cargas de mesmo sinal se repelem e cargas de sinais
-opóstos se atraem.
+de modo que, cargas de mesmo sinal se repelem e cargas de sinais opóstos se atraem.
 </p>
 
 <p>
@@ -282,26 +292,31 @@ onde \(q_1\) e \(q_2\) são, respectivamente, as cargas dos corpos 1
 e 2, \(d\) é a distância entre os corpos, e k é a constante de Coulomb
 </p>
 
-<p>
-\(k=9,0\times 10^{9}\)
-</p>
+\begin{equation}
+k=9,0\times 10^{9} \, N\cdot m^2 \cdot C^{-2}
+\end{equation}
+
 
 <p>
 Essa lei é análoga à <a href="https://pt.wikipedia.org/wiki/Lei_da_gravita%C3%A7%C3%A3o_universal">Lei da Gravitação Universal de Newton</a> .
 </p>
+
+<p>
+<a href="quest-fisca3-4.html">Questões de revisão: Força elétrica</a> 
+</p>
 </div>
 </div>
 
-<div id="outline-container-org5b243b0" class="outline-4">
-<h4 id="org5b243b0">Polarização</h4>
+<div id="outline-container-orge2b53e7" class="outline-4">
+<h4 id="orge2b53e7">Polarização</h4>
 </div>
 
-<div id="outline-container-org3fc7980" class="outline-4">
-<h4 id="org3fc7980">Campo elétrico</h4>
+<div id="outline-container-org3414f48" class="outline-4">
+<h4 id="org3414f48">Campo elétrico</h4>
 </div>
 
-<div id="outline-container-org5a3ec47" class="outline-4">
-<h4 id="org5a3ec47">Potencial elétrico</h4>
+<div id="outline-container-orgb3e68d1" class="outline-4">
+<h4 id="orgb3e68d1">Potencial elétrico</h4>
 </div>
 </div>
 </div>
