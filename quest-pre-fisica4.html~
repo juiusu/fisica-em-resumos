@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Joilson Silva Porto" />
+<meta http-equiv="Content-Language" content="pt-BR">
+
+                     <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
+</head>
+<body>
+<div id="content">
+<div id="outline-container-org8f2822e" class="outline-2">
+<h2 id="org8f2822e">Questões de revisão: grandezas diretamente proporcionais e grandezas inversamente proporcionais</h2>
+<div class="outline-text-2" id="text-org8f2822e">
+</div>
+<div id="outline-container-org9ffb41d" class="outline-3">
+<h3 id="org9ffb41d">Questão 1</h3>
+<div class="outline-text-3" id="text-org9ffb41d">
+<p>
+<b><b>a)</b></b> Se um carro percorre 60 metros em 3 segundos com velocidade constante, qual seria a distância percorrida em 7 segundos? Use o conceito de proporcionalidade direta para resolver.
+</p>
+
+<p>
+<b><b>b)</b></b> Construa uma tabela com quatro pares de valores para o carro
+  com a velocidade do ítem anterior.
+</p>
+
+<p>
+<b><b>c)</b></b> Construa um gráfico a partir da tabela do item anterior.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge3973b8" class="outline-3">
+<h3 id="orge3973b8">Questão 2</h3>
+<div class="outline-text-3" id="text-orge3973b8">
+<p>
+Se o carro agora muda sua velocidade, conforme a tabela a baixo:
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<caption class="t-above"><span class="table-number">Table 1:</span> Relação entre velocidade e tempo para um movimento de um carro.</caption>
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left"><b>v (m/s)</b></td>
+<td class="org-right">0</td>
+<td class="org-right">20</td>
+<td class="org-right">40</td>
+<td class="org-right">80</td>
+<td class="org-right">100</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>t (s)</b></td>
+<td class="org-right">0</td>
+<td class="org-right">1</td>
+<td class="org-right">2</td>
+<td class="org-right">4</td>
+<td class="org-right">5</td>
+</tr>
+</tbody>
+</table>
+
+
+
+<p>
+<b><b>a)</b></b> A velocidade e o tempo são grandezas diretamente proporcionais
+<b><b>para esse exemplo? Justifique
+**b)</b></b> A distância percorrida e o tempo são grandezas diretamente
+**proporcionais para esse exemplo? Justifique
+</p>
+
+<p>
+<b><b>c)</b></b> Qual é o valor e a unidade de medida da constante de
+proporcionalidade desse exemplo?
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgc56b376" class="outline-3">
+<h3 id="orgc56b376">Questão 3</h3>
+<div class="outline-text-3" id="text-orgc56b376">
+<p>
+<b><b>a)</b></b> Se um carro leva 12 segundos para percorrer uma distância fixa
+  a uma velocidade de 5 m/s, quanto tempo levaria se a velocidade
+  aumentasse para 15 m/s? Use o conceito de proporcionalidade inversa.
+</p>
+
+<p>
+<b><b>b)</b></b> Constura uma tabela considerando variações de 5m/s em 5 m/s no
+  valor da velocidade.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org81f101e" class="outline-3">
+<h3 id="org81f101e">Questão 4</h3>
+<div class="outline-text-3" id="text-org81f101e">
+<p>
+<b><b>a)</b></b> Um muro pode ser construído por 6 pedreiros em 9 horas. Se o número de
+pedreiros for aumentado para 12, quanto tempo será necessário para
+construir o mesmo muro, mantendo-se a mesma eficiência de trabalho?
+(Observação: nesse caso, considere que o número de pedreiros e o tempo
+são inversamente proporcionais.)
+</p>
+
+<p>
+<b><b>b</b></b>) E se o número de pedreiros for aumentado para 18?
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Joilson Silva Porto</p>
+<p class="email">Email: <a href="mailto:joilson.porto@ifam.edu.br">joilson.porto@ifam.edu.br</a></p>
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.1 (<a href="https://orgmode.org">Org</a> mode 9.3)</p>
+</div>
+</body>
+</html>
