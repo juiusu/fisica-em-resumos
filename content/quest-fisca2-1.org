@@ -1,0 +1,69 @@
+* Questões de revisão: Fluidos
+** Questão 1
+
+Considere um volume \(V_1\) de \( 20,0 \, L\), e um volume \( V_2\) =
+\(300 \, mL\) :
+**a)** Quantos \(cm^3\) cabem dentro de \( V_1\)?
+
+**b)** Quantos \(cm^3\) cabem dentro de \( V_2\) ?
+
+**c)** Quantos volumes iguais a \(V_1\) são necessários para preencher
+um volume de\( 1,0 m^3\) ?
+
+**d)** Quantos volumes iguais a \(V_2\) são necessários para preencher um
+volume de \( 1,0\, dm^3 \)?
+
+DADOS: Prefixos do SI: \(k = 10^3\, , \, m = 10^\{-3} \, , \, c =
+10^{-2} \, , \, d=10^{-1} \, , \, 1L = 1dm^3
+
+
+** Questão 2
+
+Sabendo que 1 Pa = 1 N/m² é a unidade padrão do S.I. para pressão. Considere um
+paralelepípedo reto de dimensões \( 2,0 cm x 3,0 cm x 5,0 cm\) e com peso de\( 50,0 N\), que pode ser apoiado
+em uma mesa de três formas diferentes (por cada uma das suas faces).
+
+**a)** Calcule a pressão que ele exerce na mesa, em Pa, se ele for
+apoiado pela sua menor face;
+
+**b)** Repita o cálculo, mas considerando que ele está apoiado pela
+sua face de tamanho médio;
+
+**c)** Repita o cálculo, mas considerando que ele está apoiado pela sua maior face;
+
+
+
+** Questão 3
+
+**a)** Em qual área deve estar distribuída uma força de 30,0 N para
+que a pressão seja de 10 Pa?
+
+**b)** Se a força reduzir para um terço, qual será o novo valor da
+pressão, para a mesma área?
+
+**c)** Se área aumentar para o dobro, qual deverá ser o novo valor de
+força, para manter a mesma pressão do item *a*?
+
+** Questão 4
+Considerando a tabela abaixo, calcule:
+
+#+CAPTION: Densidade de alguns gases.
+| Gás        | Densidade (\(kg/m^3\)) |
+|------------+------------------------|
+| Ar         | seco                   |
+| 0⁰C        | 1,29                   |
+| 10⁰C       | 1,25                   |
+| 20⁰C       | 1,21                   |
+| 30⁰C       | 1,16                   |
+| Hidrogênio | 0,090                  |
+| Hélio      | 0,178                  |
+| Nitrogênio | 1,25                   |
+| Oxigênio   | 1,43                   |
+
+
+**a)** A massa de 5,0 m³ de ar a 20 ⁰ C;
+
+**b)** O peso dessa massa de ar (peso = massa x aceleração da
+gravidade; e considere 10 m/s² para a aceleração da gravidade);
+
+**c)** A pressão que esse volume exerce em 2,0 cm^2 de área.

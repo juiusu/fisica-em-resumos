@@ -1,8 +1,134 @@
 
 * Física II
 
+** Fluidos
 
-#+begin_quote
+*** Volume
+Enquanto comprimento pode ser dado em \( cm \), \(m \), \(dm\) ou \(
+km\); área em \(cm^2\), \(dm^ 2 \), \( cm\) ou \( km\); o volume pode ser
+dado em \(cm^3\), \( dm^3\),\( m\)  ou \( km^3\). 
+Para transformar, porém, \(cm^2\) em \(m^2\) ou \(cm^3\) em \(m^3\) precisamos entender o significado de cada uma delas, que difere de transformar, por exemplo, \(cm\) em\( m\). O significado de \( 1cm\) é \(1cm^2 =  1cm  \times 1 cm\), que pode ser compreendido como um quadrado de\( 1cm\) por\( 1cm\). Assim, se \(1m = 100 cm\), teremos:
+
+\begin{equation*}
+1m^2 = 1m \times 1m = 100 cm \times 100 cm = 10000 cm^2 = 10^4 cm^2
+\end{equation*}
+
+Tente compreender que em \(1m^2\) cabem \(10^4\) (100 por 100)
+\(cm^2\) . Em palavras: em uma área de um metro quadrado cabem 10 mil
+áreas de um centímetro quadrado.
+
+A relação entre cm³ e m³ segua a mesma lógica. 
+Uma unidade comum de medida de volume é o litro. Por definição um
+litro (1L) equivale a \(1dm^3\) . Como cada decímetro são 10
+centímetros, então:
+
+\begin{equation*}
+1 \, L = 1\, dm^3 = 1dm \times 1dm\, \times \,1dm = 10 \, cm \times 10 \, cm \times 10 \, cm = 10^3\, cm^3
+\end{equation*}
+
+Isso significa que dentro do volume de um litro cabem 1000 cubos de
+\(1 cm^3\).
+
+
+
+*** Densidade
+
+As unidades mais comuns para medir densidade são : \( kg / m^3\)  , \(
+g/L\) e variantes dessas. Para entender o conceito de densidade
+podemos pensar que massa e volume são grandezas
+proporcionais. Verifique o exemplo da tabela abaixo:
+
+#+CAPTION: Relação entre massa e volume de um fluido
+| *Massa (kg)*      | 1,25 | 2,50 | 5,00 | 10,0 |
+| *Volume (\(m^3\)* | 1,0  | 2,0  | 4,0  | 8,0  |
+
+Podemos, a partir dessa relação de proporcionalidade, estabelecer uma
+fórmula, que seria:
+
+\begin{equation}
+\frac{m_1}{V_1}=\frac{m_2}{V_2}= constante \qquad \text{ou}\qquad \frac{m}{V} = d
+\end{equation}
+
+Onde \(d\) é a densidade, \(m\) é a massa e \(V\) é o volume. Quando estabelecemos uma relação de proporcionalidade como essa, num caso mais geral, o valor constante (\(d\) nesse caso) é o que chamamos de constante de proporcionalidade.
+
+*** Conceito de pressão
+
+Para entendermos pressão, iremos olhar para a sua unidade mais básica:
+o Pascal. Essa unidade é definida em termos do Newton e do metro quadrado.
+
+o *Newton* é a *unidade de medida de força*. A força pode ser originada de vários contextos. Como falaremos de pressão atmosférica, a força envolvida nesse caso é a força peso, que é a força exercida nos corpos devido a aceleração gravitacional. Na superfície da terra consideramos essa aceleração aproximadamente *10 m/s^2\). Dessa forma, para se calcular o peso com que uma determinada massa é atraída para a terra, multiplicamos o valor da massa em quilogramas pela aceleração da gravidade.
+Como exemplo, se uma pessoa tem massa de \( 70 kg\) e está na
+superfície da terra, teremos
+
+\begin{equation*}
+F = 70\, kg\, \times 10 \, m/s² = 700\, N
+\end{equation*}
+
+Lembrando que a força peso é dada por \(F_P=m\times g\).
+
+Assim, temos que *cada valor em Pascal (Pa) significa um Newton distribuído por um metro quadrado*. Imagine que o peso acima seja de um bloco cúbico de 1 m³ de volume. Como exemplo, se distribuirmos os 700N em 1m² teremos uma pressão em Pa:
+
+\begin{equation}
+\frac{700\, N}{1\, m^2} = 700 N/ m^ 2 = 700 Pa
+\end{equation}
+
+Podemos expressar essa razão em termos das grandezas: pressão, força e
+área por:
+
+\begin{equation}
+p = \frac{F}{A}
+\end{equation}
+
+O significado dessa equação é que a pressão é a força distribuída em
+uma certa área.
+
+
+
+*** Pressão hidrostática
+
+ A pressão hidrostática é causada pelo peso de um fluido em
+ determinado ponto do fluido. Por exemplo, a pressão que você sente ao
+ se aprofundar em um lago, quanto maior a profundidade, maior a
+ pressão sob sua cabeça. Para calcular essa pressão basta considerar
+ um certo volume de fluido e dividir pela área desse volume
+ (demonstraçao realizada em aula). Dessa forma, obtemos uma expressão
+ matemática que relaciona a pressão, com a densidade do fluido e a
+ profundidade onde se quer calcular:
+
+ \begin{equation}
+p = d g h
+ \end{equation}
+
+onde
+
+- \(p\) = pressão hidrostática
+- \(d\) = densidade do fluido
+- \(g\) = aceleração da gravidade
+- \(h\) = profundidade.
+
+*** Pressão atmosférica
+
+Apressão atmosférica é um tipo de pressão hidrostática, porém,
+considerando que estamos envolvidos por um fluido que são os diversos
+gases que compõe a atmosfera. A pressão atmosférica é causada pelo
+peso da camada de atmosfera sob nossas cabeças. Assim, ela diminui
+conforme a altitude aumenta.
+
+Poderíamos utilizar a equação acima para calcular, também, a pressão
+atmosférica. Porém, nesse caso, temos uma complicação, pois a
+densidade não é constante (os gases ficam rarefeitos com a altitude, e
+assim, a a densidade reduz).
+
+Uma unidade de medida utilizada como padrão para comparação com a
+pressão atmosférica é o \(atm\) que é, por definição, a pressão
+atmosférica a nível do mar. Sua relação com a unidade pascal é:
+
+\begin{equation}
+1,000 \, atm = 101,3\, kPa
+\end{equation}
+
+ #+begin_quote
 (Conteúdo a ser adicionado.)
 #+end_quote
 
+[[file:quest-fisca2-1.org][Questões de revisão: Fluidos]]

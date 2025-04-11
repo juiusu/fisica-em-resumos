@@ -11,17 +11,251 @@
 <meta http-equiv="Content-Language" content="pt-BR">
 
                      <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        displayAlign: "center",
+        displayIndent: "0em",
+
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
+             }
+});
+</script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
 <body>
 <div id="content">
-<div id="outline-container-org28d49c5" class="outline-2">
-<h2 id="org28d49c5">Física II</h2>
-<div class="outline-text-2" id="text-org28d49c5">
+<div id="outline-container-org78f2f15" class="outline-2">
+<h2 id="org78f2f15">Física II</h2>
+<div class="outline-text-2" id="text-org78f2f15">
+</div>
+<div id="outline-container-org2d072fd" class="outline-3">
+<h3 id="org2d072fd">Fluidos</h3>
+<div class="outline-text-3" id="text-org2d072fd">
+</div>
+<div id="outline-container-orgf1e3ace" class="outline-4">
+<h4 id="orgf1e3ace">Volume</h4>
+<div class="outline-text-4" id="text-orgf1e3ace">
+<p>
+Enquanto comprimento pode ser dado em \( cm \), \(m \), \(dm\) ou \(
+km\); área em \(cm^2\), \(dm^ 2 \), \( cm\) ou \( km\); o volume pode ser
+dado em \(cm^3\), \( dm^3\),\( m\)  ou \( km^3\). 
+Para transformar, porém, \(cm^2\) em \(m^2\) ou \(cm^3\) em \(m^3\) precisamos entender o significado de cada uma delas, que difere de transformar, por exemplo, \(cm\) em\( m\). O significado de \( 1cm\) é \(1cm^2 =  1cm  \times 1 cm\), que pode ser compreendido como um quadrado de\( 1cm\) por\( 1cm\). Assim, se \(1m = 100 cm\), teremos:
+</p>
+
+\begin{equation*}
+1m^2 = 1m \times 1m = 100 cm \times 100 cm = 10000 cm^2 = 10^4 cm^2
+\end{equation*}
+
+<p>
+Tente compreender que em \(1m^2\) cabem \(10^4\) (100 por 100)
+\(cm^2\) . Em palavras: em uma área de um metro quadrado cabem 10 mil
+áreas de um centímetro quadrado.
+</p>
+
+<p>
+A relação entre cm³ e m³ segua a mesma lógica. 
+Uma unidade comum de medida de volume é o litro. Por definição um
+litro (1L) equivale a \(1dm^3\) . Como cada decímetro são 10
+centímetros, então:
+</p>
+
+\begin{equation*}
+1 \, L = 1\, dm^3 = 1dm \times 1dm\, \times \,1dm = 10 \, cm \times 10 \, cm \times 10 \, cm = 10^3\, cm^3
+\end{equation*}
+
+<p>
+Isso significa que dentro do volume de um litro cabem 1000 cubos de
+\(1 cm^3\).
+</p>
+</div>
+</div>
+
+
+
+<div id="outline-container-orgadef228" class="outline-4">
+<h4 id="orgadef228">Densidade</h4>
+<div class="outline-text-4" id="text-orgadef228">
+<p>
+As unidades mais comuns para medir densidade são : \( kg / m^3\)  , \(
+g/L\) e variantes dessas. Para entender o conceito de densidade
+podemos pensar que massa e volume são grandezas
+proporcionais. Verifique o exemplo da tabela abaixo:
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<caption class="t-above"><span class="table-number">Table 1:</span> Relação entre massa e volume de um fluido</caption>
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left"><b>Massa (kg)</b></td>
+<td class="org-left">1,25</td>
+<td class="org-left">2,50</td>
+<td class="org-left">5,00</td>
+<td class="org-left">10,0</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Volume (\(m^3\)</b></td>
+<td class="org-left">1,0</td>
+<td class="org-left">2,0</td>
+<td class="org-left">4,0</td>
+<td class="org-left">8,0</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+Podemos, a partir dessa relação de proporcionalidade, estabelecer uma
+fórmula, que seria:
+</p>
+
+\begin{equation}
+\frac{m_1}{V_1}=\frac{m_2}{V_2}= constante \qquad \text{ou}\qquad \frac{m}{V} = d
+\end{equation}
+
+<p>
+Onde \(d\) é a densidade, \(m\) é a massa e \(V\) é o volume. Quando estabelecemos uma relação de proporcionalidade como essa, num caso mais geral, o valor constante (\(d\) nesse caso) é o que chamamos de constante de proporcionalidade.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org37fd076" class="outline-4">
+<h4 id="org37fd076">Conceito de pressão</h4>
+<div class="outline-text-4" id="text-org37fd076">
+<p>
+Para entendermos pressão, iremos olhar para a sua unidade mais básica:
+o Pascal. Essa unidade é definida em termos do Newton e do metro quadrado.
+</p>
+
+<p>
+o <b>Newton</b> é a <b>unidade de medida de força</b>. A força pode ser originada de vários contextos. Como falaremos de pressão atmosférica, a força envolvida nesse caso é a força peso, que é a força exercida nos corpos devido a aceleração gravitacional. Na superfície da terra consideramos essa aceleração aproximadamente *10 m/s<sup>2</sup>\). Dessa forma, para se calcular o peso com que uma determinada massa é atraída para a terra, multiplicamos o valor da massa em quilogramas pela aceleração da gravidade.
+Como exemplo, se uma pessoa tem massa de \( 70 kg\) e está na
+superfície da terra, teremos
+</p>
+
+\begin{equation*}
+F = 70\, kg\, \times 10 \, m/s² = 700\, N
+\end{equation*}
+
+<p>
+Lembrando que a força peso é dada por \(F_P=m\times g\).
+</p>
+
+<p>
+Assim, temos que <b>cada valor em Pascal (Pa) significa um Newton distribuído por um metro quadrado</b>. Imagine que o peso acima seja de um bloco cúbico de 1 m³ de volume. Como exemplo, se distribuirmos os 700N em 1m² teremos uma pressão em Pa:
+</p>
+
+\begin{equation}
+\frac{700\, N}{1\, m^2} = 700 N/ m^ 2 = 700 Pa
+\end{equation}
+
+<p>
+Podemos expressar essa razão em termos das grandezas: pressão, força e
+área por:
+</p>
+
+\begin{equation}
+p = \frac{F}{A}
+\end{equation}
+
+<p>
+O significado dessa equação é que a pressão é a força distribuída em
+uma certa área.
+</p>
+</div>
+</div>
+
+
+
+<div id="outline-container-org6c53dd4" class="outline-4">
+<h4 id="org6c53dd4">Pressão hidrostática</h4>
+<div class="outline-text-4" id="text-org6c53dd4">
+<p>
+A pressão hidrostática é causada pelo peso de um fluido em
+determinado ponto do fluido. Por exemplo, a pressão que você sente ao
+se aprofundar em um lago, quanto maior a profundidade, maior a
+pressão sob sua cabeça. Para calcular essa pressão basta considerar
+um certo volume de fluido e dividir pela área desse volume
+(demonstraçao realizada em aula). Dessa forma, obtemos uma expressão
+matemática que relaciona a pressão, com a densidade do fluido e a
+profundidade onde se quer calcular:
+</p>
+
+ \begin{equation}
+p = d g h
+ \end{equation}
+
+<p>
+onde
+</p>
+
+<ul class="org-ul">
+<li>\(p\) = pressão hidrostática</li>
+<li>\(d\) = densidade do fluido</li>
+<li>\(g\) = aceleração da gravidade</li>
+<li>\(h\) = profundidade.</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org34bb1f0" class="outline-4">
+<h4 id="org34bb1f0">Pressão atmosférica</h4>
+<div class="outline-text-4" id="text-org34bb1f0">
+<p>
+Apressão atmosférica é um tipo de pressão hidrostática, porém,
+considerando que estamos envolvidos por um fluido que são os diversos
+gases que compõe a atmosfera. A pressão atmosférica é causada pelo
+peso da camada de atmosfera sob nossas cabeças. Assim, ela diminui
+conforme a altitude aumenta.
+</p>
+
+<p>
+Poderíamos utilizar a equação acima para calcular, também, a pressão
+atmosférica. Porém, nesse caso, temos uma complicação, pois a
+densidade não é constante (os gases ficam rarefeitos com a altitude, e
+assim, a a densidade reduz).
+</p>
+
+<p>
+Uma unidade de medida utilizada como padrão para comparação com a
+pressão atmosférica é o \(atm\) que é, por definição, a pressão
+atmosférica a nível do mar. Sua relação com a unidade pascal é:
+</p>
+
+\begin{equation}
+1,000 \, atm = 101,3\, kPa
+\end{equation}
+
 <blockquote>
 <p>
 (Conteúdo a ser adicionado.)
 </p>
 </blockquote>
+</div>
+</div>
 </div>
 </div>
 </div>

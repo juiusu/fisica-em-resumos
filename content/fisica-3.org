@@ -8,18 +8,25 @@
 ** Eletrostática
 
 *** Carga elétrica
+
+#+begin_quote
 A Carga elétrica é a propriedade da matéria que gera força elétrica;
 assim como a massa é a propriedade da matéria que gera força gravitacional.
+#+end_quote
+
 - Unidade de medida: Coulomb (\(C\))
 
+
+
 - Carga elementar
-  Menor unidade de carga
+
+  - Menor unidade de carga
 
   - $e=1,6\times 10 ^{-19} \, C$
 
 - Constituíntes básicos da matéria (matéria ordinária)
 
-  #+titulo: valores aproximados de massa e carga
+#+titulo: valores aproximados de massa e carga
 | Partícula | Massa (kg)            | Carga elétrica (C)     | Múltiplos da carga elementar |
 |-----------+-----------------------+------------------------+------------------------------|
 | Próton    | $1,7\times10^{-27}$   | $1,6\times 10^{-19}$   | \(+e\)                       |

@@ -1,0 +1,48 @@
+
+* Questões de revisão: grandezas diretamente proporcionais e grandezas inversamente proporcionais
+
+** Questão 1
+
+**a)** Se um carro percorre 60 metros em 3 segundos com velocidade constante, qual seria a distância percorrida em 7 segundos? Use o conceito de proporcionalidade direta para resolver.
+
+**b)** Construa uma tabela com quatro pares de valores para o carro
+  com a velocidade do ítem anterior.
+
+**c)** Construa um gráfico a partir da tabela do item anterior.
+
+** Questão 2
+
+Se o carro agora muda sua velocidade, conforme a tabela a baixo:
+
+#+CAPTION: Relação entre velocidade e tempo para um movimento de um carro.
+| *v (m/s)* | 0 | 20 | 40 | 80 | 100 |
+| *t (s)*   | 0 |  1 |  2 |  4 |   5 |
+
+
+
+**a)** A velocidade e o tempo são grandezas diretamente proporcionais
+**para esse exemplo? Justifique
+**b)** A distância percorrida e o tempo são grandezas diretamente
+**proporcionais para esse exemplo? Justifique
+
+**c)** Qual é o valor e a unidade de medida da constante de
+proporcionalidade desse exemplo?
+
+** Questão 3
+
+**a)** Se um carro leva 12 segundos para percorrer uma distância fixa
+  a uma velocidade de 5 m/s, quanto tempo levaria se a velocidade
+  aumentasse para 15 m/s? Use o conceito de proporcionalidade inversa.
+
+ **b)** Constura uma tabela considerando variações de 5m/s em 5 m/s no
+   valor da velocidade.
+   
+** Questão 4
+
+**a)** Um muro pode ser construído por 6 pedreiros em 9 horas. Se o número de
+pedreiros for aumentado para 12, quanto tempo será necessário para
+construir o mesmo muro, mantendo-se a mesma eficiência de trabalho?
+(Observação: nesse caso, considere que o número de pedreiros e o tempo
+são inversamente proporcionais.)
+
+**b**) E se o número de pedreiros for aumentado para 18?

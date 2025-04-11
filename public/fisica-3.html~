@@ -41,44 +41,51 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org37f6a3c">Física III</a>
+<li><a href="#org582d479">Física III</a>
 <ul>
-<li><a href="#orgf20a302">Eletrostática</a></li>
+<li><a href="#org9e4d76f">Eletrostática</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org37f6a3c" class="outline-2">
-<h2 id="org37f6a3c">Física III</h2>
-<div class="outline-text-2" id="text-org37f6a3c">
+<div id="outline-container-org582d479" class="outline-2">
+<h2 id="org582d479">Física III</h2>
+<div class="outline-text-2" id="text-org582d479">
 </div>
-<div id="outline-container-orgf20a302" class="outline-3">
-<h3 id="orgf20a302">Eletrostática</h3>
-<div class="outline-text-3" id="text-orgf20a302">
+<div id="outline-container-org9e4d76f" class="outline-3">
+<h3 id="org9e4d76f">Eletrostática</h3>
+<div class="outline-text-3" id="text-org9e4d76f">
 </div>
-<div id="outline-container-org58e395e" class="outline-4">
-<h4 id="org58e395e">Carga elétrica</h4>
-<div class="outline-text-4" id="text-org58e395e">
+<div id="outline-container-orgb5dca37" class="outline-4">
+<h4 id="orgb5dca37">Carga elétrica</h4>
+<div class="outline-text-4" id="text-orgb5dca37">
+<blockquote>
 <p>
 A Carga elétrica é a propriedade da matéria que gera força elétrica;
 assim como a massa é a propriedade da matéria que gera força gravitacional.
 </p>
+</blockquote>
+
 <ul class="org-ul">
 <li>Unidade de medida: Coulomb (\(C\))</li>
+</ul>
 
-<li>Carga elementar
-Menor unidade de carga
+
 
 <ul class="org-ul">
+<li>Carga elementar
+
+<ul class="org-ul">
+<li>Menor unidade de carga</li>
+
 <li>\(e=1,6\times 10 ^{-19} \, C\)</li>
 </ul></li>
 
-<li><p>
-Constituíntes básicos da matéria (matéria ordinária)
-</p></li>
+<li>Constituíntes básicos da matéria (matéria ordinária)</li>
 </ul>
+
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -155,9 +162,9 @@ pela eletrização dos objetos macroscópicos, bem como pela
 </div>
 
 
-<div id="outline-container-orga96ae83" class="outline-4">
-<h4 id="orga96ae83">Condutores e isolantes</h4>
-<div class="outline-text-4" id="text-orga96ae83">
+<div id="outline-container-org7c3a668" class="outline-4">
+<h4 id="org7c3a668">Condutores e isolantes</h4>
+<div class="outline-text-4" id="text-org7c3a668">
 <ul class="org-ul">
 <li>Condutores
 <ul class="org-ul">
@@ -196,9 +203,9 @@ isso, não possuem <b>mobilidade</b> como nos metais.</li>
 </div>
 </div>
 
-<div id="outline-container-org7b4d55e" class="outline-4">
-<h4 id="org7b4d55e">Processos de eletrização</h4>
-<div class="outline-text-4" id="text-org7b4d55e">
+<div id="outline-container-orge346bd6" class="outline-4">
+<h4 id="orge346bd6">Processos de eletrização</h4>
+<div class="outline-text-4" id="text-orge346bd6">
 <ul class="org-ul">
 <li><p>
 Eletrização <b>por atrito</b>
@@ -255,9 +262,9 @@ Nesse processo, um corpo nele é eletrizado sem que seja colocado em contato com
 </div>
 </div>
 
-<div id="outline-container-orgd182f1c" class="outline-4">
-<h4 id="orgd182f1c">Força elétrica</h4>
-<div class="outline-text-4" id="text-orgd182f1c">
+<div id="outline-container-org66f7a90" class="outline-4">
+<h4 id="org66f7a90">Força elétrica</h4>
+<div class="outline-text-4" id="text-org66f7a90">
 <p>
 A força elétrica é gerada pela carga elétrica. Assim, dois corpos
 eletrizados exercem, entre si, uma força, que pode ser de atração ou repulsão.
@@ -275,7 +282,7 @@ A intensidade da força é dada pela Lei de Coulomb:
 <blockquote>
 <p>
 A força é proporcional ao produto das cargas, e inversamente
-proporcional ao quadrado da distância ente os corpos.
+proporcional ao quadrado da distância entre os corpos.
 </p>
 </blockquote>
 
@@ -307,16 +314,16 @@ Essa lei é análoga à <a href="https://pt.wikipedia.org/wiki/Lei_da_gravita%C3
 </div>
 </div>
 
-<div id="outline-container-orge2b53e7" class="outline-4">
-<h4 id="orge2b53e7">Polarização</h4>
+<div id="outline-container-org3d95d4e" class="outline-4">
+<h4 id="org3d95d4e">Polarização</h4>
 </div>
 
-<div id="outline-container-org3414f48" class="outline-4">
-<h4 id="org3414f48">Campo elétrico</h4>
+<div id="outline-container-orgec27b3b" class="outline-4">
+<h4 id="orgec27b3b">Campo elétrico</h4>
 </div>
 
-<div id="outline-container-orgb3e68d1" class="outline-4">
-<h4 id="orgb3e68d1">Potencial elétrico</h4>
+<div id="outline-container-org9c91c3d" class="outline-4">
+<h4 id="org9c91c3d">Potencial elétrico</h4>
 </div>
 </div>
 </div>

@@ -76,3 +76,83 @@ Podem ser representados pela figura
 
 [[file:quest-pre-fisica3.org][Questões de revisão: gráficos]] 
 
+** Grandezas diretamente proporcionais e grandezas inversamente proporcionais
+
+Grandezas proporcionais são grandezas que crescem (ou descressem) na
+mesma proporção. Ou seja, se uma delas dobra o seu valor, a outra
+também dobra o seu valor. Se uma cresce triplica, a outra também
+triplica o seu valor. Como exemplo, a relação entre a grandeza
+distância percorrida e a grandeza tempo de percurso percorrida com uma
+certa velocidade constante (valor fixo) de  20m/s) , representada na
+tabela abaixo:
+
+#+CAPTION: Exemplo de grandezas **diretamente proporcionais**: distância percorrida por tempo de percusso para uma velocidade constante
+| Distância percorrida (m) | Tempo de percuso (s) |
+|--------------------------+----------------------|
+|                       20 | 1,0                  |
+|                       40 | 2,0                  |
+|                       80 | 4,0                  |
+|                      100 | 5,0                  |
+
+Podemos perceber que a razão entre os dois valores correspondentes se
+mantêm:
+
+
+\begin{equation*}
+\frac{10}{1}=\frac{40}{2}=\frac{80}{4}=\frac{100}{5}
+\end{equation*}
+
+A notação matemática para essa correspondência de proporcionalidade
+direta pode ser uma das três possibilidades abaixo:
+
+\begin{equation}
+d \sim t \qquad \text{ou} \qquad \frac{d}{t} = {constante}  \qquad \text{ou} \qquad \frac{d_1}{t_1}=\frac{d_2}{t_2}
+\end{equation}
+
+Onde:
+
+\( d \) = Distância percorrida,
+
+\( t \) = Tempo de percurso.
+
+
+
+
+
+Já grandezas inversamente proporcionais são aquelas em que, quando uma cresce (aumenta), a outra decresce (diminui) na mesma proporção.
+Como exemplo as grandezas velocidade e tempo decorrido para percorrer
+uma distância fixa  de 20 m representadas na Tabela abaixo:
+
+#+CAPTION: Exemplo de **grandezas inversamente proporcionais**: velocidade por tempo de percuso para uma mesma distância.
+| Velocidade | Tempo para percorrer 20 m |
+|------------+---------------------------|
+| 1,0 m/s    | 20,0 s                    |
+| 2,0 m/s    | 10,0 s                    |
+| 5,0 m/s    | 4,0 s                     |
+| 10,0 m/s   | 2,0 s                     |
+
+Nesse caso podemos perceber que é o produto entre as grandezas que se
+mantêm constante:
+
+\begin{equation*}
+1 \times 20 = 2\times 10 = 5 \times 4 = 10 \times 2
+\end{equation*}
+
+
+Temos as seguintes possíveis representações matemáticas para duas grandezas inversamente proporcionais:
+
+\begin{equation}
+v \sim \frac{1}{t} \qquad \text{ou} \qquad v\cdot t = \text{constante} \qquad \text{ou} \qquad v_1\cdot t_1 = v_2 \cdot t_2
+\end{equation}
+
+Onde:
+
+\( v \) = velocidade,
+
+e
+
+\( t \) = Tempo de percurso.
+
+
+
+[[file:quest-pre-fisica4.org][Questões de revisão: Grandezas diretamente proporcionais e grandezas inversamente proporcionais]]
