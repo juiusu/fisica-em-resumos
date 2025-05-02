@@ -36,46 +36,37 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-org860200a" class="outline-2">
-<h2 id="org860200a">Física II</h2>
-<div class="outline-text-2" id="text-org860200a">
+<div id="outline-container-org0d6ebec" class="outline-2">
+<h2 id="org0d6ebec">Física II</h2>
+<div class="outline-text-2" id="text-org0d6ebec">
 </div>
-<div id="outline-container-org629d82d" class="outline-3">
-<h3 id="org629d82d">Mecânica dos Fluidos</h3>
-<div class="outline-text-3" id="text-org629d82d">
+<div id="outline-container-orgdeb4a63" class="outline-3">
+<h3 id="orgdeb4a63">Mecânica dos Fluidos</h3>
+<div class="outline-text-3" id="text-orgdeb4a63">
 </div>
-<div id="outline-container-org3f47353" class="outline-4">
-<h4 id="org3f47353">Pressão Hidrostática</h4>
-<div class="outline-text-4" id="text-org3f47353">
+<div id="outline-container-orgb480087" class="outline-4">
+<h4 id="orgb480087">Pressão Hidrostática</h4>
+<div class="outline-text-4" id="text-orgb480087">
 </div>
 <ul class="org-ul">
-<li><a id="org8e5cde0"></a>Área<br />
-<div class="outline-text-5" id="text-org8e5cde0">
+<li><a id="org2a34425"></a>Conceitos iniciais<br />
+<div class="outline-text-5" id="text-org2a34425">
 <p>
-Explicação mais detalhada sobre <a href="area.html">Área</a> 
+Relembre os conceitos de <a href="area.html">Área</a> ,  <a href="volume.html">volume</a> e  <a href="densidade">densidade</a> .
 </p>
 </div>
 </li>
 
-<li><a id="org9b55cc6"></a>Volume<br />
-<div class="outline-text-5" id="text-org9b55cc6">
+<li><a id="org6b21417"></a>Conceito de pressão<br />
+<div class="outline-text-5" id="text-org6b21417">
 <p>
-Explicação mais detalhada sobre <a href="volume.html">volume</a> 
+É a força distribuida pela àrea sob a qual está aplicada:
 </p>
-</div>
-</li>
 
-
-<li><a id="org69a4a13"></a>Densidade<br />
-<div class="outline-text-5" id="text-org69a4a13">
 <p>
-Explicação mais detalhada sobre <a href="densidade">densidade</a> 
+\[ p = \frac{F}{A} \]
 </p>
-</div>
-</li>
 
-<li><a id="orge6bb868"></a>Conceito de pressão<br />
-<div class="outline-text-5" id="text-orge6bb868">
 <p>
 Explicação mais detalhada sobre <a href="conceito-de-pressao.html">conceito de pressão</a> 
 </p>
@@ -83,49 +74,45 @@ Explicação mais detalhada sobre <a href="conceito-de-pressao.html">conceito de
 </li>
 
 
-<li><a id="org32f52aa"></a>Pressão em um líquido<br />
-<div class="outline-text-5" id="text-org32f52aa">
+<li><a id="orgcb6415b"></a>Pressão em um líquido<br />
+<div class="outline-text-5" id="text-orgcb6415b">
 <p>
-A pressão hidrostática é causada pelo peso de um fluido em eterminado ponto do fluido. Por exemplo, a pressão que você sente ao mergulhar em um lago. Quanto maior a profundidade, maior a
+A pressão hidrostática é causada pelo peso de um fluido em eterminado
+ ponto do fluido. Por exemplo, a pressão que você sente ao mergulhar
+ em um lago. Quanto maior a profundidade, maior a
  pressão sob sua cabeça.
 </p>
 
 <p>
 Essa pressão depende da densidade do fluido \( d\) , da aceleração da
-gravidade \(g = 10 m/s^2\)  e da profundidade onde se quer saber a
-pressão \( h\) .
+gravidade \(g = 10 m/s^2\)  e da profundidade \(h\) onde se quer saber a
+pressão \( p\) .
 </p>
 
 
 
 <div class="figure">
-<p><object type="image/svg+xml" data="https://upload.wikimedia.org/wikipedia/commons/e/e7/Hydrostatic-pressure.svg" class="org-svg" width="512" style="text-align:center; display:block; margin:auto;">
+<p><object type="image/svg+xml" data="https://upload.wikimedia.org/wikipedia/commons/e/e7/Hydrostatic-pressure.svg" class="org-svg" width="400" style="text-align:center; display:block; margin:auto;">
 Sorry, your browser does not support SVG.</object>
 </p>
-<p><span class="figure-number">Figure 1: </span>Força de Empuxo \(F_A\) e Força peso \(F_E\)</p>
+<p><span class="figure-number">Figure 1: </span>A pressão em um fluido se deve ao peso desse fluido, e depende da profundida.</p>
 </div>
 
 
 <p>
-Para calcular essa pressão, basta considerar um certo volume de fluido e dividir pela área desse volume
- (demonstraçao realizada em aula).
+Para calcular essa pressão, basta considerar um certo volume de fluido
+e dividir pela área desse volume. Por exemplo, seguindo os seguintes passos:
 </p>
 
-<ul class="org-ul">
+<ol class="org-ol">
 <li>Peso de um volume fluido:
-<ul class="org-ul">
-<li>\(F_P = m\, g\)</li>
-</ul></li>
+\[F_P = m\, g\]</li>
 <li>Peso de um volume, em termos da densidade e do volume, considerando
 a massa \(m=d\,V\):
-<ul class="org-ul">
-<li>\(F_P = d\,\,V\,g\)</li>
-</ul></li>
+ \[F_P = d\,\,V\,g\]</li>
 <li>Peso do volume considerando área da base vezes altura \( V = A\,h\):
-<ul class="org-ul">
-<li>\(p = \frac{F_P}{A}=\frac{d\,A\,h\,g\,}{A}\)</li>
-</ul></li>
-</ul>
+\[p = \frac{F_P}{A}=\frac{d\,A\,h\,g\,}{A}\]</li>
+</ol>
 <p>
 Dessa forma, obtemos uma expressão matemática que relaciona a pressão, com a densidade do fluido e a profundidade onde se quer calcular:
 </p>
@@ -135,29 +122,33 @@ Dessa forma, obtemos uma expressão matemática que relaciona a pressão, com a 
 p = d g h
 \]
 </p>
-
-<p>
-\{ 
-p = d g h
-\}
-</p>
-
-
-<p>
-onde
-</p>
-
-<ul class="org-ul">
-<li>\(p\) = pressão hidrostática</li>
-<li>\(d\) = densidade do fluido</li>
-<li>\(g\) = aceleração da gravidade</li>
-<li>\(h\) = profundidade.</li>
-</ul>
 </div>
 </li>
 
-<li><a id="org67ca946"></a>Pressão atmosférica<br />
-<div class="outline-text-5" id="text-org67ca946">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li><a id="org108c1b1"></a>Pressão atmosférica<br />
+<div class="outline-text-5" id="text-org108c1b1">
 <p>
 Apressão atmosférica é um tipo de pressão hidrostática, porém,
 considerando que estamos envolvidos por um fluido que são os diversos
@@ -192,16 +183,16 @@ atmosférica a nível do mar. Sua relação com a unidade pascal é:
 </ul>
 </div>
 
-<div id="outline-container-orgae75728" class="outline-4">
-<h4 id="orgae75728">Prensa Hidráulica</h4>
-<div class="outline-text-4" id="text-orgae75728">
+<div id="outline-container-orge793df0" class="outline-4">
+<h4 id="orge793df0">Prensa Hidráulica</h4>
+<div class="outline-text-4" id="text-orge793df0">
 <p>
 Como conseguimos levantar um carro com o pé utilizando um <a href="https://pt.wikipedia.org/wiki/Macaco_(ferramenta)">Macaco</a>
 Hidrálico ?
 </p>
 
 <p>
-A explicação está no funcionamento de uma prensa hidráulica.
+vamos analisar um exemplo mais simplificado de uma prensa hidráulica.
 </p>
 
 
@@ -218,11 +209,7 @@ A força e àrea (do pistão móvel) em cada lado, são inversamente proporciona
 </p>
 
 <p>
-Explicação:
-</p>
-
-<p>
-Pelo Princípio de Pascal:
+A explicação pode ser dada pelo Princípio de Pascal:
 </p>
 
 <blockquote>
@@ -249,9 +236,9 @@ Assim:
 </div>
 </div>
 
-<div id="outline-container-org7df4d2f" class="outline-4">
-<h4 id="org7df4d2f">Empuxo</h4>
-<div class="outline-text-4" id="text-org7df4d2f">
+<div id="outline-container-orgf92c083" class="outline-4">
+<h4 id="orgf92c083">Empuxo</h4>
+<div class="outline-text-4" id="text-orgf92c083">
 <p>
 Como um objeto pode ficar submerso em um fluido, um bloco de madeira
 flutuando em água, por exemplo, se a força peso o empurra para baixo?
@@ -283,61 +270,81 @@ Um corpo imerso sofre a ação de uma força de empuxo dirigida para cima
 e igual ao peso do fluido que ele desloca.
 </p>
 </blockquote>
+
+
+<div class="figure">
+<p><object type="image/svg+xml" data="https://upload.wikimedia.org/wikipedia/commons/7/72/Archimedes-principle.svg" class="org-svg" width="512" style="text-align:center; display:block; margin:auto;">
+Sorry, your browser does not support SVG.</object>
+</p>
+<p><span class="figure-number">Figure 4: </span>Pelo princípio de Arquimedes, o objeto sofre uma força de empuxo igual ao peso do fluido deslocado.</p>
+</div>
+
+
+
+<div class="figure">
+<p><object type="image/svg+xml" data="https://upload.wikimedia.org/wikipedia/commons/2/26/Center_of_buoyancy.svg" class="org-svg" width="600" style="text-align:center; display:block; margin:auto;">
+Sorry, your browser does not support SVG.</object>
+</p>
+<p><span class="figure-number">Figure 5: </span>Um exemplo interessante é um barco flutuando em um rio: O peso do barco na figura (a) é sustentada pela força de empuxo representada na figura (b).</p>
+</div>
 </div>
 </div>
 
 
-<div id="outline-container-orgb17c6d2" class="outline-4">
-<h4 id="orgb17c6d2">Pressão Hidrodinâmica</h4>
+
+<div id="outline-container-orgc4b453b" class="outline-4">
+<h4 id="orgc4b453b">Pressão Hidrodinâmica</h4>
 </div>
-<div id="outline-container-orgf753cbc" class="outline-4">
-<h4 id="orgf753cbc">Aerodinâmica</h4>
+
+
+<div id="outline-container-org0b81ad1" class="outline-4">
+<h4 id="org0b81ad1">Aerodinâmica</h4>
 </div>
 </div>
 
-<div id="outline-container-org0c5d212" class="outline-3">
-<h3 id="org0c5d212">Termodinâmica</h3>
-<div class="outline-text-3" id="text-org0c5d212">
+<div id="outline-container-orgc45595c" class="outline-3">
+<h3 id="orgc45595c">Termodinâmica</h3>
+<div class="outline-text-3" id="text-orgc45595c">
 </div>
-<div id="outline-container-orgfcdc931" class="outline-4">
-<h4 id="orgfcdc931">Conceito de temperatura</h4>
-</div>
-
-<div id="outline-container-org224db05" class="outline-4">
-<h4 id="org224db05">Escalas termométricas</h4>
+<div id="outline-container-orgbcdc50a" class="outline-4">
+<h4 id="orgbcdc50a">Conceito de temperatura</h4>
 </div>
 
-<div id="outline-container-org7901c8e" class="outline-4">
-<h4 id="org7901c8e">Dilatação Térmica</h4>
+<div id="outline-container-org6e04fa4" class="outline-4">
+<h4 id="org6e04fa4">Escalas termométricas</h4>
 </div>
 
-<div id="outline-container-org67f1b32" class="outline-4">
-<h4 id="org67f1b32">Conceito de calor</h4>
+<div id="outline-container-org32e8317" class="outline-4">
+<h4 id="org32e8317">Dilatação Térmica</h4>
 </div>
 
-<div id="outline-container-orgd5ac3ce" class="outline-4">
-<h4 id="orgd5ac3ce">Calor específico</h4>
+<div id="outline-container-org64d51f0" class="outline-4">
+<h4 id="org64d51f0">Conceito de calor</h4>
 </div>
 
-<div id="outline-container-orgd624605" class="outline-4">
-<h4 id="orgd624605">Calor latente</h4>
+<div id="outline-container-org3d13d4b" class="outline-4">
+<h4 id="org3d13d4b">Calor específico</h4>
 </div>
 
-<div id="outline-container-org0aa085a" class="outline-4">
-<h4 id="org0aa085a">Transferência de calor</h4>
-<div class="outline-text-4" id="text-org0aa085a">
+<div id="outline-container-org9026d1b" class="outline-4">
+<h4 id="org9026d1b">Calor latente</h4>
+</div>
+
+<div id="outline-container-org3bf769a" class="outline-4">
+<h4 id="org3bf769a">Transferência de calor</h4>
+<div class="outline-text-4" id="text-org3bf769a">
 </div>
 <ul class="org-ul">
-<li><a id="org3c8c455"></a>Condução<br /></li>
+<li><a id="org4b99753"></a>Condução<br /></li>
 
-<li><a id="org9b02317"></a>Convecção<br /></li>
+<li><a id="orga68baf5"></a>Convecção<br /></li>
 
-<li><a id="orgb6d0645"></a>Radiação<br /></li>
+<li><a id="org3cbcce6"></a>Radiação<br /></li>
 </ul>
 </div>
 
-<div id="outline-container-org2018407" class="outline-4">
-<h4 id="org2018407">A primeira Lei da Termodinâmica</h4>
+<div id="outline-container-org8165d9c" class="outline-4">
+<h4 id="org8165d9c">A primeira Lei da Termodinâmica</h4>
 </div>
 </div>
 </div>

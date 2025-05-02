@@ -5,23 +5,15 @@
 
 *** Pressão Hidrostática
 
-**** Área 
+**** Conceitos iniciais
 
-Explicação mais detalhada sobre [[file:area.org][Área]] 
-
-**** Volume
-
-Explicação mais detalhada sobre [[file:volume.org][volume]] 
-
-
-**** Densidade
-
-Explicação mais detalhada sobre [[file:densidade][densidade]] 
+Relembre os conceitos de [[file:area.org][Área]] ,  [[file:volume.org][volume]] e  [[file:densidade][densidade]] .
 
 **** Conceito de pressão
 
+É a força distribuida pela àrea sob a qual está aplicada:
 
-
+\[ p = \frac{F}{A} \]
 
 Explicação mais detalhada sobre [[file:conceito-de-pressao.org][conceito de pressão]] 
 
@@ -38,26 +30,46 @@ gravidade \(g = 10 m/s^2\)  e da profundidade \(h\) onde se quer saber a
 pressão \( p\) .
 
 
-#+CAPTION: Força de Empuxo \(F_A\) e Força peso \(F_E\)
+#+CAPTION: A pressão em um fluido se deve ao peso desse fluido, e depende da profundida.
 #+ATTR_HTML: :width 400 :style text-align:center; display:block; margin:auto;
 [[https://upload.wikimedia.org/wikipedia/commons/e/e7/Hydrostatic-pressure.svg]]
  
  
-Para calcular essa pressão, basta considerar um certo volume de fluido e dividir pela área desse volume
- (demonstraçao realizada em aula).
+Para calcular essa pressão, basta considerar um certo volume de fluido
+e dividir pela área desse volume. Por exemplo, seguindo os seguintes passos:
 
-- Peso de um volume fluido:
-  - \(F_P = m\, g\)
-- Peso de um volume, em termos da densidade e do volume, considerando
+1. Peso de um volume fluido:
+   \[F_P = m\, g\]
+2. Peso de um volume, em termos da densidade e do volume, considerando
   a massa \(m=d\,V\):
-  - \(F_P = d\,\,V\,g\)
-- Peso do volume considerando área da base vezes altura \( V = A\,h\):
-  - \(p = \frac{F_P}{A}=\frac{d\,A\,h\,g\,}{A}\)
+   \[F_P = d\,\,V\,g\]
+3. Peso do volume considerando área da base vezes altura \( V = A\,h\):
+   \[p = \frac{F_P}{A}=\frac{d\,A\,h\,g\,}{A}\]
 Dessa forma, obtemos uma expressão matemática que relaciona a pressão, com a densidade do fluido e a profundidade onde se quer calcular:
 
 \[ 
 p = d g h
 \]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -90,7 +102,7 @@ atmosférica a nível do mar. Sua relação com a unidade pascal é:
 Como conseguimos levantar um carro com o pé utilizando um [[https://pt.wikipedia.org/wiki/Macaco_(ferramenta)][Macaco]]
 Hidrálico ?
 
-A explicação está no funcionamento de uma prensa hidráulica.
+vamos analisar um exemplo mais simplificado de uma prensa hidráulica.
 
 #+CAPTION: Ao aplicarmos uma força \(F_1\) no lado esquerdo dessa prensa hidráulica, resultará em uma força maior \(F_2\) no lado direito.
 #+ATTR_HTML: :width 512 :style text-align:center; display:block; margin:auto;
@@ -99,9 +111,7 @@ A explicação está no funcionamento de uma prensa hidráulica.
 
 A força e àrea (do pistão móvel) em cada lado, são inversamente proporcionais, em uma prensa hidráulica.
 
-Explicação:
-
-Pelo Princípio de Pascal:
+A explicação pode ser dada pelo Princípio de Pascal:
 
 #+BEGIN_QUOTE
 A pressão aplicada em um fluido em equilíbrio estático se distruibui
@@ -146,13 +156,15 @@ e igual ao peso do fluido que ele desloca.
 https://upload.wikimedia.org/wikipedia/commons/7/72/Archimedes-principle.svg
 
 
-#+CAPTION: Um exemplo interessante é um barco sendo flutuando em um rio: O peso do barco na figura (a) é sustentada pela força de empuxo representada na figura (b).
-#+ATTR_HTML: :width 512 :style text-align:center; display:block; margin:auto;
+#+CAPTION: Um exemplo interessante é um barco flutuando em um rio: O peso do barco na figura (a) é sustentada pela força de empuxo representada na figura (b).
+#+ATTR_HTML: :width 650 :style text-align:center; display:block; margin:auto;
 https://upload.wikimedia.org/wikipedia/commons/2/26/Center_of_buoyancy.svg
 
 
 
 *** Pressão Hidrodinâmica
+
+
 *** Aerodinâmica
 
 ** Termodinâmica
