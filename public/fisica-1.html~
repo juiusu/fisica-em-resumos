@@ -14,22 +14,22 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-org8a5f791" class="outline-2">
-<h2 id="org8a5f791">Física I</h2>
-<div class="outline-text-2" id="text-org8a5f791">
+<div id="outline-container-org8edc502" class="outline-2">
+<h2 id="org8edc502">Física I</h2>
+<div class="outline-text-2" id="text-org8edc502">
 </div>
-<div id="outline-container-org9cb8171" class="outline-3">
-<h3 id="org9cb8171">Mecânica</h3>
-<div class="outline-text-3" id="text-org9cb8171">
+<div id="outline-container-org1361286" class="outline-3">
+<h3 id="org1361286">Mecânica</h3>
+<div class="outline-text-3" id="text-org1361286">
 <p>
 A mecânica estuda o movimento dos corpos e as forças que atuam sobre eles.
 </p>
 </div>
 
 
-<div id="outline-container-org48861f3" class="outline-4">
-<h4 id="org48861f3">Cinemática</h4>
-<div class="outline-text-4" id="text-org48861f3">
+<div id="outline-container-orgd6e25d5" class="outline-4">
+<h4 id="orgd6e25d5">Cinemática</h4>
+<div class="outline-text-4" id="text-orgd6e25d5">
 <p>
 A Cinemática é o estudo do movimento dos corpos sem se preocupar com a
 análise das suas causas. Ela é importante para introduzir os conceitos
@@ -40,16 +40,25 @@ básicos relacionados ao movimento como:
 <li>Posição de um objeto</li>
 <li>Deslocamento</li>
 <li>Velocidade</li>
-<li>Aceleração</li>
+<li><p>
+Aceleração
+</p></li>
 </ul>
+
+<div class="figure">
+<p><img src="kinematics-1.png" alt="kinematics-1.png" width="512" style="text-align:center; display:block; margin:auto;" /> 
+</p>
 </div>
 </div>
+</div>
 
 
 
-<div id="outline-container-orgbaa5132" class="outline-4">
-<h4 id="orgbaa5132">Leis de Newton</h4>
-<div class="outline-text-4" id="text-orgbaa5132">
+
+
+<div id="outline-container-org143ddd9" class="outline-4">
+<h4 id="org143ddd9">Leis de Newton</h4>
+<div class="outline-text-4" id="text-org143ddd9">
 <p>
 As de Newton são a base para o estudo da mecânica, ela estabelece os
 princípios básicos para explicar como e por que os movimentos
@@ -58,30 +67,30 @@ acontecem.
 </div>
 
 <ul class="org-ul">
-<li><a id="org43b9a2b"></a>Força<br /></li>
+<li><a id="orgff67a50"></a>Força<br /></li>
 
-<li><a id="org2549659"></a>Massa inércial<br /></li>
+<li><a id="org2914a2a"></a>Massa inércial<br /></li>
 
-<li><a id="orgaead314"></a>Unidade de força: Newton<br /></li>
+<li><a id="org442cad3"></a>Unidade de força: Newton<br /></li>
 
-<li><a id="org63993b6"></a>Primeiria Lei: Inércia<br /></li>
+<li><a id="org6c6af32"></a>Primeiria Lei: Inércia<br /></li>
 
-<li><a id="org8a66442"></a>Segunda Lei: Princípio fundamental da dinâmica<br /></li>
+<li><a id="org1a79a46"></a>Segunda Lei: Princípio fundamental da dinâmica<br /></li>
 
-<li><a id="org0144385"></a>Terceira Lei: Ação-reação<br /></li>
+<li><a id="orgc52731a"></a>Terceira Lei: Ação-reação<br /></li>
 
-<li><a id="org22bad6b"></a>Força peso<br /></li>
+<li><a id="orgdd2f363"></a>Força peso<br /></li>
 
-<li><a id="org069c584"></a>Diagramas de força<br /></li>
+<li><a id="org9ed4f98"></a>Diagramas de força<br /></li>
 
-<li><a id="orgaf63c95"></a>Aplicações<br /></li>
+<li><a id="org2e6c9d5"></a>Aplicações<br /></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-orgc4ff8d8" class="outline-3">
-<h3 id="orgc4ff8d8">Mecânica dos Fluidos</h3>
-<div class="outline-text-3" id="text-orgc4ff8d8">
+<div id="outline-container-orge6aed02" class="outline-3">
+<h3 id="orge6aed02">Mecânica dos Fluidos</h3>
+<div class="outline-text-3" id="text-orge6aed02">
 <p>
 A mecânica dos fluidos estuda o comportamento de líquidos e gases em repouso ou em movimento.
 </p>

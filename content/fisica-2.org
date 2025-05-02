@@ -1,3 +1,5 @@
+#+OPTIONS: toc:t
+
 
 * Física II
 
@@ -30,10 +32,12 @@ gravidade \(g = 10 m/s^2\)  e da profundidade \(h\) onde se quer saber a
 pressão \( p\) .
 
 
-#+CAPTION: A pressão em um fluido se deve ao peso desse fluido, e depende da profundida.
+#+CAPTION: A pressão em um fluido se deve ao peso desse fluido, e depende da profundidade.
 #+ATTR_HTML: :width 400 :style text-align:center; display:block; margin:auto;
 [[https://upload.wikimedia.org/wikipedia/commons/e/e7/Hydrostatic-pressure.svg]]
- 
+
+
+
  
 Para calcular essa pressão, basta considerar um certo volume de fluido
 e dividir pela área desse volume. Por exemplo, seguindo os seguintes passos:
@@ -50,27 +54,6 @@ Dessa forma, obtemos uma expressão matemática que relaciona a pressão, com a 
 \[ 
 p = d g h
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 **** Pressão atmosférica
@@ -127,6 +110,14 @@ Assim:
  
 \[ \frac{F_1}{A_1} = \frac{F_2}{A_2} \]
 
+
+Qual o custo de apliar a força, já que a energia se conserva?
+
+#+BEGIN_EXPORT html
+<a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Hydraulic_transmission_between_two_syringes.svg"><img width="512" alt="Hydraulic transmission between two syringes" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hydraulic_transmission_between_two_syringes.svg/512px-Hydraulic_transmission_between_two_syringes.svg.png?20180522114120"></a>
+#+END_EXPORT
+
+
 *** Empuxo
 
 
@@ -156,10 +147,15 @@ e igual ao peso do fluido que ele desloca.
 https://upload.wikimedia.org/wikipedia/commons/7/72/Archimedes-principle.svg
 
 
-#+CAPTION: Um exemplo interessante é um barco flutuando em um rio: O peso do barco na figura (a) é sustentada pela força de empuxo representada na figura (b).
-#+ATTR_HTML: :width 650 :style text-align:center; display:block; margin:auto;
-https://upload.wikimedia.org/wikipedia/commons/2/26/Center_of_buoyancy.svg
 
+#+BEGIN_EXPORT html
+<div style="text-align:center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Center_of_buoyancy.svg"
+       alt="Empuxo em Barco"
+       style="max-width:256px; width:100%; height:auto;">
+  <p><em> Barco flutuando em um rio: O peso do barco na figura (a) é sustentada pela força de empuxo representada na figura (b).</em></p>
+</div>
+#+END_EXPORT
 
 
 *** Pressão Hidrodinâmica
@@ -173,13 +169,48 @@ https://upload.wikimedia.org/wikipedia/commons/2/26/Center_of_buoyancy.svg
 
 *** Escalas termométricas
 
+#+BEGIN_EXPORT html
+<div style="text-align:center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/CelsiusKelvin.svg"
+       alt="Comparação entre Celsius e Kelvin"
+       style="max-width:256px; width:100%; height:auto;">
+  <p><em>Comparação entre as escalas Celsius e Kelvin</em></p>
+</div>
+#+END_EXPORT
+
+
 *** Dilatação Térmica
+
+**** Dilatação Linear
+
+#+BEIGIN_EXPORT html
+<a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Thermal-expansion.svg"><img width="256" alt="Thermal-expansion" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Thermal-expansion.svg/256px-Thermal-expansion.svg.png?20200707221506"></a>
+#+END_EXPORT
+
+
+**** Dilatação superficial
+
+#+BEIGIN_EXPORT html
+<a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Thermal-expansion-aera.svg"><img width="512" alt="Thermal-expansion-aera" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Thermal-expansion-aera.svg/512px-Thermal-expansion-aera.svg.png?20200707221450"></a>
+#+END_EXPORT
+
+
+**** Dilatação volumétrica
+
+#+BEIGIN_EXPORT html
+<a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Thermal-expansion-volume.svg"><img width="512" alt="Thermal-expansion-volume" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Thermal-expansion-volume.svg/512px-Thermal-expansion-volume.svg.png?20200707221144"></a>
+#+END_EXPORT
+
+
+
 
 *** Conceito de calor
 
-*** Calor específico
+*** Calor específico e  Calor latente
 
-*** Calor latente
+#+BEGIN_EXPORT html
+<a title="Przygocki, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Agua_temperatura_por_calor.svg"><img width="512" alt="Graph of temperature of phases of water heated from −100 °C to 200 °C – the dashed line example shows that melting and heating 1 kg of ice at −50 °C to water at 40 °C needs 600 kJ" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Agua_temperatura_por_calor.svg/512px-Agua_temperatura_por_calor.svg.png?20220221221432"></a>
+#+END_EXPORT
 
 *** Transferência de calor
 

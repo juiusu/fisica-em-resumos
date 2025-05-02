@@ -17,6 +17,12 @@ básicos relacionados ao movimento como:
 - Velocidade
 - Aceleração
 
+  #+CAPTION: 
+#+ATTR_HTML: :width 512 :style text-align:center; display:block; margin:auto;
+[[file:kinematics-1.png]] 
+
+
+
 
 
 *** Leis de Newton
