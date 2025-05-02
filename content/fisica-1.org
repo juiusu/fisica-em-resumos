@@ -17,7 +17,9 @@ básicos relacionados ao movimento como:
 - Velocidade
 - Aceleração
 
-  #+CAPTION: 
+
+
+#+CAPTION: Descrição do movimento de carros a partir de um referêncial.
 #+ATTR_HTML: :width 512 :style text-align:center; display:block; margin:auto;
 [[file:kinematics-1.png]] 
 
