@@ -1,0 +1,19 @@
+* densidade
+
+As unidades mais comuns para medir densidade são : \( kg / m^3\)  , \(
+g/L\) e variantes dessas. Para entender o conceito de densidade
+podemos pensar que massa e volume são grandezas
+proporcionais. Verifique o exemplo da tabela abaixo:
+
+#+CAPTION: Relação entre massa e volume de um fluido
+| *Massa (kg)*      | 1,25 | 2,50 | 5,00 | 10,0 |
+| *Volume (\(m^3\)* | 1,0  | 2,0  | 4,0  | 8,0  |
+
+Podemos, a partir dessa relação de proporcionalidade, estabelecer uma
+fórmula, que seria:
+
+\begin{equation}
+\frac{m_1}{V_1}=\frac{m_2}{V_2}= constante \qquad \text{ou}\qquad \frac{m}{V} = d
+\end{equation}
+
+Onde \(d\) é a densidade, \(m\) é a massa e \(V\) é o volume. Quando estabelecemos uma relação de proporcionalidade como essa, num caso mais geral, o valor constante (\(d\) nesse caso) é o que chamamos de constante de proporcionalidade.

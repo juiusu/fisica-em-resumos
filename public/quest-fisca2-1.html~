@@ -36,19 +36,29 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-org3f91d35" class="outline-2">
-<h2 id="org3f91d35">Questões de revisão: Fluidos</h2>
-<div class="outline-text-2" id="text-org3f91d35">
+<div id="outline-container-org1164c13" class="outline-2">
+<h2 id="org1164c13">Questões de revisão: Fluidos</h2>
+<div class="outline-text-2" id="text-org1164c13">
 </div>
-<div id="outline-container-orgff71272" class="outline-3">
-<h3 id="orgff71272">Questão 1</h3>
-<div class="outline-text-3" id="text-orgff71272">
+<div id="outline-container-orga7dd6f3" class="outline-3">
+<h3 id="orga7dd6f3">Questão 1</h3>
+<div class="outline-text-3" id="text-orga7dd6f3">
 <p>
 Considere um volume \(V_1\) de \( 20,0 \, L\), e um volume \( V_2\) =
 \(300 \, mL\) :
 <b><b>a)</b></b> Quantos \(cm^3\) cabem dentro de \( V_1\)?
+</p>
+
+<p>
 <b><b>b)</b></b> Quantos \(cm^3\) cabem dentro de \( V_2\) ?
-<b><b>c)</b></b> Quantos volumes iguais a \(V_1\) são necessários para preencher um volume de\( 1,0 m^3\) ?
+</p>
+
+<p>
+<b><b>c)</b></b> Quantos volumes iguais a \(V_1\) são necessários para preencher
+um volume de\( 1,0 m^3\) ?
+</p>
+
+<p>
 <b><b>d)</b></b> Quantos volumes iguais a \(V_2\) são necessários para preencher um
 volume de \( 1,0\, dm^3 \)?
 </p>
@@ -61,9 +71,9 @@ DADOS: Prefixos do SI: \(k = 10<sup>3</sup>\, , \, m = 10^\{-3} \, , \, c =
 </div>
 
 
-<div id="outline-container-org8335fe3" class="outline-3">
-<h3 id="org8335fe3">Questão 2</h3>
-<div class="outline-text-3" id="text-org8335fe3">
+<div id="outline-container-org852ff05" class="outline-3">
+<h3 id="org852ff05">Questão 2</h3>
+<div class="outline-text-3" id="text-org852ff05">
 <p>
 Sabendo que 1 Pa = 1 N/m² é a unidade padrão do S.I. para pressão. Considere um
 paralelepípedo reto de dimensões \( 2,0 cm x 3,0 cm x 5,0 cm\) e com peso de\( 50,0 N\), que pode ser apoiado
@@ -71,32 +81,48 @@ em uma mesa de três formas diferentes (por cada uma das suas faces).
 </p>
 
 <p>
-<b><b>a)</b></b> Calcule a pressão que ele exerce na mesa, em Pa, se ele for apoiado pela sua menor face;
-<b><b>b)</b></b> Repita o cálculo, mas considerando que ele está apoiado pela sua face de tamanho médio;
-<b><b>c)</b></b> Repita o cálculo, mas considerando que ele está apoiado pela
-**sua maior face;
+<b><b>a)</b></b> Calcule a pressão que ele exerce na mesa, em Pa, se ele for
+apoiado pela sua menor face;
+</p>
+
+<p>
+<b><b>b)</b></b> Repita o cálculo, mas considerando que ele está apoiado pela
+sua face de tamanho médio;
+</p>
+
+<p>
+<b><b>c)</b></b> Repita o cálculo, mas considerando que ele está apoiado pela sua maior face;
 </p>
 </div>
 </div>
 
 
 
-<div id="outline-container-org66b0282" class="outline-3">
-<h3 id="org66b0282">Questão 3</h3>
-<div class="outline-text-3" id="text-org66b0282">
+<div id="outline-container-orgeba5e82" class="outline-3">
+<h3 id="orgeba5e82">Questão 3</h3>
+<div class="outline-text-3" id="text-orgeba5e82">
 <p>
-<b><b>a)</b></b> Em qual área deve estar distribuída uma força de 30,0 N para que a pressão seja de 10 Pa?
+<b><b>a)</b></b> Em qual área deve estar distribuída uma força de 30,0 N para
+que a pressão seja de 10 Pa?
+</p>
+
+<p>
 <b><b>b)</b></b> Se a força reduzir para um terço, qual será o novo valor da
-**pressão, para a mesma área?
+pressão, para a mesma área?
+</p>
+
+<p>
+<b><b>c)</b></b> Se área aumentar para o dobro, qual deverá ser o novo valor de
+força, para manter a mesma pressão do item <b>a</b>?
 </p>
 </div>
 </div>
 
-<div id="outline-container-orgd988fce" class="outline-3">
-<h3 id="orgd988fce">Questão 4</h3>
-<div class="outline-text-3" id="text-orgd988fce">
+<div id="outline-container-orgaecf291" class="outline-3">
+<h3 id="orgaecf291">Questão 4</h3>
+<div class="outline-text-3" id="text-orgaecf291">
 <p>
-Considere a tabela abaixo, calcule:
+Considerando a tabela abaixo, calcule:
 </p>
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
@@ -110,7 +136,7 @@ Considere a tabela abaixo, calcule:
 <thead>
 <tr>
 <th scope="col" class="org-left">Gás</th>
-<th scope="col" class="org-left">Densidade (\(kg/m^3\)</th>
+<th scope="col" class="org-left">Densidade (\(kg/m^3\))</th>
 </tr>
 </thead>
 <tbody>

@@ -36,70 +36,49 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-org6522dd6" class="outline-2">
-<h2 id="org6522dd6">Questões de revisão: Carga elétrica</h2>
-<div class="outline-text-2" id="text-org6522dd6">
-</div>
-<div id="outline-container-org2eb322b" class="outline-3">
-<h3 id="org2eb322b">Questão 1</h3>
-<div class="outline-text-3" id="text-org2eb322b">
+<div id="outline-container-orga47673a" class="outline-2">
+<h2 id="orga47673a">Conceito de pressão</h2>
+<div class="outline-text-2" id="text-orga47673a">
 <p>
-<b>a)</b> Quais são as partículas básicas que constituem a matéria?
+Para entendermos pressão, iremos olhar para a sua unidade mais básica:
+o Pascal. Essa unidade é definida em termos do Newton e do metro quadrado.
 </p>
 
 <p>
-<b>b)</b> Explique por que um átomo é eletricamente neutro em condições
-normais.
+o <b>Newton</b> é a <b>unidade de medida de força</b>. A força pode ser originada de vários contextos. Como falaremos de pressão atmosférica, a força envolvida nesse caso é a força peso, que é a força exercida nos corpos devido a aceleração gravitacional. Na superfície da terra consideramos essa aceleração aproximadamente *10 m/s<sup>2</sup>\). Dessa forma, para se calcular o peso com que uma determinada massa é atraída para a terra, multiplicamos o valor da massa em quilogramas pela aceleração da gravidade.
+Como exemplo, se uma pessoa tem massa de \( 70 kg\) e está na
+superfície da terra, teremos
+</p>
+
+\begin{equation*}
+F = 70\, kg\, \times 10 \, m/s² = 700\, N
+\end{equation*}
+
+<p>
+Lembrando que a força peso é dada por \(F_P=m\times g\).
 </p>
 
 <p>
-<b>c)</b> Explique por que, em um átomo, os elétrons são as partículas que
-orbitam o núcleo, e não os prótons?
+Assim, temos que <b>cada valor em Pascal (Pa) significa um Newton distribuído por um metro quadrado</b>. Imagine que o peso acima seja de um bloco cúbico de 1 m³ de volume. Como exemplo, se distribuirmos os 700N em 1m² teremos uma pressão em Pa:
 </p>
-</div>
-</div>
 
-<div id="outline-container-org591e605" class="outline-3">
-<h3 id="org591e605">Questão 3</h3>
-<div class="outline-text-3" id="text-org591e605">
-<p>
-a) O que deve acontecer para que um átomo fique com carga \(+ e\)?
-</p>
+\begin{equation}
+\frac{700\, N}{1\, m^2} = 700 N/ m^ 2 = 700 Pa
+\end{equation}
 
 <p>
-b) O que deve acontecer para que um átomo fique com carga \(- 3e \)
+Podemos expressar essa razão em termos das grandezas: pressão, força e
+área por:
 </p>
-</div>
-</div>
 
-
-<div id="outline-container-orgb4ec45e" class="outline-3">
-<h3 id="orgb4ec45e">Questão 4</h3>
-<div class="outline-text-3" id="text-orgb4ec45e">
-<p>
-<b>a)</b> Cacule a carga elétrica total (em Coulombs) de um ojeto que
-possui \( 3 \times 10^{12}\) elétrons.
-</p>
+\begin{equation}
+p = \frac{F}{A}
+\end{equation}
 
 <p>
-<b>b)</b> Quantos elétrons precisam ser removidos de um corpo neutro para
- que ele adquira uma carga de \(+4,8 \times 10^{-12}\, C\)
+O significado dessa equação é que a pressão é a força distribuída em
+uma certa área.
 </p>
-</div>
-</div>
-
-
-
-
-<div id="outline-container-org334f522" class="outline-3">
-<h3 id="org334f522">Questão 5 - SIS-UEA-2014</h3>
-<div class="outline-text-3" id="text-org334f522">
-
-<div class="figure">
-<p><img src="uea-sis3-2014-1.png" alt="uea-sis3-2014-1.png" /> 
-</p>
-</div>
-</div>
 </div>
 </div>
 </div>

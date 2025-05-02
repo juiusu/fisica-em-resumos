@@ -1,0 +1,30 @@
+* Conceito de pressão
+
+Para entendermos pressão, iremos olhar para a sua unidade mais básica:
+o Pascal. Essa unidade é definida em termos do Newton e do metro quadrado.
+
+o *Newton* é a *unidade de medida de força*. A força pode ser originada de vários contextos. Como falaremos de pressão atmosférica, a força envolvida nesse caso é a força peso, que é a força exercida nos corpos devido a aceleração gravitacional. Na superfície da terra consideramos essa aceleração aproximadamente *10 m/s^2\). Dessa forma, para se calcular o peso com que uma determinada massa é atraída para a terra, multiplicamos o valor da massa em quilogramas pela aceleração da gravidade.
+Como exemplo, se uma pessoa tem massa de \( 70 kg\) e está na
+superfície da terra, teremos
+
+\begin{equation*}
+F = 70\, kg\, \times 10 \, m/s² = 700\, N
+\end{equation*}
+
+Lembrando que a força peso é dada por \(F_P=m\times g\).
+
+Assim, temos que *cada valor em Pascal (Pa) significa um Newton distribuído por um metro quadrado*. Imagine que o peso acima seja de um bloco cúbico de 1 m³ de volume. Como exemplo, se distribuirmos os 700N em 1m² teremos uma pressão em Pa:
+
+\begin{equation}
+\frac{700\, N}{1\, m^2} = 700 N/ m^ 2 = 700 Pa
+\end{equation}
+
+Podemos expressar essa razão em termos das grandezas: pressão, força e
+área por:
+
+\begin{equation}
+p = \frac{F}{A}
+\end{equation}
+
+O significado dessa equação é que a pressão é a força distribuída em
+uma certa área.

@@ -1,0 +1,16 @@
+* Pictures
+
+#+CAPTION: Força de Empuxo \(F_A\) e Força peso \(F_E\)
+#+ATTR_HTML: :width 512 :style text-align:center; display:block; margin:auto;
+
+
+
+
+* equations
+
+em um texto podemos usar \( A = B \) com códigos latex.
+
+Já para centralizar
+
+\[ A_1 = B_2 \]
+

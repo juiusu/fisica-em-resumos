@@ -36,70 +36,61 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-org6522dd6" class="outline-2">
-<h2 id="org6522dd6">Questões de revisão: Carga elétrica</h2>
-<div class="outline-text-2" id="text-org6522dd6">
-</div>
-<div id="outline-container-org2eb322b" class="outline-3">
-<h3 id="org2eb322b">Questão 1</h3>
-<div class="outline-text-3" id="text-org2eb322b">
+<div id="outline-container-org5b93d0b" class="outline-2">
+<h2 id="org5b93d0b">densidade</h2>
+<div class="outline-text-2" id="text-org5b93d0b">
 <p>
-<b>a)</b> Quais são as partículas básicas que constituem a matéria?
+As unidades mais comuns para medir densidade são : \( kg / m^3\)  , \(
+g/L\) e variantes dessas. Para entender o conceito de densidade
+podemos pensar que massa e volume são grandezas
+proporcionais. Verifique o exemplo da tabela abaixo:
 </p>
 
-<p>
-<b>b)</b> Explique por que um átomo é eletricamente neutro em condições
-normais.
-</p>
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<caption class="t-above"><span class="table-number">Table 1:</span> Relação entre massa e volume de um fluido</caption>
 
-<p>
-<b>c)</b> Explique por que, em um átomo, os elétrons são as partículas que
-orbitam o núcleo, e não os prótons?
-</p>
-</div>
-</div>
+<colgroup>
+<col  class="org-left" />
 
-<div id="outline-container-org591e605" class="outline-3">
-<h3 id="org591e605">Questão 3</h3>
-<div class="outline-text-3" id="text-org591e605">
-<p>
-a) O que deve acontecer para que um átomo fique com carga \(+ e\)?
-</p>
+<col  class="org-left" />
 
-<p>
-b) O que deve acontecer para que um átomo fique com carga \(- 3e \)
-</p>
-</div>
-</div>
+<col  class="org-left" />
 
+<col  class="org-left" />
 
-<div id="outline-container-orgb4ec45e" class="outline-3">
-<h3 id="orgb4ec45e">Questão 4</h3>
-<div class="outline-text-3" id="text-orgb4ec45e">
-<p>
-<b>a)</b> Cacule a carga elétrica total (em Coulombs) de um ojeto que
-possui \( 3 \times 10^{12}\) elétrons.
-</p>
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left"><b>Massa (kg)</b></td>
+<td class="org-left">1,25</td>
+<td class="org-left">2,50</td>
+<td class="org-left">5,00</td>
+<td class="org-left">10,0</td>
+</tr>
+
+<tr>
+<td class="org-left"><b>Volume (\(m^3\)</b></td>
+<td class="org-left">1,0</td>
+<td class="org-left">2,0</td>
+<td class="org-left">4,0</td>
+<td class="org-left">8,0</td>
+</tr>
+</tbody>
+</table>
 
 <p>
-<b>b)</b> Quantos elétrons precisam ser removidos de um corpo neutro para
- que ele adquira uma carga de \(+4,8 \times 10^{-12}\, C\)
+Podemos, a partir dessa relação de proporcionalidade, estabelecer uma
+fórmula, que seria:
 </p>
-</div>
-</div>
 
+\begin{equation}
+\frac{m_1}{V_1}=\frac{m_2}{V_2}= constante \qquad \text{ou}\qquad \frac{m}{V} = d
+\end{equation}
 
-
-
-<div id="outline-container-org334f522" class="outline-3">
-<h3 id="org334f522">Questão 5 - SIS-UEA-2014</h3>
-<div class="outline-text-3" id="text-org334f522">
-
-<div class="figure">
-<p><img src="uea-sis3-2014-1.png" alt="uea-sis3-2014-1.png" /> 
+<p>
+Onde \(d\) é a densidade, \(m\) é a massa e \(V\) é o volume. Quando estabelecemos uma relação de proporcionalidade como essa, num caso mais geral, o valor constante (\(d\) nesse caso) é o que chamamos de constante de proporcionalidade.
 </p>
-</div>
-</div>
 </div>
 </div>
 </div>

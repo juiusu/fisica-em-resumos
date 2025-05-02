@@ -99,7 +99,7 @@ mantêm:
 
 
 \begin{equation*}
-\frac{10}{1}=\frac{40}{2}=\frac{80}{4}=\frac{100}{5}
+\frac{20}{1}=\frac{40}{2}=\frac{80}{4}=\frac{100}{5}
 \end{equation*}
 
 A notação matemática para essa correspondência de proporcionalidade

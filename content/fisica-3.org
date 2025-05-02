@@ -22,7 +22,7 @@ assim como a massa é a propriedade da matéria que gera força gravitacional.
 
   - Menor unidade de carga
 
-  - $e=1,6\times 10 ^{-19} \, C$
+  - \(e=1,6\times 10 ^{-19} \, C\)
 
 - Constituíntes básicos da matéria (matéria ordinária)
 

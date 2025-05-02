@@ -36,70 +36,41 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-org6522dd6" class="outline-2">
-<h2 id="org6522dd6">Questões de revisão: Carga elétrica</h2>
-<div class="outline-text-2" id="text-org6522dd6">
-</div>
-<div id="outline-container-org2eb322b" class="outline-3">
-<h3 id="org2eb322b">Questão 1</h3>
-<div class="outline-text-3" id="text-org2eb322b">
+<div id="outline-container-org715d90a" class="outline-2">
+<h2 id="org715d90a">Volume</h2>
+<div class="outline-text-2" id="text-org715d90a">
 <p>
-<b>a)</b> Quais são as partículas básicas que constituem a matéria?
+Enquanto comprimento pode ser dado em \( cm \), \(m \), \(dm\) ou \(
+km\); área em \(cm^2\), \(dm^ 2 \), \( cm\) ou \( km\); o volume pode ser
+dado em \(cm^3\), \( dm^3\),\( m\)  ou \( km^3\). 
+Para transformar, porém, \(cm^2\) em \(m^2\) ou \(cm^3\) em \(m^3\) precisamos entender o significado de cada uma delas, que difere de transformar, por exemplo, \(cm\) em\( m\). O significado de \( 1cm\) é \(1cm^2 =  1cm  \times 1 cm\), que pode ser compreendido como um quadrado de\( 1cm\) por\( 1cm\). Assim, se \(1m = 100 cm\), teremos:
 </p>
 
-<p>
-<b>b)</b> Explique por que um átomo é eletricamente neutro em condições
-normais.
-</p>
+\begin{equation*}
+1m^2 = 1m \times 1m = 100 cm \times 100 cm = 10000 cm^2 = 10^4 cm^2
+\end{equation*}
 
 <p>
-<b>c)</b> Explique por que, em um átomo, os elétrons são as partículas que
-orbitam o núcleo, e não os prótons?
-</p>
-</div>
-</div>
-
-<div id="outline-container-org591e605" class="outline-3">
-<h3 id="org591e605">Questão 3</h3>
-<div class="outline-text-3" id="text-org591e605">
-<p>
-a) O que deve acontecer para que um átomo fique com carga \(+ e\)?
+Tente compreender que em \(1m^2\) cabem \(10^4\) (100 por 100)
+\(cm^2\) . Em palavras: em uma área de um metro quadrado cabem 10 mil
+áreas de um centímetro quadrado.
 </p>
 
 <p>
-b) O que deve acontecer para que um átomo fique com carga \(- 3e \)
+A relação entre cm³ e m³ segua a mesma lógica. 
+Uma unidade comum de medida de volume é o litro. Por definição um
+litro (1L) equivale a \(1dm^3\) . Como cada decímetro são 10
+centímetros, então:
 </p>
-</div>
-</div>
 
-
-<div id="outline-container-orgb4ec45e" class="outline-3">
-<h3 id="orgb4ec45e">Questão 4</h3>
-<div class="outline-text-3" id="text-orgb4ec45e">
-<p>
-<b>a)</b> Cacule a carga elétrica total (em Coulombs) de um ojeto que
-possui \( 3 \times 10^{12}\) elétrons.
-</p>
+\begin{equation*}
+1 \, L = 1\, dm^3 = 1dm \times 1dm\, \times \,1dm = 10 \, cm \times 10 \, cm \times 10 \, cm = 10^3\, cm^3
+\end{equation*}
 
 <p>
-<b>b)</b> Quantos elétrons precisam ser removidos de um corpo neutro para
- que ele adquira uma carga de \(+4,8 \times 10^{-12}\, C\)
+Isso significa que dentro do volume de um litro cabem 1000 cubos de
+\(1 cm^3\).
 </p>
-</div>
-</div>
-
-
-
-
-<div id="outline-container-org334f522" class="outline-3">
-<h3 id="org334f522">Questão 5 - SIS-UEA-2014</h3>
-<div class="outline-text-3" id="text-org334f522">
-
-<div class="figure">
-<p><img src="uea-sis3-2014-1.png" alt="uea-sis3-2014-1.png" /> 
-</p>
-</div>
-</div>
 </div>
 </div>
 </div>

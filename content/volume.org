@@ -1,0 +1,26 @@
+*** Volume
+
+Enquanto comprimento pode ser dado em \( cm \), \(m \), \(dm\) ou \(
+km\); área em \(cm^2\), \(dm^ 2 \), \( cm\) ou \( km\); o volume pode ser
+dado em \(cm^3\), \( dm^3\),\( m\)  ou \( km^3\). 
+Para transformar, porém, \(cm^2\) em \(m^2\) ou \(cm^3\) em \(m^3\) precisamos entender o significado de cada uma delas, que difere de transformar, por exemplo, \(cm\) em\( m\). O significado de \( 1cm\) é \(1cm^2 =  1cm  \times 1 cm\), que pode ser compreendido como um quadrado de\( 1cm\) por\( 1cm\). Assim, se \(1m = 100 cm\), teremos:
+
+\begin{equation*}
+1m^2 = 1m \times 1m = 100 cm \times 100 cm = 10000 cm^2 = 10^4 cm^2
+\end{equation*}
+
+Tente compreender que em \(1m^2\) cabem \(10^4\) (100 por 100)
+\(cm^2\) . Em palavras: em uma área de um metro quadrado cabem 10 mil
+áreas de um centímetro quadrado.
+
+A relação entre cm³ e m³ segua a mesma lógica. 
+Uma unidade comum de medida de volume é o litro. Por definição um
+litro (1L) equivale a \(1dm^3\) . Como cada decímetro são 10
+centímetros, então:
+
+\begin{equation*}
+1 \, L = 1\, dm^3 = 1dm \times 1dm\, \times \,1dm = 10 \, cm \times 10 \, cm \times 10 \, cm = 10^3\, cm^3
+\end{equation*}
+
+Isso significa que dentro do volume de um litro cabem 1000 cubos de
+\(1 cm^3\).
