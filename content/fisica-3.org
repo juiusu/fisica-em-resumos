@@ -140,14 +140,66 @@ Essa lei é análoga à [[https://pt.wikipedia.org/wiki/Lei_da_gravita%C3%A7%C3%
 ** Polarização
 
 ** Campo elétrico
-
 ** Potencial elétrico
 
 * Eletrodinâmica
 
+** Corrente elétrica
+
+*** Definição de corrente elétrica
+
+*** Sentido convencional da corrente elétrica
+
+*** Noções sobre corrente alternada
+
+** Circuitos simples
+
+*** Resistores
+
+*** Capacitores
+
+*** Geradores
+
+*** Potência e Energia
+
+
 * Magetismo
+
+** Ímãns
+
+** Campo magnético
+
+** Carga magnética
+
+** Magnetismo e corrente elétrica
+
+** Força magnética
 
 * Eletromagnetismo
 
+** Indução magnética
+
+** Geração de corrente induzida
+
+** Geradores
+
+** Transformadores
+
+** Motores
+
 * Física moderna
+
+** Efeitos fotoelétrico e Compton
+
+** Dualidade onda-partícula
+
+** Modelo atômico de Bohr
+
+** Radioatividade
+
+** Física nuclear
+
+** Modelo padrão
+
+** Cosmologia
 

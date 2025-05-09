@@ -49,7 +49,7 @@ tempo*_ em que ocorre o deslocamento é de \(\Delta t =12-10 =2s\).
 A _*velocidade*_ é a razão entre o _*deslocamento*_ \(\Delta S = -5 -(-10) =
 5\, m)\)  e o intervalo de tempo correspondente. Assim,
 
-\[ v = \frac{\Delta S}{\Delta t} = \frac{5\,m}{2\,s} = 5\, m/s\] 
+\[ v = \frac{\Delta S}{\Delta t} = \frac{5\,m}{2\,s} = 2,5\, m/s\] 
 
 
 ** Aceleração
