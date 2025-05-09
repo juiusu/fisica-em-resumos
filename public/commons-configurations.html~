@@ -36,9 +36,9 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-org55f7d2e" class="outline-2">
-<h2 id="org55f7d2e">Pictures</h2>
-<div class="outline-text-2" id="text-org55f7d2e">
+<div id="outline-container-orgfbc9100" class="outline-2">
+<h2 id="orgfbc9100">Pictures</h2>
+<div class="outline-text-2" id="text-orgfbc9100">
 <p>
 or 
 </p>
@@ -52,12 +52,28 @@ or
 
 
 <a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Displacement-measurement.svg"><img width="512" alt="Displacement-measurement" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Displacement-measurement.svg/512px-Displacement-measurement.svg.png?20220412171225"></a>
+
+
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Descrição do movimento de carros a partir de um referencial, em um certo instante de tempo \(t_0\).
+  </p>
+  <img src="./pictures/kinematics-1.png"
+       alt="Descrição do movimento de carros"
+       style="width:100%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+    Fonte: imagem criada pelo autor.
+  </p>
+</div>
 </div>
 </div>
 
-<div id="outline-container-orgb18ed80" class="outline-2">
-<h2 id="orgb18ed80">equations</h2>
-<div class="outline-text-2" id="text-orgb18ed80">
+
+
+
+<div id="outline-container-org1d01593" class="outline-2">
+<h2 id="org1d01593">equations</h2>
+<div class="outline-text-2" id="text-org1d01593">
 <p>
 em um texto podemos usar \( A = B \) com códigos latex.
 </p>

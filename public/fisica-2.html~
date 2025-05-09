@@ -40,58 +40,72 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org99ae0ad">Física II</a>
+<li><a href="#orge059b07">Mecânica dos Fluidos</a>
 <ul>
-<li><a href="#orge64f60f">Mecânica dos Fluidos</a>
+<li><a href="#org518fd3a">Pressão Hidrostática</a>
 <ul>
-<li><a href="#org0ebf32d">Pressão Hidrostática</a></li>
-<li><a href="#orgf3168e2">Prensa Hidráulica</a></li>
-<li><a href="#org7b9a1d9">Empuxo</a></li>
-<li><a href="#orgd21d4e2">Pressão Hidrodinâmica</a></li>
-<li><a href="#orgf507b96">Aerodinâmica</a></li>
+<li><a href="#orgbd1b807">Conceitos iniciais</a></li>
+<li><a href="#org86e77bc">Conceito de pressão</a></li>
+<li><a href="#orgda35e07">Pressão em um líquido</a></li>
+<li><a href="#org22a6ce3">Pressão atmosférica</a></li>
 </ul>
 </li>
-<li><a href="#orgc3b3ae9">Termodinâmica</a>
+<li><a href="#org2736f83">Prensa Hidráulica</a></li>
+<li><a href="#orge02cb17">Empuxo</a></li>
+<li><a href="#org8a36e29">Pressão Hidrodinâmica</a></li>
+<li><a href="#org74b727a">Aerodinâmica</a></li>
+</ul>
+</li>
+<li><a href="#orgfaa5e96">Termodinâmica</a>
 <ul>
-<li><a href="#org2857e84">Conceito de temperatura</a></li>
-<li><a href="#org5f8d9b9">Escalas termométricas</a></li>
-<li><a href="#org8b40ad3">Dilatação Térmica</a></li>
-<li><a href="#org9aa1a7c">Conceito de calor</a></li>
-<li><a href="#org630691d">Calor específico e  Calor latente</a></li>
-<li><a href="#org84d9d46">Transferência de calor</a></li>
-<li><a href="#org7e22b84">A primeira Lei da Termodinâmica</a></li>
+<li><a href="#org29bbb2f">Conceito de temperatura</a></li>
+<li><a href="#orgee11afe">Escalas termométricas</a></li>
+<li><a href="#orgb810e6f">Dilatação Térmica</a>
+<ul>
+<li><a href="#org773591c">Dilatação Linear</a></li>
+<li><a href="#org1233b19">Dilatação superficial</a></li>
+<li><a href="#orgf8012dc">Dilatação volumétrica</a></li>
 </ul>
 </li>
+<li><a href="#org5b310b5">Conceito de calor</a></li>
+<li><a href="#org88eda39">Calor específico e  Calor latente</a></li>
+<li><a href="#org448a896">Transferência de calor</a>
+<ul>
+<li><a href="#org1515533">Condução</a></li>
+<li><a href="#orgc105d98">Convecção</a></li>
+<li><a href="#orgbbee342">Radiação</a></li>
 </ul>
 </li>
+<li><a href="#org1a7d6f1">A primeira Lei da Termodinâmica</a></li>
+</ul>
+</li>
+<li><a href="#org90c591b">Óptica</a></li>
+<li><a href="#orgf39abd3">Ondas</a></li>
 </ul>
 </div>
 </div>
 
 
-<div id="outline-container-org99ae0ad" class="outline-2">
-<h2 id="org99ae0ad">Física II</h2>
-<div class="outline-text-2" id="text-org99ae0ad">
+<div id="outline-container-orge059b07" class="outline-2">
+<h2 id="orge059b07">Mecânica dos Fluidos</h2>
+<div class="outline-text-2" id="text-orge059b07">
 </div>
-<div id="outline-container-orge64f60f" class="outline-3">
-<h3 id="orge64f60f">Mecânica dos Fluidos</h3>
-<div class="outline-text-3" id="text-orge64f60f">
+<div id="outline-container-org518fd3a" class="outline-3">
+<h3 id="org518fd3a">Pressão Hidrostática</h3>
+<div class="outline-text-3" id="text-org518fd3a">
 </div>
-<div id="outline-container-org0ebf32d" class="outline-4">
-<h4 id="org0ebf32d">Pressão Hidrostática</h4>
-<div class="outline-text-4" id="text-org0ebf32d">
-</div>
-<ul class="org-ul">
-<li><a id="org2a0a5b2"></a>Conceitos iniciais<br />
-<div class="outline-text-5" id="text-org2a0a5b2">
+<div id="outline-container-orgbd1b807" class="outline-4">
+<h4 id="orgbd1b807">Conceitos iniciais</h4>
+<div class="outline-text-4" id="text-orgbd1b807">
 <p>
 Relembre os conceitos de <a href="area.html">Área</a> ,  <a href="volume.html">volume</a> e  <a href="densidade">densidade</a> .
 </p>
 </div>
-</li>
+</div>
 
-<li><a id="orgff27c5b"></a>Conceito de pressão<br />
-<div class="outline-text-5" id="text-orgff27c5b">
+<div id="outline-container-org86e77bc" class="outline-4">
+<h4 id="org86e77bc">Conceito de pressão</h4>
+<div class="outline-text-4" id="text-org86e77bc">
 <p>
 É a força distribuida pela àrea sob a qual está aplicada:
 </p>
@@ -104,11 +118,12 @@ Relembre os conceitos de <a href="area.html">Área</a> ,  <a href="volume.html">
 Explicação mais detalhada sobre <a href="conceito-de-pressao.html">conceito de pressão</a> 
 </p>
 </div>
-</li>
+</div>
 
 
-<li><a id="orgada43cb"></a>Pressão em um líquido<br />
-<div class="outline-text-5" id="text-orgada43cb">
+<div id="outline-container-orgda35e07" class="outline-4">
+<h4 id="orgda35e07">Pressão em um líquido</h4>
+<div class="outline-text-4" id="text-orgda35e07">
 <p>
 A pressão hidrostática é causada pelo peso de um fluido em eterminado
  ponto do fluido. Por exemplo, a pressão que você sente ao mergulhar
@@ -158,11 +173,12 @@ p = d g h
 \]
 </p>
 </div>
-</li>
+</div>
 
 
-<li><a id="orge2e6025"></a>Pressão atmosférica<br />
-<div class="outline-text-5" id="text-orge2e6025">
+<div id="outline-container-org22a6ce3" class="outline-4">
+<h4 id="org22a6ce3">Pressão atmosférica</h4>
+<div class="outline-text-4" id="text-org22a6ce3">
 <p>
 Apressão atmosférica é um tipo de pressão hidrostática, porém,
 considerando que estamos envolvidos por um fluido que são os diversos
@@ -193,13 +209,12 @@ atmosférica a nível do mar. Sua relação com a unidade pascal é:
 <a href="quest-fisca2-1.html">Questões de revisão: Fluidos</a>
 </p>
 </div>
-</li>
-</ul>
+</div>
 </div>
 
-<div id="outline-container-orgf3168e2" class="outline-4">
-<h4 id="orgf3168e2">Prensa Hidráulica</h4>
-<div class="outline-text-4" id="text-orgf3168e2">
+<div id="outline-container-org2736f83" class="outline-3">
+<h3 id="org2736f83">Prensa Hidráulica</h3>
+<div class="outline-text-3" id="text-org2736f83">
 <p>
 Como conseguimos levantar um carro com o pé utilizando um <a href="https://pt.wikipedia.org/wiki/Macaco_(ferramenta)">Macaco</a>
 Hidrálico ?
@@ -258,9 +273,9 @@ Qual o custo de apliar a força, já que a energia se conserva?
 </div>
 
 
-<div id="outline-container-org7b9a1d9" class="outline-4">
-<h4 id="org7b9a1d9">Empuxo</h4>
-<div class="outline-text-4" id="text-org7b9a1d9">
+<div id="outline-container-orge02cb17" class="outline-3">
+<h3 id="orge02cb17">Empuxo</h3>
+<div class="outline-text-3" id="text-orge02cb17">
 <p>
 Como um objeto pode ficar submerso em um fluido, um bloco de madeira
 flutuando em água, por exemplo, se a força peso o empurra para baixo?
@@ -313,27 +328,27 @@ Sorry, your browser does not support SVG.</object>
 </div>
 
 
-<div id="outline-container-orgd21d4e2" class="outline-4">
-<h4 id="orgd21d4e2">Pressão Hidrodinâmica</h4>
+<div id="outline-container-org8a36e29" class="outline-3">
+<h3 id="org8a36e29">Pressão Hidrodinâmica</h3>
 </div>
 
 
-<div id="outline-container-orgf507b96" class="outline-4">
-<h4 id="orgf507b96">Aerodinâmica</h4>
+<div id="outline-container-org74b727a" class="outline-3">
+<h3 id="org74b727a">Aerodinâmica</h3>
 </div>
 </div>
 
-<div id="outline-container-orgc3b3ae9" class="outline-3">
-<h3 id="orgc3b3ae9">Termodinâmica</h3>
-<div class="outline-text-3" id="text-orgc3b3ae9">
+<div id="outline-container-orgfaa5e96" class="outline-2">
+<h2 id="orgfaa5e96">Termodinâmica</h2>
+<div class="outline-text-2" id="text-orgfaa5e96">
 </div>
-<div id="outline-container-org2857e84" class="outline-4">
-<h4 id="org2857e84">Conceito de temperatura</h4>
+<div id="outline-container-org29bbb2f" class="outline-3">
+<h3 id="org29bbb2f">Conceito de temperatura</h3>
 </div>
 
-<div id="outline-container-org5f8d9b9" class="outline-4">
-<h4 id="org5f8d9b9">Escalas termométricas</h4>
-<div class="outline-text-4" id="text-org5f8d9b9">
+<div id="outline-container-orgee11afe" class="outline-3">
+<h3 id="orgee11afe">Escalas termométricas</h3>
+<div class="outline-text-3" id="text-orgee11afe">
 <div style="text-align:center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/CelsiusKelvin.svg"
        alt="Comparação entre Celsius e Kelvin"
@@ -344,13 +359,13 @@ Sorry, your browser does not support SVG.</object>
 </div>
 
 
-<div id="outline-container-org8b40ad3" class="outline-4">
-<h4 id="org8b40ad3">Dilatação Térmica</h4>
-<div class="outline-text-4" id="text-org8b40ad3">
+<div id="outline-container-orgb810e6f" class="outline-3">
+<h3 id="orgb810e6f">Dilatação Térmica</h3>
+<div class="outline-text-3" id="text-orgb810e6f">
 </div>
-<ul class="org-ul">
-<li><a id="org25d4d9c"></a>Dilatação Linear<br />
-<div class="outline-text-5" id="text-org25d4d9c">
+<div id="outline-container-org773591c" class="outline-4">
+<h4 id="org773591c">Dilatação Linear</h4>
+<div class="outline-text-4" id="text-org773591c">
 <p>
 #+BEIGIN<sub>EXPORT</sub> html
 &lt;a title="MikeRun, CC BY-SA 4.0 &amp;lt;<a href="https://creativecommons.org/licenses/by-sa/4.0&amp;gt">https://creativecommons.org/licenses/by-sa/4.0&amp;gt</a>;, via Wikimedia Commons" href="<object type="image/svg+xml" data="https://commons.wikimedia.org/wiki/File:Thermal-expansion.svg" class="org-svg">
@@ -358,11 +373,12 @@ Sorry, your browser does not support SVG.</object>"&gt;&lt;img width="256" alt="
 #+END<sub>EXPORT</sub>
 </p>
 </div>
-</li>
+</div>
 
 
-<li><a id="org2c4978f"></a>Dilatação superficial<br />
-<div class="outline-text-5" id="text-org2c4978f">
+<div id="outline-container-org1233b19" class="outline-4">
+<h4 id="org1233b19">Dilatação superficial</h4>
+<div class="outline-text-4" id="text-org1233b19">
 <p>
 #+BEIGIN<sub>EXPORT</sub> html
 &lt;a title="MikeRun, CC BY-SA 4.0 &amp;lt;<a href="https://creativecommons.org/licenses/by-sa/4.0&amp;gt">https://creativecommons.org/licenses/by-sa/4.0&amp;gt</a>;, via Wikimedia Commons" href="<object type="image/svg+xml" data="https://commons.wikimedia.org/wiki/File:Thermal-expansion-aera.svg" class="org-svg">
@@ -370,11 +386,12 @@ Sorry, your browser does not support SVG.</object>"&gt;&lt;img width="512" alt="
 #+END<sub>EXPORT</sub>
 </p>
 </div>
-</li>
+</div>
 
 
-<li><a id="org22536fd"></a>Dilatação volumétrica<br />
-<div class="outline-text-5" id="text-org22536fd">
+<div id="outline-container-orgf8012dc" class="outline-4">
+<h4 id="orgf8012dc">Dilatação volumétrica</h4>
+<div class="outline-text-4" id="text-orgf8012dc">
 <p>
 #+BEIGIN<sub>EXPORT</sub> html
 &lt;a title="MikeRun, CC BY-SA 4.0 &amp;lt;<a href="https://creativecommons.org/licenses/by-sa/4.0&amp;gt">https://creativecommons.org/licenses/by-sa/4.0&amp;gt</a>;, via Wikimedia Commons" href="<object type="image/svg+xml" data="https://commons.wikimedia.org/wiki/File:Thermal-expansion-volume.svg" class="org-svg">
@@ -382,41 +399,51 @@ Sorry, your browser does not support SVG.</object>"&gt;&lt;img width="512" alt="
 #+END<sub>EXPORT</sub>
 </p>
 </div>
-</li>
-</ul>
+</div>
 </div>
 
 
 
 
-<div id="outline-container-org9aa1a7c" class="outline-4">
-<h4 id="org9aa1a7c">Conceito de calor</h4>
+<div id="outline-container-org5b310b5" class="outline-3">
+<h3 id="org5b310b5">Conceito de calor</h3>
 </div>
 
-<div id="outline-container-org630691d" class="outline-4">
-<h4 id="org630691d">Calor específico e  Calor latente</h4>
-<div class="outline-text-4" id="text-org630691d">
+<div id="outline-container-org88eda39" class="outline-3">
+<h3 id="org88eda39">Calor específico e  Calor latente</h3>
+<div class="outline-text-3" id="text-org88eda39">
 <a title="Przygocki, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Agua_temperatura_por_calor.svg"><img width="512" alt="Graph of temperature of phases of water heated from −100 °C to 200 °C – the dashed line example shows that melting and heating 1 kg of ice at −50 °C to water at 40 °C needs 600 kJ" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Agua_temperatura_por_calor.svg/512px-Agua_temperatura_por_calor.svg.png?20220221221432"></a>
 </div>
 </div>
 
-<div id="outline-container-org84d9d46" class="outline-4">
-<h4 id="org84d9d46">Transferência de calor</h4>
-<div class="outline-text-4" id="text-org84d9d46">
+<div id="outline-container-org448a896" class="outline-3">
+<h3 id="org448a896">Transferência de calor</h3>
+<div class="outline-text-3" id="text-org448a896">
 </div>
-<ul class="org-ul">
-<li><a id="org6b74b25"></a>Condução<br /></li>
-
-<li><a id="org9d78970"></a>Convecção<br /></li>
-
-<li><a id="orgc3ff3ed"></a>Radiação<br /></li>
-</ul>
+<div id="outline-container-org1515533" class="outline-4">
+<h4 id="org1515533">Condução</h4>
 </div>
 
-<div id="outline-container-org7e22b84" class="outline-4">
-<h4 id="org7e22b84">A primeira Lei da Termodinâmica</h4>
+<div id="outline-container-orgc105d98" class="outline-4">
+<h4 id="orgc105d98">Convecção</h4>
+</div>
+
+<div id="outline-container-orgbbee342" class="outline-4">
+<h4 id="orgbbee342">Radiação</h4>
 </div>
 </div>
+
+<div id="outline-container-org1a7d6f1" class="outline-3">
+<h3 id="org1a7d6f1">A primeira Lei da Termodinâmica</h3>
+</div>
+</div>
+
+<div id="outline-container-org90c591b" class="outline-2">
+<h2 id="org90c591b">Óptica</h2>
+</div>
+
+<div id="outline-container-orgf39abd3" class="outline-2">
+<h2 id="orgf39abd3">Ondas</h2>
 </div>
 </div>
 <div id="postamble" class="status">
