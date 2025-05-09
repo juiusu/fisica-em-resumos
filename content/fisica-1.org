@@ -104,7 +104,7 @@ Quando há uma variação de velocidade (aumento ou redução) existe uma aceler
   <p style="font-weight:bold; font-size:1.1em;">
     Variação de velocidade entre os instantes \(t_0=5\,s\) e \(t_f = 15\,s\).
   </p>
-  <img src="./pictures/kinematics-2.png"
+  <img src="./pictures/kinematics-3.png"
        alt="Descrição do movimento de carros -3"
        style="width:100%; height:auto;">
   <p style="font-style:italic; font-size:0.9em;">
