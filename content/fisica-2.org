@@ -1,17 +1,15 @@
 #+OPTIONS: toc:t
 
 
-* Física II
+* Mecânica dos Fluidos
 
-** Mecânica dos Fluidos
+** Pressão Hidrostática
 
-*** Pressão Hidrostática
-
-**** Conceitos iniciais
+*** Conceitos iniciais
 
 Relembre os conceitos de [[file:area.org][Área]] ,  [[file:volume.org][volume]] e  [[file:densidade][densidade]] .
 
-**** Conceito de pressão
+*** Conceito de pressão
 
 É a força distribuida pela àrea sob a qual está aplicada:
 
@@ -20,7 +18,7 @@ Relembre os conceitos de [[file:area.org][Área]] ,  [[file:volume.org][volume]]
 Explicação mais detalhada sobre [[file:conceito-de-pressao.org][conceito de pressão]] 
 
 
-**** Pressão em um líquido
+*** Pressão em um líquido
 
 A pressão hidrostática é causada pelo peso de um fluido em eterminado
  ponto do fluido. Por exemplo, a pressão que você sente ao mergulhar
@@ -56,7 +54,7 @@ p = d g h
 \]
 
 
-**** Pressão atmosférica
+*** Pressão atmosférica
 
 Apressão atmosférica é um tipo de pressão hidrostática, porém,
 considerando que estamos envolvidos por um fluido que são os diversos
@@ -80,7 +78,7 @@ atmosférica a nível do mar. Sua relação com a unidade pascal é:
 
 [[file:quest-fisca2-1.org][Questões de revisão: Fluidos]]
 
-*** Prensa Hidráulica
+** Prensa Hidráulica
 
 Como conseguimos levantar um carro com o pé utilizando um [[https://pt.wikipedia.org/wiki/Macaco_(ferramenta)][Macaco]]
 Hidrálico ?
@@ -118,7 +116,7 @@ Qual o custo de apliar a força, já que a energia se conserva?
 #+END_EXPORT
 
 
-*** Empuxo
+** Empuxo
 
 
 
@@ -158,16 +156,16 @@ https://upload.wikimedia.org/wikipedia/commons/7/72/Archimedes-principle.svg
 #+END_EXPORT
 
 
-*** Pressão Hidrodinâmica
+** Pressão Hidrodinâmica
 
 
-*** Aerodinâmica
+** Aerodinâmica
 
-** Termodinâmica
+* Termodinâmica
 
-*** Conceito de temperatura
+** Conceito de temperatura
 
-*** Escalas termométricas
+** Escalas termométricas
 
 #+BEGIN_EXPORT html
 <div style="text-align:center;">
@@ -179,23 +177,23 @@ https://upload.wikimedia.org/wikipedia/commons/7/72/Archimedes-principle.svg
 #+END_EXPORT
 
 
-*** Dilatação Térmica
+** Dilatação Térmica
 
-**** Dilatação Linear
+*** Dilatação Linear
 
 #+BEIGIN_EXPORT html
 <a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Thermal-expansion.svg"><img width="256" alt="Thermal-expansion" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Thermal-expansion.svg/256px-Thermal-expansion.svg.png?20200707221506"></a>
 #+END_EXPORT
 
 
-**** Dilatação superficial
+*** Dilatação superficial
 
 #+BEIGIN_EXPORT html
 <a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Thermal-expansion-aera.svg"><img width="512" alt="Thermal-expansion-aera" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Thermal-expansion-aera.svg/512px-Thermal-expansion-aera.svg.png?20200707221450"></a>
 #+END_EXPORT
 
 
-**** Dilatação volumétrica
+*** Dilatação volumétrica
 
 #+BEIGIN_EXPORT html
 <a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Thermal-expansion-volume.svg"><img width="512" alt="Thermal-expansion-volume" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Thermal-expansion-volume.svg/512px-Thermal-expansion-volume.svg.png?20200707221144"></a>
@@ -204,21 +202,25 @@ https://upload.wikimedia.org/wikipedia/commons/7/72/Archimedes-principle.svg
 
 
 
-*** Conceito de calor
+** Conceito de calor
 
-*** Calor específico e  Calor latente
+** Calor específico e  Calor latente
 
 #+BEGIN_EXPORT html
 <a title="Przygocki, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Agua_temperatura_por_calor.svg"><img width="512" alt="Graph of temperature of phases of water heated from −100 °C to 200 °C – the dashed line example shows that melting and heating 1 kg of ice at −50 °C to water at 40 °C needs 600 kJ" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Agua_temperatura_por_calor.svg/512px-Agua_temperatura_por_calor.svg.png?20220221221432"></a>
 #+END_EXPORT
 
-*** Transferência de calor
+** Transferência de calor
 
-**** Condução
+*** Condução
 
-**** Convecção
+*** Convecção
 
-**** Radiação
+*** Radiação
 
-*** A primeira Lei da Termodinâmica
+** A primeira Lei da Termodinâmica
+
+* Óptica
+
+* Ondas
 

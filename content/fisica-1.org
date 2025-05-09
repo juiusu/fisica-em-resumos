@@ -1,57 +1,108 @@
+#+OPTIONS: toc:t
 
-* Física I
+* Mecânica: Visão geral
 
+* Cinemática
 
-** Mecânica
-A mecânica estuda o movimento dos corpos e as forças que atuam sobre eles.
-
-
-*** Cinemática
+** Visão geral
 
 A Cinemática é o estudo do movimento dos corpos sem se preocupar com a
-análise das suas causas. Ela é importante para introduzir os conceitos
+análise das suas causas. Nesse tópico iremos introduzir os conceitos
 básicos relacionados ao movimento como:
 
-- Posição de um objeto
-- Deslocamento
-- Velocidade
-- Aceleração
+
+#+CAPTION: Conceitos básicos da cinemática
+#+ATTR_HTML: :align center
+| Conceito     | Descrição                                                               |
+|--------------+-------------------------------------------------------------------------|
+| Referencial  | Ponto de referência (ponto zero).                                       |
+| Posição      | posição de cada carro em relação ao referencial.                        |
+| Deslocamento | Variação da posição em um certo intervalo de tempo.                     |
+| Velocidade   | Razão entre um deslocamento e intervalo de tempo correspondente.        |
+| Aceleração   | Razão entre variação de velocidade e intervalo de tempo correspondente. |
+
+
+** Velocidade
+
+Considere as imagens abaixo e tente identificar cada um dos conceitos
+descritos anteriormente.
+
+#+CAPTION: Descrição do movimento de carros a partir de um referêncial, em um certo instante de tempo \(t_0\).
+#+ATTR_HTML: :width 700 :style text-align:center; display:block; margin:auto;
+[[file:./pictures/kinematics-1.png]] 
 
 
 
-#+CAPTION: Descrição do movimento de carros a partir de um referêncial.
-#+ATTR_HTML: :width 512 :style text-align:center; display:block; margin:auto;
-[[file:kinematics-1.png]] 
+#+CAPTION: Descrição do movimento de carros a partir de um referêncial, em um certo instante posterior (final) \(t_f\).
+#+ATTR_HTML: :width 700 :style text-align:center; display:block; margin:auto;
+[[file:./pictures/kinematics-2.png]] 
+
+
+Sobre as duas figuras acima, podemos afirmar, entre outras coisas, que: 
+
+A _*posição*_ do carro vermelho era de \(S_0=-10\,m\) no instante \(t_0\), e
+foi para \(S_f = -5\,m\) no instante \(t_f\).
+
+Se, por exemplo, \(t_0 = 10\,s\) e \(t_f=12 s\); então, _*o intervalo de
+tempo*_ em que ocorre o deslocamento é de \(\Delta t =12-10 =2s\).
+
+A _*velocidade*_ é a razão entre o _*deslocamento*_ \(\Delta S = -5 -(-10) =
+5\, m)\)  e o intervalo de tempo correspondente. Assim,
+
+\[ v = \frac{\Delta S}{\Delta t} = \frac{5\,m}{2\,s} = 5\, m/s\] 
+
+
+** Aceleração
+
+Quando há uma variação de velocidade (aumento ou redução) existe uma aceleração.
+
+#+CAPTION: Variação de velocidade entre os instantes \(t_0=5\,s\) e \(t_f = 15\,s\).
+#+ATTR_HTML: :width 900 :style text-align:center; display:block; margin:auto;
+[[file:./pictures/kinematics-3.png]] 
+
+Considere agora que ocorreu um aumento de velocidade durante um
+intervalo de \(10 \, s\) (\(\Delta t = 15 - 5 = 10\,s\)). A velocidade
+foi de \(v_0 = 5\,m/s\) para \(v_f=55\,m/s\).
+
+A _*aceleração*_, nesse caso, será:
+
+\[ a = \frac{\Delta v}{\Delta t} = \frac{50m/s}{10s} = \frac{10m/s}{1s}\]
+
+Escrevemos
+
+\[ a = 10\,m/s^2 \]
 
 
 
-
-
-*** Leis de Newton
+* Leis de Newton
 
 As de Newton são a base para o estudo da mecânica, ela estabelece os
 princípios básicos para explicar como e por que os movimentos
 acontecem.
 
-**** Força
+** Força
 
-**** Massa inércial
+** Massa inércial
 
-**** Unidade de força: Newton
+** Unidade de força: Newton
 
-**** Primeiria Lei: Inércia
+** Primeiria Lei: Inércia
 
-**** Segunda Lei: Princípio fundamental da dinâmica
+** Segunda Lei: Princípio fundamental da dinâmica
 
-**** Terceira Lei: Ação-reação
+** Terceira Lei: Ação-reação
 
-**** Força peso
+** Força peso
 
-**** Diagramas de força
+** Diagramas de força
 
-**** Aplicações
+** Aplicações
 
-** Mecânica dos Fluidos
+* Leis de Conservação: Energia, momento linear e momento angular
+
+* Gravitação
+
+* Mecânica dos Fluidos
 A mecânica dos fluidos estuda o comportamento de líquidos e gases em repouso ou em movimento.
 
 (Conteúdo a ser adicionado.)
