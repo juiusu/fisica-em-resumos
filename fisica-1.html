@@ -11,56 +11,231 @@
 <meta http-equiv="Content-Language" content="pt-BR">
 
                      <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
+<script>
+  window.MathJax = {
+    tex: {
+      ams: {
+        multlineWidth: '85%'
+      },
+      tags: 'ams',
+      tagSide: 'right',
+      tagIndent: '.8em'
+    },
+    chtml: {
+      scale: 1.0,
+      displayAlign: 'center',
+      displayIndent: '0em'
+    },
+    svg: {
+      scale: 1.0,
+      displayAlign: 'center',
+      displayIndent: '0em'
+    },
+    output: {
+      font: 'mathjax-modern',
+      displayOverflow: 'overflow'
+    }
+  };
+</script>
+
+<script
+  id="MathJax-script"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
 </head>
 <body>
 <div id="content" class="content">
-<div id="outline-container-org7f0e336" class="outline-2">
-<h2 id="org7f0e336">Física I</h2>
-<div class="outline-text-2" id="text-org7f0e336">
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#orgf8effa8">Mecânica: Visão geral</a></li>
+<li><a href="#org31f7e7f">Cinemática</a>
+<ul>
+<li><a href="#orgb1726b5">Visão geral</a></li>
+<li><a href="#orge795159">Velocidade</a></li>
+<li><a href="#org62dccd9">Aceleração</a></li>
+</ul>
+</li>
+<li><a href="#org6229c7f">Leis de Newton</a>
+<ul>
+<li><a href="#orgb30e36e">Força</a></li>
+<li><a href="#orgebca618">Massa inércial</a></li>
+<li><a href="#orgfccdc77">Unidade de força: Newton</a></li>
+<li><a href="#org693d7b4">Primeiria Lei: Inércia</a></li>
+<li><a href="#org2c169e8">Segunda Lei: Princípio fundamental da dinâmica</a></li>
+<li><a href="#org99577ab">Terceira Lei: Ação-reação</a></li>
+<li><a href="#org54d2c2c">Força peso</a></li>
+<li><a href="#org2cf9c4a">Diagramas de força</a></li>
+<li><a href="#org8cdf9e4">Aplicações</a></li>
+</ul>
+</li>
+<li><a href="#org510de4f">Leis de Conservação: Energia, momento linear e momento angular</a></li>
+<li><a href="#orgcecd5a6">Gravitação</a></li>
+<li><a href="#orga2d4375">Mecânica dos Fluidos</a></li>
+</ul>
 </div>
-<div id="outline-container-orgc0ab0f5" class="outline-3">
-<h3 id="orgc0ab0f5">Mecânica</h3>
-<div class="outline-text-3" id="text-orgc0ab0f5">
-<p>
-A mecânica estuda o movimento dos corpos e as forças que atuam sobre eles.
-</p>
 </div>
 
+<div id="outline-container-orgf8effa8" class="outline-2">
+<h2 id="orgf8effa8">Mecânica: Visão geral</h2>
+</div>
 
-<div id="outline-container-org8df8935" class="outline-4">
-<h4 id="org8df8935">Cinemática</h4>
-<div class="outline-text-4" id="text-org8df8935">
+<div id="outline-container-org31f7e7f" class="outline-2">
+<h2 id="org31f7e7f">Cinemática</h2>
+<div class="outline-text-2" id="text-org31f7e7f">
+</div>
+<div id="outline-container-orgb1726b5" class="outline-3">
+<h3 id="orgb1726b5">Visão geral</h3>
+<div class="outline-text-3" id="text-orgb1726b5">
 <p>
 A Cinemática é o estudo do movimento dos corpos sem se preocupar com a
-análise das suas causas. Ela é importante para introduzir os conceitos
+análise das suas causas. Nesse tópico iremos introduzir os conceitos
 básicos relacionados ao movimento como:
 </p>
 
-<ul class="org-ul">
-<li>Posição de um objeto</li>
-<li>Deslocamento</li>
-<li>Velocidade</li>
-<li>Aceleração</li>
-</ul>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides" align="center">
+<caption class="t-above"><span class="table-number">Table 1:</span> Conceitos básicos da cinemática</caption>
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Conceito</th>
+<th scope="col" class="org-left">Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Referencial</td>
+<td class="org-left">Ponto de referência (ponto zero).</td>
+</tr>
+
+<tr>
+<td class="org-left">Posição</td>
+<td class="org-left">posição de cada carro em relação ao referencial.</td>
+</tr>
+
+<tr>
+<td class="org-left">Deslocamento</td>
+<td class="org-left">Variação da posição em um certo intervalo de tempo.</td>
+</tr>
+
+<tr>
+<td class="org-left">Velocidade</td>
+<td class="org-left">Razão entre um deslocamento e intervalo de tempo correspondente.</td>
+</tr>
+
+<tr>
+<td class="org-left">Aceleração</td>
+<td class="org-left">Razão entre variação de velocidade e intervalo de tempo correspondente.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
 
 
-
-
-<div id="org381cbcc" class="figure">
-<p><img src="kinematics-1.png" alt="kinematics-1.png" width="512" style="text-align:center; display:block; margin:auto;" /> 
+<div id="outline-container-orge795159" class="outline-3">
+<h3 id="orge795159">Velocidade</h3>
+<div class="outline-text-3" id="text-orge795159">
+<p>
+Considere as imagens abaixo e tente identificar cada um dos conceitos
+descritos anteriormente.
 </p>
-<p><span class="figure-number">Figure 1: </span>Descrição do movimento de carros a partir de um referêncial.</p>
+
+
+<div id="orgf5a9be4" class="figure">
+<p><img src="./pictures/kinematics-1.png" alt="kinematics-1.png" width="700" style="text-align:center; display:block; margin:auto;" /> 
+</p>
+<p><span class="figure-number">Figure 1: </span>Descrição do movimento de carros a partir de um referêncial, em um certo instante de tempo \(t_0\).</p>
+</div>
+
+
+
+
+<div id="org640ef83" class="figure">
+<p><img src="./pictures/kinematics-2.png" alt="kinematics-2.png" width="700" style="text-align:center; display:block; margin:auto;" /> 
+</p>
+<p><span class="figure-number">Figure 2: </span>Descrição do movimento de carros a partir de um referêncial, em um certo instante posterior (final) \(t_f\).</p>
+</div>
+
+
+<p>
+Sobre as duas figuras acima, podemos afirmar, entre outras coisas, que: 
+</p>
+
+<p>
+A <span class="underline"><b>posição</b></span> do carro vermelho era de \(S_0=-10\,m\) no instante \(t_0\), e
+foi para \(S_f = -5\,m\) no instante \(t_f\).
+</p>
+
+<p>
+Se, por exemplo, \(t_0 = 10\,s\) e \(t_f=12 s\); então, <span class="underline"><b>o intervalo de
+tempo</b></span> em que ocorre o deslocamento é de \(\Delta t =12-10 =2s\).
+</p>
+
+<p>
+A <span class="underline"><b>velocidade</b></span> é a razão entre o <span class="underline"><b>deslocamento</b></span> \(\Delta S = -5 -(-10) =
+5\, m)\)  e o intervalo de tempo correspondente. Assim,
+</p>
+
+<p>
+\[ v = \frac{\Delta S}{\Delta t} = \frac{5\,m}{2\,s} = 5\, m/s\] 
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org62dccd9" class="outline-3">
+<h3 id="org62dccd9">Aceleração</h3>
+<div class="outline-text-3" id="text-org62dccd9">
+<p>
+Quando há uma variação de velocidade (aumento ou redução) existe uma aceleração.
+</p>
+
+
+<div id="org81d70f8" class="figure">
+<p><img src="./pictures/kinematics-3.png" alt="kinematics-3.png" width="900" style="text-align:center; display:block; margin:auto;" /> 
+</p>
+<p><span class="figure-number">Figure 3: </span>Variação de velocidade entre os instantes \(t_0=5\,s\) e \(t_f = 15\,s\).</p>
+</div>
+
+<p>
+Considere agora que ocorreu um aumento de velocidade durante um
+intervalo de \(10 \, s\) (\(\Delta t = 15 - 5 = 10\,s\)). A velocidade
+foi de \(v_0 = 5\,m/s\) para \(v_f=55\,m/s\).
+</p>
+
+<p>
+A <span class="underline"><b>aceleração</b></span>, nesse caso, será:
+</p>
+
+<p>
+\[ a = \frac{\Delta v}{\Delta t} = \frac{50m/s}{10s} = \frac{10m/s}{1s}\]
+</p>
+
+<p>
+Escrevemos
+</p>
+
+<p>
+\[ a = 10\,m/s^2 \]
+</p>
 </div>
 </div>
 </div>
 
 
 
-
-
-<div id="outline-container-orgfe41627" class="outline-4">
-<h4 id="orgfe41627">Leis de Newton</h4>
-<div class="outline-text-4" id="text-orgfe41627">
+<div id="outline-container-org6229c7f" class="outline-2">
+<h2 id="org6229c7f">Leis de Newton</h2>
+<div class="outline-text-2" id="text-org6229c7f">
 <p>
 As de Newton são a base para o estudo da mecânica, ela estabelece os
 princípios básicos para explicar como e por que os movimentos
@@ -68,31 +243,54 @@ acontecem.
 </p>
 </div>
 
-<ul class="org-ul">
-<li><a id="org2992377"></a>Força<br /></li>
+<div id="outline-container-orgb30e36e" class="outline-3">
+<h3 id="orgb30e36e">Força</h3>
+</div>
 
-<li><a id="org840ed4a"></a>Massa inércial<br /></li>
+<div id="outline-container-orgebca618" class="outline-3">
+<h3 id="orgebca618">Massa inércial</h3>
+</div>
 
-<li><a id="orgb68ebaa"></a>Unidade de força: Newton<br /></li>
+<div id="outline-container-orgfccdc77" class="outline-3">
+<h3 id="orgfccdc77">Unidade de força: Newton</h3>
+</div>
 
-<li><a id="orgce6fb2a"></a>Primeiria Lei: Inércia<br /></li>
+<div id="outline-container-org693d7b4" class="outline-3">
+<h3 id="org693d7b4">Primeiria Lei: Inércia</h3>
+</div>
 
-<li><a id="orgf99dd35"></a>Segunda Lei: Princípio fundamental da dinâmica<br /></li>
+<div id="outline-container-org2c169e8" class="outline-3">
+<h3 id="org2c169e8">Segunda Lei: Princípio fundamental da dinâmica</h3>
+</div>
 
-<li><a id="orga7ac9ad"></a>Terceira Lei: Ação-reação<br /></li>
+<div id="outline-container-org99577ab" class="outline-3">
+<h3 id="org99577ab">Terceira Lei: Ação-reação</h3>
+</div>
 
-<li><a id="org3cf9681"></a>Força peso<br /></li>
+<div id="outline-container-org54d2c2c" class="outline-3">
+<h3 id="org54d2c2c">Força peso</h3>
+</div>
 
-<li><a id="orgb997a42"></a>Diagramas de força<br /></li>
+<div id="outline-container-org2cf9c4a" class="outline-3">
+<h3 id="org2cf9c4a">Diagramas de força</h3>
+</div>
 
-<li><a id="org5a9178d"></a>Aplicações<br /></li>
-</ul>
+<div id="outline-container-org8cdf9e4" class="outline-3">
+<h3 id="org8cdf9e4">Aplicações</h3>
 </div>
 </div>
 
-<div id="outline-container-orgf2d87ca" class="outline-3">
-<h3 id="orgf2d87ca">Mecânica dos Fluidos</h3>
-<div class="outline-text-3" id="text-orgf2d87ca">
+<div id="outline-container-org510de4f" class="outline-2">
+<h2 id="org510de4f">Leis de Conservação: Energia, momento linear e momento angular</h2>
+</div>
+
+<div id="outline-container-orgcecd5a6" class="outline-2">
+<h2 id="orgcecd5a6">Gravitação</h2>
+</div>
+
+<div id="outline-container-orga2d4375" class="outline-2">
+<h2 id="orga2d4375">Mecânica dos Fluidos</h2>
+<div class="outline-text-2" id="text-orga2d4375">
 <p>
 A mecânica dos fluidos estuda o comportamento de líquidos e gases em repouso ou em movimento.
 </p>
@@ -100,7 +298,6 @@ A mecânica dos fluidos estuda o comportamento de líquidos e gases em repouso o
 <p>
 (Conteúdo a ser adicionado.)
 </p>
-</div>
 </div>
 </div>
 </div>

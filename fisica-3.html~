@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Resumos das Aulas de Física</title>
+<title>&lrm;</title>
 <meta name="generator" content="Org mode" />
 <meta name="author" content="Joilson Silva Porto" />
 <meta http-equiv="Content-Language" content="pt-BR">
@@ -36,31 +36,40 @@
 </head>
 <body>
 <div id="content">
-<h1 class="title">Resumos das Aulas de Física</h1>
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgc80d372">Física III</a>
+<li><a href="#org52b4a8c">Física III</a>
 <ul>
-<li><a href="#org03d357a">Eletrostática</a></li>
+<li><a href="#orgbaa1e36">Eletrostática</a>
+<ul>
+<li><a href="#org360bae3">Carga elétrica</a></li>
+<li><a href="#org1bfa213">Condutores e isolantes</a></li>
+<li><a href="#org5303eae">Processos de eletrização</a></li>
+<li><a href="#org3f83d51">Força elétrica</a></li>
+<li><a href="#org6a3c316">Polarização</a></li>
+<li><a href="#orgd17a3cc">Campo elétrico</a></li>
+<li><a href="#orgd5f58af">Potencial elétrico</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-orgc80d372" class="outline-2">
-<h2 id="orgc80d372">Física III</h2>
-<div class="outline-text-2" id="text-orgc80d372">
+<div id="outline-container-org52b4a8c" class="outline-2">
+<h2 id="org52b4a8c">Física III</h2>
+<div class="outline-text-2" id="text-org52b4a8c">
 </div>
-<div id="outline-container-org03d357a" class="outline-3">
-<h3 id="org03d357a">Eletrostática</h3>
-<div class="outline-text-3" id="text-org03d357a">
+<div id="outline-container-orgbaa1e36" class="outline-3">
+<h3 id="orgbaa1e36">Eletrostática</h3>
+<div class="outline-text-3" id="text-orgbaa1e36">
 </div>
-<div id="outline-container-orgf161c18" class="outline-4">
-<h4 id="orgf161c18">Carga elétrica</h4>
-<div class="outline-text-4" id="text-orgf161c18">
+<div id="outline-container-org360bae3" class="outline-4">
+<h4 id="org360bae3">Carga elétrica</h4>
+<div class="outline-text-4" id="text-org360bae3">
 <blockquote>
 <p>
 A Carga elétrica é a propriedade da matéria que gera força elétrica;
@@ -162,9 +171,9 @@ pela eletrização dos objetos macroscópicos, bem como pela
 </div>
 
 
-<div id="outline-container-org8ab30fe" class="outline-4">
-<h4 id="org8ab30fe">Condutores e isolantes</h4>
-<div class="outline-text-4" id="text-org8ab30fe">
+<div id="outline-container-org1bfa213" class="outline-4">
+<h4 id="org1bfa213">Condutores e isolantes</h4>
+<div class="outline-text-4" id="text-org1bfa213">
 <ul class="org-ul">
 <li>Condutores
 <ul class="org-ul">
@@ -203,9 +212,9 @@ isso, não possuem <b>mobilidade</b> como nos metais.</li>
 </div>
 </div>
 
-<div id="outline-container-org7a6237d" class="outline-4">
-<h4 id="org7a6237d">Processos de eletrização</h4>
-<div class="outline-text-4" id="text-org7a6237d">
+<div id="outline-container-org5303eae" class="outline-4">
+<h4 id="org5303eae">Processos de eletrização</h4>
+<div class="outline-text-4" id="text-org5303eae">
 <ul class="org-ul">
 <li><p>
 Eletrização <b>por atrito</b>
@@ -262,9 +271,9 @@ Nesse processo, um corpo nele é eletrizado sem que seja colocado em contato com
 </div>
 </div>
 
-<div id="outline-container-org7874836" class="outline-4">
-<h4 id="org7874836">Força elétrica</h4>
-<div class="outline-text-4" id="text-org7874836">
+<div id="outline-container-org3f83d51" class="outline-4">
+<h4 id="org3f83d51">Força elétrica</h4>
+<div class="outline-text-4" id="text-org3f83d51">
 <p>
 A força elétrica é gerada pela carga elétrica. Assim, dois corpos
 eletrizados exercem, entre si, uma força, que pode ser de atração ou repulsão.
@@ -314,22 +323,21 @@ Essa lei é análoga à <a href="https://pt.wikipedia.org/wiki/Lei_da_gravita%C3
 </div>
 </div>
 
-<div id="outline-container-orgcec6cf8" class="outline-4">
-<h4 id="orgcec6cf8">Polarização</h4>
+<div id="outline-container-org6a3c316" class="outline-4">
+<h4 id="org6a3c316">Polarização</h4>
 </div>
 
-<div id="outline-container-org76890a6" class="outline-4">
-<h4 id="org76890a6">Campo elétrico</h4>
+<div id="outline-container-orgd17a3cc" class="outline-4">
+<h4 id="orgd17a3cc">Campo elétrico</h4>
 </div>
 
-<div id="outline-container-org5855dda" class="outline-4">
-<h4 id="org5855dda">Potencial elétrico</h4>
+<div id="outline-container-orgd5f58af" class="outline-4">
+<h4 id="orgd5f58af">Potencial elétrico</h4>
 </div>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Date: 2025</p>
 <p class="author">Author: Joilson Silva Porto</p>
 <p class="email">Email: <a href="mailto:joilson.porto@ifam.edu.br">joilson.porto@ifam.edu.br</a></p>
 <p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.1 (<a href="https://orgmode.org">Org</a> mode 9.3)</p>
