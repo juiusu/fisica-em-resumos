@@ -43,9 +43,12 @@ Sugestões dos alunos serão sempre bem-vindas.
 
 - ALVARENGA, Beatriz; MÁXIMO, Antônio. *Física Ensino Médio*. São Paulo: Editora Scipione, 2006.
 
-
+- [[https://github.com/juiusu/resumos-fisica-EM][Projeto completo no Git-Hub]]   
 
 ---------------------------------------------------------------------
 
+
 #+ATTR_HTML: :width 25px
 [[file:ifam-logo.png]]    Insituto Federal do Amazonas - /Campus/ Eirunepé
+
+---------------------------------------------------------------------

@@ -16,9 +16,9 @@
 <div id="content">
 <h1 class="title">Resumos das Aulas de Física</h1>
 
-<div id="outline-container-org6828a00" class="outline-2">
-<h2 id="org6828a00">Introdução</h2>
-<div class="outline-text-2" id="text-org6828a00">
+<div id="outline-container-org83a3982" class="outline-2">
+<h2 id="org83a3982">Introdução</h2>
+<div class="outline-text-2" id="text-org83a3982">
 <p>
 Nessa página serão resumidas as aulas de <b><b>física</b></b> dos Cursos Técnicos de Nível Médio em Informática, Administração e Agropecuária na Forma Integrada, do IFAM <i>Campus</i> Eirunepé; ministradas no ano de 2025.
 </p>
@@ -26,7 +26,6 @@ Nessa página serão resumidas as aulas de <b><b>física</b></b> dos Cursos Téc
 <p>
 O objetivo é construir um material de consulta aos estudantes ao longo do desenvolvimento das disciplinas. 
 </p>
-
 
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
@@ -42,38 +41,35 @@ DemonDeLuxe (Dominique Toussaint), CC BY-SA 3.0 <http://creativecommons.org/lice
   </p>
 </div>
 
-
-
-
 <p>
 Sugestões dos alunos serão sempre bem-vindas.
 </p>
 </div>
 </div>
 
-<div id="outline-container-org5be78a9" class="outline-2">
-<h2 id="org5be78a9"><a href="sugestoes-como-estudar.html">Sugestões sobre como estudar</a></h2>
+<div id="outline-container-org5db74d8" class="outline-2">
+<h2 id="org5db74d8"><a href="sugestoes-como-estudar.html">Sugestões sobre como estudar</a></h2>
 </div>
 
-<div id="outline-container-orga590838" class="outline-2">
-<h2 id="orga590838"><a href="pre-fisica.html">Pré-Física</a></h2>
+<div id="outline-container-orgd11e0ef" class="outline-2">
+<h2 id="orgd11e0ef"><a href="pre-fisica.html">Pré-Física</a></h2>
 </div>
 
-<div id="outline-container-org30ad249" class="outline-2">
-<h2 id="org30ad249"><a href="fisica-1.html">Física I</a></h2>
+<div id="outline-container-org4c032a9" class="outline-2">
+<h2 id="org4c032a9"><a href="fisica-1.html">Física I</a></h2>
 </div>
 
-<div id="outline-container-orgb9168a8" class="outline-2">
-<h2 id="orgb9168a8"><a href="fisica-2.html">Física II</a></h2>
+<div id="outline-container-orgc24badd" class="outline-2">
+<h2 id="orgc24badd"><a href="fisica-2.html">Física II</a></h2>
 </div>
 
-<div id="outline-container-org9ce4918" class="outline-2">
-<h2 id="org9ce4918"><a href="fisica-3.html">Física III</a></h2>
+<div id="outline-container-org444528a" class="outline-2">
+<h2 id="org444528a"><a href="fisica-3.html">Física III</a></h2>
 </div>
 
-<div id="outline-container-org68ece86" class="outline-2">
-<h2 id="org68ece86">Referências</h2>
-<div class="outline-text-2" id="text-org68ece86">
+<div id="outline-container-org0b4fbef" class="outline-2">
+<h2 id="org0b4fbef">Referências</h2>
+<div class="outline-text-2" id="text-org0b4fbef">
 <ul class="org-ul">
 <li>HEWITT, Paul G. <b>Física Conceitual</b>. Bookman Editora, 2023.</li>
 
@@ -82,7 +78,8 @@ Sugestões dos alunos serão sempre bem-vindas.
 <li><a href="https://github.com/juiusu/resumos-fisica-EM">Projeto completo no Git-Hub</a></li>
 </ul>
 
-
+<hr />
+<hr />
 
 <p width="25px">
 <img src="ifam-logo.png" alt="ifam-logo.png" width="25px" />    Insituto Federal do Amazonas - <i>Campus</i> Eirunepé
