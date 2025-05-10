@@ -5,10 +5,7 @@
 #+AUTHOR: Joilson Silva Porto
 #+EMAIL: joilson.porto@ifam.edu.br
 
-* Introdução
-Nessa página serão resumidas as aulas de **física** dos Cursos Técnicos de Nível Médio em Informática, Administração e Agropecuária na Forma Integrada, do IFAM /Campus/ Eirunepé; ministradas no ano de 2025.
 
-O objetivo é construir um material de consulta aos estudantes ao longo do desenvolvimento das disciplinas. 
 
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
@@ -25,6 +22,14 @@ DemonDeLuxe (Dominique Toussaint), CC BY-SA 3.0 <http://creativecommons.org/lice
   </p>
 </div>
 #+END_EXPORT
+
+
+
+
+* Introdução
+Nessa página serão resumidas as aulas de **física** dos Cursos Técnicos de Nível Médio em Informática, Administração e Agropecuária na Forma Integrada, do IFAM /Campus/ Eirunepé; ministradas no ano de 2025.
+
+O objetivo é construir um material de consulta aos estudantes ao longo do desenvolvimento das disciplinas. 
 
 
 Sugestões dos alunos serão sempre bem-vindas.
