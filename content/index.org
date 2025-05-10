@@ -45,12 +45,17 @@ Sugestões dos alunos serão sempre bem-vindas.
 * Referências
 - HEWITT, Paul G. *Física Conceitual*. Bookman Editora, 2023.
 - ALVARENGA, Beatriz; MÁXIMO, Antônio. *Física Ensino Médio*. São Paulo: Editora Scipione, 2006.
+- [[https://github.com/juiusu/resumos-fisica-EM][Projeto completo no Git-Hub]]  
 
-  
+
 
 
 #+ATTR_HTML: :width 25px
 [[file:ifam-logo.png]]    Insituto Federal do Amazonas - /Campus/ Eirunepé
+
+
+
+
 
 
 

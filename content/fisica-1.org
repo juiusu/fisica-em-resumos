@@ -11,9 +11,7 @@
        alt="Animação do pêndulo de Newton"
        style="width:100%; height:auto;">
   <p style="font-style:italic; font-size:0.9em;">
-    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Newtons_cradle_animation_book.gif" target="_blank">
-      Wikimedia Commons (CC0)
-    </a>
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Foucault_pendulum_animated.gif">DemonDeLuxe (Dominique Toussaint)</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
   </p>
 </div>
 #+END_EXPORT
