@@ -1,6 +1,9 @@
 
 ** Sugestões sobre como estudar
 
+
+*** Métodos
+
 É importante se atentar para a como estamos estudando e aprendendo, de
 moda a tornar o estudo mais eficiente. Abaixo estão lincados alguns
 artigos e vídeos sobre algumas técnicas simples para tornar o estudo mais eficiente.
@@ -36,10 +39,26 @@ pequenos intervalos de descanso.
 
 🎥 [[https://youtu.be/YI9oxHGf6iE][Técnica Pomodoro - Dicas de estudo - Canal: Socratica Português]]
 
+
+
+
+
+*** Princípios
+
+Para além dos métodos de estudo, o que realmente é mais relevante é a
+sua motivação para estudar e motivo por que você está estudando. Isso
+pode mudar completamente não só a sua eficiencia no aprendizado, mas
+também a sua relação com o conhecimento.
+
 - **Busque motivação**
 
 As motivações podem ser as mais variadas, e diferentes para cada
 um. A melhor motivação é aquela que te faz gostar do processo. Sobre
-esse assunto, sugiro o vídeo abaixo:
+esse assunto, sugiro os vídeos abaixo:
 
 🎥 [[https://youtu.be/RQE_UHooRic][Feynman sobre o MELHOR método de ESTUDOS! - Canal: Universo Narrado]]
+
+🎥 [[https://youtu.be/WYmsiB_Rk8c][Quem aprende rápido faz isso diferente - [Lúcia Helena
+Galvão. Estoicismo Prático| Inteligência Plena]] 
+
+
