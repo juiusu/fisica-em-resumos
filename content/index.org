@@ -18,7 +18,7 @@ O objetivo é construir um material de consulta aos estudantes ao longo do desen
   </p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Foucault_pendulum_animated.gif"
        alt="Animação do Pêndulo de Foucault."
-       style="width:35%; height:auto;">
+       style="width:60%; height:auto;">
   <p style="font-style:italic; font-size:0.9em;">
     Fonte: <a href="https://upload.wikimedia.org/wikipedia/commons/a/a1/Foucault_pendulum_animated.gif" target="_blank">
 DemonDeLuxe (Dominique Toussaint), CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons
