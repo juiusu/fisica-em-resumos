@@ -16,9 +16,9 @@
 <div id="content">
 <h1 class="title">Resumos das Aulas de Física</h1>
 
-<div id="outline-container-org243d81f" class="outline-2">
-<h2 id="org243d81f">Introdução</h2>
-<div class="outline-text-2" id="text-org243d81f">
+<div id="outline-container-org667df41" class="outline-2">
+<h2 id="org667df41">Introdução</h2>
+<div class="outline-text-2" id="text-org667df41">
 <p>
 Nessa página serão resumidas as aulas de <b><b>física</b></b> dos Cursos Técnicos de Nível Médio em Informática, Administração e Agropecuária na Forma Integrada, do IFAM <i>Campus</i> Eirunepé; ministradas no ano de 2025.
 </p>
@@ -34,7 +34,7 @@ O objetivo é construir um material de consulta aos estudantes ao longo do desen
   </p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Foucault_pendulum_animated.gif"
        alt="Animação do Pêndulo de Foucault."
-       style="width:50%; height:auto;">
+       style="width:60%; height:auto;">
   <p style="font-style:italic; font-size:0.9em;">
     Fonte: <a href="https://upload.wikimedia.org/wikipedia/commons/a/a1/Foucault_pendulum_animated.gif" target="_blank">
 DemonDeLuxe (Dominique Toussaint), CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons
@@ -51,29 +51,29 @@ Sugestões dos alunos serão sempre bem-vindas.
 </div>
 </div>
 
-<div id="outline-container-org8362feb" class="outline-2">
-<h2 id="org8362feb"><a href="sugestoes-como-estudar.html">Sugestões sobre como estudar</a></h2>
+<div id="outline-container-org9b9e759" class="outline-2">
+<h2 id="org9b9e759"><a href="sugestoes-como-estudar.html">Sugestões sobre como estudar</a></h2>
 </div>
 
-<div id="outline-container-orge1da94e" class="outline-2">
-<h2 id="orge1da94e"><a href="pre-fisica.html">Pré-Física</a></h2>
+<div id="outline-container-org62c02c5" class="outline-2">
+<h2 id="org62c02c5"><a href="pre-fisica.html">Pré-Física</a></h2>
 </div>
 
-<div id="outline-container-org3293877" class="outline-2">
-<h2 id="org3293877"><a href="fisica-1.html">Física I</a></h2>
+<div id="outline-container-orgd16c6d5" class="outline-2">
+<h2 id="orgd16c6d5"><a href="fisica-1.html">Física I</a></h2>
 </div>
 
-<div id="outline-container-org9f9e607" class="outline-2">
-<h2 id="org9f9e607"><a href="fisica-2.html">Física II</a></h2>
+<div id="outline-container-org546d5ae" class="outline-2">
+<h2 id="org546d5ae"><a href="fisica-2.html">Física II</a></h2>
 </div>
 
-<div id="outline-container-org826b1db" class="outline-2">
-<h2 id="org826b1db"><a href="fisica-3.html">Física III</a></h2>
+<div id="outline-container-org178cfb3" class="outline-2">
+<h2 id="org178cfb3"><a href="fisica-3.html">Física III</a></h2>
 </div>
 
-<div id="outline-container-orgf588c7a" class="outline-2">
-<h2 id="orgf588c7a">Referências</h2>
-<div class="outline-text-2" id="text-orgf588c7a">
+<div id="outline-container-org25202f8" class="outline-2">
+<h2 id="org25202f8">Referências</h2>
+<div class="outline-text-2" id="text-org25202f8">
 <ul class="org-ul">
 <li>HEWITT, Paul G. <b>Física Conceitual</b>. Bookman Editora, 2023.</li>
 <li>ALVARENGA, Beatriz; MÁXIMO, Antônio. <b>Física Ensino Médio</b>. São Paulo: Editora Scipione, 2006.</li>
