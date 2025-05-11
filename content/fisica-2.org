@@ -11,15 +11,14 @@
     Ilustração de um  <a href=" https://pt.wikipedia.org/wiki/Motor_de_combust%C3%A3o_interna" target="_blank"> motor de combustão térmica</a>.
   </p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Cshaft.gif"
-       alt="<a href="https://commons.wikimedia.org/wiki/File:Cshaft.gif">NASA</a>,
-Public domain, via Wikimedia Commons"
+       alt="<a href="https://commons.wikimedia.org/wiki/File:Cshaft.gif"
        style="width:60%; height:auto;">
   <p style="font-style:italic; font-size:0.9em;">
-    Fonte: 
-  </p>
+Fonte:  NASA</a>,
+Public domain, via Wikimedia Commons
+</p>
 </div>
 #+END_EXPORT
-
 
 
 
