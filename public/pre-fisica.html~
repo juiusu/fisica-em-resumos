@@ -36,13 +36,13 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-org3f1b1ac" class="outline-2">
-<h2 id="org3f1b1ac">Pré-física</h2>
-<div class="outline-text-2" id="text-org3f1b1ac">
+<div id="outline-container-org5f410cd" class="outline-2">
+<h2 id="org5f410cd">Pré-física</h2>
+<div class="outline-text-2" id="text-org5f410cd">
 </div>
-<div id="outline-container-org812f310" class="outline-3">
-<h3 id="org812f310">Grandezas e Unidades de Medida</h3>
-<div class="outline-text-3" id="text-org812f310">
+<div id="outline-container-org7cbb59a" class="outline-3">
+<h3 id="org7cbb59a">Grandezas e Unidades de Medida</h3>
+<div class="outline-text-3" id="text-org7cbb59a">
 <p>
 As grandezas físicas são conceitos aos quais podemos atribuir valores
 numéricos, enquanto que as unidades de medida são padrões de medida
@@ -110,9 +110,9 @@ Na tabela abaixo estão algumas grandezas físicas com correspondentes unidades 
 </div>
 </div>
 
-<div id="outline-container-orgdd37d3a" class="outline-3">
-<h3 id="orgdd37d3a">Equações</h3>
-<div class="outline-text-3" id="text-orgdd37d3a">
+<div id="outline-container-orgf77943f" class="outline-3">
+<h3 id="orgf77943f">Equações</h3>
+<div class="outline-text-3" id="text-orgf77943f">
 <p>
 As equações na física são relações matemáticas entre
 grandezas. Considere os seguintes dados de uma substância hipotética:
@@ -197,9 +197,9 @@ Com dois valores conhecidos, podemos calcular o terceiro.
 </div>
 </div>
 
-<div id="outline-container-org74a9476" class="outline-3">
-<h3 id="org74a9476">Gráficos</h3>
-<div class="outline-text-3" id="text-org74a9476">
+<div id="outline-container-orgc601867" class="outline-3">
+<h3 id="orgc601867">Gráficos</h3>
+<div class="outline-text-3" id="text-orgc601867">
 <p>
 Gráficos são ferramentas visuais importantes para representar dados e relações entre grandezas físicas. Eles ajudam a identificar padrões e tendências.
 </p>
@@ -268,9 +268,9 @@ Podem ser representados pela figura
 </div>
 </div>
 
-<div id="outline-container-org1bc5c1e" class="outline-3">
-<h3 id="org1bc5c1e">Grandezas diretamente proporcionais e grandezas inversamente proporcionais</h3>
-<div class="outline-text-3" id="text-org1bc5c1e">
+<div id="outline-container-org59ce284" class="outline-3">
+<h3 id="org59ce284">Grandezas diretamente proporcionais e grandezas inversamente proporcionais</h3>
+<div class="outline-text-3" id="text-org59ce284">
 <p>
 Grandezas proporcionais são grandezas que crescem (ou descressem) na
 mesma proporção. Ou seja, se uma delas dobra o seu valor, a outra
