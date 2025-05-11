@@ -203,26 +203,58 @@ https://upload.wikimedia.org/wikipedia/commons/7/72/Archimedes-principle.svg
 
 *** Dilatação Linear
 
-#+BEIGIN_EXPORT html
-<a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Thermal-expansion.svg"><img width="256" alt="Thermal-expansion" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Thermal-expansion.svg/256px-Thermal-expansion.svg.png?20200707221506"></a>
+
+#+CAPTION: Ilustração da dilatação térmica de um corpo
+#+BEGIN_EXPORT html
+<div style="text-align:center;">
+  <a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons"
+     href="https://commons.wikimedia.org/wiki/File:Thermal-expansion.svg"
+     target="_blank">
+    <img width="256" alt="Thermal expansion"
+         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Thermal-expansion.svg/256px-Thermal-expansion.svg.png?20200707221506">
+  </a>
+  <p style="font-style:italic; font-size:0.9em;">
+    Fonte: MikeRun, CC BY-SA 4.0, via <a href="https://commons.wikimedia.org/wiki/File:Thermal-expansion.svg" target="_blank">Wikimedia Commons</a>
+  </p>
+</div>
 #+END_EXPORT
+
 
 
 *** Dilatação superficial
 
-#+BEIGIN_EXPORT html
-<a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Thermal-expansion-aera.svg"><img width="512" alt="Thermal-expansion-aera" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Thermal-expansion-aera.svg/512px-Thermal-expansion-aera.svg.png?20200707221450"></a>
+#+CAPTION: Ilustração da dilatação superficial de um corpo
+#+BEGIN_EXPORT html
+<div style="text-align:center;">
+  <a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons"
+     href="https://commons.wikimedia.org/wiki/File:Thermal-expansion-aera.svg"
+     target="_blank">
+    <img width="512" alt="Thermal expansion area"
+         src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Thermal-expansion-aera.svg/512px-Thermal-expansion-aera.svg.png?20200707221450">
+  </a>
+  <p style="font-style:italic; font-size:0.9em;">
+    Fonte: MikeRun, CC BY-SA 4.0, via <a href="https://commons.wikimedia.org/wiki/File:Thermal-expansion-aera.svg" target="_blank">Wikimedia Commons</a>
+  </p>
+</div>
 #+END_EXPORT
 
 
 *** Dilatação volumétrica
 
-#+BEIGIN_EXPORT html
-<a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Thermal-expansion-volume.svg"><img width="512" alt="Thermal-expansion-volume" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Thermal-expansion-volume.svg/512px-Thermal-expansion-volume.svg.png?20200707221144"></a>
+#+CAPTION: Ilustração da dilatação volumétrica de um corpo
+#+BEGIN_EXPORT html
+<div style="text-align:center;">
+  <a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons"
+     href="https://commons.wikimedia.org/wiki/File:Thermal-expansion-volume.svg"
+     target="_blank">
+    <img width="512" alt="Thermal expansion volume"
+         src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Thermal-expansion-volume.svg/512px-Thermal-expansion-volume.svg.png?20200707221144">
+  </a>
+  <p style="font-style:italic; font-size:0.9em;">
+    Fonte: MikeRun, CC BY-SA 4.0, via <a href="https://commons.wikimedia.org/wiki/File:Thermal-expansion-volume.svg" target="_blank">Wikimedia Commons</a>
+  </p>
+</div>
 #+END_EXPORT
-
-
-
 
 ** Conceito de calor
 

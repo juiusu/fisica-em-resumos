@@ -73,3 +73,40 @@ Public domain, via Wikimedia Commons"
 
 
 
+* Banco de imagens externas
+
+** Imagem utilizada em: index.org
+- Link da imagem: https://upload.wikimedia.org/wikipedia/commons/a/a1/Foucault_pendulum_animated.gif
+- Fonte: A preencher
+- Licença: A preencher
+- Descrição: A preencher
+
+** Imagem utilizada em: area.org
+- Link da imagem: https://upload.wikimedia.org/wikipedia/commons/e/eb/Rettangolo6x3.png?20241125180347
+- Fonte: A preencher
+- Licença: A preencher
+- Descrição: A preencher
+
+** Imagem utilizada em: banco-de-imagens-externas.org
+- Link da imagem: https://upload.wikimedia.org/wikipedia/commons/4/4b/Atomic-spectrum-.gif
+- Fonte: A preencher
+- Licença: A preencher
+- Descrição: A preencher
+
+** Imagem utilizada em: banco-de-imagens-externas.org
+- Link da imagem: https://commons.wikimedia.org/wiki/File:Aurora_Australis.gif
+- Fonte: A preencher
+- Licença: A preencher
+- Descrição: A preencher
+
+** Imagem utilizada em: banco-de-imagens-externas.org
+- Link da imagem: https://upload.wikimedia.org/wikipedia/commons/a/ac/Cshaft.gif
+- Fonte: A preencher
+- Licença: A preencher
+- Descrição: A preencher
+
+** Imagem utilizada em: banco-de-imagens-externas.org
+- Link da imagem: https://upload.wikimedia.org/wikipedia/commons/f/f5/Light_dispersion_conceptual_waves.gif
+- Fonte: A preencher
+- Licença: A preencher
+- Descrição: A preencher
