@@ -1,0 +1,98 @@
+* Exercícios e problemas - Física 3 - unidade 2
+
+** Revisão: tensão = energia por carga (\(U = \frac{E}{q}\))
+
+A figura abaixo será usada nas próximas 3 questões abaixo.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Linhas de potencial em uma distribuição plana de carga elétrica.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Lineas_del_campo_y_equipotenciales_en_un_condensador.png"
+       alt="potencial capacitor"
+       style="width:35%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Lineas_del_campo_y_equipotenciales_en_un_condensador.png">Paulagf27</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
+** Revisão: tensão = energia por carga (\(U = \frac{E}{q}\)) - Questão 1
+
+A imagem mostra duas placas: uma com 40 V e outra com 0 V. Suponha que uma carga de \( q = 1\,\mu C \) (microcoulomb) seja deslocada da placa positiva para a negativa. Qual é a energia potencial elétrica perdida por essa carga nesse deslocamento?
+
+| a) 40 μJ | b) 20 μJ | c) 0 μJ | d) 1 J |
+
+
+
+
+** Revisão: tensão = energia por carga (\(U = \frac{E}{q}\)) - Questão 2
+
+Observe as setas vermelhas apontando da placa de 40 V para a de 0 V. Isso indica:
+
+a) O campo elétrico aponta no sentido do aumento da energia potencial.
+
+b) O campo elétrico aponta para o lado positivo.
+
+c) O campo elétrico aponta no sentido de queda de potencial elétrico.
+
+d) A corrente elétrica está indo do menor para o maior potencial.
+
+
+** Revisão: tensão = energia por carga (\(U = \frac{E}{q}\)) - Questão 3
+
+Uma carga de \( 2\,\mu C \) é deslocada da linha de 30 V para a linha de 10 V. Qual é a variação da energia elétrica?
+
+| a) 40 μJ  | b) 20 μJ  | c) –40 μJ  | d) –20 μJ|
+
+** Revisão: Potência, corrente e tensão - Questão 1
+Uma lâmpada elétrica funciona com uma tensão de 120 V e consome uma
+corrente de 0,5 A. Qual é a potência dissipada por essa lâmpada?
+
+
+|a) 30 W  | b) 60 W  | c) 240 W  | d) 60 kW  |
+
+** Revisão: Potência, corrente e tensão - Questão 2
+Um chuveiro elétrico opera com potência de 4800 W e está ligado a uma rede de 220 V. Qual é a corrente que circula pelo chuveiro?
+
+|a) 10 A  |b) 20 A  | c) 22 A  | d) 48 A  |
+
+** Revisão: Potência, corrente e tensão - Questão 3
+Se a corrente elétrica que percorre um aparelho se mantiver constante, o que acontecerá com a potência dissipada se a tensão aplicada for dobrada?
+
+a) A potência será dividida pela metade
+
+b) A potência permanecerá constante
+
+c) A potência será duplicada
+
+d) A potência será quadruplicada  
+
+** Revisão: Lei de Ohm - Questão 1
+Um resistor está ligado a uma fonte de 12 V e a corrente que passa por ele é de 3 A. Qual é o valor da resistência elétrica desse resistor?
+
+|a) 4 Ω  | b) 9 Ω  | c) 36 Ω  | d) 15 Ω  |
+
+
+** Revisão: Lei de Ohm - Questão 2
+Um resistor de 10 Ω é percorrido por uma corrente elétrica de 2,5 A. Qual é a diferença de potencial (tensão) aplicada nesse resistor?
+
+|a) 4 V  |b) 12,5 V  | c) 25 V  | d) 40 V  |
+
+** Revisão: Lei de Ohm - Questão 3
+
+Em um circuito simples com um resistor, o que acontece com a corrente elétrica se mantivermos a resistência constante e dobrarmos a tensão?
+
+a) A corrente será reduzida à metade.
+
+b) A corrente permanecerá constante.
+
+c) A corrente será duplicada.
+
+d) A corrente será quadruplicada.

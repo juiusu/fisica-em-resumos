@@ -126,6 +126,17 @@ Escrevemos
 
 
 
+** Queda livre
+
+** Lançamento horizontal
+
+Qual será a velocidade vertical imediatamente antes de atingir o chão?
+
+
+** Movimento de Projétil
+
+Veja [[https://phet.colorado.edu/sims/html/projectile-motion/latest/projectile-motion_all.html?locale=pt_BR][aqui]] um conjunto de simulações do [[https://phet.colorado.edu/pt_BR][PHET]] 
+
 * Leis de Newton
 
 As de Newton são a base para o estudo da mecânica, ela estabelece os

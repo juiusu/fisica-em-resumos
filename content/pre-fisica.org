@@ -156,3 +156,39 @@ e
 
 
 [[file:quest-pre-fisica4.org][Questões de revisão: Grandezas diretamente proporcionais e grandezas inversamente proporcionais]]
+
+
+
+** Revisões de tópicos de matemática básica
+
+*** Operações com frações
+
+**** Soma de frações
+
+Para somar frações precisamos de um múltiplo comum. Em geral,
+escolhemos o Mínimo Múltiplo Comum (m.m.c). Exemplo:
+
+\[\frac{2}{3} + \frac{3}{2} = \frac{2\cdot 2 + 3 \cdot 3}{6} =\frac{4+9}{6}= \frac{13}{6}\]
+
+**** subtração de frações
+
+A subtração é análoga.
+
+\[\frac{3}{4} - \frac{2}{3} = \frac{3\cdot 3 - 4\cdot 2 }{12}=\frac{1}{12}\]
+
+**** Multiplicação de frações
+
+\[\frac{3}{2}\cdot \frac{2}{3} = \frac {3\cdot 2}{2\cdot 3} = \frac{6}{6}=1\]
+
+**** Divição de frações
+
+\[ \frac{3}{4}:\frac{6}{2} = \frac{3}{4}\cdot\frac{2}{6}  =
+\frac{1}{4}\cdot\frac{2}{2} = \frac{1}{4} \]
+
+
+
+[[file:quest-pre-fisica5.org][Questões de revisão: operações com frações]]
+
+
+
+

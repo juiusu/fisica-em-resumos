@@ -3,26 +3,6 @@
 
 
 
-
-
-#+BEGIN_EXPORT html
-<div style="text-align:center; max-width:700px; margin:auto;">
-  <p style="font-weight:bold; font-size:1.1em;">
-    Ilustração de um  <a href=" https://pt.wikipedia.org/wiki/Motor_de_combust%C3%A3o_interna" target="_blank"> motor de combustão térmica</a>.
-  </p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Cshaft.gif"
-       alt="<a href="https://commons.wikimedia.org/wiki/File:Cshaft.gif"
-       style="width:60%; height:auto;">
-  <p style="font-style:italic; font-size:0.9em;">
-Fonte:  NASA</a>,
-Public domain, via Wikimedia Commons
-</p>
-</div>
-#+END_EXPORT
-
-
-
-
 * Mecânica dos Fluidos
 
 ** Pressão Hidrostática
@@ -108,7 +88,7 @@ Hidrálico ?
 vamos analisar um exemplo mais simplificado de uma prensa hidráulica.
 
 #+CAPTION: Ao aplicarmos uma força \(F_1\) no lado esquerdo dessa prensa hidráulica, resultará em uma força maior \(F_2\) no lado direito.
-#+ATTR_HTML: :width 512 :style text-align:center; display:block; margin:auto;
+#+ATTR_HTML: :width 600 :style text-align:center; display:block; margin:auto;
 [[https://upload.wikimedia.org/wikipedia/commons/9/99/Working_principle_of_a_hydraulic_jack.svg]]
 
 
@@ -185,18 +165,107 @@ https://upload.wikimedia.org/wikipedia/commons/7/72/Archimedes-principle.svg
 
 * Termodinâmica
 
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Ilustração de um  <a href=" https://pt.wikipedia.org/wiki/Motor_de_combust%C3%A3o_interna" target="_blank"> motor de combustão térmica</a>.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Cshaft.gif"
+       alt="<a href="https://commons.wikimedia.org/wiki/File:Cshaft.gif"
+       style="width:60%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+Fonte:  NASA</a>,
+Public domain, via Wikimedia Commons
+</p>
+</div>
+#+END_EXPORT
+
+
 ** Conceito de temperatura
+
+A temperatura está relacionada a agitação a nível molecular. Ou seja,
+ela representa a energia do movimento das partículas (moléculas, ou
+átomos). Quanto maior a temperatura, maior será essa agitação.
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Representação da temperatura de um <a href="https://pt.wikipedia.org/wiki/G%C3%A1s_ideal" target="_blank"> Gás ideal </a>.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Translational_motion.gif"
+       alt="<a href="https://commons.wikimedia.org/wiki/File:Cshaft.gif"
+       style="width:60%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+Fonte:  <a href="https://commons.wikimedia.org/wiki/File:Translational_motion.gif">A. Greg (Greg L at English Wikipedia)</a>, Public domain, via Wikimedia Commons
+</p>
+</div>
+#+END_EXPORT
+
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Representação da vibração dos átomos em uma molécula devido à temperatura, nesse exemmplo a proteína <a href="https://pt.wikipedia.org/wiki/Temperatura" target="_blank"> alfa-hélice </a>.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Thermally_Agitated_Molecule.gif"
+       alt="<a href=" "
+       style="width:60%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+Fonte: 
+<a href="https://commons.wikimedia.org/wiki/File:Thermally_Agitated_Molecule.gif">http:/</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
+</p>
+</div>
+#+END_EXPORT
+
+
+
+
+
 
 ** Escalas termométricas
 
+Principais escalas de temperatura: 
+
+| Escala     | Fusão da água | Ebulição da água |
+|------------+---------------+------------------|
+| Celsius    | \(0 ^0 C\)    | \(100 ^0 C\)     |
+| Fahrenheit | \(32 ^0  F\)  | \( 212 ^0 F\)    |
+| Kelvin     | \( 273 K\)    | \( 373 K\)       |
+
+
 #+BEGIN_EXPORT html
-<div style="text-align:center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/CelsiusKelvin.svg"
-       alt="Comparação entre Celsius e Kelvin"
-       style="max-width:256px; width:100%; height:auto;">
-  <p><em>Comparação entre as escalas Celsius e Kelvin</em></p>
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Comparação entre as principais escalas de temperatura
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Escalas_de_Temperatura.jpg"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    "<a rel="noopener noreferrer" href="https://commons.wikimedia.org/w/index.php?curid=92805740">Escalas de Temperatura</a>" 
+    by <a rel="noopener noreferrer" href="https://commons.wikimedia.org/wiki/User:Mjmauler">Mjmauler</a> 
+    is licensed under 
+    <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse">
+      CC BY-SA 4.0 
+      <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" />
+      <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" />
+      <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-right: 0.125em; display: inline;" />
+    </a>.
+  </p>
 </div>
 #+END_EXPORT
+
+- Conversão de Celsius para Fahrenheit (e virce-versa)
+
+\[ T_C = \frac{5}{9}\left( T_F - 32 \right)\]
+
+- Conversão de celsius para Kelvin
+
+\[ T_k = T_C + 273\]
+
+
 
 
 ** Dilatação Térmica
@@ -210,7 +279,7 @@ https://upload.wikimedia.org/wikipedia/commons/7/72/Archimedes-principle.svg
   <a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons"
      href="https://commons.wikimedia.org/wiki/File:Thermal-expansion.svg"
      target="_blank">
-    <img width="256" alt="Thermal expansion"
+    <img width="400" alt="Thermal expansion"
          src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Thermal-expansion.svg/256px-Thermal-expansion.svg.png?20200707221506">
   </a>
   <p style="font-style:italic; font-size:0.9em;">
@@ -219,6 +288,29 @@ https://upload.wikimedia.org/wikipedia/commons/7/72/Archimedes-principle.svg
 </div>
 #+END_EXPORT
 
+A dilatação \(\Delta l\) é proporcional à variação de temperatura
+\(\Delta T\) e ao comprimento inicial \(l_0\):
+
+\[ \Delta l = \alpha \Delta T \ l_0 \] 
+
+Onde \( \alpha \) é o coreficiente de dilatação linear que
+característico de cada substância.
+
+#+CAPTION: Coeficientes de dilatação linear de alguns materiais
+#+ATTR_HTML: :style text-align:center; margin:auto;
+| Material                | Coeficiente de Dilatação Linear (×10⁻⁶ °C⁻¹) |
+|------------------------+----------------------------------------------|
+| Alumínio               | 22                                           |
+| Aço (comum)            | 12                                           |
+| Cobre                  | 17                                           |
+| Latão                  | 19                                           |
+| Vidro comum            | 9                                            |
+| Vidro pirex (borossilicato) | 3,3                                    |
+| Concreto               | 10                                           |
+| Chumbo                 | 29                                           |
+| Madeira (média)        | ~3 a 5 (varia com a direção das fibras)     |
+| Plástico (PVC)         | ~50 a 80                                     |
+| Silício                | 2,6                                          |
 
 
 *** Dilatação superficial
@@ -255,6 +347,48 @@ https://upload.wikimedia.org/wikipedia/commons/7/72/Archimedes-principle.svg
   </p>
 </div>
 #+END_EXPORT
+
+** Propagação de calor
+
+*** Condução
+
+#+CAPTION: Calor sendo transferido por condução.
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <a href="https://upload.wikimedia.org/wikipedia/commons/2/2d/Heat-conduction.svg" target="_blank">
+    <img width="512" alt="Ilustração da condução de calor" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Heat-conduction.svg" style="width:100%; height:auto;">
+  </a>
+  <p style="font-style:italic; font-size:0.9em;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Heat-conduction.svg">MikeRun</a>, 
+    <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+*** Convecção
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Representação da convecção, onde o fluido aquecido sobe, enquanto o fluido frio desce.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Convection.gif"
+       alt="<a href=" "
+       style="width:60%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+
+
+ Fonte: 
+
+ <a href="https://commons.wikimedia.org/wiki/File:Convection.gif">User:Oni Lukos</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
+</p>
+</div>
+#+END_EXPORT
+
+
+*** Irradiação
 
 ** Conceito de calor
 

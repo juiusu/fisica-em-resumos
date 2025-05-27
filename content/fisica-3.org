@@ -2,21 +2,22 @@
 
 * Eletricidade e magnetismo
 
-
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     Animação de uma <a href="https://pt.wikipedia.org/wiki/Aurora_polar" target="_blank">Aurora Polar</a>.
   </p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Aurora_Australis.gif"
-       alt="https://commons.wikimedia.org/wiki/File:Aurora_Australis.gif"
+       alt="Aurora Austral animada"
        style="width:60%; height:auto;">
-  <p style="font-style:italic; font-size:0.9em;">
-    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Aurora_Australis.gif">NASA</a>, Public domain, via Wikimedia Commons
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Aurora_Australis.gif">NASA</a>, 
+    Public domain, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
   </p>
 </div>
 #+END_EXPORT
-
 
 
 
@@ -163,25 +164,163 @@ Essa lei é análoga à [[https://pt.wikipedia.org/wiki/Lei_da_gravita%C3%A7%C3%
 ** Campo elétrico
 ** Potencial elétrico
 
+O potencial elétrico (\(U\)) em um ponto é a energia potencial por
+carga que teria uma carga positiva naquele ponto. Assim, em termos
+matemáticos, ela pode ser atribuido como a energia por carga
+
+\[ U = \frac{E}{Q}\] 
+
+A unidade de medida padrão para o potencial elétrico é o Volt (\( V\))
+que significa Joule (\(J\)) por segundo. Em síbolos:
+
+\[ V = \frac{J}{C}\]
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Linhas de potencial em uma distribuição plana de carga elétrica.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Lineas_del_campo_y_equipotenciales_en_un_condensador.png"
+       alt="potencial capacitor"
+       style="width:35%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Lineas_del_campo_y_equipotenciales_en_un_condensador.png">Paulagf27</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+O potencial elétrico está relacionado à tensão elétrica e à diferênça
+de potencial elétrica, todas essas grandezas medidas em volts. Apesar
+de serem grandezas relativamente diferentes, para fins didáticos, aqui
+iremos considerá-las sinônimos.
+
 * Eletrodinâmica
 
 ** Corrente elétrica
 
 *** Definição de corrente elétrica
 
-*** Sentido convencional da corrente elétrica
+É o fluxo orientado de carga elétrica em um condutor, e pode ser
+calculado imaginando a quantidade de carga que atravessa uma área
+de seção transversal do condutor por unidade de tempo. 
+
+\[I = \frac{ Q}{ t}\]
+
+O sentido convencional da corrente é aquele que teria cargas positivas se
+movendo, mesmo sendo, em geral, as cargas negativas (elétrons) que se
+movem.
+
+A unidade de medida padrão para a corrente é o Ampère, que significa
+Couloumbs por segundo. Em símbolos
+
+\[A = \frac{C}{s}\]
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Representação de uma corrente elétrica com cargas positivas ou negativas se movendo.</a>.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/ElectricCurrent.gif"
+       alt="corrente elétrica"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:ElectricCurrent.gif">And1mu</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
 
 *** Noções sobre corrente alternada
 
-** Circuitos simples
+Na corrente contínua (cc) , o fluxo está sepre em um sentido. Por exemplo,
+uma lâmpada ligada a uma pila. As polaridades da pilha (fixas)
+determinam o sentido da corrente.
 
-*** Resistores
+Por outro lado, na corente alternada (ca) os polos positivos e
+negativos se alternão periodicamente. Como exemplo, uma lâmpada ligada
+a uma tomada, com alternações entre 50 e 60 Hz.
+
+
+** Corrente, tensão e potência (Ampère, Volt e Watt)
+
+| unidade | símbolo | "definição"            | grandeza          | símbolo | "definição"     |
+|---------+---------+------------------------+-------------------+---------+-----------------|
+| Joule   | \(J\)   | \(J = N\cdot m\)       | Energia           | \(E\)   | \(E=F\cdot d\)  |
+| Coulomb | \(C\)   | \(6,25\times10^{18}e\) | Carga Elétrica    | \(Q\)   | \(Q=\pm\,n\,e\) |
+| Watt    | \(W\)   | \(W= J / s\)           | Potência          | \(P\)   | \(P=E/t\)       |
+| Hertz   | \(Hz\)  | Oscilações / s         | Frequência        | \(f\)   | \( f=n/t  \)    |
+| Volt    | \(V\)   | V = J/C                | Tensão elétrica   | \(U\)   | \(U = E/Q\)     |
+| Ampère  | \(A\)   | A = C/s                | Corrente elétrica | \(I\)   | \(I = Q/t\)     |
+
+A potência, energia por carga, pode ser relacionada à corrente e à
+tensão em um circuito, ou dispositvo eletrônico, por :
+
+\[ P = U\cdot I\] 
+
+
+Demonstração: \( U \cdot I = \frac{E}{Q}\frac{Q}{t} = \frac{E}{t} =
+P \)
+
+
+** Associações de compoonentes eletrônicos 
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Ligações em Série e Paralelo de uma bateria e duas lâmpadas.
+  </p>
+  <img src="./pictures/serie-paralelo_tinkercad1.png"
+       alt="lâmpadas em série e paralelo"
+       style="width:100%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+    Fonte: imagem criada pelo autor no tinkercad.com
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+*** Em série
+
+- Mesma corrente
+- Tensão se divide
+
+
+*** Em paralelo
+
+- Mesma tensão
+- Corrente se divide
+
+** Resistores
+
+*** Lei de Ohm
+- resistores ôhmico
+- resistores não ôhmicos
+*** Aplicações
+- transformar energia elétrica em energia térmica
+- reduzir a tensão elétrica em partes de um circuito.
+*** Associações de resistores
+
+**** Em Série
+
+**** Em paralelo
+
+**** Mista
+
+** Outros componentes eletrônicos
 
 *** Capacitores
 
-*** Geradores
+*** Diodos
 
-*** Potência e Energia
+*** Transistores
+
+
 
 
 * Magetismo
@@ -224,3 +363,8 @@ Essa lei é análoga à [[https://pt.wikipedia.org/wiki/Lei_da_gravita%C3%A7%C3%
 
 ** Cosmologia
 
+* Exercícios e problemas
+
+** [[file:quest-fis3-u1.org][questoes: unidade 1]]
+
+** [[file:quest-fis3-u2.org][questões: unidade 2]]
