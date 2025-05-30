@@ -1,3 +1,39 @@
+* Fonte própria
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    O movimento pode ser diferente para dois observadores diferentes.
+  </p>
+  <img src="./pictures/forca-resultante.png"
+       alt="queda-livre"
+       style="width:100%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    A força resultante é o resultado líquido de toas as forças atuantes. 
+  </p>
+  <img src="./pictures/referenciais.png"
+       alt="força resultante"
+       style="width:100%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+Fonte: criado pelo autor.
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
+* wikimedia
+
 
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
@@ -308,6 +344,23 @@ Public domain, via Wikimedia Commons"
   </p>
 </div>
 #+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Quem está dentro de um automóvel que faz uma curva, sente uma força para fora da curva.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/ForceCentrifugeDansUnVirage.png"
+       alt="força-cetrífuga"
+       style="width:70%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+  Fonte: <a href="https://commons.wikimedia.org/wiki/File:ForceCentrifugeDansUnVirage.png">Thilp</a>, CC0, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
 
 
 * CONFIGURAR

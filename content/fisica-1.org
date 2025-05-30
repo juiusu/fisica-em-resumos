@@ -257,11 +257,39 @@ acontecem.
 </div>
 #+END_EXPORT
 
+
+*** Força resultante
+
+Força é uma grandeza que tem direção (chamamos de grandezas vetoriais)
+de modo que, quando duas ou mais forças atuam em um corpo, temos que
+considerar as direções dessas forças.
+
+Assim, a força resultante é o resultado final da aplicação de todas
+essas forças.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    A força resultante é o resultado líquido de todas as forças atuantes. 
+  </p>
+  <img src="./pictures/forca-resultante.png"
+       alt="força resultante"
+       style="width:100%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+Fonte: criado pelo autor.
+  </p>
+</div>
+#+END_EXPORT
+
 ** Primeiria Lei: Inércia
+
+*** Enunciado da lei
 
 #+begin_quote
 Todo objeto permanece em seu estado de repouso ou de velocidade constante em linha reta, a menos que uma força resultante não nula seja exercida sobre ele.
 #+end_quote
+
+*** Movimento em linha reta
 
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
@@ -275,8 +303,6 @@ Todo objeto permanece em seu estado de repouso ou de velocidade constante em lin
   </p>
 </div>
 #+END_EXPORT
-
-
 
 
 
@@ -295,6 +321,8 @@ Todo objeto permanece em seu estado de repouso ou de velocidade constante em lin
 #+END_EXPORT
 
 
+
+*** Inércia
 
 - Inércia é como uma "preguiça" que objetos com massa tem de deixar o
   seu estado de repouso,ou movimento uniforme.
@@ -321,17 +349,38 @@ Todo objeto permanece em seu estado de repouso ou de velocidade constante em lin
 
 
 
+*** Referenciais, força centrífuga.
 
 
-
-- Referenciais inerciais - aqueles que respeitam a primeira lei
+Os Referenciais inerciais - aqueles que respeitam a primeira lei
 
   Ou seja
 
   Em referenciais não inerciais (referenciais acelerados) aparecem os
   corpos são acelerados mesmo na ausência de forças reais.
 
-  Como exemplo, do ponto de vista de quem está em movimento circular, existe uma aceleração centrífuga.
+  Como exemplo, do ponto de vista de quem está em movimento circular,
+  existe uma aceleração centrífuga, a qual associamos uma força
+  centrífuga. Mas essa força não existe de fato, ela se deve ao
+  referencial estar acelerado (movimento circular)
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Quem está dentro de um automóvel que faz uma curva, sente uma força para fora da curva.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/ForceCentrifugeDansUnVirage.png"
+       alt="força-cetrífuga"
+       style="width:50%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+  Fonte: <a href="https://commons.wikimedia.org/wiki/File:ForceCentrifugeDansUnVirage.png">Thilp</a>, CC0, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
 
 
 
