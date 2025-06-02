@@ -1,0 +1,184 @@
+* Eercícios e problemas - Unidade 2.
+
+** Questão 1
+
+#+CAPTION: Prensa hidráulica, com embolo de área menor à esquerda, e maior à direita.
+#+ATTR_HTML: :width 600 :style text-align:center; display:block; margin:auto;
+[[https://upload.wikimedia.org/wikipedia/commons/9/99/Working_principle_of_a_hydraulic_jack.svg]]
+
+
+Sabendo que a área do êmbolo pequeno é de \(0,01 m^2\) e a do êmbolo grande é de \(1 m^2), qual deve ser a força mínima aplicada no êmbolo menor para levantar um carro de 1000 kg?
+
+#+CAPTION: Prensa Hidráulica com seringas - Questões 2 a 5.
+#+BEGIN_EXPORT html
+<a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Hydraulic_transmission_between_two_syringes.svg"><img width="512" alt="Hydraulic transmission between two syringes" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hydraulic_transmission_between_two_syringes.svg/512px-Hydraulic_transmission_between_two_syringes.svg.png?20180522114120"></a>
+#+END_EXPORT
+
+** Questão 2
+
+Na imagem, dois êmbolos estão ligados por um tubo contendo fluido. Sabendo que a área do êmbolo menor é A₁ = 2 cm² e a do êmbolo maior é A₂ = 10 cm², determine a força F₂ gerada no êmbolo maior quando se aplica uma força F₁ = 40 N no êmbolo menor.
+
+A) 100 N  
+B) 150 N  
+C) 200 N
+D) 250 N
+
+
+** Questão 3
+
+Explique por que, em sistemas hidráulicos como o da imagem, se consegue aplicar uma força pequena e obter uma força grande. Que variável é "sacrificada" no processo?
+
+
+** Questão 4
+
+Considere que a área do êmbolo pequeno é A₁ = 3 cm², a área do êmbolo maior é A₂ = 9 cm² e o deslocamento do êmbolo maior é s₂ = 2 cm. Qual deve ser o deslocamento s₁ do êmbolo menor para que o volume de fluido deslocado seja o mesmo?
+
+A) 3 cm  
+B) 4 cm  
+C) 5 cm  
+D) 6 cm 
+
+** Questão 5
+
+Em um sistema hidráulico, o êmbolo menor se desloca 12 cm quando comprimido. Sabendo que sua área é A₁ = 2 cm² e a do êmbolo maior é A₂ = 8 cm², determine o deslocamento s₂ do êmbolo maior.
+
+A) 2 cm  
+B) 3 cm 
+C) 4 cm  
+D) 6 cm
+
+#+CAPTION: Força de Empuxo \(F_A\) e Força peso \(F_E\): questões 6 a 12
+#+ATTR_HTML: :width 512 :style text-align:center; display:block; margin:auto;
+[[https://upload.wikimedia.org/wikipedia/commons/1/10/Floating-and-sinking-2.svg]]
+
+
+** Questão 6
+Na imagem, o primeiro corpo (da esquerda para a direita) afunda no líquido. Isso ocorre porque:
+
+A) Ele possui densidade menor que a do líquido.  
+B) A força de empuxo é maior que o peso.  
+C) A força peso é maior que o empuxo. 
+D) Ele está em equilíbrio neutro.
+
+** Questão 7
+No segundo corpo da esquerda para a direita, temos:
+
+A) Um corpo que irá subir, pois o empuxo é maior que o peso.  
+B) Um corpo em queda acelerada, pois o peso é maior.  
+C) Um corpo em equilíbrio, pois o empuxo e o peso se anulam.  <-- correta  
+D) Um corpo em flutuação total.
+
+** Questão 8
+Quando a força de empuxo é maior que a força peso, o corpo:
+
+A) Afunda lentamente.  
+B) Fica totalmente submerso.  
+C) Fica em repouso no fundo.  
+D) Sobe até atingir equilíbrio na superfície.
+
+** Questão 9
+Sobre a relação entre densidade dos corpos e o comportamento mostrado na imagem, é correto afirmar:
+
+A) Um corpo com densidade igual à do líquido flutua com metade de seu volume imerso.  
+B) Um corpo mais denso que o líquido afunda. 
+C) Um corpo menos denso que o líquido afunda.  
+D) Todos os corpos flutuam, independentemente da densidade.
+
+** Questão 10
+Na última situação (corpo fora da água com empuxo equilibrando o peso), podemos concluir que:
+
+A) O corpo é mais denso que o líquido.  
+B) O corpo está completamente submerso.  
+C) O corpo está flutuando com parte fora da água e está em equilíbrio.  
+D) O empuxo é menor que o peso.
+
+** Questão 11
+Na última situação da imagem, o corpo está em equilíbrio com 2/3 do seu volume submerso. Sabendo que a densidade do líquido é 1,0 g/cm³, qual é a densidade do corpo?
+
+A) 0,50 g/cm³  
+B) 0,67 g/cm³ 
+C) 1,00 g/cm³  
+D) 1,50 g/cm³
+
+** Questão 12
+Um cubo de 0,3 kg e volume de 450 cm³ flutua com 2/3 do seu volume
+submerso. Qual é o empuxo que atua sobre ele? (considere\(g=10 m/ s²\)
+
+A) 2,0 N  
+B) 2,5 N  
+C) 3,0 N  
+D) 3,92 N  
+
+
+** Questão 13
+Qual das alternativas expressa corretamente o conceito de temperatura do ponto de vista microscópico?
+
+A) Temperatura é a quantidade de calor que um corpo possui.  
+
+B) Temperatura está relacionada à energia potencial total das moléculas.  
+
+C) Temperatura mede o grau de agitação das partículas que compõem um corpo. 
+
+D) Temperatura é a força que o corpo exerce ao trocar calor.
+
+** Questão 14
+Quando dizemos que um corpo está com temperatura elevada, o que isso significa em termos moleculares?
+
+A) As moléculas estão com maior massa.  
+B) As moléculas estão mais agitadas, com maior energia cinética média.
+C) O corpo tem mais calor acumulado.  
+D) As moléculas estão mais próximas umas das outras.
+
+** Questão 15
+Dois corpos possuem a mesma temperatura. Podemos afirmar que:
+
+A) Eles possuem a mesma quantidade de calor.  
+B) Suas moléculas estão paradas.  
+C) Suas moléculas têm, em média, a mesma energia cinética.
+D) Eles têm a mesma massa e volume.
+
+
+** Questão 16
+Qual é a temperatura de 25 ºC expressa na escala Kelvin?
+
+A) 248 K  
+B) 273 K  
+C) 298 K  
+D) 310 K
+
+
+** Questão 17
+Uma amostra de gás está a 300 K. Qual é a temperatura equivalente na escala Celsius?
+
+A) 27 ºC
+B) 0 ºC  
+C) 37 ºC  
+D) 100 ºC
+
+
+** Questão 18
+Qual é a temperatura correspondente a 0 ºC na escala Fahrenheit?
+
+A) 32 ºF
+B) 0 ºF  
+C) 100 ºF  
+D) 273 ºF
+
+** Questão 19
+A temperatura de ebulição da água ao nível do mar é de 100 ºC. Qual é o valor correspondente na escala Fahrenheit?
+
+A) 100 ºF  
+B) 180 ºF  
+C) 212 ºF 
+D) 373 ºF
+
+
+** Questão 20
+Uma temperatura de 20 ºC equivale a quantos ºF?
+
+A) 36 ºF  
+B) 52 ºF  
+C) 68 ºF  
+D) 77 ºF
+
+
