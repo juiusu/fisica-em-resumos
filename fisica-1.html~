@@ -40,58 +40,58 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org2a411cc">Mecânica: Visão geral</a></li>
-<li><a href="#org0a126c8">Cinemática</a>
+<li><a href="#org7df3e8b">Mecânica: Visão geral</a></li>
+<li><a href="#org3a888df">Cinemática</a>
 <ul>
-<li><a href="#org408787e">Visão geral</a></li>
-<li><a href="#org5aba1f2">Velocidade</a></li>
-<li><a href="#org5946c25">Aceleração</a></li>
-<li><a href="#org6b85149">Queda livre</a></li>
-<li><a href="#orge6f1ec7">Lançamento horizontal</a></li>
-<li><a href="#org604c828">Movimento de Projétil</a></li>
+<li><a href="#orgd6d1835">Visão geral</a></li>
+<li><a href="#org52c2eb8">Velocidade</a></li>
+<li><a href="#orgc22d5db">Aceleração</a></li>
+<li><a href="#orgb94a9fa">Queda livre</a></li>
+<li><a href="#org4ef6669">Lançamento horizontal</a></li>
+<li><a href="#orgc64b10e">Movimento de Projétil</a></li>
 </ul>
 </li>
-<li><a href="#org745086a">Leis de Newton</a>
+<li><a href="#org698a91f">Leis de Newton</a>
 <ul>
-<li><a href="#org86b8498">Referenciais</a></li>
-<li><a href="#org2f2d0ea">Força</a>
+<li><a href="#org48c01ee">Referenciais</a></li>
+<li><a href="#orgfbb5af1">Força</a>
 <ul>
-<li><a href="#orgb8b5124">Forças de contato e forças de ação à distância</a></li>
-<li><a href="#org4a47b4a">Forças de atrito</a></li>
-<li><a href="#org54db926">Força de resistência do ar</a></li>
-<li><a href="#org16c8f56">Força resultante</a></li>
+<li><a href="#org3822ec0">Forças de contato e forças de ação à distância</a></li>
+<li><a href="#org94e7f53">Forças de atrito</a></li>
+<li><a href="#org968ded9">Força de resistência do ar</a></li>
+<li><a href="#orgefd5e81">Força resultante</a></li>
 </ul>
 </li>
-<li><a href="#org1315e74">Primeiria Lei: Inércia</a>
+<li><a href="#org6d482b1">Primeiria Lei: Inércia</a>
 <ul>
-<li><a href="#org10ecad1">Enunciado da lei</a></li>
-<li><a href="#org3d7e619">Movimento em linha reta</a></li>
-<li><a href="#org9010f4d">Inércia</a></li>
-<li><a href="#org4e5d2c3">Referenciais, força centrífuga.</a></li>
+<li><a href="#org8881ab7">Enunciado da lei</a></li>
+<li><a href="#org34f8a95">Movimento em linha reta</a></li>
+<li><a href="#orgbe22126">Inércia</a></li>
+<li><a href="#org72708ea">Referenciais, força centrífuga.</a></li>
 </ul>
 </li>
-<li><a href="#orga2db938">Segunda Lei: Princípio fundamental da dinâmica</a></li>
-<li><a href="#orgf7ac9fe">Terceira Lei: Ação-reação</a></li>
-<li><a href="#orgeeca5d6">Força peso</a></li>
-<li><a href="#orgbd6904f">Diagramas de força</a></li>
-<li><a href="#org555f7e6">Aplicações</a></li>
+<li><a href="#org7d9a05f">Segunda Lei: Princípio fundamental da dinâmica</a></li>
+<li><a href="#org8432dbe">Terceira Lei: Ação-reação</a></li>
+<li><a href="#org4c87bd6">Força peso</a></li>
+<li><a href="#orgc6a552a">Diagramas de força</a></li>
+<li><a href="#org9776078">Aplicações</a></li>
 </ul>
 </li>
-<li><a href="#org211c72c">Leis de Conservação: Energia, momento linear e momento angular</a></li>
-<li><a href="#orgdab9e26">Gravitação</a></li>
-<li><a href="#org33cbbc7">Mecânica dos Fluidos</a></li>
-<li><a href="#org9520e2e">Exercícios, Questões e Problemas</a>
+<li><a href="#orgfa66853">Leis de Conservação: Energia, momento linear e momento angular</a></li>
+<li><a href="#org610bf14">Gravitação</a></li>
+<li><a href="#orgd816058">Mecânica dos Fluidos</a></li>
+<li><a href="#orge910701">Exercícios, Questões e Problemas</a>
 <ul>
-<li><a href="#org705b505">Unidade 1</a></li>
+<li><a href="#org59ad40a">Unidade 1</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org2a411cc" class="outline-2">
-<h2 id="org2a411cc">Mecânica: Visão geral</h2>
-<div class="outline-text-2" id="text-org2a411cc">
+<div id="outline-container-org7df3e8b" class="outline-2">
+<h2 id="org7df3e8b">Mecânica: Visão geral</h2>
+<div class="outline-text-2" id="text-org7df3e8b">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     Animação do pêndulo de Newton.
@@ -108,13 +108,13 @@
 
 
 
-<div id="outline-container-org0a126c8" class="outline-2">
-<h2 id="org0a126c8">Cinemática</h2>
-<div class="outline-text-2" id="text-org0a126c8">
+<div id="outline-container-org3a888df" class="outline-2">
+<h2 id="org3a888df">Cinemática</h2>
+<div class="outline-text-2" id="text-org3a888df">
 </div>
-<div id="outline-container-org408787e" class="outline-3">
-<h3 id="org408787e">Visão geral</h3>
-<div class="outline-text-3" id="text-org408787e">
+<div id="outline-container-orgd6d1835" class="outline-3">
+<h3 id="orgd6d1835">Visão geral</h3>
+<div class="outline-text-3" id="text-orgd6d1835">
 <p>
 A Cinemática é o estudo do movimento dos corpos sem se preocupar com a
 análise das suas causas. Nesse tópico iremos introduzir os conceitos
@@ -167,9 +167,9 @@ básicos relacionados ao movimento como:
 </div>
 
 
-<div id="outline-container-org5aba1f2" class="outline-3">
-<h3 id="org5aba1f2">Velocidade</h3>
-<div class="outline-text-3" id="text-org5aba1f2">
+<div id="outline-container-org52c2eb8" class="outline-3">
+<h3 id="org52c2eb8">Velocidade</h3>
+<div class="outline-text-3" id="text-org52c2eb8">
 <p>
 Considere as imagens abaixo e tente identificar cada um dos conceitos
 descritos anteriormente.
@@ -235,9 +235,9 @@ A <span class="underline"><b>velocidade</b></span> é a razão entre o <span cla
 </div>
 
 
-<div id="outline-container-org5946c25" class="outline-3">
-<h3 id="org5946c25">Aceleração</h3>
-<div class="outline-text-3" id="text-org5946c25">
+<div id="outline-container-orgc22d5db" class="outline-3">
+<h3 id="orgc22d5db">Aceleração</h3>
+<div class="outline-text-3" id="text-orgc22d5db">
 <p>
 Quando há uma variação de velocidade (aumento ou redução) existe uma aceleração.
 </p>
@@ -283,9 +283,9 @@ Escrevemos
 
 
 
-<div id="outline-container-org6b85149" class="outline-3">
-<h3 id="org6b85149">Queda livre</h3>
-<div class="outline-text-3" id="text-org6b85149">
+<div id="outline-container-orgb94a9fa" class="outline-3">
+<h3 id="orgb94a9fa">Queda livre</h3>
+<div class="outline-text-3" id="text-orgb94a9fa">
 <p>
 Aceleração de \(10\,m/s^2\), para baixo. Ou seja, uma acrésimo de
 \(10m/s\) na velocidade a cada segundo.
@@ -308,9 +308,9 @@ Aceleração de \(10\,m/s^2\), para baixo. Ou seja, uma acrésimo de
 
 
 
-<div id="outline-container-orge6f1ec7" class="outline-3">
-<h3 id="orge6f1ec7">Lançamento horizontal</h3>
-<div class="outline-text-3" id="text-orge6f1ec7">
+<div id="outline-container-org4ef6669" class="outline-3">
+<h3 id="org4ef6669">Lançamento horizontal</h3>
+<div class="outline-text-3" id="text-org4ef6669">
 <p>
 Qual será a velocidade vertical imediatamente antes de atingir o chão,
 se a velocidade horizontal for de \(5m/s\)?
@@ -336,9 +336,9 @@ se a velocidade horizontal for de \(5m/s\)?
 
 
 
-<div id="outline-container-org604c828" class="outline-3">
-<h3 id="org604c828">Movimento de Projétil</h3>
-<div class="outline-text-3" id="text-org604c828">
+<div id="outline-container-orgc64b10e" class="outline-3">
+<h3 id="orgc64b10e">Movimento de Projétil</h3>
+<div class="outline-text-3" id="text-orgc64b10e">
 <p>
 Veja <a href="https://phet.colorado.edu/sims/html/projectile-motion/latest/projectile-motion_all.html?locale=pt_BR">aqui</a> um conjunto de simulações do <a href="https://phet.colorado.edu/pt_BR">PHET</a> 
 </p>
@@ -346,9 +346,9 @@ Veja <a href="https://phet.colorado.edu/sims/html/projectile-motion/latest/proje
 </div>
 </div>
 
-<div id="outline-container-org745086a" class="outline-2">
-<h2 id="org745086a">Leis de Newton</h2>
-<div class="outline-text-2" id="text-org745086a">
+<div id="outline-container-org698a91f" class="outline-2">
+<h2 id="org698a91f">Leis de Newton</h2>
+<div class="outline-text-2" id="text-org698a91f">
 <p>
 As de Newton são a base para o estudo da mecânica, ela estabelece os
 princípios básicos para explicar como e por que os movimentos
@@ -358,9 +358,9 @@ acontecem.
 
 
 
-<div id="outline-container-org86b8498" class="outline-3">
-<h3 id="org86b8498">Referenciais</h3>
-<div class="outline-text-3" id="text-org86b8498">
+<div id="outline-container-org48c01ee" class="outline-3">
+<h3 id="org48c01ee">Referenciais</h3>
+<div class="outline-text-3" id="text-org48c01ee">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     O movimento pode ser diferente para dois observadores diferentes.
@@ -375,13 +375,13 @@ acontecem.
 </div>
 
 
-<div id="outline-container-org2f2d0ea" class="outline-3">
-<h3 id="org2f2d0ea">Força</h3>
-<div class="outline-text-3" id="text-org2f2d0ea">
+<div id="outline-container-orgfbb5af1" class="outline-3">
+<h3 id="orgfbb5af1">Força</h3>
+<div class="outline-text-3" id="text-orgfbb5af1">
 </div>
-<div id="outline-container-orgb8b5124" class="outline-4">
-<h4 id="orgb8b5124">Forças de contato e forças de ação à distância</h4>
-<div class="outline-text-4" id="text-orgb8b5124">
+<div id="outline-container-org3822ec0" class="outline-4">
+<h4 id="org3822ec0">Forças de contato e forças de ação à distância</h4>
+<div class="outline-text-4" id="text-org3822ec0">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     Exemplos de força: tração, magnética, gravitacional.
@@ -396,9 +396,9 @@ acontecem.
 </div>
 </div>
 
-<div id="outline-container-org4a47b4a" class="outline-4">
-<h4 id="org4a47b4a">Forças de atrito</h4>
-<div class="outline-text-4" id="text-org4a47b4a">
+<div id="outline-container-org94e7f53" class="outline-4">
+<h4 id="org94e7f53">Forças de atrito</h4>
+<div class="outline-text-4" id="text-org94e7f53">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     Força de atrito
@@ -417,9 +417,9 @@ acontecem.
 
 
 
-<div id="outline-container-org54db926" class="outline-4">
-<h4 id="org54db926">Força de resistência do ar</h4>
-<div class="outline-text-4" id="text-org54db926">
+<div id="outline-container-org968ded9" class="outline-4">
+<h4 id="org968ded9">Força de resistência do ar</h4>
+<div class="outline-text-4" id="text-org968ded9">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     A força de resistência do ar sustenta um paraquedas, por exemplo.
@@ -435,12 +435,23 @@ acontecem.
 </div>
 
 
-<div id="outline-container-org16c8f56" class="outline-4">
-<h4 id="org16c8f56">Força resultante</h4>
-<div class="outline-text-4" id="text-org16c8f56">
+<div id="outline-container-orgefd5e81" class="outline-4">
+<h4 id="orgefd5e81">Força resultante</h4>
+<div class="outline-text-4" id="text-orgefd5e81">
+<p>
+Força é uma grandeza que tem direção (chamamos de grandezas vetoriais)
+de modo que, quando duas ou mais forças atuam em um corpo, temos que
+considerar as direções dessas forças.
+</p>
+
+<p>
+Assim, a força resultante é o resultado final da aplicação de todas
+essas forças.
+</p>
+
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
-    A força resultante é o resultado líquido de toas as forças atuantes. 
+    A força resultante é o resultado líquido de todas as forças atuantes. 
   </p>
   <img src="./pictures/forca-resultante.png"
        alt="força resultante"
@@ -453,13 +464,13 @@ Fonte: criado pelo autor.
 </div>
 </div>
 
-<div id="outline-container-org1315e74" class="outline-3">
-<h3 id="org1315e74">Primeiria Lei: Inércia</h3>
-<div class="outline-text-3" id="text-org1315e74">
+<div id="outline-container-org6d482b1" class="outline-3">
+<h3 id="org6d482b1">Primeiria Lei: Inércia</h3>
+<div class="outline-text-3" id="text-org6d482b1">
 </div>
-<div id="outline-container-org10ecad1" class="outline-4">
-<h4 id="org10ecad1">Enunciado da lei</h4>
-<div class="outline-text-4" id="text-org10ecad1">
+<div id="outline-container-org8881ab7" class="outline-4">
+<h4 id="org8881ab7">Enunciado da lei</h4>
+<div class="outline-text-4" id="text-org8881ab7">
 <blockquote>
 <p>
 Todo objeto permanece em seu estado de repouso ou de velocidade constante em linha reta, a menos que uma força resultante não nula seja exercida sobre ele.
@@ -468,9 +479,9 @@ Todo objeto permanece em seu estado de repouso ou de velocidade constante em lin
 </div>
 </div>
 
-<div id="outline-container-org3d7e619" class="outline-4">
-<h4 id="org3d7e619">Movimento em linha reta</h4>
-<div class="outline-text-4" id="text-org3d7e619">
+<div id="outline-container-org34f8a95" class="outline-4">
+<h4 id="org34f8a95">Movimento em linha reta</h4>
+<div class="outline-text-4" id="text-org34f8a95">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     Quando a bicicleta freia, a pessoa tende a continuar o movimento em linha reta.
@@ -500,9 +511,9 @@ Todo objeto permanece em seu estado de repouso ou de velocidade constante em lin
 
 
 
-<div id="outline-container-org9010f4d" class="outline-4">
-<h4 id="org9010f4d">Inércia</h4>
-<div class="outline-text-4" id="text-org9010f4d">
+<div id="outline-container-orgbe22126" class="outline-4">
+<h4 id="orgbe22126">Inércia</h4>
+<div class="outline-text-4" id="text-orgbe22126">
 <ul class="org-ul">
 <li>Inércia é como uma "preguiça" que objetos com massa tem de deixar o
 seu estado de repouso,ou movimento uniforme.</li>
@@ -532,9 +543,9 @@ Quanto maior a massa, mais difícil será para mudar o movimento do corpo.</li>
 
 
 
-<div id="outline-container-org4e5d2c3" class="outline-4">
-<h4 id="org4e5d2c3">Referenciais, força centrífuga.</h4>
-<div class="outline-text-4" id="text-org4e5d2c3">
+<div id="outline-container-org72708ea" class="outline-4">
+<h4 id="org72708ea">Referenciais, força centrífuga.</h4>
+<div class="outline-text-4" id="text-org72708ea">
 <p>
 Os Referenciais inerciais - aqueles que respeitam a primeira lei
 </p>
@@ -592,9 +603,9 @@ referencial estar acelerado (movimento circular)
 
 
 
-<div id="outline-container-orga2db938" class="outline-3">
-<h3 id="orga2db938">Segunda Lei: Princípio fundamental da dinâmica</h3>
-<div class="outline-text-3" id="text-orga2db938">
+<div id="outline-container-org7d9a05f" class="outline-3">
+<h3 id="org7d9a05f">Segunda Lei: Princípio fundamental da dinâmica</h3>
+<div class="outline-text-3" id="text-org7d9a05f">
 <blockquote>
 <p>
 A aceleração de um objeto é diretamente proporcional à força resultante atuando sobre ele; tem o mesmo sentido que essa força e é inversamente proporcional à massa do objeto.
@@ -609,9 +620,9 @@ A aceleração de um objeto é diretamente proporcional à força resultante atu
 </div>
 </div>
 
-<div id="outline-container-orgf7ac9fe" class="outline-3">
-<h3 id="orgf7ac9fe">Terceira Lei: Ação-reação</h3>
-<div class="outline-text-3" id="text-orgf7ac9fe">
+<div id="outline-container-org8432dbe" class="outline-3">
+<h3 id="org8432dbe">Terceira Lei: Ação-reação</h3>
+<div class="outline-text-3" id="text-org8432dbe">
 <blockquote>
 <p>
 Sempre que um objeto exerce uma força sobre outro objeto, este outro objeto exerce uma força igual e oposta sobre o primeiro.
@@ -658,30 +669,30 @@ Para cada força de ação existe sempre uma força de reação, de mesmo módul
 </div>
 
 
-<div id="outline-container-orgeeca5d6" class="outline-3">
-<h3 id="orgeeca5d6">Força peso</h3>
+<div id="outline-container-org4c87bd6" class="outline-3">
+<h3 id="org4c87bd6">Força peso</h3>
 </div>
 
-<div id="outline-container-orgbd6904f" class="outline-3">
-<h3 id="orgbd6904f">Diagramas de força</h3>
+<div id="outline-container-orgc6a552a" class="outline-3">
+<h3 id="orgc6a552a">Diagramas de força</h3>
 </div>
 
-<div id="outline-container-org555f7e6" class="outline-3">
-<h3 id="org555f7e6">Aplicações</h3>
+<div id="outline-container-org9776078" class="outline-3">
+<h3 id="org9776078">Aplicações</h3>
 </div>
 </div>
 
-<div id="outline-container-org211c72c" class="outline-2">
-<h2 id="org211c72c">Leis de Conservação: Energia, momento linear e momento angular</h2>
+<div id="outline-container-orgfa66853" class="outline-2">
+<h2 id="orgfa66853">Leis de Conservação: Energia, momento linear e momento angular</h2>
 </div>
 
-<div id="outline-container-orgdab9e26" class="outline-2">
-<h2 id="orgdab9e26">Gravitação</h2>
+<div id="outline-container-org610bf14" class="outline-2">
+<h2 id="org610bf14">Gravitação</h2>
 </div>
 
-<div id="outline-container-org33cbbc7" class="outline-2">
-<h2 id="org33cbbc7">Mecânica dos Fluidos</h2>
-<div class="outline-text-2" id="text-org33cbbc7">
+<div id="outline-container-orgd816058" class="outline-2">
+<h2 id="orgd816058">Mecânica dos Fluidos</h2>
+<div class="outline-text-2" id="text-orgd816058">
 <p>
 A mecânica dos fluidos estuda o comportamento de líquidos e gases em repouso ou em movimento.
 </p>
@@ -692,12 +703,12 @@ A mecânica dos fluidos estuda o comportamento de líquidos e gases em repouso o
 </div>
 </div>
 
-<div id="outline-container-org9520e2e" class="outline-2">
-<h2 id="org9520e2e">Exercícios, Questões e Problemas</h2>
-<div class="outline-text-2" id="text-org9520e2e">
+<div id="outline-container-orge910701" class="outline-2">
+<h2 id="orge910701">Exercícios, Questões e Problemas</h2>
+<div class="outline-text-2" id="text-orge910701">
 </div>
-<div id="outline-container-org705b505" class="outline-3">
-<h3 id="org705b505">Unidade 1</h3>
+<div id="outline-container-org59ad40a" class="outline-3">
+<h3 id="org59ad40a">Unidade 1</h3>
 </div>
 </div>
 </div>
