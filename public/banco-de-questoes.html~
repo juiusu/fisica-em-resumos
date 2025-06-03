@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Joilson Silva Porto" />
+<meta http-equiv="Content-Language" content="pt-BR">
+
+                     <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        displayAlign: "center",
+        displayIndent: "0em",
+
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
+             }
+});
+</script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body>
+<div id="content">
+<div id="outline-container-orgb56e4b2" class="outline-2">
+<h2 id="orgb56e4b2">Banco de Questões de Física - Mecânica</h2>
+<div class="outline-text-2" id="text-orgb56e4b2">
+</div>
+<div id="outline-container-orgac5d645" class="outline-3">
+<h3 id="orgac5d645">Questões de Cinemática</h3>
+<div class="outline-text-3" id="text-orgac5d645">
+</div>
+<div id="outline-container-org6ba0fab" class="outline-4">
+<h4 id="org6ba0fab">Questão 1</h4>
+<div class="outline-text-4" id="text-org6ba0fab">
+<p>
+Em Cinemática, o referencial é um conceito fundamental para descrever o movimento. O referencial pode ser definido como:
+</p>
+
+<p>
+a) A velocidade de um objeto em movimento.  
+</p>
+
+<p>
+b) O ponto de referência (ponto zero) usado para determinar a posição dos objetos.  
+</p>
+
+<p>
+c) A força que atua sobre um corpo em movimento.  
+</p>
+
+<p>
+d) A aceleração de um objeto durante seu deslocamento.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbb318c5" class="outline-4">
+<h4 id="orgbb318c5">Questão 2</h4>
+<div class="outline-text-4" id="text-orgbb318c5">
+<p>
+Um carro se desloca de uma posição \(S_0 = -10 m\) para uma posição final \(S_f = -5 m\) em um intervalo de tempo de 2 segundos. A velocidade média deste carro foi de:
+</p>
+
+<p>
+a) 7,5 m/s    b) -2,5 m/s    c) 2,5 m/s    d) -7,5 m/s  
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-orgaf7ffcc" class="outline-4">
+<h4 id="orgaf7ffcc">Questão 3</h4>
+<div class="outline-text-4" id="text-orgaf7ffcc">
+<p>
+A diferença entre posição e deslocamento é que:
+</p>
+
+<p>
+a) Posição e deslocamento são sinônimos em Física.  
+</p>
+
+<p>
+b) Posição é a localização de um objeto em relação ao referencial, enquanto deslocamento é a variação da posição em um intervalo de tempo.  
+</p>
+
+<p>
+c) Deslocamento é sempre maior que a posição.  
+</p>
+
+<p>
+d) Posição depende do tempo, mas deslocamento não.  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org574875f" class="outline-4">
+<h4 id="org574875f">Questão 4</h4>
+<div class="outline-text-4" id="text-org574875f">
+<p>
+Quando há uma variação de velocidade de um objeto, seja aumento ou redução, podemos afirmar que:
+a) O objeto está em repouso.  
+</p>
+
+<p>
+b) Existe uma aceleração.  
+</p>
+
+<p>
+c) A força resultante é nula.  
+</p>
+
+<p>
+d) O movimento é uniforme.  
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org3e0beb4" class="outline-4">
+<h4 id="org3e0beb4">Questão 5</h4>
+<div class="outline-text-4" id="text-org3e0beb4">
+<p>
+A velocidade é definida como:
+</p>
+
+<p>
+a) A força aplicada sobre um objeto.  
+</p>
+
+<p>
+b) A massa de um corpo em movimento.  
+</p>
+
+<p>
+c) A razão entre um deslocamento e o intervalo de tempo correspondente.  
+</p>
+
+<p>
+d) A energia cinética de um objeto.  
+</p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-orgaaa3bb3" class="outline-3">
+<h3 id="orgaaa3bb3">Questões sobre Primeira Lei de Newton (Inércia)</h3>
+<div class="outline-text-3" id="text-orgaaa3bb3">
+</div>
+<div id="outline-container-org24953b7" class="outline-4">
+<h4 id="org24953b7">Questão 6</h4>
+<div class="outline-text-4" id="text-org24953b7">
+<p>
+A Primeira Lei de Newton, também conhecida como Lei da Inércia, estabelece que:
+</p>
+
+<p>
+a) A força é diretamente proporcional à aceleração.  
+</p>
+
+<p>
+b) Para toda ação existe uma reação igual e oposta.  
+</p>
+
+<p>
+c) Todo objeto permanece em seu estado de repouso ou de velocidade constante em linha reta, a menos que uma força resultante não nula seja exercida sobre ele.  
+</p>
+
+<p>
+d) A aceleração é inversamente proporcional à massa.  
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org65ed378" class="outline-4">
+<h4 id="org65ed378">Questão 7</h4>
+<div class="outline-text-4" id="text-org65ed378">
+<p>
+O conceito de inércia pode ser descrito como:
+</p>
+
+<p>
+a) A capacidade de um objeto acelerar rapidamente.  
+</p>
+
+<p>
+b) A "preguiça" que objetos com massa têm de deixar seu estado de repouso ou movimento uniforme.  
+</p>
+
+<p>
+c) A força que mantém os objetos em movimento.  
+</p>
+
+<p>
+d) A velocidade máxima que um objeto pode atingir.  
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org3194134" class="outline-4">
+<h4 id="org3194134">Questão 8</h4>
+<div class="outline-text-4" id="text-org3194134">
+<p>
+Sobre a relação entre massa e inércia, é correto afirmar que:
+</p>
+
+<p>
+a) Quanto menor a massa, maior a inércia.  
+</p>
+
+<p>
+b) Massa e inércia são grandezas independentes.  
+</p>
+
+<p>
+c) Quanto maior a massa, mais difícil será para mudar o movimento do corpo.  
+</p>
+
+<p>
+d) A inércia não depende da massa do objeto.  
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org5527b72" class="outline-4">
+<h4 id="org5527b72">Questão 9</h4>
+<div class="outline-text-4" id="text-org5527b72">
+<p>
+Os referenciais inerciais são aqueles que:
+</p>
+
+<p>
+a) Estão sempre em movimento acelerado.  
+</p>
+
+<p>
+b) Respeitam a Primeira Lei de Newton.  
+</p>
+
+<p>
+c) Possuem força centrífuga real.  
+</p>
+
+<p>
+d) Estão sempre em repouso absoluto.  
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org247db24" class="outline-4">
+<h4 id="org247db24">Questão 10</h4>
+<div class="outline-text-4" id="text-org247db24">
+<p>
+Quando uma pessoa está dentro de um automóvel que faz uma curva, ela sente uma força para fora da curva. Essa força:
+a) É uma força real que atua sobre a pessoa.  
+</p>
+
+<p>
+b) É chamada de força centrífuga e não existe de fato, sendo resultado do referencial estar acelerado.  
+</p>
+
+<p>
+c) É sempre maior que o peso da pessoa.  
+</p>
+
+<p>
+d) Só existe quando o carro está freando.  
+</p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-org87ded97" class="outline-3">
+<h3 id="org87ded97">Questões sobre Segunda Lei de Newton</h3>
+<div class="outline-text-3" id="text-org87ded97">
+</div>
+<div id="outline-container-orge097457" class="outline-4">
+<h4 id="orge097457">Questão 11</h4>
+<div class="outline-text-4" id="text-orge097457">
+<p>
+A Segunda Lei de Newton, conhecida como Princípio Fundamental da Dinâmica, estabelece que:
+a) A velocidade é sempre mantida por uma força.
+</p>
+
+<p>
+b) A aceleração de um objeto é diretamente proporcional à força resultante e inversamente proporcional à sua massa.  
+</p>
+
+<p>
+c) Todo objeto em repouso tende a permanecer em repouso.  
+</p>
+
+<p>
+d) A energia se conserva em todos os sistemas.  
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-orgac2b28b" class="outline-4">
+<h4 id="orgac2b28b">Questão 12</h4>
+<div class="outline-text-4" id="text-orgac2b28b">
+</div>
+</div>
+
+<div id="outline-container-orgc65aa0e" class="outline-4">
+<h4 id="orgc65aa0e">Questão 13</h4>
+<div class="outline-text-4" id="text-orgc65aa0e">
+<p>
+Se a força resultante sobre um objeto dobrar e sua massa permanecer constante, sua aceleração:
+a) Permanecerá a mesma.  
+b) Será reduzida pela metade.  
+c) Dobrará.  
+d) Será reduzida a um quarto.  
+</p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-org0f14806" class="outline-3">
+<h3 id="org0f14806">Questões sobre Terceira Lei de Newton</h3>
+<div class="outline-text-3" id="text-org0f14806">
+</div>
+<div id="outline-container-org39f9cf2" class="outline-4">
+<h4 id="org39f9cf2">Questão 14</h4>
+<div class="outline-text-4" id="text-org39f9cf2">
+<p>
+A Terceira Lei de Newton, conhecida como Lei da Ação e Reação, afirma que:
+</p>
+
+<p>
+a) A força é proporcional à massa.  
+</p>
+
+<p>
+b) Sempre que um objeto exerce uma força sobre outro objeto, este outro objeto exerce uma força igual e oposta sobre o primeiro.  
+</p>
+
+<p>
+c) Objetos em repouso tendem a permanecer em repouso.  
+</p>
+
+<p>
+d) A aceleração é inversamente proporcional à massa.  
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org1ab361c" class="outline-4">
+<h4 id="org1ab361c">Questão 15</h4>
+<div class="outline-text-4" id="text-org1ab361c">
+<p>
+Sobre as forças de ação e reação, é correto afirmar que elas:
+</p>
+
+<p>
+a) Atuam no mesmo objeto.  
+</p>
+
+<p>
+b) Têm o mesmo módulo e orientação oposta, atuando em objetos diferentes.  
+</p>
+
+<p>
+c) Só existem quando há movimento.  
+</p>
+
+<p>
+d) São sempre maiores que o peso dos objetos.  
+</p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-org02c9246" class="outline-3">
+<h3 id="org02c9246">Questões sobre Forças</h3>
+<div class="outline-text-3" id="text-org02c9246">
+</div>
+<div id="outline-container-orga0b7f15" class="outline-4">
+<h4 id="orga0b7f15">Questão 16</h4>
+<div class="outline-text-4" id="text-orga0b7f15">
+<p>
+A força é uma grandeza vetorial, o que significa que:
+a) Ela possui apenas intensidade.  
+b) Ela possui direção e sentido, além da intensidade.  
+c) Ela é sempre constante.  
+d) Ela não pode ser medida.  
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org8070765" class="outline-4">
+<h4 id="org8070765">Questão 17</h4>
+<div class="outline-text-4" id="text-org8070765">
+<p>
+Duas pessoas puxam uma caixa com forças de 10 N e 15 N em direções opostas. A força resultante sobre a caixa é:
+a) 25 N  
+b) 5 N  
+c) 0 N  
+d) 150 N  
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-orgc061590" class="outline-4">
+<h4 id="orgc061590">Questão 18</h4>
+<div class="outline-text-4" id="text-orgc061590">
+<p>
+A força resultante pode ser definida como:
+</p>
+
+<p>
+a) A maior força atuando sobre um objeto.  
+</p>
+
+<p>
+b) A soma aritmética de todas as forças.  
+</p>
+
+<p>
+c) O resultado líquido de todas as forças atuantes sobre um objeto.  
+</p>
+
+<p>
+d) A força de atrito entre superfícies.  
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-orgfdefae0" class="outline-4">
+<h4 id="orgfdefae0">Questão 19</h4>
+<div class="outline-text-4" id="text-orgfdefae0">
+<p>
+A força de resistência do ar:
+</p>
+
+<p>
+a) Só atua em objetos muito pesados.  
+</p>
+
+<p>
+b) Sustenta um paraquedas durante a queda, por exemplo.  
+</p>
+
+<p>
+c) É sempre maior que a força peso.  
+</p>
+
+<p>
+d) Não existe no vácuo nem na atmosfera.  
+</p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-orgce80021" class="outline-3">
+<h3 id="orgce80021">Questões Integradas</h3>
+<div class="outline-text-3" id="text-orgce80021">
+</div>
+<div id="outline-container-orgf0b79b8" class="outline-4">
+<h4 id="orgf0b79b8">Questão 20</h4>
+<div class="outline-text-4" id="text-orgf0b79b8">
+<p>
+Um carro trafega em uma estrada retilínea com velocidade constante de 60 km/h. Nesta situação:
+</p>
+
+<p>
+a) A força resultante sobre o carro é diferente de zero.  
+</p>
+
+<p>
+b) O carro está acelerando constantemente.  
+</p>
+
+<p>
+c) A força resultante sobre o carro é nula e ele obedece à Primeira Lei de Newton.  
+</p>
+
+<p>
+d) O carro está desacelerando gradualmente.  
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-orgd6c6e7a" class="outline-4">
+<h4 id="orgd6c6e7a">Questão 21</h4>
+<div class="outline-text-4" id="text-orgd6c6e7a">
+<p>
+Durante uma freada brusca, os passageiros de um ônibus são "jogados" para frente. Esse fenômeno é explicado:
+</p>
+
+<p>
+a) Pela Segunda Lei de Newton apenas.  
+</p>
+
+<p>
+b) Pela Terceira Lei de Newton apenas.  
+</p>
+
+<p>
+c) Pela Lei da Inércia (Primeira Lei de Newton).  
+</p>
+
+<p>
+d) Pela força de atrito entre os pés e o chão.  
+</p>
+</div>
+</div>
+
+
+
+
+<div id="outline-container-orgc27d9cc" class="outline-4">
+<h4 id="orgc27d9cc">Questão 22</h4>
+<div class="outline-text-4" id="text-orgc27d9cc">
+<p>
+Um objeto de massa 2 kg sofre a ação de uma força resultante de 10 N. Sua aceleração será:
+</p>
+
+<p>
+a) 20 m/s²  
+</p>
+
+<p>
+b) 5 m/s²  
+</p>
+
+<p>
+c) 0,2 m/s²  
+</p>
+
+<p>
+d) 12 m/s²  
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-orgd58deef" class="outline-4">
+<h4 id="orgd58deef">Questão 23</h4>
+<div class="outline-text-4" id="text-orgd58deef">
+<p>
+Em um cabo de guerra, duas equipes puxam uma corda com forças iguais e opostas. Se a corda não se move, isso significa que:
+</p>
+
+<p>
+a) Não há forças atuando.  
+</p>
+
+<p>
+b) A força resultante é zero e o sistema está em equilíbrio.  
+</p>
+
+<p>
+c) Uma das equipes não está puxando.  
+</p>
+
+<p>
+d) A corda está quebrada.  
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Joilson Silva Porto</p>
+<p class="email">Email: <a href="mailto:joilson.porto@ifam.edu.br">joilson.porto@ifam.edu.br</a></p>
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.1 (<a href="https://orgmode.org">Org</a> mode 9.3)</p>
+</div>
+</body>
+</html>

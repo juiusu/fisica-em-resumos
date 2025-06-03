@@ -1,0 +1,261 @@
+* Banco de Questões de Física - Mecânica
+
+** Questões de Cinemática
+
+*** Questão 1
+Em Cinemática, o referencial é um conceito fundamental para descrever o movimento. O referencial pode ser definido como:
+
+a) A velocidade de um objeto em movimento.  
+
+b) O ponto de referência (ponto zero) usado para determinar a posição dos objetos.  
+
+c) A força que atua sobre um corpo em movimento.  
+
+d) A aceleração de um objeto durante seu deslocamento.  
+
+*** Questão 2
+Um carro se desloca de uma posição \(S_0 = -10 m\) para uma posição final \(S_f = -5 m\) em um intervalo de tempo de 2 segundos. A velocidade média deste carro foi de:
+
+a) 7,5 m/s    b) -2,5 m/s    c) 2,5 m/s    d) -7,5 m/s  
+
+
+*** Questão 3
+
+A diferença entre posição e deslocamento é que:
+
+a) Posição e deslocamento são sinônimos em Física.  
+
+b) Posição é a localização de um objeto em relação ao referencial, enquanto deslocamento é a variação da posição em um intervalo de tempo.  
+
+c) Deslocamento é sempre maior que a posição.  
+
+d) Posição depende do tempo, mas deslocamento não.  
+
+*** Questão 4
+Quando há uma variação de velocidade de um objeto, seja aumento ou redução, podemos afirmar que:
+a) O objeto está em repouso.  
+
+b) Existe uma aceleração.  
+
+c) A força resultante é nula.  
+
+d) O movimento é uniforme.  
+
+
+*** Questão 5
+A velocidade é definida como:
+
+a) A força aplicada sobre um objeto.  
+
+b) A massa de um corpo em movimento.  
+
+c) A razão entre um deslocamento e o intervalo de tempo correspondente.  
+
+d) A energia cinética de um objeto.  
+
+
+** Questões sobre Primeira Lei de Newton (Inércia)
+
+*** Questão 6
+A Primeira Lei de Newton, também conhecida como Lei da Inércia, estabelece que:
+
+a) A força é diretamente proporcional à aceleração.  
+
+b) Para toda ação existe uma reação igual e oposta.  
+
+c) Todo objeto permanece em seu estado de repouso ou de velocidade constante em linha reta, a menos que uma força resultante não nula seja exercida sobre ele.  
+
+d) A aceleração é inversamente proporcional à massa.  
+
+
+*** Questão 7
+O conceito de inércia pode ser descrito como:
+
+a) A capacidade de um objeto acelerar rapidamente.  
+
+b) A "preguiça" que objetos com massa têm de deixar seu estado de repouso ou movimento uniforme.  
+
+c) A força que mantém os objetos em movimento.  
+
+d) A velocidade máxima que um objeto pode atingir.  
+
+
+*** Questão 8
+Sobre a relação entre massa e inércia, é correto afirmar que:
+
+a) Quanto menor a massa, maior a inércia.  
+
+b) Massa e inércia são grandezas independentes.  
+
+c) Quanto maior a massa, mais difícil será para mudar o movimento do corpo.  
+
+d) A inércia não depende da massa do objeto.  
+
+
+*** Questão 9
+Os referenciais inerciais são aqueles que:
+
+a) Estão sempre em movimento acelerado.  
+
+b) Respeitam a Primeira Lei de Newton.  
+
+c) Possuem força centrífuga real.  
+
+d) Estão sempre em repouso absoluto.  
+
+
+*** Questão 10
+Quando uma pessoa está dentro de um automóvel que faz uma curva, ela sente uma força para fora da curva. Essa força:
+a) É uma força real que atua sobre a pessoa.  
+
+b) É chamada de força centrífuga e não existe de fato, sendo resultado do referencial estar acelerado.  
+
+c) É sempre maior que o peso da pessoa.  
+
+d) Só existe quando o carro está freando.  
+
+
+** Questões sobre Segunda Lei de Newton
+
+*** Questão 11
+A Segunda Lei de Newton, conhecida como Princípio Fundamental da Dinâmica, estabelece que:
+a) A velocidade é sempre mantida por uma força.
+
+b) A aceleração de um objeto é diretamente proporcional à força resultante e inversamente proporcional à sua massa.  
+
+c) Todo objeto em repouso tende a permanecer em repouso.  
+
+d) A energia se conserva em todos os sistemas.  
+
+
+*** Questão 12
+
+#+ANSWER: d
+
+*** Questão 13
+Se a força resultante sobre um objeto dobrar e sua massa permanecer constante, sua aceleração:
+a) Permanecerá a mesma.  
+b) Será reduzida pela metade.  
+c) Dobrará.  
+d) Será reduzida a um quarto.  
+
+
+** Questões sobre Terceira Lei de Newton
+
+*** Questão 14
+A Terceira Lei de Newton, conhecida como Lei da Ação e Reação, afirma que:
+
+a) A força é proporcional à massa.  
+
+b) Sempre que um objeto exerce uma força sobre outro objeto, este outro objeto exerce uma força igual e oposta sobre o primeiro.  
+
+c) Objetos em repouso tendem a permanecer em repouso.  
+
+d) A aceleração é inversamente proporcional à massa.  
+
+
+*** Questão 15
+Sobre as forças de ação e reação, é correto afirmar que elas:
+
+a) Atuam no mesmo objeto.  
+
+b) Têm o mesmo módulo e orientação oposta, atuando em objetos diferentes.  
+
+c) Só existem quando há movimento.  
+
+d) São sempre maiores que o peso dos objetos.  
+
+
+** Questões sobre Forças
+
+*** Questão 16
+A força é uma grandeza vetorial, o que significa que:
+a) Ela possui apenas intensidade.  
+b) Ela possui direção e sentido, além da intensidade.  
+c) Ela é sempre constante.  
+d) Ela não pode ser medida.  
+
+
+*** Questão 17
+Duas pessoas puxam uma caixa com forças de 10 N e 15 N em direções opostas. A força resultante sobre a caixa é:
+a) 25 N  
+b) 5 N  
+c) 0 N  
+d) 150 N  
+
+
+*** Questão 18
+A força resultante pode ser definida como:
+
+a) A maior força atuando sobre um objeto.  
+
+b) A soma aritmética de todas as forças.  
+
+c) O resultado líquido de todas as forças atuantes sobre um objeto.  
+
+d) A força de atrito entre superfícies.  
+
+
+*** Questão 19
+A força de resistência do ar:
+
+a) Só atua em objetos muito pesados.  
+
+b) Sustenta um paraquedas durante a queda, por exemplo.  
+
+c) É sempre maior que a força peso.  
+
+d) Não existe no vácuo nem na atmosfera.  
+
+
+** Questões Integradas
+
+*** Questão 20
+Um carro trafega em uma estrada retilínea com velocidade constante de 60 km/h. Nesta situação:
+
+a) A força resultante sobre o carro é diferente de zero.  
+
+b) O carro está acelerando constantemente.  
+
+c) A força resultante sobre o carro é nula e ele obedece à Primeira Lei de Newton.  
+
+d) O carro está desacelerando gradualmente.  
+
+
+*** Questão 21
+Durante uma freada brusca, os passageiros de um ônibus são "jogados" para frente. Esse fenômeno é explicado:
+
+a) Pela Segunda Lei de Newton apenas.  
+
+b) Pela Terceira Lei de Newton apenas.  
+
+c) Pela Lei da Inércia (Primeira Lei de Newton).  
+
+d) Pela força de atrito entre os pés e o chão.  
+
+
+
+
+*** Questão 22
+Um objeto de massa 2 kg sofre a ação de uma força resultante de 10 N. Sua aceleração será:
+
+a) 20 m/s²  
+
+b) 5 m/s²  
+
+c) 0,2 m/s²  
+
+d) 12 m/s²  
+
+
+*** Questão 23
+Em um cabo de guerra, duas equipes puxam uma corda com forças iguais e opostas. Se a corda não se move, isso significa que:
+
+a) Não há forças atuando.  
+
+b) A força resultante é zero e o sistema está em equilíbrio.  
+
+c) Uma das equipes não está puxando.  
+
+d) A corda está quebrada.  
+
