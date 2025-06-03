@@ -69,9 +69,6 @@ assim como a massa é a propriedade da matéria que gera força gravitacional.
 
   - Definição: Conjunto de átomos ligados químicamente
 
-[[file:quest-fisca3-1.org][Questões de revisão: Carga elétrica]]
-
-
 ** Condutores e isolantes
 
 - Condutores
@@ -92,7 +89,6 @@ assim como a massa é a propriedade da matéria que gera força gravitacional.
 - Supercondutores
 - Semicondutores
 
-[[file:quest-fisca3-2.org][Questões de revisão: condutores e isolantes]] 
 
 ** Processos de eletrização
 
@@ -124,8 +120,6 @@ superfície. *por que?*
   - exemplo: [[https://pt.wikipedia.org/wiki/Eletrosc%C3%B3pio][Eletroscópio]]
 
     
-[[file:quest-fisca3-3.org][Questões de revisão: Processos de eletrização]]
-
 ** Força elétrica
 
 A força elétrica é gerada pela carga elétrica. Assim, dois corpos

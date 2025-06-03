@@ -1,5 +1,7 @@
-* Questões de revisão: Fluidos
-** Questão 1
+* Física II - Exercícios e problemas - Unidade 1
+
+** Questões de revisão: Fluidos
+*** Questão 1
 
 Considere um volume \(V_1\) de \( 20,0 \, L\), e um volume \( V_2\) =
 \(300 \, mL\) :
@@ -17,7 +19,7 @@ DADOS: Prefixos do SI: \(k = 10^3\, , \, m = 10^\{-3} \, , \, c =
 10^{-2} \, , \, d=10^{-1} \, , \, 1L = 1dm^3
 
 
-** Questão 2
+*** Questão 2
 
 Sabendo que 1 Pa = 1 N/m² é a unidade padrão do S.I. para pressão. Considere um
 paralelepípedo reto de dimensões \( 2,0 cm x 3,0 cm x 5,0 cm\) e com peso de\( 50,0 N\), que pode ser apoiado
@@ -33,7 +35,7 @@ sua face de tamanho médio;
 
 
 
-** Questão 3
+*** Questão 3
 
 **a)** Em qual área deve estar distribuída uma força de 30,0 N para
 que a pressão seja de 10 Pa?
@@ -44,7 +46,7 @@ pressão, para a mesma área?
 **c)** Se área aumentar para o dobro, qual deverá ser o novo valor de
 força, para manter a mesma pressão do item *a*?
 
-** Questão 4
+*** Questão 4
 Considerando a tabela abaixo, calcule:
 
 #+CAPTION: Densidade de alguns gases.
@@ -67,3 +69,18 @@ Considerando a tabela abaixo, calcule:
 gravidade; e considere 10 m/s² para a aceleração da gravidade);
 
 **c)** A pressão que esse volume exerce em 2,0 cm^2 de área.
+
+
+** Questões de revisão: escalas de temperatura
+
+1. Transforme as seguintes nunidades.
+
+   a) \(68 ^0 F\)  em \( ^0  C\)
+
+   b) \(5 ^0 F\) em \( ^0 C\)
+
+   c) \( 25 ^0 C\) em \( ^0 F\)
+
+   d) \( 300 ^0 C \) em \( ^0 F\)
+
+   e) \( 

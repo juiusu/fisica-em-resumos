@@ -56,6 +56,6 @@ Sugestões dos alunos serão sempre bem-vindas.
 
 
 #+ATTR_HTML: :width 25px
-[[file:ifam-logo.png]]    Insituto Federal do Amazonas - /Campus/ Eirunepé
+[[file:./pictures/ifam-logo.png]]    Insituto Federal do Amazonas - /Campus/ Eirunepé
 
 ---------------------------------------------------------------------

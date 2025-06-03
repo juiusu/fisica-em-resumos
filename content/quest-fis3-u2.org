@@ -1,4 +1,4 @@
-* Exercícios e problemas - Física 3 - unidade 2
+* Física 3 - Exercícios e problemas - Unidade 2
 
 ** Revisão: tensão = energia por carga (\(U = \frac{E}{q}\))
 
