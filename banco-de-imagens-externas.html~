@@ -14,42 +14,6 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-org7591f77" class="outline-2">
-<h2 id="org7591f77">Fonte própria</h2>
-<div class="outline-text-2" id="text-org7591f77">
-<div style="text-align:center; max-width:700px; margin:auto;">
-  <p style="font-weight:bold; font-size:1.1em;">
-    O movimento pode ser diferente para dois observadores diferentes.
-  </p>
-  <img src="./pictures/forca-resultante.png"
-       alt="queda-livre"
-       style="width:100%; height:auto;">
-  <p style="font-style:italic; font-size:0.9em;">
-  </p>
-</div>
-
-
-
-<div style="text-align:center; max-width:700px; margin:auto;">
-  <p style="font-weight:bold; font-size:1.1em;">
-    A força resultante é o resultado líquido de toas as forças atuantes. 
-  </p>
-  <img src="./pictures/referenciais.png"
-       alt="força resultante"
-       style="width:100%; height:auto;">
-  <p style="font-style:italic; font-size:0.9em;">
-Fonte: criado pelo autor.
-  </p>
-</div>
-</div>
-</div>
-
-
-
-
-<div id="outline-container-org812be92" class="outline-2">
-<h2 id="org812be92">wikimedia</h2>
-<div class="outline-text-2" id="text-org812be92">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     Animação de uma <a href="https://pt.wikipedia.org/wiki/Aurora_polar" target="_blank">Aurora Polar</a>.
@@ -67,8 +31,31 @@ Fonte: criado pelo autor.
 
 
 
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+A força resultante é o resultado líquido de toas as forças atuantes.
+  </p>
+  <img src="./pictures/forca-resultante.png"
+       alt="queda-livre"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+  Fonte: criado pelo autor.
+  </p>
+</div>
 
 
+
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    O movimento pode ser diferente para dois observadores diferentes. 
+  </p>
+  <img src="./pictures/referenciais.png"
+       alt="força resultante"
+       style="width:100%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+Fonte: criado pelo autor.
+  </p>
+</div>
 
 
 
@@ -352,15 +339,13 @@ Public domain, via Wikimedia Commons"
   Fonte: <a href="https://commons.wikimedia.org/wiki/File:ForceCentrifugeDansUnVirage.png">Thilp</a>, CC0, via Wikimedia Commons
   </p>
 </div>
-</div>
-</div>
 
 
 
 
-<div id="outline-container-org5f9221a" class="outline-2">
-<h2 id="org5f9221a">CONFIGURAR</h2>
-<div class="outline-text-2" id="text-org5f9221a">
+<div id="outline-container-org7336cae" class="outline-2">
+<h2 id="org7336cae">CONFIGURAR</h2>
+<div class="outline-text-2" id="text-org7336cae">
 
 <div class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Lei_de_ohm_-_Ohm%27s_law.jpg" alt="Lei_de_ohm_-_Ohm%27s_law.jpg" />
@@ -374,9 +359,9 @@ Elilopes, CC BY-SA 4.0 <a href="https://creativecommons.org/licenses/by-sa/4.0">
 </div>
 </div>
 
-<div id="outline-container-org3c2e5f7" class="outline-2">
-<h2 id="org3c2e5f7">Fontes</h2>
-<div class="outline-text-2" id="text-org3c2e5f7">
+<div id="outline-container-org4194a97" class="outline-2">
+<h2 id="org4194a97">Fontes</h2>
+<div class="outline-text-2" id="text-org4194a97">
 <p>
 <a href="https://openverse.org">https://openverse.org</a> 
 </p>
