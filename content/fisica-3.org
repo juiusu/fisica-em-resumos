@@ -272,7 +272,7 @@ P \)
        alt="lâmpadas em série e paralelo"
        style="width:100%; height:auto;">
   <p style="font-style:italic; font-size:0.9em;">
-    Fonte: imagem criada pelo autor no tinkercad.com
+    Fonte: imagem criada pelo autor no  <a href="https://www.tinkercad.com/" target="_blank"> Autodesk Tinkercad</a> 
   </p>
 </div>
 #+END_EXPORT
