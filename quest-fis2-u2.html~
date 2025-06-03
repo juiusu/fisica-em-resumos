@@ -36,13 +36,13 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-orgd6591b8" class="outline-2">
-<h2 id="orgd6591b8">Física II - Exercícios e problemas - Unidade 2.</h2>
-<div class="outline-text-2" id="text-orgd6591b8">
+<div id="outline-container-org8719520" class="outline-2">
+<h2 id="org8719520">Física II - Exercícios e problemas - Unidade 2.</h2>
+<div class="outline-text-2" id="text-org8719520">
 </div>
-<div id="outline-container-org1f59f95" class="outline-3">
-<h3 id="org1f59f95">Questão 1</h3>
-<div class="outline-text-3" id="text-org1f59f95">
+<div id="outline-container-org7b77e41" class="outline-3">
+<h3 id="org7b77e41">Questão 1</h3>
+<div class="outline-text-3" id="text-org7b77e41">
 
 <div class="figure">
 <p><object type="image/svg+xml" data="https://upload.wikimedia.org/wikipedia/commons/9/99/Working_principle_of_a_hydraulic_jack.svg" class="org-svg" width="600" style="text-align:center; display:block; margin:auto;">
@@ -60,9 +60,9 @@ Sabendo que a área do êmbolo pequeno é de \(0,01 m^2\) e a do êmbolo grande 
 </div>
 </div>
 
-<div id="outline-container-orgb663b12" class="outline-3">
-<h3 id="orgb663b12">Questão 2</h3>
-<div class="outline-text-3" id="text-orgb663b12">
+<div id="outline-container-orgfd400a1" class="outline-3">
+<h3 id="orgfd400a1">Questão 2</h3>
+<div class="outline-text-3" id="text-orgfd400a1">
 <p>
 Na imagem, dois êmbolos estão ligados por um tubo contendo fluido. Sabendo que a área do êmbolo menor é A₁ = 2 cm² e a do êmbolo maior é A₂ = 10 cm², determine a força F₂ gerada no êmbolo maior quando se aplica uma força F₁ = 40 N no êmbolo menor.
 </p>
@@ -77,9 +77,9 @@ D) 250 N
 </div>
 
 
-<div id="outline-container-org1e1c7d8" class="outline-3">
-<h3 id="org1e1c7d8">Questão 3</h3>
-<div class="outline-text-3" id="text-org1e1c7d8">
+<div id="outline-container-org720160a" class="outline-3">
+<h3 id="org720160a">Questão 3</h3>
+<div class="outline-text-3" id="text-org720160a">
 <p>
 Explique por que, em sistemas hidráulicos como o da imagem, se consegue aplicar uma força pequena e obter uma força grande. Que variável é "sacrificada" no processo?
 </p>
@@ -87,9 +87,9 @@ Explique por que, em sistemas hidráulicos como o da imagem, se consegue aplicar
 </div>
 
 
-<div id="outline-container-org80bfb67" class="outline-3">
-<h3 id="org80bfb67">Questão 4</h3>
-<div class="outline-text-3" id="text-org80bfb67">
+<div id="outline-container-org17bfbd0" class="outline-3">
+<h3 id="org17bfbd0">Questão 4</h3>
+<div class="outline-text-3" id="text-org17bfbd0">
 <p>
 Considere que a área do êmbolo pequeno é A₁ = 3 cm², a área do êmbolo maior é A₂ = 9 cm² e o deslocamento do êmbolo maior é s₂ = 2 cm. Qual deve ser o deslocamento s₁ do êmbolo menor para que o volume de fluido deslocado seja o mesmo?
 </p>
@@ -103,9 +103,9 @@ D) 6 cm
 </div>
 </div>
 
-<div id="outline-container-org3d7210c" class="outline-3">
-<h3 id="org3d7210c">Questão 5</h3>
-<div class="outline-text-3" id="text-org3d7210c">
+<div id="outline-container-org0e080ba" class="outline-3">
+<h3 id="org0e080ba">Questão 5</h3>
+<div class="outline-text-3" id="text-org0e080ba">
 <p>
 Em um sistema hidráulico, o êmbolo menor se desloca 12 cm quando comprimido. Sabendo que sua área é A₁ = 2 cm² e a do êmbolo maior é A₂ = 8 cm², determine o deslocamento s₂ do êmbolo maior.
 </p>
@@ -128,9 +128,9 @@ Sorry, your browser does not support SVG.</object>
 </div>
 
 
-<div id="outline-container-orgb5fd208" class="outline-3">
-<h3 id="orgb5fd208">Questão 6</h3>
-<div class="outline-text-3" id="text-orgb5fd208">
+<div id="outline-container-org60514a8" class="outline-3">
+<h3 id="org60514a8">Questão 6</h3>
+<div class="outline-text-3" id="text-org60514a8">
 <p>
 Na imagem, o primeiro corpo (da esquerda para a direita) afunda no líquido. Isso ocorre porque:
 </p>
@@ -144,9 +144,9 @@ D) Ele está em equilíbrio neutro.
 </div>
 </div>
 
-<div id="outline-container-org646ad5b" class="outline-3">
-<h3 id="org646ad5b">Questão 7</h3>
-<div class="outline-text-3" id="text-org646ad5b">
+<div id="outline-container-org0c18a34" class="outline-3">
+<h3 id="org0c18a34">Questão 7</h3>
+<div class="outline-text-3" id="text-org0c18a34">
 <p>
 No segundo corpo da esquerda para a direita, temos:
 </p>
@@ -160,9 +160,9 @@ D) Um corpo em flutuação total.
 </div>
 </div>
 
-<div id="outline-container-org7756fbb" class="outline-3">
-<h3 id="org7756fbb">Questão 8</h3>
-<div class="outline-text-3" id="text-org7756fbb">
+<div id="outline-container-org64ca0df" class="outline-3">
+<h3 id="org64ca0df">Questão 8</h3>
+<div class="outline-text-3" id="text-org64ca0df">
 <p>
 Quando a força de empuxo é maior que a força peso, o corpo:
 </p>
@@ -176,9 +176,9 @@ D) Sobe até atingir equilíbrio na superfície.
 </div>
 </div>
 
-<div id="outline-container-org699170f" class="outline-3">
-<h3 id="org699170f">Questão 9</h3>
-<div class="outline-text-3" id="text-org699170f">
+<div id="outline-container-org70c3b03" class="outline-3">
+<h3 id="org70c3b03">Questão 9</h3>
+<div class="outline-text-3" id="text-org70c3b03">
 <p>
 Sobre a relação entre densidade dos corpos e o comportamento mostrado na imagem, é correto afirmar:
 </p>
@@ -192,9 +192,9 @@ D) Todos os corpos flutuam, independentemente da densidade.
 </div>
 </div>
 
-<div id="outline-container-org387bc2c" class="outline-3">
-<h3 id="org387bc2c">Questão 10</h3>
-<div class="outline-text-3" id="text-org387bc2c">
+<div id="outline-container-org2de0433" class="outline-3">
+<h3 id="org2de0433">Questão 10</h3>
+<div class="outline-text-3" id="text-org2de0433">
 <p>
 Na última situação (corpo fora da água com empuxo equilibrando o peso), podemos concluir que:
 </p>
@@ -208,9 +208,9 @@ D) O empuxo é menor que o peso.
 </div>
 </div>
 
-<div id="outline-container-org0d185ce" class="outline-3">
-<h3 id="org0d185ce">Questão 11</h3>
-<div class="outline-text-3" id="text-org0d185ce">
+<div id="outline-container-org1dd42de" class="outline-3">
+<h3 id="org1dd42de">Questão 11</h3>
+<div class="outline-text-3" id="text-org1dd42de">
 <p>
 Na última situação da imagem, o corpo está em equilíbrio com 2/3 do seu volume submerso. Sabendo que a densidade do líquido é 1,0 g/cm³, qual é a densidade do corpo?
 </p>
@@ -224,9 +224,9 @@ D) 1,50 g/cm³
 </div>
 </div>
 
-<div id="outline-container-org6135b4e" class="outline-3">
-<h3 id="org6135b4e">Questão 12</h3>
-<div class="outline-text-3" id="text-org6135b4e">
+<div id="outline-container-org03e994f" class="outline-3">
+<h3 id="org03e994f">Questão 12</h3>
+<div class="outline-text-3" id="text-org03e994f">
 <p>
 Um cubo de 0,3 kg e volume de 450 cm³ flutua com 2/3 do seu volume
 submerso. Qual é o empuxo que atua sobre ele? (considere\(g=10 m/ s²\)
@@ -242,9 +242,9 @@ D) 3,92 N
 </div>
 
 
-<div id="outline-container-org1759e5c" class="outline-3">
-<h3 id="org1759e5c">Questão 13</h3>
-<div class="outline-text-3" id="text-org1759e5c">
+<div id="outline-container-orga077589" class="outline-3">
+<h3 id="orga077589">Questão 13</h3>
+<div class="outline-text-3" id="text-orga077589">
 <p>
 Qual das alternativas expressa corretamente o conceito de temperatura do ponto de vista microscópico?
 </p>
@@ -267,9 +267,9 @@ D) Temperatura é a força que o corpo exerce ao trocar calor.
 </div>
 </div>
 
-<div id="outline-container-org154e552" class="outline-3">
-<h3 id="org154e552">Questão 14</h3>
-<div class="outline-text-3" id="text-org154e552">
+<div id="outline-container-orgb6d351b" class="outline-3">
+<h3 id="orgb6d351b">Questão 14</h3>
+<div class="outline-text-3" id="text-orgb6d351b">
 <p>
 Quando dizemos que um corpo está com temperatura elevada, o que isso significa em termos moleculares?
 </p>
@@ -283,9 +283,9 @@ D) As moléculas estão mais próximas umas das outras.
 </div>
 </div>
 
-<div id="outline-container-org0773157" class="outline-3">
-<h3 id="org0773157">Questão 15</h3>
-<div class="outline-text-3" id="text-org0773157">
+<div id="outline-container-org2bd62b1" class="outline-3">
+<h3 id="org2bd62b1">Questão 15</h3>
+<div class="outline-text-3" id="text-org2bd62b1">
 <p>
 Dois corpos possuem a mesma temperatura. Podemos afirmar que:
 </p>
@@ -300,9 +300,9 @@ D) Eles têm a mesma massa e volume.
 </div>
 
 
-<div id="outline-container-org23c356d" class="outline-3">
-<h3 id="org23c356d">Questão 16</h3>
-<div class="outline-text-3" id="text-org23c356d">
+<div id="outline-container-orgad223e8" class="outline-3">
+<h3 id="orgad223e8">Questão 16</h3>
+<div class="outline-text-3" id="text-orgad223e8">
 <p>
 Qual é a temperatura de 25 ºC expressa na escala Kelvin?
 </p>
@@ -317,9 +317,9 @@ D) 310 K
 </div>
 
 
-<div id="outline-container-orgfd02f86" class="outline-3">
-<h3 id="orgfd02f86">Questão 17</h3>
-<div class="outline-text-3" id="text-orgfd02f86">
+<div id="outline-container-org91e8b14" class="outline-3">
+<h3 id="org91e8b14">Questão 17</h3>
+<div class="outline-text-3" id="text-org91e8b14">
 <p>
 Uma amostra de gás está a 300 K. Qual é a temperatura equivalente na escala Celsius?
 </p>
@@ -334,9 +334,9 @@ D) 100 ºC
 </div>
 
 
-<div id="outline-container-org216a8f2" class="outline-3">
-<h3 id="org216a8f2">Questão 18</h3>
-<div class="outline-text-3" id="text-org216a8f2">
+<div id="outline-container-orgce1bf6a" class="outline-3">
+<h3 id="orgce1bf6a">Questão 18</h3>
+<div class="outline-text-3" id="text-orgce1bf6a">
 <p>
 Qual é a temperatura correspondente a 0 ºC na escala Fahrenheit?
 </p>
@@ -350,9 +350,9 @@ D) 273 ºF
 </div>
 </div>
 
-<div id="outline-container-orgdc93868" class="outline-3">
-<h3 id="orgdc93868">Questão 19</h3>
-<div class="outline-text-3" id="text-orgdc93868">
+<div id="outline-container-orgd7b6aa7" class="outline-3">
+<h3 id="orgd7b6aa7">Questão 19</h3>
+<div class="outline-text-3" id="text-orgd7b6aa7">
 <p>
 A temperatura de ebulição da água ao nível do mar é de 100 ºC. Qual é o valor correspondente na escala Fahrenheit?
 </p>
@@ -367,9 +367,9 @@ D) 373 ºF
 </div>
 
 
-<div id="outline-container-org136a9fa" class="outline-3">
-<h3 id="org136a9fa">Questão 20</h3>
-<div class="outline-text-3" id="text-org136a9fa">
+<div id="outline-container-org6cbc03c" class="outline-3">
+<h3 id="org6cbc03c">Questão 20</h3>
+<div class="outline-text-3" id="text-org6cbc03c">
 <p>
 Uma temperatura de 20 ºC equivale a quantos ºF?
 </p>

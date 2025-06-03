@@ -36,17 +36,17 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-org09eeeab" class="outline-2">
-<h2 id="org09eeeab">Física I - Exercícios, problemas - Unidade II</h2>
-<div class="outline-text-2" id="text-org09eeeab">
+<div id="outline-container-org003b830" class="outline-2">
+<h2 id="org003b830">Física I - Exercícios, problemas - Unidade II</h2>
+<div class="outline-text-2" id="text-org003b830">
 </div>
-<div id="outline-container-orge6dc483" class="outline-3">
-<h3 id="orge6dc483">Questões de Cinemática</h3>
-<div class="outline-text-3" id="text-orge6dc483">
+<div id="outline-container-org2fe7747" class="outline-3">
+<h3 id="org2fe7747">Questões de Cinemática</h3>
+<div class="outline-text-3" id="text-org2fe7747">
 </div>
-<div id="outline-container-orgdd04a73" class="outline-4">
-<h4 id="orgdd04a73">Questão 1</h4>
-<div class="outline-text-4" id="text-orgdd04a73">
+<div id="outline-container-org9d8b7f0" class="outline-4">
+<h4 id="org9d8b7f0">Questão 1</h4>
+<div class="outline-text-4" id="text-org9d8b7f0">
 <p>
 Em Cinemática, o referencial é um conceito fundamental para descrever o movimento. O referencial pode ser definido como:
 </p>
@@ -69,9 +69,9 @@ d) A aceleração de um objeto durante seu deslocamento.
 </div>
 </div>
 
-<div id="outline-container-org157b17c" class="outline-4">
-<h4 id="org157b17c">Questão 2</h4>
-<div class="outline-text-4" id="text-org157b17c">
+<div id="outline-container-orgf64e911" class="outline-4">
+<h4 id="orgf64e911">Questão 2</h4>
+<div class="outline-text-4" id="text-orgf64e911">
 <p>
 Um carro se desloca de uma posição \(S_0 = -10 m\) para uma posição final \(S_f = -5 m\) em um intervalo de tempo de 2 segundos. A velocidade média deste carro foi de:
 </p>
@@ -83,9 +83,9 @@ a) 7,5 m/s    b) -2,5 m/s    c) 2,5 m/s    d) -7,5 m/s
 </div>
 
 
-<div id="outline-container-org0e6d638" class="outline-4">
-<h4 id="org0e6d638">Questão 3</h4>
-<div class="outline-text-4" id="text-org0e6d638">
+<div id="outline-container-orgbca09ea" class="outline-4">
+<h4 id="orgbca09ea">Questão 3</h4>
+<div class="outline-text-4" id="text-orgbca09ea">
 <p>
 A diferença entre posição e deslocamento é que:
 </p>
@@ -108,9 +108,9 @@ d) Posição depende do tempo, mas deslocamento não.
 </div>
 </div>
 
-<div id="outline-container-orga0f5a01" class="outline-4">
-<h4 id="orga0f5a01">Questão 4</h4>
-<div class="outline-text-4" id="text-orga0f5a01">
+<div id="outline-container-org20cc4c9" class="outline-4">
+<h4 id="org20cc4c9">Questão 4</h4>
+<div class="outline-text-4" id="text-org20cc4c9">
 <p>
 Quando há uma variação de velocidade de um objeto, seja aumento ou redução, podemos afirmar que:
 a) O objeto está em repouso.  
@@ -131,9 +131,9 @@ d) O movimento é uniforme.
 </div>
 
 
-<div id="outline-container-org16a0503" class="outline-4">
-<h4 id="org16a0503">Questão 5</h4>
-<div class="outline-text-4" id="text-org16a0503">
+<div id="outline-container-orge14306c" class="outline-4">
+<h4 id="orge14306c">Questão 5</h4>
+<div class="outline-text-4" id="text-orge14306c">
 <p>
 A velocidade é definida como:
 </p>
@@ -157,13 +157,13 @@ d) A energia cinética de um objeto.
 </div>
 </div>
 
-<div id="outline-container-orgc453c9c" class="outline-3">
-<h3 id="orgc453c9c">Leis de Newton</h3>
-<div class="outline-text-3" id="text-orgc453c9c">
+<div id="outline-container-org013c826" class="outline-3">
+<h3 id="org013c826">Leis de Newton</h3>
+<div class="outline-text-3" id="text-org013c826">
 </div>
-<div id="outline-container-orgba96ee5" class="outline-4">
-<h4 id="orgba96ee5">Questão 1</h4>
-<div class="outline-text-4" id="text-orgba96ee5">
+<div id="outline-container-org6a89818" class="outline-4">
+<h4 id="org6a89818">Questão 1</h4>
+<div class="outline-text-4" id="text-org6a89818">
 <p>
 O conceito de inércia pode ser descrito como:
 </p>
@@ -186,9 +186,9 @@ d) A velocidade máxima que um objeto pode atingir.
 </div>
 </div>
 
-<div id="outline-container-org2315ef1" class="outline-4">
-<h4 id="org2315ef1">Questão 2</h4>
-<div class="outline-text-4" id="text-org2315ef1">
+<div id="outline-container-orge257d2b" class="outline-4">
+<h4 id="orge257d2b">Questão 2</h4>
+<div class="outline-text-4" id="text-orge257d2b">
 <p>
 Sobre a relação entre massa e inércia, é correto afirmar que:
 </p>
@@ -212,9 +212,9 @@ d) A inércia não depende da massa do objeto.
 </div>
 
 
-<div id="outline-container-orga60bccf" class="outline-4">
-<h4 id="orga60bccf">Questão 3</h4>
-<div class="outline-text-4" id="text-orga60bccf">
+<div id="outline-container-org37cd449" class="outline-4">
+<h4 id="org37cd449">Questão 3</h4>
+<div class="outline-text-4" id="text-org37cd449">
 <p>
 Os referenciais inerciais são aqueles que:
 </p>
@@ -237,9 +237,9 @@ d) Estão sempre em repouso absoluto.
 </div>
 </div>
 
-<div id="outline-container-org9849931" class="outline-4">
-<h4 id="org9849931">Questão 4</h4>
-<div class="outline-text-4" id="text-org9849931">
+<div id="outline-container-org7ea9a00" class="outline-4">
+<h4 id="org7ea9a00">Questão 4</h4>
+<div class="outline-text-4" id="text-org7ea9a00">
 <p>
 Quando uma pessoa está dentro de um automóvel que faz uma curva, ela sente uma força para fora da curva. Essa força:
 a) É uma força real que atua sobre a pessoa.  
@@ -259,16 +259,16 @@ d) Só existe quando o carro está freando.
 </div>
 </div>
 
-<div id="outline-container-orgdb11fc0" class="outline-4">
-<h4 id="orgdb11fc0">Questão 5</h4>
-<div class="outline-text-4" id="text-orgdb11fc0">
+<div id="outline-container-orgbfe34da" class="outline-4">
+<h4 id="orgbfe34da">Questão 5</h4>
+<div class="outline-text-4" id="text-orgbfe34da">
 <p>
 A fórmula matemática que representa a Segunda Lei de Newton pode ser
 escrita como:
 </p>
 
 <p>
-a) (F = mv  \)
+a) \(F = mv  \)
 </p>
 
 <p>
@@ -285,9 +285,9 @@ d) Tanto b quanto c estão corretas.
 </div>
 </div>
 
-<div id="outline-container-org6109b10" class="outline-4">
-<h4 id="org6109b10">Questão 6</h4>
-<div class="outline-text-4" id="text-org6109b10">
+<div id="outline-container-orgff189de" class="outline-4">
+<h4 id="orgff189de">Questão 6</h4>
+<div class="outline-text-4" id="text-orgff189de">
 <p>
 A Segunda Lei de Newton, conhecida como Princípio Fundamental da Dinâmica, estabelece que:
 a) A velocidade é sempre mantida por uma força.
@@ -307,9 +307,9 @@ d) A energia se conserva em todos os sistemas.
 </div>
 </div>
 
-<div id="outline-container-org0a4ff0a" class="outline-4">
-<h4 id="org0a4ff0a">Questão 7</h4>
-<div class="outline-text-4" id="text-org0a4ff0a">
+<div id="outline-container-orge8eb74f" class="outline-4">
+<h4 id="orge8eb74f">Questão 7</h4>
+<div class="outline-text-4" id="text-orge8eb74f">
 <p>
 Se a força resultante sobre um objeto dobrar e sua massa permanecer constante, sua aceleração:
 </p>
@@ -332,9 +332,9 @@ d) Será reduzida a um quarto.
 </div>
 </div>
 
-<div id="outline-container-org7598d09" class="outline-4">
-<h4 id="org7598d09">Questão 8</h4>
-<div class="outline-text-4" id="text-org7598d09">
+<div id="outline-container-orgeea76bb" class="outline-4">
+<h4 id="orgeea76bb">Questão 8</h4>
+<div class="outline-text-4" id="text-orgeea76bb">
 <p>
 A Terceira Lei de Newton, conhecida como Lei da Ação e Reação, afirma que:
 </p>
@@ -357,9 +357,9 @@ d) A aceleração é inversamente proporcional à força.
 </div>
 </div>
 
-<div id="outline-container-orgabfb089" class="outline-4">
-<h4 id="orgabfb089">Questão 9</h4>
-<div class="outline-text-4" id="text-orgabfb089">
+<div id="outline-container-org5e154ee" class="outline-4">
+<h4 id="org5e154ee">Questão 9</h4>
+<div class="outline-text-4" id="text-org5e154ee">
 <p>
 Sobre as forças de ação e reação, é correto afirmar que elas:
 </p>
@@ -386,26 +386,35 @@ d) São sempre maiores que o peso dos objetos.
 
 
 
-<div id="outline-container-orgf13d435" class="outline-3">
-<h3 id="orgf13d435">Questões integradas</h3>
-<div class="outline-text-3" id="text-orgf13d435">
+<div id="outline-container-org8ccd11c" class="outline-3">
+<h3 id="org8ccd11c">Questões integradas</h3>
+<div class="outline-text-3" id="text-org8ccd11c">
 </div>
-<div id="outline-container-orgf0d4397" class="outline-4">
-<h4 id="orgf0d4397">Questão 1</h4>
-<div class="outline-text-4" id="text-orgf0d4397">
+<div id="outline-container-org6be5405" class="outline-4">
+<h4 id="org6be5405">Questão 1</h4>
+<div class="outline-text-4" id="text-org6be5405">
 <p>
 Duas pessoas puxam uma caixa com forças de 10 N e 15 N em direções opostas. A força resultante sobre a caixa é:
-a) 25 N  
-b) 5 N  
-c) 0 N  
+a) 25 N
+</p>
+
+<p>
+b) 5 N
+</p>
+
+<p>
+c) 0 N
+</p>
+
+<p>
 d) 150 N  
 </p>
 </div>
 </div>
 
-<div id="outline-container-org894b7a2" class="outline-4">
-<h4 id="org894b7a2">Questão 2</h4>
-<div class="outline-text-4" id="text-org894b7a2">
+<div id="outline-container-org9eb29ea" class="outline-4">
+<h4 id="org9eb29ea">Questão 2</h4>
+<div class="outline-text-4" id="text-org9eb29ea">
 <p>
 A força resultante pode ser definida como:
 </p>
@@ -428,9 +437,9 @@ d) A força de atrito entre superfícies.
 </div>
 </div>
 
-<div id="outline-container-org3608dd8" class="outline-4">
-<h4 id="org3608dd8">Questão 3</h4>
-<div class="outline-text-4" id="text-org3608dd8">
+<div id="outline-container-org32f40bd" class="outline-4">
+<h4 id="org32f40bd">Questão 3</h4>
+<div class="outline-text-4" id="text-org32f40bd">
 <p>
 A força de resistência do ar:
 </p>
@@ -453,9 +462,55 @@ d) Não existe no vácuo nem na atmosfera.
 </div>
 </div>
 
-<div id="outline-container-org5566e01" class="outline-4">
-<h4 id="org5566e01">Questão 4</h4>
-<div class="outline-text-4" id="text-org5566e01">
+<div id="outline-container-org1197fad" class="outline-4">
+<h4 id="org1197fad">Questão 5</h4>
+<div class="outline-text-4" id="text-org1197fad">
+<p>
+Observe a figura abaixo:
+</p>
+
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Figura: questão 5.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Circular_motion_-_Newton_first_law.svg"
+       alt="circular"
+       style="width:50%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+  Fonte: <a href="https://commons.wikimedia.org/wiki/File:Circular_motion_-_Newton_first_law.svg">Ben Kasel</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+
+<p>
+Um corpo preso a uma corda gira em movimento circular uniforme. Se a corda se romper no instante mostrado na imagem, em qual direção o corpo se moverá?
+</p>
+
+<p>
+a) Direção (A)  
+</p>
+
+<p>
+b) Direção (B)  
+</p>
+
+<p>
+c) Direção (C)  
+</p>
+
+<p>
+d) Direção (D)  
+</p>
+
+<p>
+e) Direção (E)  
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-orgc22ce9f" class="outline-4">
+<h4 id="orgc22ce9f">Questão 4</h4>
+<div class="outline-text-4" id="text-orgc22ce9f">
 <p>
 Um carro trafega em uma estrada retilínea com velocidade constante de 60 km/h. Nesta situação:
 </p>
@@ -478,9 +533,9 @@ d) O carro está desacelerando gradualmente.
 </div>
 </div>
 
-<div id="outline-container-org4b002f4" class="outline-4">
-<h4 id="org4b002f4">Questão 5</h4>
-<div class="outline-text-4" id="text-org4b002f4">
+<div id="outline-container-orga12bc37" class="outline-4">
+<h4 id="orga12bc37">Questão 5</h4>
+<div class="outline-text-4" id="text-orga12bc37">
 <p>
 Durante uma freada brusca, os passageiros de um ônibus são "jogados" para frente. Esse fenômeno é explicado:
 </p>
@@ -503,9 +558,9 @@ d) Pela força de atrito entre os pés e o chão.
 </div>
 </div>
 
-<div id="outline-container-org9161a8f" class="outline-4">
-<h4 id="org9161a8f">Questão 6</h4>
-<div class="outline-text-4" id="text-org9161a8f">
+<div id="outline-container-org6e0e6f0" class="outline-4">
+<h4 id="org6e0e6f0">Questão 6</h4>
+<div class="outline-text-4" id="text-org6e0e6f0">
 <p>
 Um objeto de massa 2 kg sofre a ação de uma força resultante de 10 N. Sua aceleração será:
 </p>
@@ -528,9 +583,9 @@ d) 12 m/s²
 </div>
 </div>
 
-<div id="outline-container-org89e9220" class="outline-4">
-<h4 id="org89e9220">Questão 7</h4>
-<div class="outline-text-4" id="text-org89e9220">
+<div id="outline-container-org0e98b0e" class="outline-4">
+<h4 id="org0e98b0e">Questão 7</h4>
+<div class="outline-text-4" id="text-org0e98b0e">
 <p>
 Em um cabo de guerra, duas equipes puxam uma corda com forças iguais e opostas. Se a corda não se move, isso significa que:
 </p>
@@ -550,7 +605,283 @@ c) Uma das equipes não está puxando.
 <p>
 d) A corda está quebrada.  
 </p>
+
+
+
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+  Dois corpos com massas diferentes em patins se empurrando: Questões 8 a 11.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Action-reaction-law.svg"
+       alt="ação-reação1"
+       style="width:50%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+  Fonte: <a href="https://commons.wikimedia.org/wiki/File:Action-reaction-law.svg">MikeRun</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
 </div>
+</div>
+</div>
+
+<div id="outline-container-orgfea6afa" class="outline-4">
+<h4 id="orgfea6afa">Questão 8</h4>
+<div class="outline-text-4" id="text-orgfea6afa">
+<p>
+A imagem representa dois corpos em patins que se empurram mutuamente. Sobre as forças envolvidas nesse processo, é correto afirmar:
+</p>
+
+<p>
+a) A força exercida pelo corpo vermelho é maior, pois ele tem menor massa.  
+</p>
+
+<p>
+b) A força exercida pelo corpo azul é maior, pois ele tem maior massa.  
+</p>
+
+<p>
+c) As forças são iguais em módulo, direção e sentidos opostos.  
+</p>
+
+<p>
+d) As forças são diferentes, pois as massas são diferentes.  
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org6be87be" class="outline-4">
+<h4 id="org6be87be">Questão 9</h4>
+<div class="outline-text-4" id="text-org6be87be">
+<p>
+Considerando as massas \( m_1 \) e \( m_2 \), sendo \( m_2 = 2 \cdot m_1 \), e observando as velocidades após o empurrão, qual relação entre as velocidades é representada na imagem?
+</p>
+
+<p>
+a) \( v_1 = v_2 \)  
+</p>
+
+<p>
+b) \( v_1 = \frac{1}{2}v_2 \)  
+</p>
+
+<p>
+c) \( v_1 = 2 \cdot v_2 \)  
+</p>
+
+<p>
+d) \( v_1 = -2 \cdot v_2 \)  
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org3094aca" class="outline-4">
+<h4 id="org3094aca">Questão 10</h4>
+<div class="outline-text-4" id="text-org3094aca">
+<p>
+O princípio físico mais bem representado por essa imagem é:
+</p>
+
+<p>
+a) Lei da inércia  
+</p>
+
+<p>
+b) Lei da gravitação universal  
+</p>
+
+<p>
+c) Terceira Lei de Newton e conservação da quantidade de movimento  
+</p>
+
+<p>
+d) Princípio da conservação da energia potencial  
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org8bf6352" class="outline-4">
+<h4 id="org8bf6352">Questão 11</h4>
+<div class="outline-text-4" id="text-org8bf6352">
+<p>
+Qual das alternativas melhor explica o fato de os dois corpos se afastarem após o contato, com velocidades diferentes?
+</p>
+
+<p>
+a) O corpo de maior massa aplica maior força no de menor massa.  
+</p>
+
+<p>
+b) A energia cinética do sistema não se conserva.  
+</p>
+
+<p>
+c) A ação e a reação têm intensidades diferentes, resultando em velocidades distintas.  
+</p>
+
+<p>
+d) As forças são iguais, mas as massas são diferentes, o que resulta
+em acelerações diferentes.
+</p>
+
+
+
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+  Par acção-reação em forças de ação à distância, nesse exemplo, a força gravitacional: Questões 12 a 15.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/NewtonsLawGravitation.png"
+       alt="ação-reação2-gravitacional"
+       style="width:50%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+  Fonte: <a href="https://commons.wikimedia.org/wiki/File:NewtonsLawGravitation.png">Svjo</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-org60cc60f" class="outline-4">
+<h4 id="org60cc60f">Questão 12</h4>
+<div class="outline-text-4" id="text-org60cc60f">
+<p>
+Na interação gravitacional entre dois corpos (como Terra e Lua), é correto afirmar que:
+</p>
+
+<p>
+a) A Terra exerce uma força maior sobre a Lua do que a Lua sobre a Terra.  
+</p>
+
+<p>
+b) A Lua não exerce força sobre a Terra.  
+</p>
+
+<p>
+c) As forças gravitacionais entre Terra e Lua têm o mesmo módulo, direção e sentidos opostos.  
+</p>
+
+<p>
+d) A força da Lua é desprezível por ser menos massiva.  
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-orgd5d785b" class="outline-4">
+<h4 id="orgd5d785b">Questão 13</h4>
+<div class="outline-text-4" id="text-orgd5d785b">
+<p>
+Mesmo exercendo forças de mesmo módulo na interação gravitacional, a Lua tem maior aceleração que a Terra porque:
+</p>
+
+<p>
+a) A força que atua sobre a Lua é maior.  
+</p>
+
+<p>
+b) A massa da Lua é menor, então sua aceleração é maior, conforme a Segunda Lei de Newton.  
+</p>
+
+<p>
+c) A Lua está mais próxima do Sol.  
+</p>
+
+<p>
+d) A Terra está em repouso absoluto.  
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-orgc6fa0e8" class="outline-4">
+<h4 id="orgc6fa0e8">Questão 14</h4>
+<div class="outline-text-4" id="text-orgc6fa0e8">
+<p>
+A Primeira Lei de Newton (Lei da Inércia) explica que um corpo tende a permanecer em repouso ou em movimento retilíneo uniforme:
+</p>
+
+<p>
+a) Somente se não houver nenhuma força atuando.  
+</p>
+
+<p>
+b) Desde que a força resultante sobre ele seja diferente de zero.  
+</p>
+
+<p>
+c) Apenas em sistemas gravitacionais.  
+</p>
+
+<p>
+d) Quando a força resultante sobre o corpo é nula.  
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org01e528e" class="outline-4">
+<h4 id="org01e528e">Questão 15</h4>
+<div class="outline-text-4" id="text-org01e528e">
+<p>
+Com base na Terceira Lei de Newton, sobre as forças representadas na imagem \( F_1 \) e \( F_2 \), pode-se afirmar:
+</p>
+
+<p>
+a) \( F_1 > F_2 \) porque \( m_1 > m_2 \).  
+</p>
+
+<p>
+b) \( F_1 < F_2 \) porque \( m_2 \) está mais distante.  
+</p>
+
+<p>
+c) \( F_1 = F_2 \), pois são forças de ação e reação com mesma intensidade.  
+</p>
+
+<p>
+d) As forças não se relacionam pois atuam em corpos diferentes.  
+</p>
+</div>
+</div>
+</div>
+
+
+
+
+
+<div id="outline-container-orgb696632" class="outline-3">
+<h3 id="orgb696632">Integrando cinemática e leis de Newton</h3>
+<div class="outline-text-3" id="text-orgb696632">
+</div>
+<div id="outline-container-org9e300b8" class="outline-4">
+<h4 id="org9e300b8">Questão 1</h4>
+<div class="outline-text-4" id="text-org9e300b8">
+<p>
+Um objeto de 10 kg sofre uma aceleração de 3 m/s². Qual é a força resultante sobre ele?
+</p>
+
+<p>
+a) 13 N  
+b) 30 N  
+c) 300 N  
+d) 3 N  
+</p>
+</div>
+</div>
+
+<div id="outline-container-org364bd0e" class="outline-4">
+<h4 id="org364bd0e">Questão 2</h4>
+<div class="outline-text-4" id="text-org364bd0e">
+<p>
+Se um corpo varia sua velocidade de \(10 \, m/s\) para \(60\, m/s\),
+quando submetido por uma força de 100 N; qual é a massa desse corpo?
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org885c63a" class="outline-4">
+<h4 id="org885c63a">Questão 3</h4>
 </div>
 </div>
 </div>
