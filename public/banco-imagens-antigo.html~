@@ -14,42 +14,9 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-org74c73ee" class="outline-2">
-<h2 id="org74c73ee">Fonte própria</h2>
-<div class="outline-text-2" id="text-org74c73ee">
-<div style="text-align:center; max-width:700px; margin:auto;">
-  <p style="font-weight:bold; font-size:1.1em;">
-    O movimento pode ser diferente para dois observadores diferentes.
-  </p>
-  <img src="./pictures/forca-resultante.png"
-       alt="queda-livre"
-       style="width:100%; height:auto;">
-  <p style="font-style:italic; font-size:0.9em;">
-  </p>
-</div>
-
-
-
-<div style="text-align:center; max-width:700px; margin:auto;">
-  <p style="font-weight:bold; font-size:1.1em;">
-    A força resultante é o resultado líquido de toas as forças atuantes. 
-  </p>
-  <img src="./pictures/referenciais.png"
-       alt="força resultante"
-       style="width:100%; height:auto;">
-  <p style="font-style:italic; font-size:0.9em;">
-Fonte: criado pelo autor.
-  </p>
-</div>
-</div>
-</div>
-
-
-
-
-<div id="outline-container-org41a809f" class="outline-2">
-<h2 id="org41a809f">wikimedia</h2>
-<div class="outline-text-2" id="text-org41a809f">
+<div id="outline-container-orgc3dd852" class="outline-2">
+<h2 id="orgc3dd852">arquivo antigo</h2>
+<div class="outline-text-2" id="text-orgc3dd852">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     Animação de uma <a href="https://pt.wikipedia.org/wiki/Aurora_polar" target="_blank">Aurora Polar</a>.
@@ -67,8 +34,31 @@ Fonte: criado pelo autor.
 
 
 
+<div style="text-align:center; max-width:700px; margin:auto;">
+
+A força resultante é o resultado líquido de toas as forças atuantes.
+  </p>
+  <img src="./pictures/forca-resultante.png"
+       alt="queda-livre"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+  Fonte: criado pelo autor.
+  </p>
+</div>
 
 
+
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    O movimento pode ser diferente para dois observadores diferentes. 
+  </p>
+  <img src="./pictures/referenciais.png"
+       alt="força resultante"
+       style="width:100%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+Fonte: criado pelo autor.
+  </p>
+</div>
 
 
 
@@ -352,15 +342,38 @@ Public domain, via Wikimedia Commons"
   Fonte: <a href="https://commons.wikimedia.org/wiki/File:ForceCentrifugeDansUnVirage.png">Thilp</a>, CC0, via Wikimedia Commons
   </p>
 </div>
+
+
+<ul class="org-ul">
+<li><p>
+incluir nas questões do primeiro ano
+</p>
+
+
+<div class="figure">
+<p><object type="image/svg+xml" data="https://upload.wikimedia.org/wikipedia/commons/7/70/Tr%C3%A4gheitskraft.svg" class="org-svg">
+Sorry, your browser does not support SVG.</object>
+</p>
+</div>
+
+<p>
+&lt;a
+href="<object type="image/svg+xml" data="https://commons.wikimedia.org/wiki/File:Tr%C3%A4gheitskraft.svg" class="org-svg">
+Sorry, your browser does not support SVG.</object>"&gt;Seven
+Supreme&lt;/a&gt;, &lt;a
+href="<a href="https://creativecommons.org/licenses/by-sa/3.0">https://creativecommons.org/licenses/by-sa/3.0</a>"&gt;CC BY-SA
+3.0&lt;/a&gt;, via Wikimedia Commons
+</p></li>
+</ul>
 </div>
 </div>
 
 
 
 
-<div id="outline-container-orgab79cf6" class="outline-2">
-<h2 id="orgab79cf6">CONFIGURAR</h2>
-<div class="outline-text-2" id="text-orgab79cf6">
+<div id="outline-container-orgaf039d1" class="outline-2">
+<h2 id="orgaf039d1">CONFIGURAR</h2>
+<div class="outline-text-2" id="text-orgaf039d1">
 
 <div class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Lei_de_ohm_-_Ohm%27s_law.jpg" alt="Lei_de_ohm_-_Ohm%27s_law.jpg" />
@@ -374,11 +387,16 @@ Elilopes, CC BY-SA 4.0 <a href="https://creativecommons.org/licenses/by-sa/4.0">
 </div>
 </div>
 
-<div id="outline-container-org5ad02d4" class="outline-2">
-<h2 id="org5ad02d4">Fontes</h2>
-<div class="outline-text-2" id="text-org5ad02d4">
+<div id="outline-container-org3e11849" class="outline-2">
+<h2 id="org3e11849">Fontes</h2>
+<div class="outline-text-2" id="text-org3e11849">
 <p>
 <a href="https://openverse.org">https://openverse.org</a> 
+</p>
+
+
+<p>
+<a href="https://pixabay.com/images/search/dominica/?utm_source=chatgpt.com">pixbay</a>
 </p>
 </div>
 </div>

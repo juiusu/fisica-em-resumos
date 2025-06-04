@@ -1,0 +1,1186 @@
+#+TITLE: Banco de Imagens - Física em Resumos
+
+
+* PADRÃO
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+ FÍGURA 1: Prensa hidráulica, com embolo de área menor à esquerda, e maior à direita.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Working_principle_of_a_hydraulic_jack.svg"
+       alt="prensa-hidraulica-1"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Working_principle_of_a_hydraulic_jack.svg">Olivier Cleynen</a>, CC0, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p>
+    DESCRIÇÃO DA IMAGEM.
+  </p>
+  <img src="./pictures/NOME_DA_IMAGEM.png"
+       alt="ALT_TEXT"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor.
+  </p>
+</div>
+#+END_EXPORT
+
+
+* Banco de Imagens do Projeto Física em Resumos
+
+Este arquivo contém todas as imagens encontradas nos arquivos .org do projeto, organizadas com os modelos HTML apropriados.
+
+** Imagens Externas (HTTP/HTTPS)
+
+
+*** Leis de Newton
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Lei da Gravitação Universal de Newton.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/NewtonsLawGravitation.png"
+       alt="Diagrama da Lei da Gravitação Universal"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: https://commons.wikimedia.org/wiki/File:NewtonsLawGravitation.png, licença CC BY-SA 4.0
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Lei de Ação e Reação (3ª Lei de Newton).
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Action-reaction-law.svg"
+       alt="Diagrama da Lei de Ação e Reação"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: https://commons.wikimedia.org/wiki/File:Action-reaction-law.svg, licença CC BY-SA 4.0
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Movimento Circular - Primeira Lei de Newton.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Circular_motion_-_Newton_first_law.svg"
+       alt="Diagrama do movimento circular e primeira lei de Newton"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: https://commons.wikimedia.org/wiki/File:Circular_motion_-_Newton_first_law.svg, licença CC BY-SA 4.0
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+*** Hidrostática e Fluidos
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Princípio de Funcionamento do Macaco Hidráulico.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Working_principle_of_a_hydraulic_jack.svg"
+       alt="Diagrama do princípio de funcionamento do macaco hidráulico"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: https://commons.wikimedia.org/wiki/File:Working_principle_of_a_hydraulic_jack.svg, licença CC
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Transmissão Hidráulica entre Duas Seringas.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hydraulic_transmission_between_two_syringes.svg/512px-Hydraulic_transmission_between_two_syringes.svg.png"
+       alt="Diagrama da transmissão hidráulica entre seringas"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: https://commons.wikimedia.org/wiki/File:Hydraulic_transmission_between_two_syringes.svg, licença CC BY-SA 4.0
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Flutuação e Afundamento de Objetos.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Floating-and-sinking-2.svg"
+       alt="Diagrama mostrando objetos flutuando e afundando"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: https://commons.wikimedia.org/wiki/File:Floating-and-sinking-2.svg, licença CC
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Medição de Deslocamento.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Displacement-measurement.svg/512px-Displacement-measurement.svg.png"
+       alt="Diagrama de medição de deslocamento"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: https://commons.wikimedia.org/wiki/File:Displacement-measurement.svg, licença CC BY-SA 4.0
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+*** Eletrostática
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Linhas de Campo e Equipotenciais em um Condensador.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Lineas_del_campo_y_equipotenciales_en_un_condensador.png"
+       alt="Diagrama das linhas de campo e equipotenciais em um condensador"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: https://commons.wikimedia.org/wiki/File:Lineas_del_campo_y_equipotenciales_en_un_condensador.png, licença CC BY-SA 4.0
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+** Imagens Locais
+
+*** Questões UEA
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p>
+    Questão UEA SIS3 2014-1.
+  </p>
+  <img src="./uea-pngs/uea-sis3-2014-1.png"
+       alt="Questão UEA SIS3 2014-1"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor.
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p>
+    Questão UEA SIS3 2018.
+  </p>
+  <img src="./uea-pngs/uea-sis3-2018.png"
+       alt="Questão UEA SIS3 2018"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor.
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p>
+    Questão UEA SIS3 2016.
+  </p>
+  <img src="./uea-pngs/uea-sis3-2016.png"
+       alt="Questão UEA SIS3 2016"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor.
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p>
+    Questão UEA SIS3 2014.
+  </p>
+  <img src="./uea-pngs/uea-sis3-2014.png"
+       alt="Questão UEA SIS3 2014"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor.
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p>
+    Questão UEA SIS3 2019.
+  </p>
+  <img src="./uea-pngs/uea-sis3-2019.png"
+       alt="Questão UEA SIS3 2019"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor.
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p>
+    Questão UEA SIS3 2016-1.
+  </p>
+  <img src="./uea-pngs/uea-sis3-2016-1.png"
+       alt="Questão UEA SIS3 2016-1"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor.
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p>
+    Questão UEA SIS3 2019-2 Parte 1.
+  </p>
+  <img src="./uea-pngs/uea-sis3-2019-2-part1.png"
+       alt="Questão UEA SIS3 2019-2 Parte 1"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor.
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p>
+    Questão UEA SIS3 2019-2 Parte 2.
+  </p>
+  <img src="./uea-pngs/uea-sis3-2019-2-part2.png"
+       alt="Questão UEA SIS3 2019-2 Parte 2"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor.
+  </p>
+</div>
+#+END_EXPORT
+
+
+*** Gráficos e Logos
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p>
+    Gráfico 2 - Pré-Física.
+  </p>
+  <img src="./graphics/grafico2.png"
+       alt="Gráfico 2 para exercícios de pré-física"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor.
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p>
+    Logo do IFAM.
+  </p>
+  <img src="./ifam-logo.png"
+       alt="Logo do Instituto Federal do Amazonas"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor.
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
+
+* arquivo antigo
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Animação de uma <a href="https://pt.wikipedia.org/wiki/Aurora_polar" target="_blank">Aurora Polar</a>.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Aurora_Australis.gif"
+       alt="Aurora Austral animada"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Aurora_Australis.gif">NASA</a>, 
+    Public domain, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+
+A força resultante é o resultado líquido de toas as forças atuantes.
+  </p>
+  <img src="./pictures/forca-resultante.png"
+       alt="queda-livre"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+  Fonte: criado pelo autor.
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    O movimento pode ser diferente para dois observadores diferentes. 
+  </p>
+  <img src="./pictures/referenciais.png"
+       alt="força resultante"
+       style="width:100%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+Fonte: criado pelo autor.
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Ilustração de <a href="https://pt.wikipedia.org/wiki/Radia%C3%A7%C3%A3o_eletromagn%C3%A9tica" target="_blank">Onda Eletromagnética</a>.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Atomic-spectrum-.gif"
+       alt="https://upload.wikimedia.org/wikipedia/commons/4/4b/Atomic-spectrum-.gif"
+       style="width:60%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Atomic-spectrum-.gif">News Official World</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Animação de uma <a href="https://pt.wikipedia.org/wiki/Aurora_polar" target="_blank">Aurora Polar</a>.
+  </p>
+  <img src="https://commons.wikimedia.org/wiki/File:Aurora_Australis.gif"
+       alt=h"https://commons.wikimedia.org/wiki/File:Aurora_Australis.gif"
+       style="width:60%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Aurora_Australis.gif">NASA</a>, Public domain, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Ilustração de um  <a href=" https://pt.wikipedia.org/wiki/Motor_de_combust%C3%A3o_interna" target="_blank"> motor de combustão térmica</a>.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Cshaft.gif"
+       alt="<a href="https://commons.wikimedia.org/wiki/File:Cshaft.gif">NASA</a>,
+Public domain, via Wikimedia Commons"
+       style="width:60%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+    Fonte: 
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
+
+
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Ilustração da <a href="https://pt.wikipedia.org/wiki/Dispers%C3%A3o_(%C3%B3ptica)" target="_blank"> dispersão da luz em um prisma</a>.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Light_dispersion_conceptual_waves.gif"
+       alt="https://upload.wikimedia.org/wikipedia/commons/f/f5/Light_dispersion_conceptual_waves.gif"
+       style="width:60%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Light_dispersion_conceptual_waves.gif">Lucas Vieira</a>, Public domain, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
+- Link da imagem: https://upload.wikimedia.org/wikipedia/commons/a/a1/Foucault_pendulum_animated.gif
+- Fonte: A preencher
+- Licença: A preencher
+- Descrição: A preencher
+
+
+- Link da imagem: https://upload.wikimedia.org/wikipedia/commons/e/eb/Rettangolo6x3.png?20241125180347
+- Fonte: A preencher
+- Licença: A preencher
+- Descrição: A preencher
+
+
+- Link da imagem: https://upload.wikimedia.org/wikipedia/commons/4/4b/Atomic-spectrum-.gif
+- Fonte: A preencher
+- Licença: A preencher
+- Descrição: A preencher
+
+
+- Link da imagem: https://commons.wikimedia.org/wiki/File:Aurora_Australis.gif
+- Fonte: A preencher
+- Licença: A preencher
+- Descrição: A preencher
+
+
+- Link da imagem: https://upload.wikimedia.org/wikipedia/commons/a/ac/Cshaft.gif
+- Fonte: A preencher
+- Licença: A preencher
+- Descrição: A preencher
+
+
+- Link da imagem: https://upload.wikimedia.org/wikipedia/commons/f/f5/Light_dispersion_conceptual_waves.gif
+- Fonte: A preencher
+- Licença: A preencher
+- Descrição: A preencher
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Comparação entre as principais escalas de temperatura
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Escalas_de_Temperatura.jpg"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    "<a rel="noopener noreferrer" href="https://commons.wikimedia.org/w/index.php?curid=92805740">Escalas de Temperatura</a>" 
+    by <a rel="noopener noreferrer" href="https://commons.wikimedia.org/wiki/User:Mjmauler">Mjmauler</a> 
+    is licensed under 
+    <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse">
+      CC BY-SA 4.0 
+      <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" />
+      <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" />
+      <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-right: 0.125em; display: inline;" />
+    </a>.
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Emissão de infra vermelho por um cachorro. 
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Infrared_dog.jpg"
+       alt="infrared_dog.jpg"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Infrared_dog.jpg">NASA/IPAC</a>, Public domain, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Espectro_EM_pt.svg"
+       alt="Espectro_EM_pt.svg"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Espectro_EM_pt.svg">Khemis</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Forças de contato e de ação à distância
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Force_examples.svg"
+       alt="exemplos de força 1"
+       style="width:100%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+  Fonte: <a href="https://commons.wikimedia.org/wiki/File:Force_examples.svg">Force.png: Penubagderivative work: Arnaud Ramey</a>, Public domain, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Força de atrito
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Friction.svg"
+       alt="força de atrito"
+       style="width:100%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+  Fonte:<a href="https://commons.wikimedia.org/wiki/File:Friction.svg">Keta, Pieter Kuiper</a>, <a href="https://creativecommons.org/licenses/by/2.5">CC BY 2.5</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    A força de resistência do ar sustenta um paraquedas, por exemplo.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Parachute_%28PSF%29.png"
+       alt="paraquedas"
+       style="width:50%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+  Fonte: <a href="https://commons.wikimedia.org/wiki/File:Parachute_(PSF).png">Pearson Scott Foresman</a>, Public domain, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Qual será o movimento se a corda se soltar?
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Circular_motion_-_Newton_first_law.svg"
+       alt="circular"
+       style="width:50%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+  Fonte: <a href="https://commons.wikimedia.org/wiki/File:Circular_motion_-_Newton_first_law.svg">Ben Kasel</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Por que Stephen Hawking está flutuando?
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Physicist_Stephen_Hawking_in_Zero_Gravity_NASA.jpg"
+       alt="circular"
+       style="width:50%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+  Fonte: <a href="https://commons.wikimedia.org/wiki/File:Physicist_Stephen_Hawking_in_Zero_Gravity_NASA.jpg">Jim Campbell/Aero-News Network</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+  Efeito da inércia: se a força for suave, a corda de cima se rompe, se a força for abrupta,a corda de baixo se rompe.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Inertial-vs-gravitational-mass-experiment.svg"
+       alt="inertia-string"
+       style="width:50%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+  Fonte: <a href="https://commons.wikimedia.org/wiki/File:Inertial-vs-gravitational-mass-experiment.svg">MikeRun</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+  Par acção-reação quando uma pessoa empurra outra.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Action-reaction-law.svg"
+       alt="ação-reação1"
+       style="width:50%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+  Fonte: <a href="https://commons.wikimedia.org/wiki/File:Action-reaction-law.svg">MikeRun</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+  Par acção-reação em forças de ação à distância, nesse exemplo, a força gravitacional.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/NewtonsLawGravitation.png"
+       alt="ação-reação2-gravitacional"
+       style="width:50%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+  Fonte: <a href="https://commons.wikimedia.org/wiki/File:NewtonsLawGravitation.png">Svjo</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Quem está dentro de um automóvel que faz uma curva, sente uma força para fora da curva.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/ForceCentrifugeDansUnVirage.png"
+       alt="força-cetrífuga"
+       style="width:70%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+  Fonte: <a href="https://commons.wikimedia.org/wiki/File:ForceCentrifugeDansUnVirage.png">Thilp</a>, CC0, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
+
+* CONFIGURAR
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Resistência, tensão e corrente.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Lei_de_ohm_-_Ohm%27s_law.jpg"
+       alt="lei-de-ohm"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: Elilopes, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
+
+
+
+* Fontes
+
+https://openverse.org 
+
+
+[[https://pixabay.com/images/search/dominica/?utm_source=chatgpt.com][pixbay]]
+
+
+* revisar
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Força Resultante - Diagrama de Forças.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Forca-resultante.png"
+       alt="Diagrama mostrando força resultante"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: https://commons.wikimedia.org/wiki/File:Forca-resultante.png, licença CC
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Força Resultante - Segundo Diagrama.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Forca-resultante-2.png"
+       alt="Segundo diagrama de força resultante"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: https://commons.wikimedia.org/wiki/File:Forca-resultante-2.png, licença CC
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Força Resultante - Terceiro Diagrama.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Forca-resultante-3.png"
+       alt="Terceiro diagrama de força resultante"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: https://commons.wikimedia.org/wiki/File:Forca-resultante-3.png, licença CC
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+* Fonte própria
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    O movimento pode ser diferente para dois observadores diferentes.
+  </p>
+  <img src="./pictures/forca-resultante.png"
+       alt="queda-livre"
+       style="width:100%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    A força resultante é o resultado líquido de toas as forças atuantes. 
+  </p>
+  <img src="./pictures/referenciais.png"
+       alt="força resultante"
+       style="width:100%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+Fonte: criado pelo autor.
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
+* wikimedia
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Animação de uma <a href="https://pt.wikipedia.org/wiki/Aurora_polar" target="_blank">Aurora Polar</a>.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Aurora_Australis.gif"
+       alt="Aurora Austral animada"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Aurora_Australis.gif">NASA</a>, 
+    Public domain, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
+
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Ilustração de <a href="https://pt.wikipedia.org/wiki/Radia%C3%A7%C3%A3o_eletromagn%C3%A9tica" target="_blank">Onda Eletromagnética</a>.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Atomic-spectrum-.gif"
+       alt="https://upload.wikimedia.org/wikipedia/commons/4/4b/Atomic-spectrum-.gif"
+       style="width:60%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Atomic-spectrum-.gif">News Official World</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Animação de uma <a href="https://pt.wikipedia.org/wiki/Aurora_polar" target="_blank">Aurora Polar</a>.
+  </p>
+  <img src="https://commons.wikimedia.org/wiki/File:Aurora_Australis.gif"
+       alt=h"https://commons.wikimedia.org/wiki/File:Aurora_Australis.gif"
+       style="width:60%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Aurora_Australis.gif">NASA</a>, Public domain, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Ilustração de um  <a href=" https://pt.wikipedia.org/wiki/Motor_de_combust%C3%A3o_interna" target="_blank"> motor de combustão térmica</a>.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Cshaft.gif"
+       alt="<a href="https://commons.wikimedia.org/wiki/File:Cshaft.gif">NASA</a>,
+Public domain, via Wikimedia Commons"
+       style="width:60%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+    Fonte: 
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
+
+
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Ilustração da <a href="https://pt.wikipedia.org/wiki/Dispers%C3%A3o_(%C3%B3ptica)" target="_blank"> dispersão da luz em um prisma</a>.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Light_dispersion_conceptual_waves.gif"
+       alt="https://upload.wikimedia.org/wikipedia/commons/f/f5/Light_dispersion_conceptual_waves.gif"
+       style="width:60%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Light_dispersion_conceptual_waves.gif">Lucas Vieira</a>, Public domain, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
+- Link da imagem: https://upload.wikimedia.org/wikipedia/commons/a/a1/Foucault_pendulum_animated.gif
+- Fonte: A preencher
+- Licença: A preencher
+- Descrição: A preencher
+
+
+- Link da imagem: https://upload.wikimedia.org/wikipedia/commons/e/eb/Rettangolo6x3.png?20241125180347
+- Fonte: A preencher
+- Licença: A preencher
+- Descrição: A preencher
+
+
+- Link da imagem: https://upload.wikimedia.org/wikipedia/commons/4/4b/Atomic-spectrum-.gif
+- Fonte: A preencher
+- Licença: A preencher
+- Descrição: A preencher
+
+
+- Link da imagem: https://commons.wikimedia.org/wiki/File:Aurora_Australis.gif
+- Fonte: A preencher
+- Licença: A preencher
+- Descrição: A preencher
+
+
+- Link da imagem: https://upload.wikimedia.org/wikipedia/commons/a/ac/Cshaft.gif
+- Fonte: A preencher
+- Licença: A preencher
+- Descrição: A preencher
+
+
+- Link da imagem: https://upload.wikimedia.org/wikipedia/commons/f/f5/Light_dispersion_conceptual_waves.gif
+- Fonte: A preencher
+- Licença: A preencher
+- Descrição: A preencher
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Comparação entre as principais escalas de temperatura
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Escalas_de_Temperatura.jpg"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    "<a rel="noopener noreferrer" href="https://commons.wikimedia.org/w/index.php?curid=92805740">Escalas de Temperatura</a>" 
+    by <a rel="noopener noreferrer" href="https://commons.wikimedia.org/wiki/User:Mjmauler">Mjmauler</a> 
+    is licensed under 
+    <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse">
+      CC BY-SA 4.0 
+      <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" />
+      <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" />
+      <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-right: 0.125em; display: inline;" />
+    </a>.
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Emissão de infra vermelho por um cachorro. 
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Infrared_dog.jpg"
+       alt="infrared_dog.jpg"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Infrared_dog.jpg">NASA/IPAC</a>, Public domain, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Espectro_EM_pt.svg"
+       alt="Espectro_EM_pt.svg"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Espectro_EM_pt.svg">Khemis</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Forças de contato e de ação à distância
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Force_examples.svg"
+       alt="exemplos de força 1"
+       style="width:100%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+  Fonte: <a href="https://commons.wikimedia.org/wiki/File:Force_examples.svg">Force.png: Penubagderivative work: Arnaud Ramey</a>, Public domain, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Força de atrito
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Friction.svg"
+       alt="força de atrito"
+       style="width:100%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+  Fonte:<a href="https://commons.wikimedia.org/wiki/File:Friction.svg">Keta, Pieter Kuiper</a>, <a href="https://creativecommons.org/licenses/by/2.5">CC BY 2.5</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    A força de resistência do ar sustenta um paraquedas, por exemplo.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Parachute_%28PSF%29.png"
+       alt="paraquedas"
+       style="width:50%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+  Fonte: <a href="https://commons.wikimedia.org/wiki/File:Parachute_(PSF).png">Pearson Scott Foresman</a>, Public domain, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Qual será o movimento se a corda se soltar?
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Circular_motion_-_Newton_first_law.svg"
+       alt="circular"
+       style="width:50%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+  Fonte: <a href="https://commons.wikimedia.org/wiki/File:Circular_motion_-_Newton_first_law.svg">Ben Kasel</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Por que Stephen Hawking está flutuando?
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Physicist_Stephen_Hawking_in_Zero_Gravity_NASA.jpg"
+       alt="circular"
+       style="width:50%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+  Fonte: <a href="https://commons.wikimedia.org/wiki/File:Physicist_Stephen_Hawking_in_Zero_Gravity_NASA.jpg">Jim Campbell/Aero-News Network</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+  Efeito da inércia: se a força for suave, a corda de cima se rompe, se a força for abrupta,a corda de baixo se rompe.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Inertial-vs-gravitational-mass-experiment.svg"
+       alt="inertia-string"
+       style="width:50%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+  Fonte: <a href="https://commons.wikimedia.org/wiki/File:Inertial-vs-gravitational-mass-experiment.svg">MikeRun</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+  Par acção-reação quando uma pessoa empurra outra.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Action-reaction-law.svg"
+       alt="ação-reação1"
+       style="width:50%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+  Fonte: <a href="https://commons.wikimedia.org/wiki/File:Action-reaction-law.svg">MikeRun</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+  Par acção-reação em forças de ação à distância, nesse exemplo, a força gravitacional.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/NewtonsLawGravitation.png"
+       alt="ação-reação2-gravitacional"
+       style="width:50%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+  Fonte: <a href="https://commons.wikimedia.org/wiki/File:NewtonsLawGravitation.png">Svjo</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Quem está dentro de um automóvel que faz uma curva, sente uma força para fora da curva.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/ForceCentrifugeDansUnVirage.png"
+       alt="força-cetrífuga"
+       style="width:70%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+  Fonte: <a href="https://commons.wikimedia.org/wiki/File:ForceCentrifugeDansUnVirage.png">Thilp</a>, CC0, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
+* CONFIGURAR
+
+https://upload.wikimedia.org/wikipedia/commons/b/bf/Lei_de_ohm_-_Ohm%27s_law.jpg
+
+
+Elilopes, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+
+* Fontes
+
+https://openverse.org 

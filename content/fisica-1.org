@@ -386,7 +386,7 @@ Todo objeto permanece em seu estado de repouso ou de velocidade constante em lin
 *** Inércia
 
 - Inércia é como uma "preguiça" que objetos com massa tem de deixar o
-  seu estado de repouso,ou movimento uniforme.
+  seu estado de repouso,ou de movimento uniforme.
 
   
 - Massa é a quantidade de inércia de um corpo:
@@ -518,12 +518,13 @@ ou
 
 #+begin_quote
 Sempre que um objeto exerce uma força sobre outro objeto, este outro objeto exerce uma força igual e oposta sobre o primeiro.
-
+#+end_quote
 
 Ou
 
-
-Para cada força de ação existe sempre uma força de reação, de mesmo módulo e orientação oposta.
+#+begin_quote
+Para cada força de ação existe sempre uma força de reação, de mesmo
+módulo e orientação oposta, 
 #+end_quote
 
 

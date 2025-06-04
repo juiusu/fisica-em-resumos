@@ -1,58 +1,153 @@
 * Física II - Exercícios e problemas - Unidade 2.
 
-** Questão 1
+** Dados
 
-#+CAPTION: Prensa hidráulica, com embolo de área menor à esquerda, e maior à direita.
-#+ATTR_HTML: :width 600 :style text-align:center; display:block; margin:auto;
-[[https://upload.wikimedia.org/wikipedia/commons/9/99/Working_principle_of_a_hydraulic_jack.svg]]
+\(g = 10 m/s^2\) 
 
 
-Sabendo que a área do êmbolo pequeno é de \(0,01 m^2\) e a do êmbolo grande é de \(1 m^2), qual deve ser a força mínima aplicada no êmbolo menor para levantar um carro de 1000 kg?
+** Fluidos
 
-#+CAPTION: Prensa Hidráulica com seringas - Questões 2 a 5.
 #+BEGIN_EXPORT html
-<a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Hydraulic_transmission_between_two_syringes.svg"><img width="512" alt="Hydraulic transmission between two syringes" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hydraulic_transmission_between_two_syringes.svg/512px-Hydraulic_transmission_between_two_syringes.svg.png?20180522114120"></a>
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+ FÍGURA 1: Prensa hidráulica, com embolo de área menor à esquerda, e maior à direita. Questões: 1 a 2.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Working_principle_of_a_hydraulic_jack.svg"
+       alt="prensa-hidraulica-1"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Working_principle_of_a_hydraulic_jack.svg">Olivier Cleynen</a>, CC0, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
 #+END_EXPORT
 
-** Questão 2
-
-Na imagem, dois êmbolos estão ligados por um tubo contendo fluido. Sabendo que a área do êmbolo menor é A₁ = 2 cm² e a do êmbolo maior é A₂ = 10 cm², determine a força F₂ gerada no êmbolo maior quando se aplica uma força F₁ = 40 N no êmbolo menor.
-
-A) 100 N  
-B) 150 N  
-C) 200 N
-D) 250 N
 
 
-** Questão 3
+*** Questão 1
+
+Sabendo que a área do êmbolo pequeno é de \(0,01 m^2\) e a do êmbolo grande é de \(1,00 m^2\), qual deve ser a força mínima aplicada no êmbolo menor para levantar um carro de 1000 kg?
+
+
+#+BEGIN_EXPORT html
+a) 10 N &nbsp;&nbsp;&nbsp;  b) 100 N&nbsp; &nbsp;&nbsp; c) 1000 N&nbsp; &nbsp;&nbsp; d) 50 N &nbsp; &nbsp;&nbsp; e) 200 N 
+#+END_EXPORT
+
+*** Questão 2
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: prensa_hidraulica, pascal
+:END:
+
+Suponha que a prensa hidráulica da FÍGURA 1 possui êmbolos circulares,
+o menor de raio \( 5\,cm \), e o maior de raio \( 50\,cm \). Um carro de massa \( 1500\,kg \) é colocado sobre o êmbolo maior. Qual deve ser a força mínima aplicada no êmbolo menor para equilibrar o sistema?
+
+
+#+BEGIN_EXPORT html
+a) 50 N      b) 100 N     c) 150 N     d) 250 N     e) 400 N
+#+END_EXPORT
+
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+  FÍGURA 2: Prensa hideáulica com seringas.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Hydraulic_transmission_between_two_syringes.svg"
+       alt="prensa-seringas"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Hydraulic_transmission_between_two_syringes.svg">MikeRun</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+*** Questão 3
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: prensa_hidraulica, pascal
+:END:
+
+Na imagem, dois êmbolos estão ligados por um tubo contendo fluido. Sabendo que a área do êmbolo menor é \( A_1 = 2\,cm^2 \) e a do êmbolo maior é \( A_2 = 10\,cm^2 \), determine a força \( F_2 \) gerada no êmbolo maior quando se aplica uma força \( F_1 = 40\,N \) no êmbolo menor.
+
+#+BEGIN_EXPORT html
+a) 100 N    b) 150 N    c) 200 N    d) 250 N    e) 300 N
+#+END_EXPORT
+
+*** Questão 4
+:PROPERTIES:
+:origem: banco-criado
+:tipo: discursiva
+:nivel: medio
+:tag: prensa_hidraulica, energia, deslocamento
+:END:
 
 Explique por que, em sistemas hidráulicos como o da imagem, se consegue aplicar uma força pequena e obter uma força grande. Que variável é "sacrificada" no processo?
 
 
-** Questão 4
+*** Questão 5
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: prensa_hidraulica, deslocamento, volume
+:END:
 
-Considere que a área do êmbolo pequeno é A₁ = 3 cm², a área do êmbolo maior é A₂ = 9 cm² e o deslocamento do êmbolo maior é s₂ = 2 cm. Qual deve ser o deslocamento s₁ do êmbolo menor para que o volume de fluido deslocado seja o mesmo?
+Considere que a área do êmbolo pequeno é \( A_1 = 3\,cm^2 \), a área do êmbolo maior é \( A_2 = 9\,cm^2 \) e o deslocamento do êmbolo maior é \( s_2 = 2\,cm \). Qual deve ser o deslocamento \( s_1 \) do êmbolo menor para que o volume de fluido deslocado seja o mesmo?
 
-A) 3 cm  
-B) 4 cm  
-C) 5 cm  
-D) 6 cm 
-
-** Questão 5
-
-Em um sistema hidráulico, o êmbolo menor se desloca 12 cm quando comprimido. Sabendo que sua área é A₁ = 2 cm² e a do êmbolo maior é A₂ = 8 cm², determine o deslocamento s₂ do êmbolo maior.
-
-A) 2 cm  
-B) 3 cm 
-C) 4 cm  
-D) 6 cm
-
-#+CAPTION: Força de Empuxo \(F_A\) e Força peso \(F_E\): questões 6 a 12
-#+ATTR_HTML: :width 512 :style text-align:center; display:block; margin:auto;
-[[https://upload.wikimedia.org/wikipedia/commons/1/10/Floating-and-sinking-2.svg]]
+#+BEGIN_EXPORT html
+a) 3 cm    b) 4 cm    c) 5 cm    d) 6 cm    e) 7 cm
+#+END_EXPORT
 
 
-** Questão 6
+*** Questão 6
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: prensa_hidraulica, deslocamento, volume
+:END:
+
+Em um sistema hidráulico, o êmbolo menor se desloca \( 12\,cm \) quando comprimido. Sabendo que sua área é \( A_1 = 2\,cm^2 \) e a do êmbolo maior é \( A_2 = 8\,cm^2 \), determine o deslocamento \( s_2 \) do êmbolo maior.
+
+#+BEGIN_EXPORT html
+a) 2 cm    b) 3 cm    c) 4 cm    d) 5 cm    e) 6 cm
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+ FÍGURA 3: 
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Floating-and-sinking-2.svg"
+       alt="prensa-hidraulica-1"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Floating-and-sinking-2.svg">MikeRun</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
+*** Questão 7 - Sobre Figura 3
+
+
 Na imagem, o primeiro corpo (da esquerda para a direita) afunda no líquido. Isso ocorre porque:
 
 A) Ele possui densidade menor que a do líquido.  
@@ -60,7 +155,8 @@ B) A força de empuxo é maior que o peso.
 C) A força peso é maior que o empuxo. 
 D) Ele está em equilíbrio neutro.
 
-** Questão 7
+*** Questão 8 - Sobre Figura 3
+
 No segundo corpo da esquerda para a direita, temos:
 
 A) Um corpo que irá subir, pois o empuxo é maior que o peso.  
@@ -68,7 +164,7 @@ B) Um corpo em queda acelerada, pois o peso é maior.
 C) Um corpo em equilíbrio, pois o empuxo e o peso se anulam.  <-- correta  
 D) Um corpo em flutuação total.
 
-** Questão 8
+*** Questão 9 - Sobre Figura 3
 Quando a força de empuxo é maior que a força peso, o corpo:
 
 A) Afunda lentamente.  
@@ -76,15 +172,8 @@ B) Fica totalmente submerso.
 C) Fica em repouso no fundo.  
 D) Sobe até atingir equilíbrio na superfície.
 
-** Questão 9
-Sobre a relação entre densidade dos corpos e o comportamento mostrado na imagem, é correto afirmar:
 
-A) Um corpo com densidade igual à do líquido flutua com metade de seu volume imerso.  
-B) Um corpo mais denso que o líquido afunda. 
-C) Um corpo menos denso que o líquido afunda.  
-D) Todos os corpos flutuam, independentemente da densidade.
-
-** Questão 10
+*** Questão 10
 Na última situação (corpo fora da água com empuxo equilibrando o peso), podemos concluir que:
 
 A) O corpo é mais denso que o líquido.  
@@ -92,93 +181,575 @@ B) O corpo está completamente submerso.
 C) O corpo está flutuando com parte fora da água e está em equilíbrio.  
 D) O empuxo é menor que o peso.
 
-** Questão 11
-Na última situação da imagem, o corpo está em equilíbrio com 2/3 do seu volume submerso. Sabendo que a densidade do líquido é 1,0 g/cm³, qual é a densidade do corpo?
 
-A) 0,50 g/cm³  
-B) 0,67 g/cm³ 
-C) 1,00 g/cm³  
-D) 1,50 g/cm³
+*** Questão 11
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: empuxo, hidrostática, densidade
+:END:
 
-** Questão 12
-Um cubo de 0,3 kg e volume de 450 cm³ flutua com 2/3 do seu volume
-submerso. Qual é o empuxo que atua sobre ele? (considere\(g=10 m/ s²\)
+Calcule o volume de água deslocado por um corpo de \( 10.000\,kg \), sabendo que a força de empuxo e a força peso sobre ele estão em equilíbrio. Dado: densidade da água = \( 1000\,kg/m^3 \).
 
-A) 2,0 N  
-B) 2,5 N  
-C) 3,0 N  
-D) 3,92 N  
+#+BEGIN_EXPORT html
+a) 5 m³    b) 10 m³    c) 15 m³    d) 20 m³    e) 25 m³
+#+END_EXPORT
 
 
-** Questão 13
+*** Questão 12
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: empuxo, densidade, hidrostática
+:END:
+
+Na última situação da imagem, considere que o corpo está em equilíbrio com \( \frac{2}{3} \) do seu volume submerso. Sabendo que a densidade do líquido é \( 1{,}0\,g/cm^3 \), qual é a densidade do corpo?
+
+#+BEGIN_EXPORT html
+a) 0,50 g/cm³    b) 0,67 g/cm³    c) 1,00 g/cm³    d) 1,50 g/cm³    e) 2,00 g/cm³
+#+END_EXPORT
+
+
+
+*** Questão 13
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: empuxo, prensa_hidraulica, pascal, hidrostática
+:END:
+
+Analise as afirmações a seguir e classifique-as como **verdadeiras (V)** ou **falsas (F)**:
+
+(   ) O empuxo é uma força resultante da diferença de pressão entre o
+topo e a base de um corpo submerso em um fluido.
+
+(   ) Em uma prensa hidráulica, a força aplicada no êmbolo menor é
+sempre igual à força exercida no êmbolo maior.
+
+(   ) O Princípio de Pascal afirma que uma variação de pressão em um
+ponto de um fluido em repouso é transmitida igualmente a todos os
+pontos do fluido.
+
+(   ) Um corpo flutua quando sua densidade é maior do que a do líquido
+em que está imerso.
+
+(   ) A área dos êmbolos não interfere na multiplicação de força em
+sistemas hidráulicos, apenas a pressão importa.
+
+
+#+BEGIN_EXPORT html
+a) V - F - V - F - F    b) V - V - V - F - V    c) V - F - V - V - F    d) F - F - V - V - F    e) V - V - V - V - V
+#+END_EXPORT
+
+
+*** Questão 14
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: empuxo, prensa_hidraulica, pascal, pressão
+:END:
+
+Classifique as afirmações a seguir como **verdadeiras (V)** ou **falsas (F)**:
+
+(   ) A pressão exercida por um líquido em repouso aumenta com a
+profundidade.
+
+(   ) Em uma prensa hidráulica, uma pequena força pode levantar
+grandes massas se aplicada sobre uma área menor.
+
+(   ) O empuxo depende apenas da massa do objeto submerso.
+
+(   ) Se um corpo está flutuando, o empuxo é igual ao peso do volume
+total do líquido deslocado.
+
+(   ) O princípio de Pascal é aplicado apenas em gases, não em
+líquidos.
+
+
+#+BEGIN_EXPORT html
+a) V - V - F - V - F    b) V - F - V - V - F    c) V - V - V - F - V    d) F - V - F - V - F    e) V - V - F - F - F
+#+END_EXPORT
+
+
+*** Questão 15
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: dificil
+:tag: empuxo, hidrostática, densidade, comparação
+:END:
+
+Um bloco maciço de mesmo volume é lançado em dois recipientes distintos: um contendo água (\( \rho = 1000\,kg/m^3 \)) e outro contendo glicerina (\( \rho = 1260\,kg/m^3 \)). Sabendo que o bloco afunda nos dois líquidos e que está totalmente submerso, qual das afirmações é correta?
+
+
+a) O empuxo é maior na água, pois o volume deslocado é maior.
+
+b) O empuxo é o mesmo em ambos, pois o volume do corpo é constante.
+
+c) O empuxo é maior na glicerina, pois sua densidade é maior.
+
+d) O empuxo depende apenas da massa do bloco, não do líquido.
+
+e) O empuxo é menor na glicerina, pois é mais densa.
+
+
+
+*** Questão 16
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: empuxo, hidrostática, densidade, cálculo
+:END:
+
+Um corpo de massa \( 6\,kg \) flutua em equilíbrio em um líquido de densidade \( 0{,}75\,g/cm^3 \), com \( 80\% \) de seu volume submerso. Considerando \( g = 10\,m/s^2 \), qual é o volume total do corpo?
+
+Dado: \( 1\,g/cm^3 = 1000\,kg/m^3 \)
+
+#+BEGIN_EXPORT html
+a) 0,008 m³    b) 0,010 m³    c) 0,012 m³    d) 0,016 m³    e) 0,020 m³
+#+END_EXPORT
+
+
+** Termodinâmica
+
+*** Questão 1
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: temperatura, conceito, microscópico
+:END:
+
 Qual das alternativas expressa corretamente o conceito de temperatura do ponto de vista microscópico?
 
-A) Temperatura é a quantidade de calor que um corpo possui.  
 
-B) Temperatura está relacionada à energia potencial total das moléculas.  
+a) Temperatura é a quantidade de calor que um corpo possui.
 
-C) Temperatura mede o grau de agitação das partículas que compõem um corpo. 
+b) Temperatura está relacionada à energia potencial total das
+moléculas.
 
-D) Temperatura é a força que o corpo exerce ao trocar calor.
+c) Temperatura mede o grau de agitação das partículas que compõem um
+corpo.
 
-** Questão 14
+d) Temperatura é a força que o corpo exerce ao trocar calor.
+
+*** Questão 2
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: temperatura, energia_cinetica, microscópico
+:END:
+
 Quando dizemos que um corpo está com temperatura elevada, o que isso significa em termos moleculares?
 
-A) As moléculas estão com maior massa.  
-B) As moléculas estão mais agitadas, com maior energia cinética média.
-C) O corpo tem mais calor acumulado.  
-D) As moléculas estão mais próximas umas das outras.
 
-** Questão 15
+a) As moléculas estão com maior massa.
+
+b) As moléculas estão mais agitadas, com maior energia cinética média.
+
+c) O corpo tem mais calor acumulado.
+
+d) As moléculas estão mais próximas umas das outras.
+
+*** Questão 3
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: temperatura, energia_cinetica, equilíbrio
+:END:
+
 Dois corpos possuem a mesma temperatura. Podemos afirmar que:
 
-A) Eles possuem a mesma quantidade de calor.  
-B) Suas moléculas estão paradas.  
-C) Suas moléculas têm, em média, a mesma energia cinética.
-D) Eles têm a mesma massa e volume.
+
+a) Eles possuem a mesma quantidade de calor.
+
+b) Suas moléculas estão paradas.
+
+c) Suas moléculas têm, em média, a mesma energia cinética.
+
+d) Eles têm a mesma massa e volume.
 
 
-** Questão 16
-Qual é a temperatura de 25 ºC expressa na escala Kelvin?
+*** Questão 5
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: temperatura, conversão, kelvin
+:END:
 
-A) 248 K  
-B) 273 K  
-C) 298 K  
-D) 310 K
+Qual é a temperatura de \( 25^\circ C \) expressa na escala Kelvin?
+
+#+BEGIN_EXPORT html
+a) 248 K    b) 273 K    c) 298 K    d) 310 K
+#+END_EXPORT
+
+*** Questão 6
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: temperatura, conversão, celsius
+:END:
+
+Uma amostra de gás está a \( 300\,K \). Qual é a temperatura equivalente na escala Celsius?
+
+#+BEGIN_EXPORT html
+a) 27 ºC    b) 0 ºC    c) 37 ºC    d) 100 ºC
+#+END_EXPORT
+
+*** Questão 7
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: temperatura, conversão, fahrenheit
+:END:
+
+Qual é a temperatura correspondente a \( 0^\circ C \) na escala Fahrenheit?
+
+#+BEGIN_EXPORT html
+a) 32 ºF    b) 0 ºF    c) 100 ºF    d) 273 ºF
+#+END_EXPORT
+
+*** Questão 8
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: temperatura, conversão, fahrenheit
+:END:
+
+A temperatura de ebulição da água ao nível do mar é de \( 100^\circ C \). Qual é o valor correspondente na escala Fahrenheit?
+
+#+BEGIN_EXPORT html
+a) 100 ºF    b) 180 ºF    c) 212 ºF    d) 373 ºF
+#+END_EXPORT
+
+*** Questão 9
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: temperatura, conversão, fahrenheit
+:END:
+
+Uma temperatura de \( 20^\circ C \) equivale a quantos ºF?
+
+#+BEGIN_EXPORT html
+a) 36 ºF    b) 52 ºF    c) 68 ºF    d) 77 ºF
+#+END_EXPORT
+
+*** Questão 10
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: dilatacao_termica, temperatura, comprimento
+:END:
+
+Uma barra metálica de \( 1{,}0\,m \) de comprimento é aquecida de \( 20^\circ C \) para \( 70^\circ C \). Sabendo que o coeficiente de dilatação linear do material é \( 20 \times 10^{-6}\,^\circ C^{-1} \), qual será o aumento no comprimento da barra?
+
+#+BEGIN_EXPORT html
+a) 0,0010 m    b) 0,0015 m    c) 0,0020 m    d) 0,0030 m    e) 0,0050 m
+#+END_EXPORT
+
+*** Questão 11
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: dificil
+:tag: dilatacao_termica, comparacao, conceito
+:END:
+
+Três barras metálicas de mesmo material e diferentes comprimentos são submetidas à mesma variação de temperatura. A barra A tem \( 1\,m \), a barra B tem \( 2\,m \), e a barra C tem \( 3\,m \). Sobre o aumento de comprimento (\( \Delta L \)) de cada barra, podemos afirmar que:
 
 
-** Questão 17
-Uma amostra de gás está a 300 K. Qual é a temperatura equivalente na escala Celsius?
+a) Todas as barras se dilatam igualmente.
 
-A) 27 ºC
-B) 0 ºC  
-C) 37 ºC  
-D) 100 ºC
+b) A barra C se dilata três vezes mais que a A.
 
+c) A barra B se dilata menos que a A.
 
-** Questão 18
-Qual é a temperatura correspondente a 0 ºC na escala Fahrenheit?
+d) O aumento de comprimento é inversamente proporcional ao comprimento
+inicial.
 
-A) 32 ºF
-B) 0 ºF  
-C) 100 ºF  
-D) 273 ºF
-
-** Questão 19
-A temperatura de ebulição da água ao nível do mar é de 100 ºC. Qual é o valor correspondente na escala Fahrenheit?
-
-A) 100 ºF  
-B) 180 ºF  
-C) 212 ºF 
-D) 373 ºF
+e) Nenhuma das barras sofre dilatação, pois o material é o mesmo.
 
 
-** Questão 20
-Uma temperatura de 20 ºC equivale a quantos ºF?
+*** Questão 12
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: dificil
+:tag: dilatacao_termica, anel, conceito, interpretacao
+:END:
 
-A) 36 ºF  
-B) 52 ºF  
-C) 68 ºF  
-D) 77 ºF
+Um anel metálico possui um furo circular em seu centro. O anel é aquecido uniformemente. Considerando os efeitos da dilatação térmica, o que acontece com o diâmetro do furo durante o aquecimento?
 
+
+a) O furo diminui, pois o material se expande para dentro.
+
+b) O furo permanece com o mesmo diâmetro.
+
+c) O furo aumenta, pois se comporta como se fosse feito do mesmo
+material.
+
+d) O furo se fecha completamente.
+
+e) O diâmetro do furo só aumenta se o anel for oco por completo.
+
+
+*** Questão 13
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: dificil
+:tag: dilatacao_termica, ajuste, conceito, raciocinio
+:END:
+
+Um cilindro metálico de raio ligeiramente maior que o raio interno de um anel metálico deve ser encaixado dentro desse anel. Ambos são feitos de metais diferentes, com coeficientes de dilatação linear \( \alpha_{\text{anel}} > \alpha_{\text{cilindro}} \). Qual procedimento garante o encaixe sem deformação permanente?
+
+
+a) Aquecer apenas o anel, fazendo com que seu raio interno aumente
+mais que o do cilindro.
+
+b) Resfriar apenas o anel, para que ele contraia e encaixe o cilindro
+com mais firmeza.
+
+c) Aquecer apenas o cilindro, para que ele se expanda e entre sob
+pressão no anel.
+
+d) Aquecer ambos igualmente, pois o material do cilindro dilata menos.
+
+e) Resfriar ambos igualmente para que se contraiam ao mesmo tempo.
+
+
+*** Questão 14
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: dificil
+:tag: dilatacao_termica, linear, comparacao, interpretacao
+:END:
+
+Duas barras metálicas de mesmo comprimento inicial são feitas de materiais diferentes e submetidas a diferentes variações de temperatura:
+
+- A barra 1 tem coeficiente de dilatação linear \( \alpha_1 = 2 \times 10^{-5}\,^\circ C^{-1} \) e é aquecida de \( 20^\circ C \) para \( 120^\circ C \).
+- A barra 2 tem coeficiente \( \alpha_2 = 4 \times 10^{-5}\,^\circ C^{-1} \) e é aquecida de \( 20^\circ C \) para \( 70^\circ C \).
+
+Qual barra sofre maior aumento de comprimento?
+
+
+a) A barra 1, pois a variação de temperatura é maior.
+
+b) A barra 2, pois o coeficiente de dilatação é maior.
+
+c) Ambas se dilatam igualmente.
+
+d) A barra 2, pois seu produto \( \alpha \cdot \Delta T \) é maior.
+
+e) Não é possível saber sem o comprimento inicial.
+
+
+
+*** Questão 15
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: condução, transferencia_calor, termologia
+:END:
+
+Classifique as afirmações abaixo como **verdadeiras (V)** ou **falsas (F)**:
+
+(   ) A condução térmica é o modo de transferência de calor que ocorre
+predominantemente em sólidos.
+
+(   ) Durante a condução, o calor se propaga com o transporte de
+matéria.
+
+(   ) O calor sempre flui espontaneamente do corpo de menor
+temperatura para o de maior temperatura.
+
+(   ) O cobre conduz calor melhor que a madeira.
+
+(   ) Materiais isolantes térmicos são aqueles que impedem totalmente
+a condução de calor.
+
+
+#+BEGIN_EXPORT html
+a) V - F - F - V - F    b) V - V - F - V - V    c) V - F - V - V - F    d) F - F - V - V - V    e) V - F - V - F - F
+#+END_EXPORT
+
+
+*** Questão 16
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: conveccao, transferencia_calor, fluidos
+:END:
+
+Classifique como **verdadeiras (V)** ou **falsas (F)** as afirmações a seguir sobre convecção térmica:
+
+(   ) A convecção ocorre apenas em líquidos.
+
+(   ) A movimentação de massas de fluido é essencial para a convecção.
+
+(   ) A convecção natural ocorre sem a ação de dispositivos mecânicos.  
+
+(   ) O vento é um exemplo de convecção forçada.  
+
+(   ) Um sólido pode transferir calor por convecção.
+
+#+BEGIN_EXPORT html
+a) F - V - V - V - F    b) V - V - F - F - F    c) F - F - V - V - F    d) V - V - V - F - V    e) F - V - V - F - F
+#+END_EXPORT
+
+*** Questão 17
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: conveccao, aplicacoes, termologia
+:END:
+
+Analise as afirmações a seguir sobre aplicações de convecção térmica:
+
+
+(   ) Em uma geladeira, o ar frio desce e o ar quente sobe devido à convecção.  
+
+(   ) O aquecimento da água em uma panela é exemplo de convecção natural.  
+
+(   ) O radiador de um carro aquece o motor por convecção.  
+
+(   ) O ar-condicionado deve ser instalado próximo ao teto por causa do movimento do ar quente.  
+
+(   ) A convecção não depende da diferença de temperatura.
+
+#+BEGIN_EXPORT html
+a) V - V - F - V - F    b) F - V - V - F - F    c) V - F - F - V - V    d) V - V - V - V - F    e) F - V - F - F - V
+#+END_EXPORT
+
+*** Questão 18
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: radiacao_termica, termologia, calor
+:END:
+
+Classifique as afirmações abaixo como **verdadeiras (V)** ou **falsas (F)**:
+
+(   ) A radiação térmica não necessita de meio material para ocorrer.  
+
+(   ) A radiação térmica ocorre somente em corpos muito quentes.  
+
+(   ) Corpos escuros absorvem melhor a radiação térmica que corpos claros.  
+
+(   ) O vácuo impede a condução e a convecção, mas permite a radiação.  
+
+(   ) A radiação térmica só ocorre no estado gasoso.
+
+#+BEGIN_EXPORT html
+a) V - F - V - V - F    b) V - V - F - V - F    c) F - V - V - F - F    d) V - F - F - V - V    e) V - F - V - F - F
+#+END_EXPORT
+
+*** Questão 19
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: radiacao_termica, emissividade, absorcao
+:END:
+
+Analise as afirmações a seguir sobre emissão e absorção de radiação térmica:
+
+(   ) Todos os corpos emitem radiação térmica, independentemente da sua temperatura.  
+
+(   ) Superfícies metálicas e polidas são boas emissoras de calor.  
+
+(   ) A radiação solar é uma forma de radiação térmica.  
+
+(   ) Um corpo escuro e rugoso é, em geral, melhor absorvedor de radiação.  
+
+(   ) Em equilíbrio térmico, um corpo emite e absorve radiação na mesma taxa.
+
+#+BEGIN_EXPORT html
+a) F - V - F - V - V    b) V - F - V - V - V    c) V - V - F - F - V    d) F - F - V - V - F    e) V - F - V - F - F
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+  FIGURA4: Emissão de infra vermelho por um cachorro. 
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Infrared_dog.jpg"
+       alt="infrared_dog.jpg"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Infrared_dog.jpg">NASA/IPAC</a>, Public domain, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
+#+END_EXPORT
+
+*** Questão 20 - Figura 4
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: radiacao_termica, imagem_termica, infravermelho
+:END:
+
+Analise as afirmações com base na imagem de infravermelho do cachorro:
+
+(   ) As regiões mais claras da imagem indicam áreas que emitem mais radiação térmica.  
+
+(   ) A câmera térmica capta a temperatura através de contato direto com o corpo do animal.  
+
+(   ) As orelhas do cachorro aparecem mais quentes que o focinho.  
+
+(   ) A radiação infravermelha é invisível ao olho humano.  
+
+(   ) A imagem representa a condução de calor entre as partes do corpo do cachorro.
+
+#+BEGIN_EXPORT html
+a) V - F - F - V - F    b) V - V - V - F - F    c) V - F - V - V - F    d) F - V - V - F - V    e) V - F - F - V - V
+#+END_EXPORT
+
+*** Questão 21 - Figura 4
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: radiacao_termica, temperatura, interpretacao
+:END:
+
+Com base na imagem e no fenômeno da radiação térmica, julgue as afirmações a seguir:
+
+(   ) A radiação térmica emitida depende da temperatura da superfície do corpo.  
+
+(   ) Partes do corpo com maior irrigação sanguínea tendem a aparecer mais quentes.  
+
+(   ) A escala de cores representa diretamente o tipo de material do corpo.  
+
+(   ) Corpos mais quentes emitem mais radiação infravermelha.  
+
+(   ) A imagem mostra transferência de calor por convecção.
+
+#+BEGIN_EXPORT html
+a) V - V - F - V - F    b) F - V - V - F - F    c) V - F - V - V - V    d) V - V - V - F - F    e) V - V - F - V - V
+#+END_EXPORT
 
