@@ -3,10 +3,12 @@
 
 ** Dados
 
-\(g = 10 m/s^2\) 
+Para as questões abaixo, considere a aceleração da gravidade:
+
+\[g = 10 m/s^2\]
 
 
-** Fluidos
+** Prensa Hidráulica - Princípio de Pascal
 
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
@@ -127,6 +129,11 @@ a) 2 cm    b) 3 cm    c) 4 cm    d) 5 cm    e) 6 cm
 
 
 
+
+** Força de emmpuxo - princípio de Arquimedes
+
+
+
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
@@ -145,8 +152,7 @@ a) 2 cm    b) 3 cm    c) 4 cm    d) 5 cm    e) 6 cm
 
 
 
-
-*** Questão 7 - Sobre Figura 3
+*** Questão 1 - Sobre Figura 3
 
 
 Na imagem, o primeiro corpo (da esquerda para a direita) afunda no líquido. Isso ocorre porque:
@@ -156,7 +162,7 @@ B) A força de empuxo é maior que o peso.
 C) A força peso é maior que o empuxo. 
 D) Ele está em equilíbrio neutro.
 
-*** Questão 8 - Sobre Figura 3
+*** Questão 2 - Sobre Figura 3
 
 No segundo corpo da esquerda para a direita, temos:
 
@@ -165,7 +171,7 @@ B) Um corpo em queda acelerada, pois o peso é maior.
 C) Um corpo em equilíbrio, pois o empuxo e o peso se anulam.  <-- correta  
 D) Um corpo em flutuação total.
 
-*** Questão 9 - Sobre Figura 3
+*** Questão 3 - Sobre Figura 3
 Quando a força de empuxo é maior que a força peso, o corpo:
 
 A) Afunda lentamente.  
@@ -174,7 +180,7 @@ C) Fica em repouso no fundo.
 D) Sobe até atingir equilíbrio na superfície.
 
 
-*** Questão 10
+*** Questão 4
 Na última situação (corpo fora da água com empuxo equilibrando o peso), podemos concluir que:
 
 A) O corpo é mais denso que o líquido.  
@@ -183,7 +189,7 @@ C) O corpo está flutuando com parte fora da água e está em equilíbrio.
 D) O empuxo é menor que o peso.
 
 
-*** Questão 11
+*** Questão 5
 :PROPERTIES:
 :origem: banco-criado
 :tipo: objetiva
@@ -198,7 +204,7 @@ a) 5 m³    b) 10 m³    c) 15 m³    d) 20 m³    e) 25 m³
 #+END_EXPORT
 
 
-*** Questão 12
+*** Questão 6
 :PROPERTIES:
 :origem: banco-criado
 :tipo: objetiva
@@ -214,7 +220,7 @@ a) 0,50 g/cm³    b) 0,67 g/cm³    c) 1,00 g/cm³    d) 1,50 g/cm³
 
 
 
-*** Questão 13
+*** Questão 7
 :PROPERTIES:
 :origem: banco-criado
 :tipo: verdadeiro_falso
@@ -246,7 +252,7 @@ a) V - F - V - F - F    b) V - V - V - F - V    c) V - F - V - V - F  
 #+END_EXPORT
 
 
-*** Questão 14
+*** Questão 8
 :PROPERTIES:
 :origem: banco-criado
 :tipo: verdadeiro_falso
@@ -276,7 +282,7 @@ a) V - V - F - V - F    b) V - F - V - V - F    c) V - V - V - F - V  
 #+END_EXPORT
 
 
-*** Questão 15
+*** Questão 9
 :PROPERTIES:
 :origem: banco-criado
 :tipo: objetiva
@@ -299,7 +305,7 @@ e) O empuxo é menor na glicerina, pois é mais densa.
 
 
 
-*** Questão 16
+*** Questão 10
 :PROPERTIES:
 :origem: banco-criado
 :tipo: objetiva
@@ -316,7 +322,7 @@ a) 0,008 m³    b) 0,010 m³    c) 0,012 m³    d) 0,016 m³    
 #+END_EXPORT
 
 
-** Termodinâmica
+** Conceito de temperatura
 
 *** Questão 1
 :PROPERTIES:
@@ -378,7 +384,9 @@ c) Suas moléculas têm, em média, a mesma energia cinética.
 d) Eles têm a mesma massa e volume.
 
 
-*** Questão 5
+** Escalas de temperatura
+
+*** Questão 1
 :PROPERTIES:
 :origem: banco-criado
 :tipo: objetiva
@@ -392,7 +400,7 @@ Qual é a temperatura de \( 25^\circ C \) expressa na escala Kelvin?
 a) 248 K    b) 273 K    c) 298 K    d) 310 K
 #+END_EXPORT
 
-*** Questão 6
+*** Questão 2
 :PROPERTIES:
 :origem: banco-criado
 :tipo: objetiva
@@ -406,7 +414,7 @@ Uma amostra de gás está a \( 300\,K \). Qual é a temperatura equivalente na e
 a) 27 ºC    b) 0 ºC    c) 37 ºC    d) 100 ºC
 #+END_EXPORT
 
-*** Questão 7
+*** Questão 3
 :PROPERTIES:
 :origem: banco-criado
 :tipo: objetiva
@@ -420,7 +428,7 @@ Qual é a temperatura correspondente a \( 0^\circ C \) na escala Fahrenheit?
 a) 32 ºF    b) 0 ºF    c) 100 ºF    d) 273 ºF
 #+END_EXPORT
 
-*** Questão 8
+*** Questão 4
 :PROPERTIES:
 :origem: banco-criado
 :tipo: objetiva
@@ -434,7 +442,7 @@ A temperatura de ebulição da água ao nível do mar é de \( 100^\circ C \). Q
 a) 100 ºF    b) 180 ºF    c) 212 ºF    d) 373 ºF
 #+END_EXPORT
 
-*** Questão 9
+*** Questão 5
 :PROPERTIES:
 :origem: banco-criado
 :tipo: objetiva
@@ -448,7 +456,10 @@ Uma temperatura de \( 20^\circ C \) equivale a quantos ºF?
 a) 36 ºF    b) 52 ºF    c) 68 ºF    d) 77 ºF
 #+END_EXPORT
 
-*** Questão 10
+** Dilatação térmica
+
+
+*** Questão 1
 :PROPERTIES:
 :origem: banco-criado
 :tipo: objetiva
@@ -462,7 +473,7 @@ Uma barra metálica de \( 1{,}0\,m \) de comprimento é aquecida de \( 20^\circ 
 a) 0,0010 m    b) 0,0015 m    c) 0,0020 m    d) 0,0030 m    e) 0,0050 m
 #+END_EXPORT
 
-*** Questão 11
+*** Questão 2
 :PROPERTIES:
 :origem: banco-criado
 :tipo: objetiva
@@ -485,7 +496,7 @@ inicial.
 e) Nenhuma das barras sofre dilatação, pois o material é o mesmo.
 
 
-*** Questão 12
+*** Questão 3
 :PROPERTIES:
 :origem: banco-criado
 :tipo: objetiva
@@ -508,7 +519,7 @@ d) O furo se fecha completamente.
 e) O diâmetro do furo só aumenta se o anel for oco por completo.
 
 
-*** Questão 13
+*** Questão 4
 :PROPERTIES:
 :origem: banco-criado
 :tipo: objetiva
@@ -533,7 +544,7 @@ d) Aquecer ambos igualmente, pois o material do cilindro dilata menos.
 e) Resfriar ambos igualmente para que se contraiam ao mesmo tempo.
 
 
-*** Questão 14
+*** Questão 5
 :PROPERTIES:
 :origem: banco-criado
 :tipo: objetiva
@@ -559,9 +570,9 @@ d) A barra 2, pois seu produto \( \alpha \cdot \Delta T \) é maior.
 
 e) Não é possível saber sem o comprimento inicial.
 
+** Transferência de calor
 
-
-*** Questão 15
+*** Questão 1
 :PROPERTIES:
 :origem: banco-criado
 :tipo: verdadeiro_falso
@@ -591,7 +602,7 @@ a) V - F - F - V - F    b) V - V - F - V - V    c) V - F - V - V - F  
 #+END_EXPORT
 
 
-*** Questão 16
+*** Questão 2
 :PROPERTIES:
 :origem: banco-criado
 :tipo: verdadeiro_falso
@@ -615,7 +626,7 @@ Classifique como **verdadeiras (V)** ou **falsas (F)** as afirmações a seguir 
 a) F - V - V - V - F    b) V - V - F - F - F    c) F - F - V - V - F    d) V - V - V - F - V    e) F - V - V - F - F
 #+END_EXPORT
 
-*** Questão 17
+*** Questão 3
 :PROPERTIES:
 :origem: banco-criado
 :tipo: verdadeiro_falso
@@ -640,7 +651,7 @@ Analise as afirmações a seguir sobre aplicações de convecção térmica:
 a) V - V - F - V - F    b) F - V - V - F - F    c) V - F - F - V - V    d) V - V - V - V - F    e) F - V - F - F - V
 #+END_EXPORT
 
-*** Questão 18
+*** Questão 4
 :PROPERTIES:
 :origem: banco-criado
 :tipo: verdadeiro_falso
@@ -664,7 +675,7 @@ Classifique as afirmações abaixo como **verdadeiras (V)** ou **falsas (F)**:
 a) V - F - V - V - F    b) V - V - F - V - F    c) F - V - V - F - F    d) V - F - F - V - V    e) V - F - V - F - F
 #+END_EXPORT
 
-*** Questão 19
+*** Questão 5
 :PROPERTIES:
 :origem: banco-criado
 :tipo: verdadeiro_falso
@@ -706,7 +717,7 @@ a) F - V - F - V - V    b) V - F - V - V - V    c) V - V - F - F - V  
 </div>
 #+END_EXPORT
 
-*** Questão 20 - Figura 4
+*** Questão 6 - Figura 4
 :PROPERTIES:
 :origem: banco-criado
 :tipo: verdadeiro_falso
@@ -730,7 +741,7 @@ Analise as afirmações com base na imagem de infravermelho do cachorro:
 a) V - F - F - V - F    b) V - V - V - F - F    c) V - F - V - V - F    d) F - V - V - F - V    e) V - F - F - V - V
 #+END_EXPORT
 
-*** Questão 21 - Figura 4
+*** Questão 7 - Figura 4
 :PROPERTIES:
 :origem: banco-criado
 :tipo: verdadeiro_falso

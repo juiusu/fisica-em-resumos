@@ -1,353 +1,169 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR">
-<head>
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>&lrm;</title>
-<meta name="generator" content="Org mode" />
-<meta name="author" content="Joilson Silva Porto" />
-<meta http-equiv="Content-Language" content="pt-BR">
-
-                     <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        displayAlign: "center",
-        displayIndent: "0em",
-
-        "HTML-CSS": { scale: 100,
-                        linebreaks: { automatic: "false" },
-                        webFont: "TeX"
-                       },
-        SVG: {scale: 100,
-              linebreaks: { automatic: "false" },
-              font: "TeX"},
-        NativeMML: {scale: 100},
-        TeX: { equationNumbers: {autoNumber: "AMS"},
-               MultLineWidth: "85%",
-               TagSide: "right",
-               TagIndent: ".8em"
-             }
-});
-</script>
-<script type="text/javascript"
-        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
-</head>
-<body>
-<div id="content">
-<div id="table-of-contents">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#org84de298">Mecânica dos Fluidos</a>
-<ul>
-<li><a href="#org01f6e33">Pressão Hidrostática</a>
-<ul>
-<li><a href="#org4eae777">Conceitos iniciais</a></li>
-<li><a href="#org279423d">Conceito de pressão</a></li>
-<li><a href="#org524af7a">Pressão em um líquido</a></li>
-<li><a href="#orgb118684">Pressão atmosférica</a></li>
-</ul>
-</li>
-<li><a href="#orgf9b3bfc">Prensa Hidráulica</a></li>
-<li><a href="#org5f12002">Empuxo</a></li>
-<li><a href="#org7ba2e04">Pressão Hidrodinâmica</a></li>
-<li><a href="#org0419dc0">Aerodinâmica</a></li>
-</ul>
-</li>
-<li><a href="#org435d715">Termodinâmica</a>
-<ul>
-<li><a href="#orge2ec54c">Conceito de temperatura</a></li>
-<li><a href="#orga5ac351">Escalas termométricas</a></li>
-<li><a href="#org2359915">Dilatação Térmica</a>
-<ul>
-<li><a href="#orgd92e4a5">Dilatação Linear</a></li>
-<li><a href="#org21f71be">Dilatação superficial</a></li>
-<li><a href="#org4c7d728">Dilatação volumétrica</a></li>
-</ul>
-</li>
-<li><a href="#org60d5b17">Propagação de calor</a>
-<ul>
-<li><a href="#org773b23a">Condução</a></li>
-<li><a href="#orgbc6205a">Convecção</a></li>
-<li><a href="#orge4587c3">Irradiação</a></li>
-</ul>
-</li>
-<li><a href="#org8f79ca5">Conceito de calor</a></li>
-<li><a href="#orgb3c5ae8">Calor específico e  Calor latente</a></li>
-<li><a href="#org9184c77">A primeira Lei da Termodinâmica</a></li>
-</ul>
-</li>
-<li><a href="#org69fa44a">Óptica</a></li>
-<li><a href="#orgffb5ee6">Ondas</a></li>
-<li><a href="#org8192a85">Exercícios e Problemas</a>
-<ul>
-<li><a href="#org2f99d41">Unidade 1</a></li>
-<li><a href="#orgaafe8f4">Unidade 2</a></li>
-</ul>
-</li>
-</ul>
-</div>
-</div>
+#+OPTIONS: toc:t
 
 
+* Mecânica dos Fluidos
 
-<div id="outline-container-org84de298" class="outline-2">
-<h2 id="org84de298">Mecânica dos Fluidos</h2>
-<div class="outline-text-2" id="text-org84de298">
-</div>
-<div id="outline-container-org01f6e33" class="outline-3">
-<h3 id="org01f6e33">Pressão Hidrostática</h3>
-<div class="outline-text-3" id="text-org01f6e33">
-</div>
-<div id="outline-container-org4eae777" class="outline-4">
-<h4 id="org4eae777">Conceitos iniciais</h4>
-<div class="outline-text-4" id="text-org4eae777">
-<p>
-Relembre os conceitos de <a href="area.html">Área</a> ,  <a href="volume.html">volume</a> e  <a href="densidade">densidade</a> .
-</p>
-</div>
-</div>
+** Pressão Hidrostática
 
-<div id="outline-container-org279423d" class="outline-4">
-<h4 id="org279423d">Conceito de pressão</h4>
-<div class="outline-text-4" id="text-org279423d">
-<p>
+*** Conceitos iniciais
+
+Relembre os conceitos de [[file:area.org][Área]] ,  [[file:volume.org][volume]] e  [[file:densidade][densidade]] .
+
+*** Conceito de pressão
+
 É a força distribuida pela àrea sob a qual está aplicada:
-</p>
 
-<p>
 \[ p = \frac{F}{A} \]
-</p>
 
-<p>
-Explicação mais detalhada sobre <a href="conceito-de-pressao.html">conceito de pressão</a> 
-</p>
-</div>
-</div>
+Explicação mais detalhada sobre [[file:conceito-de-pressao.org][conceito de pressão]] 
 
 
-<div id="outline-container-org524af7a" class="outline-4">
-<h4 id="org524af7a">Pressão em um líquido</h4>
-<div class="outline-text-4" id="text-org524af7a">
-<p>
+*** Pressão em um líquido
+
 A pressão hidrostática é causada pelo peso de um fluido em eterminado
  ponto do fluido. Por exemplo, a pressão que você sente ao mergulhar
  em um lago. Quanto maior a profundidade, maior a
  pressão sob sua cabeça.
-</p>
 
-<p>
 Essa pressão depende da densidade do fluido \( d\) , da aceleração da
 gravidade \(g = 10 m/s^2\)  e da profundidade \(h\) onde se quer saber a
 pressão \( p\) .
-</p>
+
+
+#+CAPTION: A pressão em um fluido se deve ao peso desse fluido, e depende da profundidade.
+#+ATTR_HTML: :width 400 :style text-align:center; display:block; margin:auto;
+[[https://upload.wikimedia.org/wikipedia/commons/e/e7/Hydrostatic-pressure.svg]]
 
 
 
-<div class="figure">
-<p><object type="image/svg+xml" data="https://upload.wikimedia.org/wikipedia/commons/e/e7/Hydrostatic-pressure.svg" class="org-svg" width="400" style="text-align:center; display:block; margin:auto;">
-Sorry, your browser does not support SVG.</object>
-</p>
-<p><span class="figure-number">Figure 1: </span>A pressão em um fluido se deve ao peso desse fluido, e depende da profundidade.</p>
-</div>
-
-
-
-
-<p>
+ 
 Para calcular essa pressão, basta considerar um certo volume de fluido
 e dividir pela área desse volume. Por exemplo, seguindo os seguintes passos:
-</p>
 
-<ol class="org-ol">
-<li>Peso de um volume fluido:
-\[F_P = m\, g\]</li>
-<li>Peso de um volume, em termos da densidade e do volume, considerando
-a massa \(m=d\,V\):
- \[F_P = d\,\,V\,g\]</li>
-<li>Peso do volume considerando área da base vezes altura \( V = A\,h\):
-\[p = \frac{F_P}{A}=\frac{d\,A\,h\,g\,}{A}\]</li>
-</ol>
-<p>
+1. Peso de um volume fluido:
+   \[F_P = m\, g\]
+2. Peso de um volume, em termos da densidade e do volume, considerando
+  a massa \(m=d\,V\):
+   \[F_P = d\,\,V\,g\]
+3. Peso do volume considerando área da base vezes altura \( V = A\,h\):
+   \[p = \frac{F_P}{A}=\frac{d\,A\,h\,g\,}{A}\]
 Dessa forma, obtemos uma expressão matemática que relaciona a pressão, com a densidade do fluido e a profundidade onde se quer calcular:
-</p>
 
-<p>
 \[ 
 p = d g h
 \]
-</p>
-</div>
-</div>
 
 
-<div id="outline-container-orgb118684" class="outline-4">
-<h4 id="orgb118684">Pressão atmosférica</h4>
-<div class="outline-text-4" id="text-orgb118684">
-<p>
+*** Pressão atmosférica
+
 Apressão atmosférica é um tipo de pressão hidrostática, porém,
 considerando que estamos envolvidos por um fluido que são os diversos
 gases que compõe a atmosfera. A pressão atmosférica é causada pelo
 peso da camada de atmosfera sob nossas cabeças. Assim, ela diminui
 conforme a altitude aumenta.
-</p>
 
-<p>
 Poderíamos utilizar a equação acima para calcular, também, a pressão
 atmosférica. Porém, nesse caso, temos uma complicação, pois a
 densidade não é constante (os gases ficam rarefeitos com a altitude, e
 assim, a a densidade reduz).
-</p>
 
-<p>
 Uma unidade de medida utilizada como padrão para comparação com a
 pressão atmosférica é o \(atm\) que é, por definição, a pressão
 atmosférica a nível do mar. Sua relação com a unidade pascal é:
-</p>
 
 \begin{equation}
 1,000 \, atm = 101,3\, kPa
 \end{equation}
 
 
-<p>
-<a href="quest-fisca2-1.html">Questões de revisão: Fluidos</a>
-</p>
-</div>
-</div>
-</div>
+[[file:quest-fisca2-1.org][Questões de revisão: Fluidos]]
 
-<div id="outline-container-orgf9b3bfc" class="outline-3">
-<h3 id="orgf9b3bfc">Prensa Hidráulica</h3>
-<div class="outline-text-3" id="text-orgf9b3bfc">
-<p>
-Como conseguimos levantar um carro com o pé utilizando um <a href="https://pt.wikipedia.org/wiki/Macaco_(ferramenta)">Macaco</a>
+** Prensa Hidráulica
+
+Como conseguimos levantar um carro com o pé utilizando um [[https://pt.wikipedia.org/wiki/Macaco_(ferramenta)][Macaco]]
 Hidrálico ?
-</p>
 
-<p>
 vamos analisar um exemplo mais simplificado de uma prensa hidráulica.
-</p>
+
+#+CAPTION: Ao aplicarmos uma força \(F_1\) no lado esquerdo dessa prensa hidráulica, resultará em uma força maior \(F_2\) no lado direito.
+#+ATTR_HTML: :width 600 :style text-align:center; display:block; margin:auto;
+[[https://upload.wikimedia.org/wikipedia/commons/9/99/Working_principle_of_a_hydraulic_jack.svg]]
 
 
-<div class="figure">
-<p><object type="image/svg+xml" data="https://upload.wikimedia.org/wikipedia/commons/9/99/Working_principle_of_a_hydraulic_jack.svg" class="org-svg" width="600" style="text-align:center; display:block; margin:auto;">
-Sorry, your browser does not support SVG.</object>
-</p>
-<p><span class="figure-number">Figure 2: </span>Ao aplicarmos uma força \(F_1\) no lado esquerdo dessa prensa hidráulica, resultará em uma força maior \(F_2\) no lado direito.</p>
-</div>
-
-
-<p>
 A força e àrea (do pistão móvel) em cada lado, são inversamente proporcionais, em uma prensa hidráulica.
-</p>
 
-<p>
 A explicação pode ser dada pelo Princípio de Pascal:
-</p>
 
-<blockquote>
-<p>
+#+BEGIN_QUOTE
 A pressão aplicada em um fluido em equilíbrio estático se distruibui
 igualmente para todas as partes desse fluido.
-</p>
-</blockquote>
+#+END_QUOTE
 
-<p>
 Assim:
-</p>
 
-<p>
 \[
  p_1 = p_2
 \]
-</p>
 
-
-<p>
+ 
 \[ \frac{F_1}{A_1} = \frac{F_2}{A_2} \]
-</p>
 
 
-<p>
 Qual o custo de apliar a força, já que a energia se conserva?
-</p>
 
+#+BEGIN_EXPORT html
 <a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Hydraulic_transmission_between_two_syringes.svg"><img width="512" alt="Hydraulic transmission between two syringes" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hydraulic_transmission_between_two_syringes.svg/512px-Hydraulic_transmission_between_two_syringes.svg.png?20180522114120"></a>
-</div>
-</div>
+#+END_EXPORT
 
 
-<div id="outline-container-org5f12002" class="outline-3">
-<h3 id="org5f12002">Empuxo</h3>
-<div class="outline-text-3" id="text-org5f12002">
-<p>
+** Empuxo
+
+
+
 Como um objeto pode ficar submerso em um fluido, um bloco de madeira
 flutuando em água, por exemplo, se a força peso o empurra para baixo?
-</p>
 
-<p>
 O empuxo é essa força que equilibra a força da gravidade quando o
 objeto está submerso. E ela existe devido a diferença de pressão
 hidrostática entre as superfícies do objeto submerso.
-</p>
 
 
-
-<div class="figure">
-<p><object type="image/svg+xml" data="https://upload.wikimedia.org/wikipedia/commons/1/10/Floating-and-sinking-2.svg" class="org-svg" width="512" style="text-align:center; display:block; margin:auto;">
-Sorry, your browser does not support SVG.</object>
-</p>
-<p><span class="figure-number">Figure 3: </span>Força de Empuxo \(F_A\) e Força peso \(F_E\)</p>
-</div>
+#+CAPTION: Força de Empuxo \(F_A\) e Força peso \(F_E\)
+#+ATTR_HTML: :width 512 :style text-align:center; display:block; margin:auto;
+[[https://upload.wikimedia.org/wikipedia/commons/1/10/Floating-and-sinking-2.svg]]
 
 
-<p>
 Princípio de Arquimedes para calcular o Empuxo:
-</p>
 
-<blockquote>
-<p>
+ #+begin_quote
 Um corpo imerso sofre a ação de uma força de empuxo dirigida para cima
 e igual ao peso do fluido que ele desloca.
-</p>
-</blockquote>
+#+end_quote
 
-
-<div class="figure">
-<p><object type="image/svg+xml" data="https://upload.wikimedia.org/wikipedia/commons/7/72/Archimedes-principle.svg" class="org-svg" width="512" style="text-align:center; display:block; margin:auto;">
-Sorry, your browser does not support SVG.</object>
-</p>
-<p><span class="figure-number">Figure 4: </span>Pelo princípio de Arquimedes, o objeto sofre uma força de empuxo igual ao peso do fluido deslocado.</p>
-</div>
+#+CAPTION: Pelo princípio de Arquimedes, o objeto sofre uma força de empuxo igual ao peso do fluido deslocado.
+#+ATTR_HTML: :width 512 :style text-align:center; display:block; margin:auto;
+https://upload.wikimedia.org/wikipedia/commons/7/72/Archimedes-principle.svg
 
 
 
+#+BEGIN_EXPORT html
 <div style="text-align:center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Center_of_buoyancy.svg"
        alt="Empuxo em Barco"
        style="max-width:256px; width:100%; height:auto;">
   <p><em> Barco flutuando em um rio: O peso do barco na figura (a) é sustentada pela força de empuxo representada na figura (b).</em></p>
 </div>
-</div>
-</div>
+#+END_EXPORT
 
 
-<div id="outline-container-org7ba2e04" class="outline-3">
-<h3 id="org7ba2e04">Pressão Hidrodinâmica</h3>
-</div>
+** Pressão Hidrodinâmica
 
 
-<div id="outline-container-org0419dc0" class="outline-3">
-<h3 id="org0419dc0">Aerodinâmica</h3>
-</div>
-</div>
+** Aerodinâmica
 
-<div id="outline-container-org435d715" class="outline-2">
-<h2 id="org435d715">Termodinâmica</h2>
-<div class="outline-text-2" id="text-org435d715">
+* Termodinâmica
+
+#+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     Ilustração de um  <a href=" https://pt.wikipedia.org/wiki/Motor_de_combust%C3%A3o_interna" target="_blank"> motor de combustão térmica</a>.
@@ -360,19 +176,17 @@ Fonte:  NASA</a>,
 Public domain, via Wikimedia Commons
 </p>
 </div>
-</div>
+#+END_EXPORT
 
 
-<div id="outline-container-orge2ec54c" class="outline-3">
-<h3 id="orge2ec54c">Conceito de temperatura</h3>
-<div class="outline-text-3" id="text-orge2ec54c">
-<p>
+** Conceito de temperatura
+
 A temperatura está relacionada a agitação a nível molecular. Ou seja,
 ela representa a energia do movimento das partículas (moléculas, ou
 átomos). Quanto maior a temperatura, maior será essa agitação.
-</p>
 
 
+#+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     Representação da temperatura de um <a href="https://pt.wikipedia.org/wiki/G%C3%A1s_ideal" target="_blank"> Gás ideal </a>.
@@ -384,10 +198,12 @@ ela representa a energia do movimento das partículas (moléculas, ou
 Fonte:  <a href="https://commons.wikimedia.org/wiki/File:Translational_motion.gif">A. Greg (Greg L at English Wikipedia)</a>, Public domain, via Wikimedia Commons
 </p>
 </div>
+#+END_EXPORT
 
 
 
 
+#+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     Representação da vibração dos átomos em uma molécula devido à temperatura, nesse exemmplo a proteína <a href="https://pt.wikipedia.org/wiki/Temperatura" target="_blank"> alfa-hélice </a>.
@@ -400,60 +216,25 @@ Fonte:
 <a href="https://commons.wikimedia.org/wiki/File:Thermally_Agitated_Molecule.gif">http:/</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
 </p>
 </div>
-</div>
-</div>
+#+END_EXPORT
 
 
 
 
 
 
-<div id="outline-container-orga5ac351" class="outline-3">
-<h3 id="orga5ac351">Escalas termométricas</h3>
-<div class="outline-text-3" id="text-orga5ac351">
-<p>
+** Escalas termométricas
+
 Principais escalas de temperatura: 
-</p>
 
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-left">Escala</th>
-<th scope="col" class="org-left">Fusão da água</th>
-<th scope="col" class="org-left">Ebulição da água</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="org-left">Celsius</td>
-<td class="org-left">\(0 ^0 C\)</td>
-<td class="org-left">\(100 ^0 C\)</td>
-</tr>
-
-<tr>
-<td class="org-left">Fahrenheit</td>
-<td class="org-left">\(32 ^0  F\)</td>
-<td class="org-left">\( 212 ^0 F\)</td>
-</tr>
-
-<tr>
-<td class="org-left">Kelvin</td>
-<td class="org-left">\( 273 K\)</td>
-<td class="org-left">\( 373 K\)</td>
-</tr>
-</tbody>
-</table>
+| Escala     | Fusão da água | Ebulição da água |
+|------------+---------------+------------------|
+| Celsius    | \(0 ^0 C\)    | \(100 ^0 C\)     |
+| Fahrenheit | \(32 ^0  F\)  | \( 212 ^0 F\)    |
+| Kelvin     | \( 273 K\)    | \( 373 K\)       |
 
 
+#+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     Comparação entre as principais escalas de temperatura
@@ -472,35 +253,26 @@ Principais escalas de temperatura:
     </a>.
   </p>
 </div>
+#+END_EXPORT
 
-<ul class="org-ul">
-<li>Conversão de Celsius para Fahrenheit (e virce-versa)</li>
-</ul>
+- Conversão de Celsius para Fahrenheit (e virce-versa)
 
-<p>
 \[ T_C = \frac{5}{9}\left( T_F - 32 \right)\]
-</p>
 
-<ul class="org-ul">
-<li>Conversão de celsius para Kelvin</li>
-</ul>
+- Conversão de celsius para Kelvin
 
-<p>
 \[ T_k = T_C + 273\]
-</p>
-</div>
-</div>
 
 
 
 
-<div id="outline-container-org2359915" class="outline-3">
-<h3 id="org2359915">Dilatação Térmica</h3>
-<div class="outline-text-3" id="text-org2359915">
-</div>
-<div id="outline-container-orgd92e4a5" class="outline-4">
-<h4 id="orgd92e4a5">Dilatação Linear</h4>
-<div class="outline-text-4" id="text-orgd92e4a5">
+** Dilatação Térmica
+
+*** Dilatação Linear
+
+
+#+CAPTION: Ilustração da dilatação térmica de um corpo
+#+BEGIN_EXPORT html
 <div style="text-align:center;">
   <a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons"
      href="https://commons.wikimedia.org/wiki/File:Thermal-expansion.svg"
@@ -512,99 +284,37 @@ Principais escalas de temperatura:
     Fonte: MikeRun, CC BY-SA 4.0, via <a href="https://commons.wikimedia.org/wiki/File:Thermal-expansion.svg" target="_blank">Wikimedia Commons</a>
   </p>
 </div>
+#+END_EXPORT
 
-<p>
 A dilatação \(\Delta l\) é proporcional à variação de temperatura
 \(\Delta T\) e ao comprimento inicial \(l_0\):
-</p>
 
-<p>
 \[ \Delta l = \alpha \Delta T \ l_0 \] 
-</p>
 
-<p>
 Onde \( \alpha \) é o coreficiente de dilatação linear que
 característico de cada substância.
-</p>
 
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides" style="text-align:center; margin:auto;">
-<caption class="t-above"><span class="table-number">Table 1:</span> Coeficientes de dilatação linear de alguns materiais</caption>
-
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-right" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-left">Material</th>
-<th scope="col" class="org-right">Coeficiente de Dilatação Linear (×10⁻⁶ °C⁻¹)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="org-left">Alumínio</td>
-<td class="org-right">22</td>
-</tr>
-
-<tr>
-<td class="org-left">Aço (comum)</td>
-<td class="org-right">12</td>
-</tr>
-
-<tr>
-<td class="org-left">Cobre</td>
-<td class="org-right">17</td>
-</tr>
-
-<tr>
-<td class="org-left">Latão</td>
-<td class="org-right">19</td>
-</tr>
-
-<tr>
-<td class="org-left">Vidro comum</td>
-<td class="org-right">9</td>
-</tr>
-
-<tr>
-<td class="org-left">Vidro pirex (borossilicato)</td>
-<td class="org-right">3,3</td>
-</tr>
-
-<tr>
-<td class="org-left">Concreto</td>
-<td class="org-right">10</td>
-</tr>
-
-<tr>
-<td class="org-left">Chumbo</td>
-<td class="org-right">29</td>
-</tr>
-
-<tr>
-<td class="org-left">Madeira (média)</td>
-<td class="org-right">~3 a 5 (varia com a direção das fibras)</td>
-</tr>
-
-<tr>
-<td class="org-left">Plástico (PVC)</td>
-<td class="org-right">~50 a 80</td>
-</tr>
-
-<tr>
-<td class="org-left">Silício</td>
-<td class="org-right">2,6</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
+#+CAPTION: Coeficientes de dilatação linear de alguns materiais
+#+ATTR_HTML: :style text-align:center; margin:auto;
+| Material                | Coeficiente de Dilatação Linear (×10⁻⁶ °C⁻¹) |
+|------------------------+----------------------------------------------|
+| Alumínio               | 22                                           |
+| Aço (comum)            | 12                                           |
+| Cobre                  | 17                                           |
+| Latão                  | 19                                           |
+| Vidro comum            | 9                                            |
+| Vidro pirex (borossilicato) | 3,3                                    |
+| Concreto               | 10                                           |
+| Chumbo                 | 29                                           |
+| Madeira (média)        | ~3 a 5 (varia com a direção das fibras)     |
+| Plástico (PVC)         | ~50 a 80                                     |
+| Silício                | 2,6                                          |
 
 
-<div id="outline-container-org21f71be" class="outline-4">
-<h4 id="org21f71be">Dilatação superficial</h4>
-<div class="outline-text-4" id="text-org21f71be">
+*** Dilatação superficial
+
+#+CAPTION: Ilustração da dilatação superficial de um corpo
+#+BEGIN_EXPORT html
 <div style="text-align:center;">
   <a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons"
      href="https://commons.wikimedia.org/wiki/File:Thermal-expansion-aera.svg"
@@ -616,13 +326,13 @@ característico de cada substância.
     Fonte: MikeRun, CC BY-SA 4.0, via <a href="https://commons.wikimedia.org/wiki/File:Thermal-expansion-aera.svg" target="_blank">Wikimedia Commons</a>
   </p>
 </div>
-</div>
-</div>
+#+END_EXPORT
 
 
-<div id="outline-container-org4c7d728" class="outline-4">
-<h4 id="org4c7d728">Dilatação volumétrica</h4>
-<div class="outline-text-4" id="text-org4c7d728">
+*** Dilatação volumétrica
+
+#+CAPTION: Ilustração da dilatação volumétrica de um corpo
+#+BEGIN_EXPORT html
 <div style="text-align:center;">
   <a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons"
      href="https://commons.wikimedia.org/wiki/File:Thermal-expansion-volume.svg"
@@ -634,23 +344,18 @@ característico de cada substância.
     Fonte: MikeRun, CC BY-SA 4.0, via <a href="https://commons.wikimedia.org/wiki/File:Thermal-expansion-volume.svg" target="_blank">Wikimedia Commons</a>
   </p>
 </div>
-</div>
-</div>
-</div>
+#+END_EXPORT
 
-<div id="outline-container-org60d5b17" class="outline-3">
-<h3 id="org60d5b17">Propagação de calor</h3>
-<div class="outline-text-3" id="text-org60d5b17">
-</div>
-<div id="outline-container-org773b23a" class="outline-4">
-<h4 id="org773b23a">Condução</h4>
-<div class="outline-text-4" id="text-org773b23a">
-<p>
+** Propagação de calor
+
+*** Condução
+
 Calor é conduzido ponto a ponto, onde a energia sendo transferida por
 colisões a nível molecular. 
-</p>
 
 
+#+CAPTION: Calor sendo transferido por condução.
+#+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
   <a href="https://upload.wikimedia.org/wikipedia/commons/2/2d/Heat-conduction.svg" target="_blank">
     <img width="512" alt="Ilustração da condução de calor" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Heat-conduction.svg" style="width:100%; height:auto;">
@@ -660,20 +365,17 @@ colisões a nível molecular.
     <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
   </p>
 </div>
-</div>
-</div>
+#+END_EXPORT
 
 
 
-<div id="outline-container-orgbc6205a" class="outline-4">
-<h4 id="orgbc6205a">Convecção</h4>
-<div class="outline-text-4" id="text-orgbc6205a">
-<p>
+*** Convecção
+
 Em fluidos, a diferença de temperatura causa regiões com diferentes
 densidades, deviso a expansão térmica. 
-</p>
 
 
+#+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     Representação da convecção, onde o fluido aquecido sobe, enquanto o fluido frio desce.
@@ -689,11 +391,13 @@ densidades, deviso a expansão térmica.
  <a href="https://commons.wikimedia.org/wiki/File:Convection.gif">User:Oni Lukos</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
 </p>
 </div>
+#+END_EXPORT
 
 
 
 
 
+#+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
 Um dissipador de calor proporcciona uma grande área de ruperfície para convecção, ótimizando a transferência de calor.
@@ -706,13 +410,12 @@ Um dissipador de calor proporcciona uma grande área de ruperfície para convec�
  Fonte: <a href="https://commons.wikimedia.org/wiki/File:Radiator_FxJ_v2.JPG">FxJ</a>, Public domain, via Wikimedia Commons
 </p>
 </div>
-</div>
-</div>
+#+END_EXPORT
 
 
-<div id="outline-container-orge4587c3" class="outline-4">
-<h4 id="orge4587c3">Irradiação</h4>
-<div class="outline-text-4" id="text-orge4587c3">
+*** Irradiação
+
+#+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     Emissão de infra vermelho por um cachorro. 
@@ -726,9 +429,11 @@ Um dissipador de calor proporcciona uma grande área de ruperfície para convec�
     <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
   </p>
 </div>
+#+END_EXPORT
 
 
 
+#+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
    O <a href="https://pt.wikipedia.org/wiki/Espectro_eletromagn%C3%A9tico" target="_blank"> espectro eletromagnético </a> em função da temperatura de emissão (entre outras informaçẽs).
@@ -742,58 +447,31 @@ Um dissipador de calor proporcciona uma grande área de ruperfície para convec�
     <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
   </p>
 </div>
-</div>
-</div>
-</div>
+#+END_EXPORT
 
 
 
 
 
 
-<div id="outline-container-org8f79ca5" class="outline-3">
-<h3 id="org8f79ca5">Conceito de calor</h3>
-</div>
+** Conceito de calor
 
-<div id="outline-container-orgb3c5ae8" class="outline-3">
-<h3 id="orgb3c5ae8">Calor específico e  Calor latente</h3>
-<div class="outline-text-3" id="text-orgb3c5ae8">
+** Calor específico e  Calor latente
+
+#+BEGIN_EXPORT html
 <a title="Przygocki, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Agua_temperatura_por_calor.svg"><img width="512" alt="Graph of temperature of phases of water heated from −100 °C to 200 °C – the dashed line example shows that melting and heating 1 kg of ice at −50 °C to water at 40 °C needs 600 kJ" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Agua_temperatura_por_calor.svg/512px-Agua_temperatura_por_calor.svg.png?20220221221432"></a>
-</div>
-</div>
+#+END_EXPORT
 
 
 
-<div id="outline-container-org9184c77" class="outline-3">
-<h3 id="org9184c77">A primeira Lei da Termodinâmica</h3>
-</div>
-</div>
+** A primeira Lei da Termodinâmica
 
-<div id="outline-container-org69fa44a" class="outline-2">
-<h2 id="org69fa44a">Óptica</h2>
-</div>
+* Óptica
 
-<div id="outline-container-orgffb5ee6" class="outline-2">
-<h2 id="orgffb5ee6">Ondas</h2>
-</div>
+* Ondas
 
-<div id="outline-container-org8192a85" class="outline-2">
-<h2 id="org8192a85">Exercícios e Problemas</h2>
-<div class="outline-text-2" id="text-org8192a85">
-</div>
-<div id="outline-container-org2f99d41" class="outline-3">
-<h3 id="org2f99d41">Unidade 1</h3>
-</div>
+* Exercícios e Problemas
 
-<div id="outline-container-orgaafe8f4" class="outline-3">
-<h3 id="orgaafe8f4"><a href="quest-fis2-u2.html">Unidade 2</a></h3>
-</div>
-</div>
-</div>
-<div id="postamble" class="status">
-<p class="author">Author: Joilson Silva Porto</p>
-<p class="email">Email: <a href="mailto:joilson.porto@ifam.edu.br">joilson.porto@ifam.edu.br</a></p>
-<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.1 (<a href="https://orgmode.org">Org</a> mode 9.3)</p>
-</div>
-</body>
-</html>
+** Unidade 1
+
+** [[file:quest-fis2-u2.org][Unidade 2]] 
