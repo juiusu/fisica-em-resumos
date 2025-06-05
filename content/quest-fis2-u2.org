@@ -8,7 +8,7 @@ Para as questões abaixo, considere a aceleração da gravidade:
 \[g = 10 m/s^2\]
 
 
-** Prensa Hidráulica - Princípio de Pascal
+** Prensa hidráulica - princípio de Pascal
 
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
@@ -130,7 +130,7 @@ a) 2 cm    b) 3 cm    c) 4 cm    d) 5 cm    e) 6 cm
 
 
 
-** Força de emmpuxo - princípio de Arquimedes
+** Força de empuxo - princípio de Arquimedes
 
 
 
@@ -158,8 +158,11 @@ a) 2 cm    b) 3 cm    c) 4 cm    d) 5 cm    e) 6 cm
 Na imagem, o primeiro corpo (da esquerda para a direita) afunda no líquido. Isso ocorre porque:
 
 A) Ele possui densidade menor que a do líquido.  
+
 B) A força de empuxo é maior que o peso.  
+
 C) A força peso é maior que o empuxo. 
+
 D) Ele está em equilíbrio neutro.
 
 *** Questão 2 - Sobre Figura 3
@@ -167,16 +170,22 @@ D) Ele está em equilíbrio neutro.
 No segundo corpo da esquerda para a direita, temos:
 
 A) Um corpo que irá subir, pois o empuxo é maior que o peso.  
+
 B) Um corpo em queda acelerada, pois o peso é maior.  
-C) Um corpo em equilíbrio, pois o empuxo e o peso se anulam.  <-- correta  
+
+C) Um corpo em equilíbrio, pois o empuxo e o peso se anulam.  
+
 D) Um corpo em flutuação total.
 
 *** Questão 3 - Sobre Figura 3
 Quando a força de empuxo é maior que a força peso, o corpo:
 
 A) Afunda lentamente.  
+
 B) Fica totalmente submerso.  
+
 C) Fica em repouso no fundo.  
+
 D) Sobe até atingir equilíbrio na superfície.
 
 
@@ -184,8 +193,11 @@ D) Sobe até atingir equilíbrio na superfície.
 Na última situação (corpo fora da água com empuxo equilibrando o peso), podemos concluir que:
 
 A) O corpo é mais denso que o líquido.  
+
 B) O corpo está completamente submerso.  
+
 C) O corpo está flutuando com parte fora da água e está em equilíbrio.  
+
 D) O empuxo é menor que o peso.
 
 
