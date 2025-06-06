@@ -64,7 +64,7 @@ descritos anteriormente.
   <img src="./pictures/kinematics-1.png"
        alt="Descrição do movimento de carros"
        style="width:100%; height:auto;">
-  <p style="font-style:italic; font-size:0.9em;">
+  <p style="font-size:0.75em; color:gray;">
     Fonte: imagem criada pelo autor.
   </p>
 </div>

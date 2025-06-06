@@ -1,10 +1,15 @@
 * Física I - Exercícios, problemas - Unidade II
 
 
-** Questões de Cinemática
+** Cinemática - Conceitos iniciais
+
+#+BEGIN_EXPORT html
+<hr style=\"margin: 2em 0; border: none; border-top: 1px solid #ccc;\">
+#+END_EXPORT
+
 
 *** Questão 1
-Em Cinemática, o referencial é um conceito fundamental para descrever o movimento. O referencial pode ser definido como:
+Em cinemática, o referencial é um conceito fundamental para descrever o movimento. O referencial pode ser definido como:
 
 a) A velocidade de um objeto em movimento.  
 
@@ -15,12 +20,6 @@ c) A força que atua sobre um corpo em movimento.
 d) A aceleração de um objeto durante seu deslocamento.  
 
 *** Questão 2
-Um carro se desloca de uma posição \(S_0 = -10 m\) para uma posição final \(S_f = -5 m\) em um intervalo de tempo de 2 segundos. A velocidade média deste carro foi de:
-
-a) 7,5 m/s    b) -2,5 m/s    c) 2,5 m/s    d) -7,5 m/s  
-
-
-*** Questão 3
 
 A diferença entre posição e deslocamento é que:
 
@@ -32,7 +31,75 @@ c) Deslocamento é sempre maior que a posição.
 
 d) Posição depende do tempo, mas deslocamento não.  
 
-*** Questão 4
+*** Figura 1 - Descrição do movimento de carros a partir de um referencial, em um certo instante de tempo \(t_0\).
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <img src="./pictures/kinematics-1.png"
+       alt="Descrição do movimento de carros"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: imagem criada pelo autor.
+  </p>
+</div>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<hr style=\"margin: 2em 0; border: none; border-top: 1px solid #ccc;\">
+#+END_EXPORT
+
+*** Questão 3 - (figura 1)
+:PROPERTIES:
+:origem: imagem-cinematica
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: cinemática, referencial, posição
+:END:
+
+Observe a imagem e julgue as afirmações abaixo como **verdadeiras (V)** ou **falsas (F)**:
+
+(   ) O carro vermelho está em uma posição negativa em relação ao referencial.  
+
+(   ) Os carros azuis estão se afastando do referencial em sentidos opostos.  
+
+(   ) O referencial está fixado na posição \( x = 0 \).  
+
+(   ) A seta vermelha representa movimento com velocidade negativa.  
+
+(   ) A seta azul indica que o movimento é no sentido crescente da trajetória.
+
+#+BEGIN_EXPORT html
+a) V - V - V - F - F    b) V - F - V - F - V    c) V - V - V - F - V    d) F - V - V - V - F    e) V - V - F - F - V
+#+END_EXPORT
+
+*** Questão 4 - (figura 1)
+:PROPERTIES:
+:origem: imagem-cinematica
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: cinemática, deslocamento, sentido
+:END:
+
+Analise as afirmações com base na imagem e no eixo de posição fornecido:
+
+(   ) Se um carro se move da posição -10 m para +10 m, seu
+deslocamento é positivo.
+
+(   ) Um movimento no sentido da seta azul representa deslocamento
+positivo.
+
+(   ) Se um carro vai de +15 m para +5 m, seu deslocamento é negativo.
+
+(   ) A distância percorrida depende apenas da posição final.  
+
+(   ) A posição indica onde o corpo está em um dado instante.
+
+#+BEGIN_EXPORT html
+a) V - V - F - V - F    b) V - F - V - F - V    c) V - F - V - V - V    d) V - F - V - F - F    e) V - F - V - F - V
+#+END_EXPORT
+
+*** Questão 5
 Quando há uma variação de velocidade de um objeto, seja aumento ou redução, podemos afirmar que:
 a) O objeto está em repouso.  
 
@@ -43,7 +110,77 @@ c) A força resultante é nula.
 d) O movimento é uniforme.  
 
 
-*** Questão 5
+** Conceito de velocidade
+
+*** Questão 1
+Um carro se desloca de uma posição \(S_0 = -10 m\) para uma posição final \(S_f = -5 m\) em um intervalo de tempo de 2 segundos. A velocidade média deste carro foi de:
+
+a) 7,5 m/s    b) -2,5 m/s    c) 2,5 m/s    d) -7,5 m/s  
+
+*** Figura 2 - Imagens em instantes de tempo diferentes. Para as questões que seguem, considere a posição do carro como sendo o seu centro.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <img src="./pictures/kinematics-1.png"
+       style="width:100%; height:auto;">
+  <img src="./pictures/kinematics-2.png"
+       alt="kinematics-1&kinematics-2"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: imagem criada pelo autor.
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<hr style=\"margin: 2em 0; border: none; border-top: 1px solid #ccc;\">
+#+END_EXPORT
+
+*** Questão 2 (figura 2)
+:PROPERTIES:
+:origem: imagem-cinematica
+:alt: kinematics-1&kinematics-2
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: cinemática, velocidade_media, analise_visual
+:END:
+
+Considere as imagens obtidas em dois instantes: a primeira em \( t = 10\,s \) e a segunda em \( t = 20\,s \). Com base nas posições dos veículos nos dois momentos, classifique as afirmações como **verdadeiras (V)** ou **falsas (F)**:
+
+(   ) O carro vermelho percorreu \( 10\,m \) no sentido positivo em \( 10\,s \), portanto sua velocidade média foi de \( 1{,}0\,m/s \).  
+
+(   ) O carro azul da esquerda percorreu \( 15\,m \) no sentido positivo, logo sua velocidade média foi de \( 1{,}5\,m/s \).  
+
+(   ) A velocidade média é calculada pela razão entre o deslocamento e o intervalo de tempo.  
+
+(   ) O carro azul da direita permaneceu parado durante o intervalo analisado.  
+
+(   ) O carro vermelho se move no sentido negativo da trajetória.
+
+#+BEGIN_EXPORT html
+a) V - V - V - F - V    b) V - F - V - V - F    c) F - F - V - V - F    d) V - F - V - V - F    e) V - F - F - V - F
+#+END_EXPORT
+
+*** Questão 3 (figura 2)
+:PROPERTIES:
+:origem: imagem-cinematica
+:alt: kinematics-1&kinematics-2
+:tipo: objetiva
+:nivel: medio
+:tag: cinemática, velocidade_media, deslocamento
+:END:
+
+As imagens mostram três carros em diferentes posições nos instantes \(
+t = 10\,s \) e \( t = 20\,s \). O carro vermelho estava inicialmente na posição \( -10\,m \) e, após 10 segundos, encontra-se na posição \( -5\,m \). Com base nessa informação, qual foi a velocidade média do carro vermelho no intervalo analisado?
+
+#+BEGIN_EXPORT html
+a) 0,25 m/s    b) 0,5 m/s    c) 1,0 m/s    d) -0,5 m/s    e) -1,0 m/s
+#+END_EXPORT
+
+
+*** Questão 4
 A velocidade é definida como:
 
 a) A força aplicada sobre um objeto.  
@@ -54,8 +191,95 @@ c) A razão entre um deslocamento e o intervalo de tempo correspondente.
 
 d) A energia cinética de um objeto.  
 
-** Leis de Newton
+*** Questão 5
+:PROPERTIES:
+:origem: imagem-cinematica
+:tipo: objetiva
+:nivel: médio
+:tag: mru, velocidade_constante, posicao_inicial
+:END:
 
+Um carro move-se com velocidade constante de \( v = 12\,m/s \). No instante \( t = 5\,s \), ele se encontra na posição \( s = 18\,m \). Qual era sua posição no instante \( t = 0\,s \), considerando movimento retilíneo uniforme?
+
+#+BEGIN_EXPORT html
+a) -60 m    b) -42 m    c) -12 m    d) -6 m    e) -18 m
+#+END_EXPORT
+
+
+** Conceito de aceleração
+
+#+BEGIN_EXPORT html
+<hr style=\"margin: 2em 0; border: none; border-top: 1px solid
+#ccc;\">
+#+END_EXPORT
+
+*** Figura 3 - FÍGURA 3: Variação de velocidade entre dois instantes.
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <img src="./pictures/kinematics-3v2.png"
+       alt="kinematics-3v2.png"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: imagem criada pelo autor.
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<hr style=\"margin: 2em 0; border: none; border-top: 1px solid #ccc;\">
+#+END_EXPORT
+
+*** questão 1 (figura 3)
+:PROPERTIES:
+:origem: imagem-cinematica
+:alt: kinematics-3v2.png
+:tipo: objetiva
+:nivel: medio
+:tag: aceleracao, velocidade, cinemática
+:END:
+
+O gráfico mostra a velocidade de um carro em dois instantes: \( v_1 = 10\,m/s \) no tempo \( t_1 = 2\,s \), e \( v_2 = 40\,m/s \) no tempo \( t_2 = 7\,s \). Qual foi a aceleração média do carro nesse intervalo?
+
+#+BEGIN_EXPORT html
+a) 4 m/s²    b) 6 m/s²    c) 8 m/s²    d) 10 m/s²    e) 12 m/s²
+#+END_EXPORT
+
+*** Questão 2 (figura 3)
+:PROPERTIES:
+:origem: imagem-cinematica
+:alt: kinematics-3v2.png
+:tipo: objetiva
+:nivel: medio
+:tag: aceleracao, velocidade, cinemática
+:END:
+
+Um carro percorre uma trajetória retilínea com aceleração constante. No instante \( t = 2\,s \), sua velocidade é \( 10\,m/s \), e no instante \( t = 7\,s \), sua velocidade é \( 40\,m/s \). Com base nessas informações, qual era a velocidade do carro no instante \( t = 1\,s \)?
+
+#+BEGIN_EXPORT html
+a) 2 m/s    b) 4 m/s    c) 6 m/s    d) 8 m/s    e) 10 m/s
+#+END_EXPORT
+
+*** Questão 3 (figura 3)
+:PROPERTIES:
+:origem: imagem-cinematica
+:alt: kinematics-3v2.png
+:tipo: objetiva
+:nivel: medio
+:tag: aceleracao, velocidade_inicial, mruv
+:END:
+
+Um carro percorre uma trajetória retilínea com aceleração constante. No instante \( t = 2\,s \), sua velocidade é \( 10\,m/s \), e no instante \( t = 7\,s \), sua velocidade é \( 40\,m/s \). Com base nessas informações, qual era a velocidade do carro no instante \( t = 0\,s \)?
+
+#+BEGIN_EXPORT html
+a) 0 m/s    b) -10 m/s    c) -2 m/s    d) 2 m/s    e) -5 m/s
+#+END_EXPORT
+
+
+** Primeira lei de Newton
 
 *** Questão 1
 
@@ -81,7 +305,6 @@ c) Quanto maior a massa, mais difícil será para mudar o movimento do corpo.
 
 d) A inércia não depende da massa do objeto.  
 
-
 *** Questão 3
 
 Os referenciais inerciais são aqueles que:
@@ -97,6 +320,7 @@ d) Estão sempre em repouso absoluto.
 *** Questão 4
 
 Quando uma pessoa está dentro de um automóvel que faz uma curva, ela sente uma força para fora da curva. Essa força:
+
 a) É uma força real que atua sobre a pessoa.  
 
 b) É chamada de força centrífuga e não existe de fato, sendo resultado do referencial estar acelerado.  
@@ -105,7 +329,10 @@ c) É sempre maior que o peso da pessoa.
 
 d) Só existe quando o carro está freando.  
 
-*** Questão 5
+
+** Segunda lei de Newton
+
+*** Questão 1
 
 A fórmula matemática que representa a Segunda Lei de Newton pode ser
 escrita como:
@@ -118,9 +345,10 @@ c) a = \( F/m  \)
 
 d) Tanto b quanto c estão corretas.  
 
-*** Questão 6
+*** Questão 2
 
 A Segunda Lei de Newton, conhecida como Princípio Fundamental da Dinâmica, estabelece que:
+
 a) A velocidade é sempre mantida por uma força.
 
 b) A aceleração de um objeto é diretamente proporcional à força resultante e inversamente proporcional à sua massa.  
@@ -129,9 +357,9 @@ c) Todo objeto em repouso tende a permanecer em repouso.
 
 d) A energia se conserva em todos os sistemas.  
 
-*** Questão 7
+*** Questão 3
 
-Se a força resultante sobre um objeto dobrar e sua massa permanecer constante, sua aceleração:
+Se a força resultante sobre um objeto dobrar e sua massa permanecer a mesma, sua aceleração:
 
 a) Permanecerá a mesma.  
 
@@ -141,7 +369,105 @@ c) Dobrará.
 
 d) Será reduzida a um quarto.  
 
-*** Questão 8
+
+*** Questão 4
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: segunda_lei_newton, aceleração, foguete, massa_variavel
+:END:
+
+Considere um foguete que sobe verticalmente com força resultante constante fornecida por seus motores. À medida que o combustível é consumido, a massa total do foguete diminui. De acordo com a Segunda Lei de Newton, qual das afirmações é correta?
+
+#+BEGIN_EXPORT html
+a) A aceleração do foguete permanece constante.  
+b) A aceleração do foguete diminui com o tempo.  
+c) A aceleração do foguete aumenta com o tempo.  
+d) O foguete desacelera devido à perda de massa.  
+e) A força resultante e a aceleração diminuem proporcionalmente.
+#+END_EXPORT
+
+
+
+
+*** Questão 4
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: dificil
+:tag: segunda_lei_newton, aceleração, força
+:END:
+
+Um corpo de massa \( \frac{1}{3} \,kg \) sofre uma aceleração de \( 12\,m/s² \) ao ser empurrado por uma força horizontal constante. Qual é o valor da força aplicada?
+
+#+BEGIN_EXPORT html
+a) 3 N    b) 4 N    c) 5 N    d) 6 N    e) 8 N
+#+END_EXPORT
+
+
+*** Figura 4 - Gráfico relacionando força e aceleração de dois corpos
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <img src="./pictures/forca-vs-aceleracao.png"
+       alt="forca-vc-aceleracao.png"
+       style="width:100%; height:auto;">
+</div>
+#+END_EXPORT
+
+
+*** Questão 5 - (figura 4)
+:PROPERTIES:
+:alt: forca-vc-aceleracao.png
+:origem: grafico-forca-aceleracao
+:tipo: objetiva
+:nivel: medio
+:tag: segunda_lei_newton, grafico, comparacao, massa
+:END:
+
+O gráfico Força × Aceleração apresenta duas retas: uma vermelha representando o corpo A e outra azul representando o corpo B. Com base no gráfico e na Segunda Lei de Newton, é correto afirmar que:
+
+
+a) Ambos os corpos possuem a mesma massa, pois as retas são paralelas.  
+
+b) O corpo A possui maior massa porque sua reta é mais inclinada.  
+
+c) O corpo B possui maior massa porque, para a mesma aceleração, exige mais força.  
+
+d) A massa do corpo A é maior que a do corpo B, pois sua aceleração é maior.  
+
+e) A massa do corpo B é menor que a do corpo A, pois sua reta é mais horizontal.
+
+
+
+*** Questão 6 - (figura 4)
+:PROPERTIES:
+:alt: forca-vc-aceleracao.png
+:origem: grafico-forca-aceleracao
+:tipo: objetiva
+:nivel: medio
+:tag: segunda_lei_newton, grafico, massa, fma
+:END:
+
+O gráfico mostra duas retas que representam a relação entre força e aceleração para dois corpos, A (vermelho) e B (azul), ambos submetidos a diferentes forças. Sabendo que os movimentos ocorrem em linha reta e obedecem à Segunda Lei de Newton (\( F = m \cdot a \)), qual é a massa de cada corpo?
+
+
+a) Corpo A: 1 kg, Corpo B: 2 kg  
+
+b) Corpo A: 2 kg, Corpo B: 4 kg  
+
+c) Corpo A: 3 kg, Corpo B: 6 kg  
+
+d) Corpo A: 4 kg, Corpo B: 2 kg  
+
+e) Corpo A: 4 kg, Corpo B: 8 kg
+
+
+
+** Terceira lei de Newton
+
+*** Questão 1
 
 A Terceira Lei de Newton, conhecida como Lei da Ação e Reação, afirma que:
 
@@ -153,7 +479,7 @@ c) Objetos em repouso tendem a permanecer em repouso.
 
 d) A aceleração é inversamente proporcional à força.  
 
-*** Questão 9
+*** Questão 2
 
 Sobre as forças de ação e reação, é correto afirmar que elas:
 
@@ -166,11 +492,46 @@ c) Só existem quando há movimento.
 d) São sempre maiores que o peso dos objetos.  
 
 
+*** Questão 3
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: médio
+:tag: terceira_lei_newton, ação_reação, dinâmica
+:END:
+
+Analise as afirmações a seguir com base na Terceira Lei de Newton (ação e reação):
+
+(   ) Se um carro colide com um caminhão, a força que o carro exerce
+no caminhão é igual em módulo à força que o caminhão exerce no carro.
+
+(   ) As forças de ação e reação atuam em corpos diferentes e não se anulam mutuamente.  
+
+(   ) A ação de um corpo sobre outro pode produzir movimento apenas se a força de reação for maior.  
+
+(   ) Quando empurramos uma parede e sentimos a força de volta, estamos percebendo a reação à nossa ação.  
+
+(   ) As forças de ação e reação sempre têm a mesma direção e sentidos opostos.  
+
+(   ) Forças de ação e reação podem se anular quando aplicadas sobre o mesmo corpo.
+
+#+BEGIN_EXPORT html
+a) V - V - F - V - V - F  
+b) V - F - F - V - V - V  
+c) F - V - F - V - F - F  
+d) V - V - V - V - V - F  
+e) V - V - F - F - V - F
+#+END_EXPORT
 
 
 ** Questões integradas
 
 *** Questão 1
+
+Explique qual é a diferença entre força centrípeta força
+centrífuga. Dê exemplos.
+
+*** Questão 2
 
 Duas pessoas puxam uma caixa com forças de 10 N e 15 N em direções opostas. A força resultante sobre a caixa é:
 a) 25 N
@@ -181,7 +542,7 @@ c) 0 N
 
 d) 150 N  
 
-*** Questão 2
+*** Questão 3
 
 A força resultante pode ser definida como:
 
@@ -193,7 +554,7 @@ c) O resultado líquido de todas as forças atuantes sobre um objeto.
 
 d) A força de atrito entre superfícies.  
 
-*** Questão 3
+*** Questão 4
 
 A força de resistência do ar:
 
@@ -205,15 +566,10 @@ c) É sempre maior que a força peso.
 
 d) Não existe no vácuo nem na atmosfera.  
 
-*** Questão 5
-
-Observe a figura abaixo:
+*** Figura 5 - Movimento circular
 
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
-  <p style="font-weight:bold; font-size:1.1em;">
-    Figura: questão 5.
-  </p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Circular_motion_-_Newton_first_law.svg"
        alt="circular"
        style="width:50%; height:auto;">
@@ -223,7 +579,23 @@ Observe a figura abaixo:
 </div>
 #+END_EXPORT
 
+*** Questão 5 - (figura 5)
+
 Um corpo preso a uma corda gira em movimento circular uniforme. Se a corda se romper no instante mostrado na imagem, em qual direção o corpo se moverá?
+
+a) Direção (A)  
+
+b) Direção (B)  
+
+c) Direção (C)  
+
+d) Direção (D)  
+
+e) Direção (E)
+
+*** Questão 6 - (figura 5)
+
+A força centrífuga (sentida pelo objeto) está apontando para:
 
 a) Direção (A)  
 
@@ -236,7 +608,7 @@ d) Direção (D)
 e) Direção (E)  
 
 
-*** Questão 4
+*** Questão 7
 
 Um carro trafega em uma estrada retilínea com velocidade constante de 60 km/h. Nesta situação:
 
@@ -248,113 +620,11 @@ c) A força resultante sobre o carro é nula e ele obedece à Primeira Lei de Ne
 
 d) O carro está desacelerando gradualmente.  
 
-*** Questão 5
 
-Durante uma freada brusca, os passageiros de um ônibus são "jogados" para frente. Esse fenômeno é explicado:
-
-a) Pela Segunda Lei de Newton apenas.  
-
-b) Pela Terceira Lei de Newton apenas.  
-
-c) Pela Lei da Inércia (Primeira Lei de Newton).  
-
-d) Pela força de atrito entre os pés e o chão.  
-
-*** Questão 6
-
-Um objeto de massa 2 kg sofre a ação de uma força resultante de 10 N. Sua aceleração será:
-
-a) 20 m/s²  
-
-b) 5 m/s²  
-
-c) 0,2 m/s²  
-
-d) 12 m/s²  
-
-*** Questão 7
-
-Em um cabo de guerra, duas equipes puxam uma corda com forças iguais e opostas. Se a corda não se move, isso significa que:
-
-a) Não há forças atuando.  
-
-b) A força resultante é zero e o sistema está em equilíbrio.  
-
-c) Uma das equipes não está puxando.  
-
-d) A corda está quebrada.  
-
-
+*** Figura 6 -     Par ação-reação em forças de ação à distância, nesse exemplo, a força gravitacional.
 
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
-  <p style="font-weight:bold; font-size:1.1em;">
-  Dois corpos com massas diferentes em patins se empurrando: Questões 8 a 11.
-  </p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Action-reaction-law.svg"
-       alt="ação-reação1"
-       style="width:50%; height:auto;">
-  <p style="font-style:italic; font-size:0.9em;">
-  Fonte: <a href="https://commons.wikimedia.org/wiki/File:Action-reaction-law.svg">MikeRun</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
-  </p>
-</div>
-#+END_EXPORT
-
-*** Questão 8
-A imagem representa dois corpos em patins que se empurram mutuamente. Sobre as forças envolvidas nesse processo, é correto afirmar:
-
-a) A força exercida pelo corpo vermelho é maior, pois ele tem menor massa.  
-
-b) A força exercida pelo corpo azul é maior, pois ele tem maior massa.  
-
-c) As forças são iguais em módulo, direção e sentidos opostos.  
-
-d) As forças são diferentes, pois as massas são diferentes.  
-
-
-*** Questão 9
-Considerando as massas \( m_1 \) e \( m_2 \), sendo \( m_2 = 2 \cdot m_1 \), e observando as velocidades após o empurrão, qual relação entre as velocidades é representada na imagem?
-
-a) \( v_1 = v_2 \)  
-
-b) \( v_1 = \frac{1}{2}v_2 \)  
-
-c) \( v_1 = 2 \cdot v_2 \)  
-
-d) \( v_1 = -2 \cdot v_2 \)  
-
-
-*** Questão 10
-O princípio físico mais bem representado por essa imagem é:
-
-a) Lei da inércia  
-
-b) Lei da gravitação universal  
-
-c) Terceira Lei de Newton e conservação da quantidade de movimento  
-
-d) Princípio da conservação da energia potencial  
-
-
-*** Questão 11
-Qual das alternativas melhor explica o fato de os dois corpos se afastarem após o contato, com velocidades diferentes?
-
-a) O corpo de maior massa aplica maior força no de menor massa.  
-
-b) A energia cinética do sistema não se conserva.  
-
-c) A ação e a reação têm intensidades diferentes, resultando em velocidades distintas.  
-
-d) As forças são iguais, mas as massas são diferentes, o que resulta
-em acelerações diferentes.
-
-
-
-#+BEGIN_EXPORT html
-<div style="text-align:center; max-width:700px; margin:auto;">
-  <p style="font-weight:bold; font-size:1.1em;">
-  Par acção-reação em forças de ação à distância, nesse exemplo, a força gravitacional: Questões 12 a 15.
-  </p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/NewtonsLawGravitation.png"
        alt="ação-reação2-gravitacional"
        style="width:50%; height:auto;">
@@ -365,7 +635,7 @@ em acelerações diferentes.
 #+END_EXPORT
 
 
-*** Questão 12
+*** Questão 8 (figura 6)
 Na interação gravitacional entre dois corpos (como Terra e Lua), é correto afirmar que:
 
 a) A Terra exerce uma força maior sobre a Lua do que a Lua sobre a Terra.  
@@ -377,32 +647,7 @@ c) As forças gravitacionais entre Terra e Lua têm o mesmo módulo, direção e
 d) A força da Lua é desprezível por ser menos massiva.  
 
 
-*** Questão 13
-Mesmo exercendo forças de mesmo módulo na interação gravitacional, a Lua tem maior aceleração que a Terra porque:
-
-a) A força que atua sobre a Lua é maior.  
-
-b) A massa da Lua é menor, então sua aceleração é maior, conforme a Segunda Lei de Newton.  
-
-c) A Lua está mais próxima do Sol.  
-
-d) A Terra está em repouso absoluto.  
-
-
-*** Questão 14
-
-A Primeira Lei de Newton (Lei da Inércia) explica que um corpo tende a permanecer em repouso ou em movimento retilíneo uniforme:
-
-a) Somente se não houver nenhuma força atuando.  
-
-b) Desde que a força resultante sobre ele seja diferente de zero.  
-
-c) Apenas em sistemas gravitacionais.  
-
-d) Quando a força resultante sobre o corpo é nula.  
-
-
-*** Questão 15
+*** Questão 9 (figura 6)
 Com base na Terceira Lei de Newton, sobre as forças representadas na imagem \( F_1 \) e \( F_2 \), pode-se afirmar:
 
 a) \( F_1 > F_2 \) porque \( m_1 > m_2 \).  
@@ -414,27 +659,61 @@ c) \( F_1 = F_2 \), pois são forças de ação e reação com mesma intensidade
 d) As forças não se relacionam pois atuam em corpos diferentes.  
 
 
+*** Figura 7 - Gráfico que relaciona a velocidade com o tempo de dois corpos.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <img src="./pictures/grafico_v_t_dois_corpos.png"
+       alt="grafico_v_t_dois_corpos.png"
+       style="width:100%; height:auto;">
+</div>
+#+END_EXPORT
+
+*** Questão 10 (figura 7)
+:PROPERTIES:
+:alt: grafico_v_t_dois_corpos.png
+:tipo: objetiva
+:nivel: medio
+:tag: segunda_lei_newton, massa, aceleracao, grafico
+:END:
+
+O gráfico Velocidade × Tempo mostra a relação entre essas grandezas
+para dois corpos. Sabendo que ambos estão sujeitos à mesma força resultante de \( 20\,N \), qual é a massa de cada corpo?
+
+
+a) Corpo A: 10 kg    Corpo B: 5 kg  
+
+b) Corpo A: 5 kg    Corpo B: 10 kg  
+
+c) Corpo A: 20 kg    Corpo B: 5 kg  
+
+d) Corpo A: 4 kg    Corpo B: 2 kg  
+
+e) Corpo A: 2 kg    Corpo B: 4 kg
 
 
 
-** Integrando cinemática e leis de Newton
+*** Questão 11 (figura 7)
+:PROPERTIES:
+:alt: grafico_v_t_dois_corpos.png
+:tipo: objetiva
+:nivel: medio
+:tag: segunda_lei_newton, interpretação, força, grafico
+:END:
+
+Sabendo que as forças resultantes aplicadas sobre os corpos A e B são iguais, e que as retas do gráfico representam movimentos com aceleração constante, é correto afirmar:
 
 
-*** Questão 1
 
-Um objeto de 10 kg sofre uma aceleração de 3 m/s². Qual é a força resultante sobre ele?
+a) O corpo que tem a reta mais inclinada possui maior massa.  
 
-a) 13 N  
-b) 30 N  
-c) 300 N  
-d) 3 N  
+b) A massa é proporcional à inclinação da reta no gráfico.  
 
-*** Questão 2
+c) Quanto maior a inclinação da reta, menor a massa do corpo.  
 
-Se um corpo varia sua velocidade de \(10 \, m/s\) para \(60\, m/s\),
-quando submetido por uma força de 100 N; qual é a massa desse corpo?
+d) A força e a massa são grandezas inversamente proporcionais.  
 
+e) A aceleração independe da força e da massa.
 
-*** Questão 3
 
 

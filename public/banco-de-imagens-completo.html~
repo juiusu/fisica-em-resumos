@@ -17,9 +17,9 @@
 <h1 class="title">Banco de Imagens - Física em Resumos</h1>
 
 
-<div id="outline-container-org87017e2" class="outline-2">
-<h2 id="org87017e2">PADRÃO</h2>
-<div class="outline-text-2" id="text-org87017e2">
+<div id="outline-container-org50abc13" class="outline-2">
+<h2 id="org50abc13">PADRÃO</h2>
+<div class="outline-text-2" id="text-org50abc13">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
  FÍGURA 1: Prensa hidráulica, com embolo de área menor à esquerda, e maior à direita.
@@ -37,7 +37,7 @@
 
 
 <div style="text-align:center; max-width:700px; margin:auto;">
-  <p>
+  <p style="font-weight:bold; font-size:1.1em;">
     DESCRIÇÃO DA IMAGEM.
   </p>
   <img src="./pictures/NOME_DA_IMAGEM.png"
@@ -51,9 +51,12 @@
 </div>
 
 
-<div id="outline-container-org21269f0" class="outline-2">
-<h2 id="org21269f0">ÓPTICA</h2>
-<div class="outline-text-2" id="text-org21269f0">
+
+
+
+<div id="outline-container-org54552e2" class="outline-2">
+<h2 id="org54552e2">ÓPTICA</h2>
+<div class="outline-text-2" id="text-org54552e2">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
   
@@ -71,21 +74,21 @@
 </div>
 
 
-<div id="outline-container-orgdb9399c" class="outline-2">
-<h2 id="orgdb9399c">Banco de Imagens do Projeto Física em Resumos</h2>
-<div class="outline-text-2" id="text-orgdb9399c">
+<div id="outline-container-org15e86be" class="outline-2">
+<h2 id="org15e86be">Banco de Imagens do Projeto Física em Resumos</h2>
+<div class="outline-text-2" id="text-org15e86be">
 <p>
 Este arquivo contém todas as imagens encontradas nos arquivos .org do projeto, organizadas com os modelos HTML apropriados.
 </p>
 </div>
 
-<div id="outline-container-org372c7f2" class="outline-3">
-<h3 id="org372c7f2">Imagens Externas (HTTP/HTTPS)</h3>
-<div class="outline-text-3" id="text-org372c7f2">
+<div id="outline-container-org9f5eea8" class="outline-3">
+<h3 id="org9f5eea8">Imagens Externas (HTTP/HTTPS)</h3>
+<div class="outline-text-3" id="text-org9f5eea8">
 </div>
-<div id="outline-container-orgd0c64ac" class="outline-4">
-<h4 id="orgd0c64ac">Leis de Newton</h4>
-<div class="outline-text-4" id="text-orgd0c64ac">
+<div id="outline-container-orgeb86e3b" class="outline-4">
+<h4 id="orgeb86e3b">Leis de Newton</h4>
+<div class="outline-text-4" id="text-orgeb86e3b">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     Lei da Gravitação Universal de Newton.
@@ -135,9 +138,9 @@ Este arquivo contém todas as imagens encontradas nos arquivos .org do projeto, 
 </div>
 
 
-<div id="outline-container-org8de05ef" class="outline-4">
-<h4 id="org8de05ef">Hidrostática e Fluidos</h4>
-<div class="outline-text-4" id="text-org8de05ef">
+<div id="outline-container-org186a306" class="outline-4">
+<h4 id="org186a306">Hidrostática e Fluidos</h4>
+<div class="outline-text-4" id="text-org186a306">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     Princípio de Funcionamento do Macaco Hidráulico.
@@ -203,9 +206,9 @@ Este arquivo contém todas as imagens encontradas nos arquivos .org do projeto, 
 </div>
 
 
-<div id="outline-container-org23268a9" class="outline-4">
-<h4 id="org23268a9">Eletrostática</h4>
-<div class="outline-text-4" id="text-org23268a9">
+<div id="outline-container-org146d48d" class="outline-4">
+<h4 id="org146d48d">Eletrostática</h4>
+<div class="outline-text-4" id="text-org146d48d">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     Linhas de Campo e Equipotenciais em um Condensador.
@@ -224,13 +227,13 @@ Este arquivo contém todas as imagens encontradas nos arquivos .org do projeto, 
 </div>
 
 
-<div id="outline-container-orgd3725ad" class="outline-3">
-<h3 id="orgd3725ad">Imagens Locais</h3>
-<div class="outline-text-3" id="text-orgd3725ad">
+<div id="outline-container-org9004abb" class="outline-3">
+<h3 id="org9004abb">Imagens Locais</h3>
+<div class="outline-text-3" id="text-org9004abb">
 </div>
-<div id="outline-container-org79a777c" class="outline-4">
-<h4 id="org79a777c">Questões UEA</h4>
-<div class="outline-text-4" id="text-org79a777c">
+<div id="outline-container-orgda020c1" class="outline-4">
+<h4 id="orgda020c1">Questões UEA</h4>
+<div class="outline-text-4" id="text-orgda020c1">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p>
     Questão UEA SIS3 2014-1.
@@ -344,9 +347,9 @@ Este arquivo contém todas as imagens encontradas nos arquivos .org do projeto, 
 </div>
 
 
-<div id="outline-container-org2851204" class="outline-4">
-<h4 id="org2851204">Gráficos e Logos</h4>
-<div class="outline-text-4" id="text-org2851204">
+<div id="outline-container-org823b9ed" class="outline-4">
+<h4 id="org823b9ed">Gráficos e Logos</h4>
+<div class="outline-text-4" id="text-org823b9ed">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p>
     Gráfico 2 - Pré-Física.
@@ -381,9 +384,9 @@ Este arquivo contém todas as imagens encontradas nos arquivos .org do projeto, 
 
 
 
-<div id="outline-container-org61bbc8c" class="outline-2">
-<h2 id="org61bbc8c">arquivo antigo</h2>
-<div class="outline-text-2" id="text-org61bbc8c">
+<div id="outline-container-org7916ca2" class="outline-2">
+<h2 id="org7916ca2">arquivo antigo</h2>
+<div class="outline-text-2" id="text-org7916ca2">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     Animação de uma <a href="https://pt.wikipedia.org/wiki/Aurora_polar" target="_blank">Aurora Polar</a>.
@@ -716,9 +719,9 @@ Public domain, via Wikimedia Commons"
 
 
 
-<div id="outline-container-org022bfab" class="outline-2">
-<h2 id="org022bfab">CONFIGURAR</h2>
-<div class="outline-text-2" id="text-org022bfab">
+<div id="outline-container-org20a29fc" class="outline-2">
+<h2 id="org20a29fc">CONFIGURAR</h2>
+<div class="outline-text-2" id="text-org20a29fc">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     Resistência, tensão e corrente.
@@ -741,9 +744,9 @@ Public domain, via Wikimedia Commons"
 
 
 
-<div id="outline-container-orge08524c" class="outline-2">
-<h2 id="orge08524c">Fontes</h2>
-<div class="outline-text-2" id="text-orge08524c">
+<div id="outline-container-org8143924" class="outline-2">
+<h2 id="org8143924">Fontes</h2>
+<div class="outline-text-2" id="text-org8143924">
 <p>
 <a href="https://openverse.org">https://openverse.org</a> 
 </p>
@@ -756,9 +759,9 @@ Public domain, via Wikimedia Commons"
 </div>
 
 
-<div id="outline-container-org724460d" class="outline-2">
-<h2 id="org724460d">revisar</h2>
-<div class="outline-text-2" id="text-org724460d">
+<div id="outline-container-org63ee06e" class="outline-2">
+<h2 id="org63ee06e">revisar</h2>
+<div class="outline-text-2" id="text-org63ee06e">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     Força Resultante - Diagrama de Forças.
@@ -808,9 +811,9 @@ Public domain, via Wikimedia Commons"
 
 
 
-<div id="outline-container-orgbc7e692" class="outline-2">
-<h2 id="orgbc7e692">Fonte própria</h2>
-<div class="outline-text-2" id="text-orgbc7e692">
+<div id="outline-container-org849e225" class="outline-2">
+<h2 id="org849e225">Fonte própria</h2>
+<div class="outline-text-2" id="text-org849e225">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     O movimento pode ser diferente para dois observadores diferentes.
@@ -841,9 +844,9 @@ Fonte: criado pelo autor.
 
 
 
-<div id="outline-container-orge2da56d" class="outline-2">
-<h2 id="orge2da56d">wikimedia</h2>
-<div class="outline-text-2" id="text-orge2da56d">
+<div id="outline-container-org0d08f20" class="outline-2">
+<h2 id="org0d08f20">wikimedia</h2>
+<div class="outline-text-2" id="text-org0d08f20">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     Animação de uma <a href="https://pt.wikipedia.org/wiki/Aurora_polar" target="_blank">Aurora Polar</a>.
@@ -1152,9 +1155,9 @@ Public domain, via Wikimedia Commons"
 
 
 
-<div id="outline-container-org6684720" class="outline-2">
-<h2 id="org6684720">CONFIGURAR</h2>
-<div class="outline-text-2" id="text-org6684720">
+<div id="outline-container-org16ed0cc" class="outline-2">
+<h2 id="org16ed0cc">CONFIGURAR</h2>
+<div class="outline-text-2" id="text-org16ed0cc">
 
 <div class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Lei_de_ohm_-_Ohm%27s_law.jpg" alt="Lei_de_ohm_-_Ohm%27s_law.jpg" />
@@ -1168,9 +1171,9 @@ Elilopes, CC BY-SA 4.0 <a href="https://creativecommons.org/licenses/by-sa/4.0">
 </div>
 </div>
 
-<div id="outline-container-org19c5336" class="outline-2">
-<h2 id="org19c5336">Fontes</h2>
-<div class="outline-text-2" id="text-org19c5336">
+<div id="outline-container-orgf9f2631" class="outline-2">
+<h2 id="orgf9f2631">Fontes</h2>
+<div class="outline-text-2" id="text-orgf9f2631">
 <p>
 <a href="https://openverse.org">https://openverse.org</a> 
 </p>

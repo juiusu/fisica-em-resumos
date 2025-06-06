@@ -23,7 +23,7 @@
 
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
-  <p>
+  <p style="font-weight:bold; font-size:1.1em;">
     DESCRIÇÃO DA IMAGEM.
   </p>
   <img src="./pictures/NOME_DA_IMAGEM.png"
@@ -34,6 +34,9 @@
   </p>
 </div>
 #+END_EXPORT
+
+
+
 
 
 * ÓPTICA

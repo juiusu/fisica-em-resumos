@@ -1,6 +1,4 @@
-
 #+OPTIONS: toc:t
-
 
 
 * Mecânica dos Fluidos
