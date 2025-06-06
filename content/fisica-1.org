@@ -1,10 +1,24 @@
 #+OPTIONS: toc:t
 
-* Mecânica: Visão geral
+
+#+BEGIN_EXPORT html
+<div style="margin-top:100px;"></div>
+#+END_EXPORT
 
 #+BEGIN_EXPORT html
 <hr style=\"margin: 2em 0; border: none; border-top: 1px solid #ccc;\">
 #+END_EXPORT
+
+* Mecânica: Visão geral
+
+A mecânica é a área da física que estuda os movimentos de modo geral;
+desenvolvendo conceitos e estabelecendo princípios que buscam explicar
+por que e como os movimentos acontecem.
+
+É uma área geral que pode ter várias aplicações e contendo várias
+subáreas, como: mecânica celeste, mecânica de corpos rígidos, mecânica
+de fluidos, mecânica de motores etc.
+
 
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
@@ -24,11 +38,14 @@
 <div style="margin-top:100px;"></div>
 #+END_EXPORT
 
-* Cinemática
 
 #+BEGIN_EXPORT html
 <hr style=\"margin: 2em 0; border: none; border-top: 1px solid #ccc;\">
 #+END_EXPORT
+
+
+* Cinemática
+
 
 ** Visão geral
 
@@ -81,6 +98,11 @@ respectivamente:
 
 
 #+BEGIN_EXPORT html
+<div style="margin-top:100px;"></div>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
   Descrição do movimento de carros a partir de um referêncial, em um certo instante posterior (final) \(t_f\).
@@ -111,6 +133,11 @@ A _*velocidade*_ é a razão entre o _*deslocamento*_ \(\Delta S = -5 -(-10) =
 5\, m)\)  e o intervalo de tempo correspondente. Assim,
 
 \[ v = \frac{\Delta S}{\Delta t} = \frac{5\,m}{2\,s} = 2,5\, m/s\] 
+
+
+#+BEGIN_EXPORT html
+<div style="margin-top:100px;"></div>
+#+END_EXPORT
 
 
 ** Aceleração
@@ -150,6 +177,10 @@ Escrevemos
 \[ a = 10\,m/s^2 \]
 
 
+#+BEGIN_EXPORT html
+<div style="margin-top:100px;"></div>
+#+END_EXPORT
+
 
 ** Queda livre
 
@@ -174,6 +205,10 @@ Aceleração de \(10\,m/s^2\), para baixo. Ou seja, uma acrésimo de
 <div style="margin-top:100px;"></div>
 #+END_EXPORT
 
+
+#+BEGIN_EXPORT html
+<div style="margin-top:100px;"></div>
+#+END_EXPORT
 
 
 ** Lançamento horizontal
@@ -208,16 +243,29 @@ se a velocidade horizontal for de \(5m/s\)?
 Veja [[https://phet.colorado.edu/sims/html/projectile-motion/latest/projectile-motion_all.html?locale=pt_BR][aqui]] um conjunto de simulações do [[https://phet.colorado.edu/pt_BR][PHET]] 
 
 
-* Leis de Newton
+#+BEGIN_EXPORT html
+<div style="margin-top:100px;"></div>
+#+END_EXPORT
+
 
 #+BEGIN_EXPORT html
 <hr style=\"margin: 2em 0; border: none; border-top: 1px solid #ccc;\">
 #+END_EXPORT
 
+* Leis de Newton
+
+
+
 As de Newton são a base para o estudo da mecânica, ela estabelece os
 princípios básicos para explicar como e por que os movimentos
 acontecem.
 
+Antes de iniciar, vamos analisar dois conceitos importantes para
+entender as leis de Newton: referenciais e forças.
+
+#+BEGIN_EXPORT html
+<div style="margin-top:100px;"></div>
+#+END_EXPORT
 
 
 ** Referenciais
@@ -241,6 +289,9 @@ acontecem.
 <div style="margin-top:100px;"></div>
 #+END_EXPORT
 
+#+BEGIN_EXPORT html
+<div style="margin-top:100px;"></div>
+#+END_EXPORT
 
 ** Força
 
@@ -335,6 +386,9 @@ Fonte: criado pelo autor.
 <div style="margin-top:100px;"></div>
 #+END_EXPORT
 
+#+BEGIN_EXPORT html
+<div style="margin-top:100px;"></div>
+#+END_EXPORT
 
 ** Primeiria Lei: Inércia
 
@@ -470,6 +524,10 @@ Os Referenciais inerciais - aqueles que respeitam a primeira lei
 <div style="margin-top:100px;"></div>
 #+END_EXPORT
 
+#+BEGIN_EXPORT html
+<div style="margin-top:100px;"></div>
+#+END_EXPORT
+
 
 ** Segunda Lei: Princípio fundamental da dinâmica
 
@@ -512,6 +570,9 @@ ou
 
 \[ F = m a\]
 
+#+BEGIN_EXPORT html
+<div style="margin-top:100px;"></div>
+#+END_EXPORT
 
 
 ** Terceira Lei: Ação-reação
@@ -570,20 +631,46 @@ módulo e orientação oposta,
 #+BEGIN_EXPORT html
 <div style="margin-top:100px;"></div>
 #+END_EXPORT
+#+BEGIN_EXPORT html
+<div style="margin-top:100px;"></div>
+#+END_EXPORT
 
 ** Força peso
+#+BEGIN_EXPORT html
+<div style="margin-top:100px;"></div>
+#+END_EXPORT
 
 ** Diagramas de força
+#+BEGIN_EXPORT html
+<div style="margin-top:100px;"></div>
+#+END_EXPORT
 
 ** Aplicações
-
-* Leis de Conservação: Energia, momento linear e momento angular
+#+BEGIN_EXPORT html
+<div style="margin-top:100px;"></div>
+#+END_EXPORT
 
 #+BEGIN_EXPORT html
 <hr style=\"margin: 2em 0; border: none; border-top: 1px solid #ccc;\">
 #+END_EXPORT
 
+* Leis de Conservação: Energia, momento linear e momento angular
+
+#+BEGIN_EXPORT html
+<div style="margin-top:100px;"></div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<hr style=\"margin: 2em 0; border: none; border-top: 1px solid #ccc;\">
+#+END_EXPORT
+
+
 * Gravitação
+
+
+#+BEGIN_EXPORT html
+<div style="margin-top:100px;"></div>
+#+END_EXPORT
 
 #+BEGIN_EXPORT html
 <hr style=\"margin: 2em 0; border: none; border-top: 1px solid #ccc;\">
@@ -591,18 +678,26 @@ módulo e orientação oposta,
 
 * Mecânica dos Fluidos
 
-#+BEGIN_EXPORT html
-<hr style=\"margin: 2em 0; border: none; border-top: 1px solid #ccc;\">
-#+END_EXPORT
+
 A mecânica dos fluidos estuda o comportamento de líquidos e gases em repouso ou em movimento.
 
 (Conteúdo a ser adicionado.)
 
-* Exercícios, Questões e Problemas
+
+#+BEGIN_EXPORT html
+<div style="margin-top:100px;"></div>
+#+END_EXPORT
 
 #+BEGIN_EXPORT html
 <hr style=\"margin: 2em 0; border: none; border-top: 1px solid #ccc;\">
 #+END_EXPORT
+
+* Exercícios, Questões e Problemas
+
+#+BEGIN_EXPORT html
+<div style=\"margin-top:30px;\"></div>
+#+END_EXPORT
+
 
 [[file:quest-fis1-u2.org][Unidade 2]]
 
