@@ -36,13 +36,13 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-org3f28841" class="outline-2">
-<h2 id="org3f28841">Física 3 - Exercícios e problemas - Unidade 2</h2>
-<div class="outline-text-2" id="text-org3f28841">
+<div id="outline-container-org5673408" class="outline-2">
+<h2 id="org5673408">Física 3 - Exercícios e problemas - Unidade 2</h2>
+<div class="outline-text-2" id="text-org5673408">
 </div>
-<div id="outline-container-orgfb18ea7" class="outline-3">
-<h3 id="orgfb18ea7">Revisão: tensão = energia por carga (\(U = \frac{E}{q}\))</h3>
-<div class="outline-text-3" id="text-orgfb18ea7">
+<div id="outline-container-org5aadad5" class="outline-3">
+<h3 id="org5aadad5">Revisão: tensão = energia por carga (\(U = \frac{E}{q}\))</h3>
+<div class="outline-text-3" id="text-org5aadad5">
 <p>
 A figura abaixo será usada nas próximas 3 questões abaixo.
 </p>
@@ -66,9 +66,9 @@ A figura abaixo será usada nas próximas 3 questões abaixo.
 
 
 
-<div id="outline-container-org1dc9393" class="outline-3">
-<h3 id="org1dc9393">Revisão: tensão = energia por carga (\(U = \frac{E}{q}\)) - Questão 1</h3>
-<div class="outline-text-3" id="text-org1dc9393">
+<div id="outline-container-orgeccecd4" class="outline-3">
+<h3 id="orgeccecd4">Revisão: tensão = energia por carga (\(U = \frac{E}{q}\)) - Questão 1</h3>
+<div class="outline-text-3" id="text-orgeccecd4">
 <p>
 A imagem mostra duas placas: uma com 40 V e outra com 0 V. Suponha que uma carga de \( q = 1\,\mu C \) (microcoulomb) seja deslocada da placa positiva para a negativa. Qual é a energia potencial elétrica perdida por essa carga nesse deslocamento?
 </p>
@@ -100,9 +100,9 @@ A imagem mostra duas placas: uma com 40 V e outra com 0 V. Suponha que uma carga
 
 
 
-<div id="outline-container-org57b0596" class="outline-3">
-<h3 id="org57b0596">Revisão: tensão = energia por carga (\(U = \frac{E}{q}\)) - Questão 2</h3>
-<div class="outline-text-3" id="text-org57b0596">
+<div id="outline-container-org0f1b4ef" class="outline-3">
+<h3 id="org0f1b4ef">Revisão: tensão = energia por carga (\(U = \frac{E}{q}\)) - Questão 2</h3>
+<div class="outline-text-3" id="text-org0f1b4ef">
 <p>
 Observe as setas vermelhas apontando da placa de 40 V para a de 0 V. Isso indica:
 </p>
@@ -126,9 +126,9 @@ d) A corrente elétrica está indo do menor para o maior potencial.
 </div>
 
 
-<div id="outline-container-org9e034db" class="outline-3">
-<h3 id="org9e034db">Revisão: tensão = energia por carga (\(U = \frac{E}{q}\)) - Questão 3</h3>
-<div class="outline-text-3" id="text-org9e034db">
+<div id="outline-container-orgad65528" class="outline-3">
+<h3 id="orgad65528">Revisão: tensão = energia por carga (\(U = \frac{E}{q}\)) - Questão 3</h3>
+<div class="outline-text-3" id="text-orgad65528">
 <p>
 Uma carga de \( 2\,\mu C \) é deslocada da linha de 30 V para a linha de 10 V. Qual é a variação da energia elétrica?
 </p>
@@ -157,9 +157,9 @@ Uma carga de \( 2\,\mu C \) é deslocada da linha de 30 V para a linha de 10 V. 
 </div>
 </div>
 
-<div id="outline-container-org9423487" class="outline-3">
-<h3 id="org9423487">Revisão: Potência, corrente e tensão - Questão 1</h3>
-<div class="outline-text-3" id="text-org9423487">
+<div id="outline-container-orga9df442" class="outline-3">
+<h3 id="orga9df442">Revisão: Potência, corrente e tensão - Questão 1</h3>
+<div class="outline-text-3" id="text-orga9df442">
 <p>
 Uma lâmpada elétrica funciona com uma tensão de 120 V e consome uma
 corrente de 0,5 A. Qual é a potência dissipada por essa lâmpada?
@@ -190,9 +190,9 @@ corrente de 0,5 A. Qual é a potência dissipada por essa lâmpada?
 </div>
 </div>
 
-<div id="outline-container-org9edf2ae" class="outline-3">
-<h3 id="org9edf2ae">Revisão: Potência, corrente e tensão - Questão 2</h3>
-<div class="outline-text-3" id="text-org9edf2ae">
+<div id="outline-container-orge7c1f77" class="outline-3">
+<h3 id="orge7c1f77">Revisão: Potência, corrente e tensão - Questão 2</h3>
+<div class="outline-text-3" id="text-orge7c1f77">
 <p>
 Um chuveiro elétrico opera com potência de 4800 W e está ligado a uma rede de 220 V. Qual é a corrente que circula pelo chuveiro?
 </p>
@@ -221,9 +221,9 @@ Um chuveiro elétrico opera com potência de 4800 W e está ligado a uma rede de
 </div>
 </div>
 
-<div id="outline-container-org145889a" class="outline-3">
-<h3 id="org145889a">Revisão: Potência, corrente e tensão - Questão 3</h3>
-<div class="outline-text-3" id="text-org145889a">
+<div id="outline-container-orgbe52227" class="outline-3">
+<h3 id="orgbe52227">Revisão: Potência, corrente e tensão - Questão 3</h3>
+<div class="outline-text-3" id="text-orgbe52227">
 <p>
 Se a corrente elétrica que percorre um aparelho se mantiver constante, o que acontecerá com a potência dissipada se a tensão aplicada for dobrada?
 </p>
@@ -246,9 +246,9 @@ d) A potência será quadruplicada
 </div>
 </div>
 
-<div id="outline-container-org256fad9" class="outline-3">
-<h3 id="org256fad9">Revisão: Lei de Ohm - Questão 1</h3>
-<div class="outline-text-3" id="text-org256fad9">
+<div id="outline-container-orgaca79e2" class="outline-3">
+<h3 id="orgaca79e2">Revisão: Lei de Ohm - Questão 1</h3>
+<div class="outline-text-3" id="text-orgaca79e2">
 <p>
 Um resistor está ligado a uma fonte de 12 V e a corrente que passa por ele é de 3 A. Qual é o valor da resistência elétrica desse resistor?
 </p>
@@ -278,9 +278,9 @@ Um resistor está ligado a uma fonte de 12 V e a corrente que passa por ele é d
 </div>
 
 
-<div id="outline-container-orgf832e77" class="outline-3">
-<h3 id="orgf832e77">Revisão: Lei de Ohm - Questão 2</h3>
-<div class="outline-text-3" id="text-orgf832e77">
+<div id="outline-container-org9395b46" class="outline-3">
+<h3 id="org9395b46">Revisão: Lei de Ohm - Questão 2</h3>
+<div class="outline-text-3" id="text-org9395b46">
 <p>
 Um resistor de 10 Ω é percorrido por uma corrente elétrica de 2,5 A. Qual é a diferença de potencial (tensão) aplicada nesse resistor?
 </p>
@@ -309,9 +309,9 @@ Um resistor de 10 Ω é percorrido por uma corrente elétrica de 2,5 A. Qual é 
 </div>
 </div>
 
-<div id="outline-container-orga55146a" class="outline-3">
-<h3 id="orga55146a">Revisão: Lei de Ohm - Questão 3</h3>
-<div class="outline-text-3" id="text-orga55146a">
+<div id="outline-container-org7fd6ab4" class="outline-3">
+<h3 id="org7fd6ab4">Revisão: Lei de Ohm - Questão 3</h3>
+<div class="outline-text-3" id="text-org7fd6ab4">
 <p>
 Em um circuito simples com um resistor, o que acontece com a corrente elétrica se mantivermos a resistência constante e dobrarmos a tensão?
 </p>
