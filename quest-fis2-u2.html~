@@ -40,67 +40,67 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org6c1c6eb">Física II - Exercícios e problemas - Unidade 2.</a>
+<li><a href="#org52bf688">Física II - Exercícios e problemas - Unidade 2.</a>
 <ul>
-<li><a href="#org1d3e27e">Dados</a></li>
-<li><a href="#orga67b49b">Prensa Hidráulica - Princípio de Pascal</a>
+<li><a href="#orgefa2c09">Dados</a></li>
+<li><a href="#org54c4018">Prensa hidráulica - princípio de Pascal</a>
 <ul>
-<li><a href="#org3545192">Questão 1</a></li>
-<li><a href="#org9de42c3">Questão 2</a></li>
-<li><a href="#org0589fc8">Questão 3</a></li>
-<li><a href="#org4f09e20">Questão 4</a></li>
-<li><a href="#org5742cda">Questão 5</a></li>
-<li><a href="#org84613cf">Questão 6</a></li>
+<li><a href="#orge1dc75c">Questão 1</a></li>
+<li><a href="#orgf09d432">Questão 2</a></li>
+<li><a href="#org350f373">Questão 3</a></li>
+<li><a href="#orgb8c9713">Questão 4</a></li>
+<li><a href="#orge3d4957">Questão 5</a></li>
+<li><a href="#org164effc">Questão 6</a></li>
 </ul>
 </li>
-<li><a href="#org726c398">Força de emmpuxo - princípio de Arquimedes</a>
+<li><a href="#org786288a">Força de empuxo - princípio de Arquimedes</a>
 <ul>
-<li><a href="#org339b4e6">Questão 7 - Sobre Figura 3</a></li>
-<li><a href="#org4a2f5ca">Questão 8 - Sobre Figura 3</a></li>
-<li><a href="#org90b951d">Questão 9 - Sobre Figura 3</a></li>
-<li><a href="#orgc3c74e9">Questão 10</a></li>
-<li><a href="#org11b9fb9">Questão 11</a></li>
-<li><a href="#orgaa2bcb7">Questão 12</a></li>
-<li><a href="#org8da7fec">Questão 13</a></li>
-<li><a href="#org70ad5db">Questão 14</a></li>
-<li><a href="#org3f3db96">Questão 15</a></li>
-<li><a href="#org0e48720">Questão 16</a></li>
+<li><a href="#org20f7be3">Questão 1 - Sobre Figura 3</a></li>
+<li><a href="#orgccdc15f">Questão 2 - Sobre Figura 3</a></li>
+<li><a href="#org0e30975">Questão 3 - Sobre Figura 3</a></li>
+<li><a href="#org26a543b">Questão 4</a></li>
+<li><a href="#orgd2ebc0e">Questão 5</a></li>
+<li><a href="#orgd9eba6b">Questão 6</a></li>
+<li><a href="#orgbe99cfe">Questão 7</a></li>
+<li><a href="#org1e80dba">Questão 8</a></li>
+<li><a href="#orgb179256">Questão 9</a></li>
+<li><a href="#orga268cfd">Questão 10</a></li>
 </ul>
 </li>
-<li><a href="#org44f3099">Conceito de temperatura</a>
+<li><a href="#orgd2eab74">Conceito de temperatura</a>
 <ul>
-<li><a href="#orgee64c09">Questão 1</a></li>
-<li><a href="#org6ed7f81">Questão 2</a></li>
-<li><a href="#org216d9fc">Questão 3</a></li>
+<li><a href="#org96909ab">Questão 1</a></li>
+<li><a href="#orgcaeb95a">Questão 2</a></li>
+<li><a href="#org0122d08">Questão 3</a></li>
 </ul>
 </li>
-<li><a href="#org69cc2cb">Escalas de temperatura</a>
+<li><a href="#org3908003">Escalas de temperatura</a>
 <ul>
-<li><a href="#orgebe68b8">Questão 5</a></li>
-<li><a href="#orgde780ff">Questão 6</a></li>
-<li><a href="#org765d753">Questão 7</a></li>
-<li><a href="#org73c483e">Questão 8</a></li>
-<li><a href="#org6b9e9d3">Questão 9</a></li>
+<li><a href="#org0b3de88">Questão 1</a></li>
+<li><a href="#org114c09f">Questão 2</a></li>
+<li><a href="#org18a1c3e">Questão 3</a></li>
+<li><a href="#org7164468">Questão 4</a></li>
+<li><a href="#org977de24">Questão 5</a></li>
 </ul>
 </li>
-<li><a href="#orgdba28ab">Dilatação térmica</a>
+<li><a href="#orgfd4bb69">Dilatação térmica</a>
 <ul>
-<li><a href="#orgba50548">Questão 10</a></li>
-<li><a href="#org39b41eb">Questão 11</a></li>
-<li><a href="#orgc71d029">Questão 12</a></li>
-<li><a href="#org86c4898">Questão 13</a></li>
-<li><a href="#org7515c5a">Questão 14</a></li>
+<li><a href="#org489195b">Questão 1</a></li>
+<li><a href="#org5d02507">Questão 2</a></li>
+<li><a href="#org65228df">Questão 3</a></li>
+<li><a href="#org52220bb">Questão 4</a></li>
+<li><a href="#org90b171f">Questão 5</a></li>
 </ul>
 </li>
-<li><a href="#org6be229f">Transferência de calor</a>
+<li><a href="#orgd6a4eb9">Transferência de calor</a>
 <ul>
-<li><a href="#org6a1ff30">Questão 15</a></li>
-<li><a href="#org5a45ade">Questão 16</a></li>
-<li><a href="#org4c8f9c5">Questão 17</a></li>
-<li><a href="#orgad1ae4a">Questão 18</a></li>
-<li><a href="#org4eca316">Questão 19</a></li>
-<li><a href="#org602c654">Questão 20 - Figura 4</a></li>
-<li><a href="#orgda0e207">Questão 21 - Figura 4</a></li>
+<li><a href="#org67fca35">Questão 1</a></li>
+<li><a href="#org34894d9">Questão 2</a></li>
+<li><a href="#orge74f2d0">Questão 3</a></li>
+<li><a href="#org32ac0d0">Questão 4</a></li>
+<li><a href="#org58bba88">Questão 5</a></li>
+<li><a href="#orgbefb200">Questão 6 - Figura 4</a></li>
+<li><a href="#orgfb4817a">Questão 7 - Figura 4</a></li>
 </ul>
 </li>
 </ul>
@@ -108,13 +108,13 @@
 </ul>
 </div>
 </div>
-<div id="outline-container-org6c1c6eb" class="outline-2">
-<h2 id="org6c1c6eb">Física II - Exercícios e problemas - Unidade 2.</h2>
-<div class="outline-text-2" id="text-org6c1c6eb">
+<div id="outline-container-org52bf688" class="outline-2">
+<h2 id="org52bf688">Física II - Exercícios e problemas - Unidade 2.</h2>
+<div class="outline-text-2" id="text-org52bf688">
 </div>
-<div id="outline-container-org1d3e27e" class="outline-3">
-<h3 id="org1d3e27e">Dados</h3>
-<div class="outline-text-3" id="text-org1d3e27e">
+<div id="outline-container-orgefa2c09" class="outline-3">
+<h3 id="orgefa2c09">Dados</h3>
+<div class="outline-text-3" id="text-orgefa2c09">
 <p>
 Para as questões abaixo, considere a aceleração da gravidade:
 </p>
@@ -126,9 +126,9 @@ Para as questões abaixo, considere a aceleração da gravidade:
 </div>
 
 
-<div id="outline-container-orga67b49b" class="outline-3">
-<h3 id="orga67b49b">Prensa Hidráulica - Princípio de Pascal</h3>
-<div class="outline-text-3" id="text-orga67b49b">
+<div id="outline-container-org54c4018" class="outline-3">
+<h3 id="org54c4018">Prensa hidráulica - princípio de Pascal</h3>
+<div class="outline-text-3" id="text-org54c4018">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
  FÍGURA 1: Prensa hidráulica, com embolo de área menor à esquerda, e maior à direita. Questões: 1 a 2.
@@ -146,9 +146,9 @@ Para as questões abaixo, considere a aceleração da gravidade:
 
 
 
-<div id="outline-container-org3545192" class="outline-4">
-<h4 id="org3545192">Questão 1</h4>
-<div class="outline-text-4" id="text-org3545192">
+<div id="outline-container-orge1dc75c" class="outline-4">
+<h4 id="orge1dc75c">Questão 1</h4>
+<div class="outline-text-4" id="text-orge1dc75c">
 <p>
 Sabendo que a área do êmbolo pequeno é de \(0,01 m^2\) e a do êmbolo grande é de \(1,00 m^2\), qual deve ser a força mínima aplicada no êmbolo menor para levantar um carro de 1000 kg?
 </p>
@@ -158,9 +158,9 @@ a) 10 N &nbsp;&nbsp;&nbsp;  b) 100 N&nbsp; &nbsp;&nbsp; c) 1000 N&nbsp; &nbsp;&n
 </div>
 </div>
 
-<div id="outline-container-org9de42c3" class="outline-4">
-<h4 id="org9de42c3">Questão 2</h4>
-<div class="outline-text-4" id="text-org9de42c3">
+<div id="outline-container-orgf09d432" class="outline-4">
+<h4 id="orgf09d432">Questão 2</h4>
+<div class="outline-text-4" id="text-orgf09d432">
 <p>
 Suponha que a prensa hidráulica da FÍGURA 1 possui êmbolos circulares,
 o menor de raio \( 5\,cm \), e o maior de raio \( 50\,cm \). Um carro de massa \( 1500\,kg \) é colocado sobre o êmbolo maior. Qual deve ser a força mínima aplicada no êmbolo menor para equilibrar o sistema?
@@ -189,9 +189,9 @@ a) 50 N      b) 100 N     c) 150 N     d) 250 N     e) 400 N
 </div>
 
 
-<div id="outline-container-org0589fc8" class="outline-4">
-<h4 id="org0589fc8">Questão 3</h4>
-<div class="outline-text-4" id="text-org0589fc8">
+<div id="outline-container-org350f373" class="outline-4">
+<h4 id="org350f373">Questão 3</h4>
+<div class="outline-text-4" id="text-org350f373">
 <p>
 Na imagem, dois êmbolos estão ligados por um tubo contendo fluido. Sabendo que a área do êmbolo menor é \( A_1 = 2\,cm^2 \) e a do êmbolo maior é \( A_2 = 10\,cm^2 \), determine a força \( F_2 \) gerada no êmbolo maior quando se aplica uma força \( F_1 = 40\,N \) no êmbolo menor.
 </p>
@@ -200,9 +200,9 @@ a) 100 N    b) 150 N    c) 200 N    d) 250 N    e) 300 N
 </div>
 </div>
 
-<div id="outline-container-org4f09e20" class="outline-4">
-<h4 id="org4f09e20">Questão 4</h4>
-<div class="outline-text-4" id="text-org4f09e20">
+<div id="outline-container-orgb8c9713" class="outline-4">
+<h4 id="orgb8c9713">Questão 4</h4>
+<div class="outline-text-4" id="text-orgb8c9713">
 <p>
 Explique por que, em sistemas hidráulicos como o da imagem, se consegue aplicar uma força pequena e obter uma força grande. Que variável é "sacrificada" no processo?
 </p>
@@ -210,9 +210,9 @@ Explique por que, em sistemas hidráulicos como o da imagem, se consegue aplicar
 </div>
 
 
-<div id="outline-container-org5742cda" class="outline-4">
-<h4 id="org5742cda">Questão 5</h4>
-<div class="outline-text-4" id="text-org5742cda">
+<div id="outline-container-orge3d4957" class="outline-4">
+<h4 id="orge3d4957">Questão 5</h4>
+<div class="outline-text-4" id="text-orge3d4957">
 <p>
 Considere que a área do êmbolo pequeno é \( A_1 = 3\,cm^2 \), a área do êmbolo maior é \( A_2 = 9\,cm^2 \) e o deslocamento do êmbolo maior é \( s_2 = 2\,cm \). Qual deve ser o deslocamento \( s_1 \) do êmbolo menor para que o volume de fluido deslocado seja o mesmo?
 </p>
@@ -222,17 +222,24 @@ a) 3 cm    b) 4 cm    c) 5 cm    d) 6 cm    e) 7 cm
 </div>
 
 
-<div id="outline-container-org84613cf" class="outline-4">
-<h4 id="org84613cf">Questão 6</h4>
-<div class="outline-text-4" id="text-org84613cf">
+<div id="outline-container-org164effc" class="outline-4">
+<h4 id="org164effc">Questão 6</h4>
+<div class="outline-text-4" id="text-org164effc">
 <p>
 Em um sistema hidráulico, o êmbolo menor se desloca \( 12\,cm \) quando comprimido. Sabendo que sua área é \( A_1 = 2\,cm^2 \) e a do êmbolo maior é \( A_2 = 8\,cm^2 \), determine o deslocamento \( s_2 \) do êmbolo maior.
 </p>
 
 a) 2 cm    b) 3 cm    c) 4 cm    d) 5 cm    e) 6 cm
+</div>
+</div>
+</div>
 
 
 
+
+<div id="outline-container-org786288a" class="outline-3">
+<h3 id="org786288a">Força de empuxo - princípio de Arquimedes</h3>
+<div class="outline-text-3" id="text-org786288a">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
  FÍGURA 3: 
@@ -247,82 +254,114 @@ a) 2 cm    b) 3 cm    c) 4 cm    d) 5 cm    e) 6 cm
   </p>
 </div>
 </div>
-</div>
-</div>
 
-<div id="outline-container-org726c398" class="outline-3">
-<h3 id="org726c398">Força de emmpuxo - princípio de Arquimedes</h3>
-<div class="outline-text-3" id="text-org726c398">
-</div>
-<div id="outline-container-org339b4e6" class="outline-4">
-<h4 id="org339b4e6">Questão 7 - Sobre Figura 3</h4>
-<div class="outline-text-4" id="text-org339b4e6">
+
+
+<div id="outline-container-org20f7be3" class="outline-4">
+<h4 id="org20f7be3">Questão 1 - Sobre Figura 3</h4>
+<div class="outline-text-4" id="text-org20f7be3">
 <p>
 Na imagem, o primeiro corpo (da esquerda para a direita) afunda no líquido. Isso ocorre porque:
 </p>
 
 <p>
 A) Ele possui densidade menor que a do líquido.  
+</p>
+
+<p>
 B) A força de empuxo é maior que o peso.  
+</p>
+
+<p>
 C) A força peso é maior que o empuxo. 
+</p>
+
+<p>
 D) Ele está em equilíbrio neutro.
 </p>
 </div>
 </div>
 
-<div id="outline-container-org4a2f5ca" class="outline-4">
-<h4 id="org4a2f5ca">Questão 8 - Sobre Figura 3</h4>
-<div class="outline-text-4" id="text-org4a2f5ca">
+<div id="outline-container-orgccdc15f" class="outline-4">
+<h4 id="orgccdc15f">Questão 2 - Sobre Figura 3</h4>
+<div class="outline-text-4" id="text-orgccdc15f">
 <p>
 No segundo corpo da esquerda para a direita, temos:
 </p>
 
 <p>
 A) Um corpo que irá subir, pois o empuxo é maior que o peso.  
+</p>
+
+<p>
 B) Um corpo em queda acelerada, pois o peso é maior.  
-C) Um corpo em equilíbrio, pois o empuxo e o peso se anulam.  &lt;&#x2013; correta  
+</p>
+
+<p>
+C) Um corpo em equilíbrio, pois o empuxo e o peso se anulam.  
+</p>
+
+<p>
 D) Um corpo em flutuação total.
 </p>
 </div>
 </div>
 
-<div id="outline-container-org90b951d" class="outline-4">
-<h4 id="org90b951d">Questão 9 - Sobre Figura 3</h4>
-<div class="outline-text-4" id="text-org90b951d">
+<div id="outline-container-org0e30975" class="outline-4">
+<h4 id="org0e30975">Questão 3 - Sobre Figura 3</h4>
+<div class="outline-text-4" id="text-org0e30975">
 <p>
 Quando a força de empuxo é maior que a força peso, o corpo:
 </p>
 
 <p>
 A) Afunda lentamente.  
+</p>
+
+<p>
 B) Fica totalmente submerso.  
+</p>
+
+<p>
 C) Fica em repouso no fundo.  
+</p>
+
+<p>
 D) Sobe até atingir equilíbrio na superfície.
 </p>
 </div>
 </div>
 
 
-<div id="outline-container-orgc3c74e9" class="outline-4">
-<h4 id="orgc3c74e9">Questão 10</h4>
-<div class="outline-text-4" id="text-orgc3c74e9">
+<div id="outline-container-org26a543b" class="outline-4">
+<h4 id="org26a543b">Questão 4</h4>
+<div class="outline-text-4" id="text-org26a543b">
 <p>
 Na última situação (corpo fora da água com empuxo equilibrando o peso), podemos concluir que:
 </p>
 
 <p>
 A) O corpo é mais denso que o líquido.  
+</p>
+
+<p>
 B) O corpo está completamente submerso.  
+</p>
+
+<p>
 C) O corpo está flutuando com parte fora da água e está em equilíbrio.  
+</p>
+
+<p>
 D) O empuxo é menor que o peso.
 </p>
 </div>
 </div>
 
 
-<div id="outline-container-org11b9fb9" class="outline-4">
-<h4 id="org11b9fb9">Questão 11</h4>
-<div class="outline-text-4" id="text-org11b9fb9">
+<div id="outline-container-orgd2ebc0e" class="outline-4">
+<h4 id="orgd2ebc0e">Questão 5</h4>
+<div class="outline-text-4" id="text-orgd2ebc0e">
 <p>
 Calcule o volume de água deslocado por um corpo de \( 10.000\,kg \), sabendo que a força de empuxo e a força peso sobre ele estão em equilíbrio. Dado: densidade da água = \( 1000\,kg/m^3 \).
 </p>
@@ -332,9 +371,9 @@ a) 5 m³    b) 10 m³    c) 15 m³    d) 20 m³    e) 25 m³
 </div>
 
 
-<div id="outline-container-orgaa2bcb7" class="outline-4">
-<h4 id="orgaa2bcb7">Questão 12</h4>
-<div class="outline-text-4" id="text-orgaa2bcb7">
+<div id="outline-container-orgd9eba6b" class="outline-4">
+<h4 id="orgd9eba6b">Questão 6</h4>
+<div class="outline-text-4" id="text-orgd9eba6b">
 <p>
 Na última situação da imagem, considere que o corpo está em equilíbrio com \( \frac{2}{3} \) do seu volume submerso. Sabendo que a densidade do líquido é \( 1{,}0\,g/cm^3 \), qual é a densidade do corpo?
 </p>
@@ -345,9 +384,9 @@ a) 0,50 g/cm³    b) 0,67 g/cm³    c) 1,00 g/cm³    d) 1,50 g/cm³
 
 
 
-<div id="outline-container-org8da7fec" class="outline-4">
-<h4 id="org8da7fec">Questão 13</h4>
-<div class="outline-text-4" id="text-org8da7fec">
+<div id="outline-container-orgbe99cfe" class="outline-4">
+<h4 id="orgbe99cfe">Questão 7</h4>
+<div class="outline-text-4" id="text-orgbe99cfe">
 <p>
 Analise as afirmações a seguir e classifique-as como <b><b>verdadeiras (V)</b></b> ou <b><b>falsas (F)</b></b>:
 </p>
@@ -384,9 +423,9 @@ a) V - F - V - F - F    b) V - V - V - F - V    c) V - F - V - V - F  
 </div>
 
 
-<div id="outline-container-org70ad5db" class="outline-4">
-<h4 id="org70ad5db">Questão 14</h4>
-<div class="outline-text-4" id="text-org70ad5db">
+<div id="outline-container-org1e80dba" class="outline-4">
+<h4 id="org1e80dba">Questão 8</h4>
+<div class="outline-text-4" id="text-org1e80dba">
 <p>
 Classifique as afirmações a seguir como <b><b>verdadeiras (V)</b></b> ou <b><b>falsas (F)</b></b>:
 </p>
@@ -421,9 +460,9 @@ a) V - V - F - V - F    b) V - F - V - V - F    c) V - V - V - F - V  
 </div>
 
 
-<div id="outline-container-org3f3db96" class="outline-4">
-<h4 id="org3f3db96">Questão 15</h4>
-<div class="outline-text-4" id="text-org3f3db96">
+<div id="outline-container-orgb179256" class="outline-4">
+<h4 id="orgb179256">Questão 9</h4>
+<div class="outline-text-4" id="text-orgb179256">
 <p>
 Um bloco maciço de mesmo volume é lançado em dois recipientes distintos: um contendo água (\( \rho = 1000\,kg/m^3 \)) e outro contendo glicerina (\( \rho = 1260\,kg/m^3 \)). Sabendo que o bloco afunda nos dois líquidos e que está totalmente submerso, qual das afirmações é correta?
 </p>
@@ -453,9 +492,9 @@ e) O empuxo é menor na glicerina, pois é mais densa.
 
 
 
-<div id="outline-container-org0e48720" class="outline-4">
-<h4 id="org0e48720">Questão 16</h4>
-<div class="outline-text-4" id="text-org0e48720">
+<div id="outline-container-orga268cfd" class="outline-4">
+<h4 id="orga268cfd">Questão 10</h4>
+<div class="outline-text-4" id="text-orga268cfd">
 <p>
 Um corpo de massa \( 6\,kg \) flutua em equilíbrio em um líquido de densidade \( 0{,}75\,g/cm^3 \), com \( 80\% \) de seu volume submerso. Considerando \( g = 10\,m/s^2 \), qual é o volume total do corpo?
 </p>
@@ -470,13 +509,13 @@ a) 0,008 m³    b) 0,010 m³    c) 0,012 m³    d) 0,016 m³    
 </div>
 
 
-<div id="outline-container-org44f3099" class="outline-3">
-<h3 id="org44f3099">Conceito de temperatura</h3>
-<div class="outline-text-3" id="text-org44f3099">
+<div id="outline-container-orgd2eab74" class="outline-3">
+<h3 id="orgd2eab74">Conceito de temperatura</h3>
+<div class="outline-text-3" id="text-orgd2eab74">
 </div>
-<div id="outline-container-orgee64c09" class="outline-4">
-<h4 id="orgee64c09">Questão 1</h4>
-<div class="outline-text-4" id="text-orgee64c09">
+<div id="outline-container-org96909ab" class="outline-4">
+<h4 id="org96909ab">Questão 1</h4>
+<div class="outline-text-4" id="text-org96909ab">
 <p>
 Qual das alternativas expressa corretamente o conceito de temperatura do ponto de vista microscópico?
 </p>
@@ -502,9 +541,9 @@ d) Temperatura é a força que o corpo exerce ao trocar calor.
 </div>
 </div>
 
-<div id="outline-container-org6ed7f81" class="outline-4">
-<h4 id="org6ed7f81">Questão 2</h4>
-<div class="outline-text-4" id="text-org6ed7f81">
+<div id="outline-container-orgcaeb95a" class="outline-4">
+<h4 id="orgcaeb95a">Questão 2</h4>
+<div class="outline-text-4" id="text-orgcaeb95a">
 <p>
 Quando dizemos que um corpo está com temperatura elevada, o que isso significa em termos moleculares?
 </p>
@@ -528,9 +567,9 @@ d) As moléculas estão mais próximas umas das outras.
 </div>
 </div>
 
-<div id="outline-container-org216d9fc" class="outline-4">
-<h4 id="org216d9fc">Questão 3</h4>
-<div class="outline-text-4" id="text-org216d9fc">
+<div id="outline-container-org0122d08" class="outline-4">
+<h4 id="org0122d08">Questão 3</h4>
+<div class="outline-text-4" id="text-org0122d08">
 <p>
 Dois corpos possuem a mesma temperatura. Podemos afirmar que:
 </p>
@@ -556,13 +595,13 @@ d) Eles têm a mesma massa e volume.
 </div>
 
 
-<div id="outline-container-org69cc2cb" class="outline-3">
-<h3 id="org69cc2cb">Escalas de temperatura</h3>
-<div class="outline-text-3" id="text-org69cc2cb">
+<div id="outline-container-org3908003" class="outline-3">
+<h3 id="org3908003">Escalas de temperatura</h3>
+<div class="outline-text-3" id="text-org3908003">
 </div>
-<div id="outline-container-orgebe68b8" class="outline-4">
-<h4 id="orgebe68b8">Questão 5</h4>
-<div class="outline-text-4" id="text-orgebe68b8">
+<div id="outline-container-org0b3de88" class="outline-4">
+<h4 id="org0b3de88">Questão 1</h4>
+<div class="outline-text-4" id="text-org0b3de88">
 <p>
 Qual é a temperatura de \( 25^\circ C \) expressa na escala Kelvin?
 </p>
@@ -571,9 +610,9 @@ a) 248 K    b) 273 K    c) 298 K    d) 310 K
 </div>
 </div>
 
-<div id="outline-container-orgde780ff" class="outline-4">
-<h4 id="orgde780ff">Questão 6</h4>
-<div class="outline-text-4" id="text-orgde780ff">
+<div id="outline-container-org114c09f" class="outline-4">
+<h4 id="org114c09f">Questão 2</h4>
+<div class="outline-text-4" id="text-org114c09f">
 <p>
 Uma amostra de gás está a \( 300\,K \). Qual é a temperatura equivalente na escala Celsius?
 </p>
@@ -582,9 +621,9 @@ a) 27 ºC    b) 0 ºC    c) 37 ºC    d) 100 ºC
 </div>
 </div>
 
-<div id="outline-container-org765d753" class="outline-4">
-<h4 id="org765d753">Questão 7</h4>
-<div class="outline-text-4" id="text-org765d753">
+<div id="outline-container-org18a1c3e" class="outline-4">
+<h4 id="org18a1c3e">Questão 3</h4>
+<div class="outline-text-4" id="text-org18a1c3e">
 <p>
 Qual é a temperatura correspondente a \( 0^\circ C \) na escala Fahrenheit?
 </p>
@@ -593,9 +632,9 @@ a) 32 ºF    b) 0 ºF    c) 100 ºF    d) 273 ºF
 </div>
 </div>
 
-<div id="outline-container-org73c483e" class="outline-4">
-<h4 id="org73c483e">Questão 8</h4>
-<div class="outline-text-4" id="text-org73c483e">
+<div id="outline-container-org7164468" class="outline-4">
+<h4 id="org7164468">Questão 4</h4>
+<div class="outline-text-4" id="text-org7164468">
 <p>
 A temperatura de ebulição da água ao nível do mar é de \( 100^\circ C \). Qual é o valor correspondente na escala Fahrenheit?
 </p>
@@ -604,9 +643,9 @@ a) 100 ºF    b) 180 ºF    c) 212 ºF    d) 373 ºF
 </div>
 </div>
 
-<div id="outline-container-org6b9e9d3" class="outline-4">
-<h4 id="org6b9e9d3">Questão 9</h4>
-<div class="outline-text-4" id="text-org6b9e9d3">
+<div id="outline-container-org977de24" class="outline-4">
+<h4 id="org977de24">Questão 5</h4>
+<div class="outline-text-4" id="text-org977de24">
 <p>
 Uma temperatura de \( 20^\circ C \) equivale a quantos ºF?
 </p>
@@ -616,13 +655,13 @@ a) 36 ºF    b) 52 ºF    c) 68 ºF    d) 77 ºF
 </div>
 </div>
 
-<div id="outline-container-orgdba28ab" class="outline-3">
-<h3 id="orgdba28ab">Dilatação térmica</h3>
-<div class="outline-text-3" id="text-orgdba28ab">
+<div id="outline-container-orgfd4bb69" class="outline-3">
+<h3 id="orgfd4bb69">Dilatação térmica</h3>
+<div class="outline-text-3" id="text-orgfd4bb69">
 </div>
-<div id="outline-container-orgba50548" class="outline-4">
-<h4 id="orgba50548">Questão 10</h4>
-<div class="outline-text-4" id="text-orgba50548">
+<div id="outline-container-org489195b" class="outline-4">
+<h4 id="org489195b">Questão 1</h4>
+<div class="outline-text-4" id="text-org489195b">
 <p>
 Uma barra metálica de \( 1{,}0\,m \) de comprimento é aquecida de \( 20^\circ C \) para \( 70^\circ C \). Sabendo que o coeficiente de dilatação linear do material é \( 20 \times 10^{-6}\,^\circ C^{-1} \), qual será o aumento no comprimento da barra?
 </p>
@@ -631,9 +670,9 @@ a) 0,0010 m    b) 0,0015 m    c) 0,0020 m    d) 0,0030 m    e) 0
 </div>
 </div>
 
-<div id="outline-container-org39b41eb" class="outline-4">
-<h4 id="org39b41eb">Questão 11</h4>
-<div class="outline-text-4" id="text-org39b41eb">
+<div id="outline-container-org5d02507" class="outline-4">
+<h4 id="org5d02507">Questão 2</h4>
+<div class="outline-text-4" id="text-org5d02507">
 <p>
 Três barras metálicas de mesmo material e diferentes comprimentos são submetidas à mesma variação de temperatura. A barra A tem \( 1\,m \), a barra B tem \( 2\,m \), e a barra C tem \( 3\,m \). Sobre o aumento de comprimento (\( \Delta L \)) de cada barra, podemos afirmar que:
 </p>
@@ -663,9 +702,9 @@ e) Nenhuma das barras sofre dilatação, pois o material é o mesmo.
 </div>
 
 
-<div id="outline-container-orgc71d029" class="outline-4">
-<h4 id="orgc71d029">Questão 12</h4>
-<div class="outline-text-4" id="text-orgc71d029">
+<div id="outline-container-org65228df" class="outline-4">
+<h4 id="org65228df">Questão 3</h4>
+<div class="outline-text-4" id="text-org65228df">
 <p>
 Um anel metálico possui um furo circular em seu centro. O anel é aquecido uniformemente. Considerando os efeitos da dilatação térmica, o que acontece com o diâmetro do furo durante o aquecimento?
 </p>
@@ -695,9 +734,9 @@ e) O diâmetro do furo só aumenta se o anel for oco por completo.
 </div>
 
 
-<div id="outline-container-org86c4898" class="outline-4">
-<h4 id="org86c4898">Questão 13</h4>
-<div class="outline-text-4" id="text-org86c4898">
+<div id="outline-container-org52220bb" class="outline-4">
+<h4 id="org52220bb">Questão 4</h4>
+<div class="outline-text-4" id="text-org52220bb">
 <p>
 Um cilindro metálico de raio ligeiramente maior que o raio interno de um anel metálico deve ser encaixado dentro desse anel. Ambos são feitos de metais diferentes, com coeficientes de dilatação linear \( \alpha_{\text{anel}} > \alpha_{\text{cilindro}} \). Qual procedimento garante o encaixe sem deformação permanente?
 </p>
@@ -729,9 +768,9 @@ e) Resfriar ambos igualmente para que se contraiam ao mesmo tempo.
 </div>
 
 
-<div id="outline-container-org7515c5a" class="outline-4">
-<h4 id="org7515c5a">Questão 14</h4>
-<div class="outline-text-4" id="text-org7515c5a">
+<div id="outline-container-org90b171f" class="outline-4">
+<h4 id="org90b171f">Questão 5</h4>
+<div class="outline-text-4" id="text-org90b171f">
 <p>
 Duas barras metálicas de mesmo comprimento inicial são feitas de materiais diferentes e submetidas a diferentes variações de temperatura:
 </p>
@@ -769,13 +808,13 @@ e) Não é possível saber sem o comprimento inicial.
 </div>
 </div>
 
-<div id="outline-container-org6be229f" class="outline-3">
-<h3 id="org6be229f">Transferência de calor</h3>
-<div class="outline-text-3" id="text-org6be229f">
+<div id="outline-container-orgd6a4eb9" class="outline-3">
+<h3 id="orgd6a4eb9">Transferência de calor</h3>
+<div class="outline-text-3" id="text-orgd6a4eb9">
 </div>
-<div id="outline-container-org6a1ff30" class="outline-4">
-<h4 id="org6a1ff30">Questão 15</h4>
-<div class="outline-text-4" id="text-org6a1ff30">
+<div id="outline-container-org67fca35" class="outline-4">
+<h4 id="org67fca35">Questão 1</h4>
+<div class="outline-text-4" id="text-org67fca35">
 <p>
 Classifique as afirmações abaixo como <b><b>verdadeiras (V)</b></b> ou <b><b>falsas (F)</b></b>:
 </p>
@@ -810,9 +849,9 @@ a) V - F - F - V - F    b) V - V - F - V - V    c) V - F - V - V - F  
 </div>
 
 
-<div id="outline-container-org5a45ade" class="outline-4">
-<h4 id="org5a45ade">Questão 16</h4>
-<div class="outline-text-4" id="text-org5a45ade">
+<div id="outline-container-org34894d9" class="outline-4">
+<h4 id="org34894d9">Questão 2</h4>
+<div class="outline-text-4" id="text-org34894d9">
 <p>
 Classifique como <b><b>verdadeiras (V)</b></b> ou <b><b>falsas (F)</b></b> as afirmações a seguir sobre convecção térmica:
 </p>
@@ -841,9 +880,9 @@ a) F - V - V - V - F    b) V - V - F - F - F    c) F - F - V - V - F  
 </div>
 </div>
 
-<div id="outline-container-org4c8f9c5" class="outline-4">
-<h4 id="org4c8f9c5">Questão 17</h4>
-<div class="outline-text-4" id="text-org4c8f9c5">
+<div id="outline-container-orge74f2d0" class="outline-4">
+<h4 id="orge74f2d0">Questão 3</h4>
+<div class="outline-text-4" id="text-orge74f2d0">
 <p>
 Analise as afirmações a seguir sobre aplicações de convecção térmica:
 </p>
@@ -873,9 +912,9 @@ a) V - V - F - V - F    b) F - V - V - F - F    c) V - F - F - V - V  
 </div>
 </div>
 
-<div id="outline-container-orgad1ae4a" class="outline-4">
-<h4 id="orgad1ae4a">Questão 18</h4>
-<div class="outline-text-4" id="text-orgad1ae4a">
+<div id="outline-container-org32ac0d0" class="outline-4">
+<h4 id="org32ac0d0">Questão 4</h4>
+<div class="outline-text-4" id="text-org32ac0d0">
 <p>
 Classifique as afirmações abaixo como <b><b>verdadeiras (V)</b></b> ou <b><b>falsas (F)</b></b>:
 </p>
@@ -904,9 +943,9 @@ a) V - F - V - V - F    b) V - V - F - V - F    c) F - V - V - F - F  
 </div>
 </div>
 
-<div id="outline-container-org4eca316" class="outline-4">
-<h4 id="org4eca316">Questão 19</h4>
-<div class="outline-text-4" id="text-org4eca316">
+<div id="outline-container-org58bba88" class="outline-4">
+<h4 id="org58bba88">Questão 5</h4>
+<div class="outline-text-4" id="text-org58bba88">
 <p>
 Analise as afirmações a seguir sobre emissão e absorção de radiação térmica:
 </p>
@@ -951,9 +990,9 @@ a) F - V - F - V - V    b) V - F - V - V - V    c) V - V - F - F - V  
 </div>
 </div>
 
-<div id="outline-container-org602c654" class="outline-4">
-<h4 id="org602c654">Questão 20 - Figura 4</h4>
-<div class="outline-text-4" id="text-org602c654">
+<div id="outline-container-orgbefb200" class="outline-4">
+<h4 id="orgbefb200">Questão 6 - Figura 4</h4>
+<div class="outline-text-4" id="text-orgbefb200">
 <p>
 Analise as afirmações com base na imagem de infravermelho do cachorro:
 </p>
@@ -982,9 +1021,9 @@ a) V - F - F - V - F    b) V - V - V - F - F    c) V - F - V - V - F  
 </div>
 </div>
 
-<div id="outline-container-orgda0e207" class="outline-4">
-<h4 id="orgda0e207">Questão 21 - Figura 4</h4>
-<div class="outline-text-4" id="text-orgda0e207">
+<div id="outline-container-orgfb4817a" class="outline-4">
+<h4 id="orgfb4817a">Questão 7 - Figura 4</h4>
+<div class="outline-text-4" id="text-orgfb4817a">
 <p>
 Com base na imagem e no fenômeno da radiação térmica, julgue as afirmações a seguir:
 </p>
