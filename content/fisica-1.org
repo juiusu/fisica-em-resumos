@@ -474,8 +474,7 @@ Os Referenciais inerciais - aqueles que respeitam a primeira lei
 
   Ou seja
 
-  Em referenciais não inerciais (referenciais acelerados) aparecem os
-  corpos são acelerados mesmo na ausência de forças reais.
+  Em referenciais não inerciais (referenciais acelerados) os corpos são acelerados mesmo na ausência de forças reais.
 
   Como exemplo, do ponto de vista de quem está em movimento circular,
   existe uma aceleração centrífuga, a qual associamos uma força

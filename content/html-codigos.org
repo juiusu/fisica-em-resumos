@@ -1,0 +1,52 @@
+* Estilos
+** Espaço vertical
+
+- de 100 pixels
+
+#+BEGIN_EXPORT html
+<div style="margin-top:100px;"></div>
+#+END_EXPORT
+** Linha horizontal
+
+#+BEGIN_EXPORT html
+<hr style="margin: 2em 0; border: none; border-top: 2px solid #ccc;">
+#+END_EXPORT
+
+** Imagens Domínio Público
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Animação de uma <a href="https://pt.wikipedia.org/wiki/Aurora_polar" target="_blank">Aurora Polar</a>.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Aurora_Australis.gif"
+       alt="Aurora Austral animada"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Aurora_Australis.gif">NASA</a>, 
+    Public domain, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+** Imagens próprias
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Ligações em Série e Paralelo de uma bateria e duas lâmpadas.
+  </p>
+  <img src="./pictures/serie-paralelo_tinkercad1.png"
+       alt="lâmpadas em série e paralelo"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: imagem criada pelo autor no  <a href="https://www.tinkercad.com/" target="_blank"> Autodesk Tinkercad</a> 
+  </p>
+</div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div style="margin-top:100px;"></div>
+#+END_EXPORT
