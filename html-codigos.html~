@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Joilson Silva Porto" />
+<meta http-equiv="Content-Language" content="pt-BR">
+
+                     <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
+</head>
+<body>
+<div id="content">
+<div id="outline-container-orga3be233" class="outline-2">
+<h2 id="orga3be233">Estilos</h2>
+<div class="outline-text-2" id="text-orga3be233">
+</div>
+<div id="outline-container-orgd7a3b59" class="outline-3">
+<h3 id="orgd7a3b59">Espaço vertical</h3>
+<div class="outline-text-3" id="text-orgd7a3b59">
+<ul class="org-ul">
+<li>de 100 pixels</li>
+</ul>
+
+<div style="margin-top:100px;"></div>
+</div>
+</div>
+<div id="outline-container-org81682b2" class="outline-3">
+<h3 id="org81682b2">Linha horizontal</h3>
+<div class="outline-text-3" id="text-org81682b2">
+<hr style="margin: 2em 0; border: none; border-top: 2px solid #ccc;">
+</div>
+</div>
+
+<div id="outline-container-orgcc266d3" class="outline-3">
+<h3 id="orgcc266d3">Imagens Domínio Público</h3>
+<div class="outline-text-3" id="text-orgcc266d3">
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Animação de uma <a href="https://pt.wikipedia.org/wiki/Aurora_polar" target="_blank">Aurora Polar</a>.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Aurora_Australis.gif"
+       alt="Aurora Austral animada"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Aurora_Australis.gif">NASA</a>, 
+    Public domain, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org18478f5" class="outline-3">
+<h3 id="org18478f5">Imagens próprias</h3>
+<div class="outline-text-3" id="text-org18478f5">
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Ligações em Série e Paralelo de uma bateria e duas lâmpadas.
+  </p>
+  <img src="./pictures/serie-paralelo_tinkercad1.png"
+       alt="lâmpadas em série e paralelo"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: imagem criada pelo autor no  <a href="https://www.tinkercad.com/" target="_blank"> Autodesk Tinkercad</a> 
+  </p>
+</div>
+
+<div style="margin-top:100px;"></div>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Joilson Silva Porto</p>
+<p class="email">Email: <a href="mailto:joilson.porto@ifam.edu.br">joilson.porto@ifam.edu.br</a></p>
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.1 (<a href="https://orgmode.org">Org</a> mode 9.3)</p>
+</div>
+</body>
+</html>
