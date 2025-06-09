@@ -12,9 +12,9 @@
 
 * Eletricidade e magnetismo - visão geral
 
-A área da física que busca entender os fundamentos por trás dos fenômenos elétricos e magnéticos, sendo a base para explicações de
-fenômenos naturais, como o campo magnético da terra, até aplicações na
-tecnologia como a eletrônica.
+A área da física que trata dos fundamentos dos fenômenos elétricos e
+magnéticos, sendo a base para a compreensão de diversos fenômenos, que
+vão desde os mais naturais como o campo magnético da terra, até aplicações na tecnologia, como a eletrônica.
 
 
 
@@ -291,7 +291,7 @@ iremos considerá-las sinônimos.
 
 * Eletrodinâmica
 
-Aqui começaremos a considerar as cargtas elétricas em movimento.
+Aqui começaremos a considerar as cargtas elétricas em movimento. 
 
 
 #+BEGIN_EXPORT html

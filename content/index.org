@@ -51,7 +51,9 @@ Sugestões dos alunos serão sempre bem-vindas.
 
 - [[https://github.com/juiusu/fisica-em-resumos.git][Projeto completo no Git-Hub]]   
 
-- [[file:banco-de-imagens-completo.org][Imagens usadas]] 
+- [[file:banco-de-imagens-completo.org][Imagens usadas]]
+
+- [[file:banco-questoes-fisica-em.org][banco de questões]]
 ---------------------------------------------------------------------
 
 

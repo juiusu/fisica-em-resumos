@@ -36,13 +36,13 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-org8784023" class="outline-2">
-<h2 id="org8784023">Pré-física</h2>
-<div class="outline-text-2" id="text-org8784023">
+<div id="outline-container-org3d813cc" class="outline-2">
+<h2 id="org3d813cc">Pré-física</h2>
+<div class="outline-text-2" id="text-org3d813cc">
 </div>
-<div id="outline-container-org50ffe66" class="outline-3">
-<h3 id="org50ffe66">Grandezas e Unidades de Medida</h3>
-<div class="outline-text-3" id="text-org50ffe66">
+<div id="outline-container-org23fe03b" class="outline-3">
+<h3 id="org23fe03b">Grandezas e Unidades de Medida</h3>
+<div class="outline-text-3" id="text-org23fe03b">
 <p>
 As grandezas físicas são conceitos aos quais podemos atribuir valores
 numéricos, enquanto que as unidades de medida são padrões de medida
@@ -110,9 +110,9 @@ Na tabela abaixo estão algumas grandezas físicas com correspondentes unidades 
 </div>
 </div>
 
-<div id="outline-container-org2c993cd" class="outline-3">
-<h3 id="org2c993cd">Equações</h3>
-<div class="outline-text-3" id="text-org2c993cd">
+<div id="outline-container-org1f91bf1" class="outline-3">
+<h3 id="org1f91bf1">Equações</h3>
+<div class="outline-text-3" id="text-org1f91bf1">
 <p>
 As equações na física são relações matemáticas entre
 grandezas. Considere os seguintes dados de uma substância hipotética:
@@ -197,9 +197,9 @@ Com dois valores conhecidos, podemos calcular o terceiro.
 </div>
 </div>
 
-<div id="outline-container-org652028c" class="outline-3">
-<h3 id="org652028c">Gráficos</h3>
-<div class="outline-text-3" id="text-org652028c">
+<div id="outline-container-orgc695f50" class="outline-3">
+<h3 id="orgc695f50">Gráficos</h3>
+<div class="outline-text-3" id="text-orgc695f50">
 <p>
 Gráficos são ferramentas visuais importantes para representar dados e relações entre grandezas físicas. Eles ajudam a identificar padrões e tendências.
 </p>
@@ -268,9 +268,9 @@ Podem ser representados pela figura
 </div>
 </div>
 
-<div id="outline-container-org934f0d2" class="outline-3">
-<h3 id="org934f0d2">Grandezas diretamente proporcionais e grandezas inversamente proporcionais</h3>
-<div class="outline-text-3" id="text-org934f0d2">
+<div id="outline-container-org2c90e78" class="outline-3">
+<h3 id="org2c90e78">Grandezas diretamente proporcionais e grandezas inversamente proporcionais</h3>
+<div class="outline-text-3" id="text-org2c90e78">
 <p>
 Grandezas proporcionais são grandezas que crescem (ou descressem) na
 mesma proporção. Ou seja, se uma delas dobra o seu valor, a outra
@@ -440,17 +440,17 @@ e
 
 
 
-<div id="outline-container-orgfa922f6" class="outline-3">
-<h3 id="orgfa922f6">Revisões de tópicos de matemática básica</h3>
-<div class="outline-text-3" id="text-orgfa922f6">
+<div id="outline-container-org3b19a30" class="outline-3">
+<h3 id="org3b19a30">Revisões de tópicos de matemática básica</h3>
+<div class="outline-text-3" id="text-org3b19a30">
 </div>
-<div id="outline-container-org8b7e636" class="outline-4">
-<h4 id="org8b7e636">Operações com frações</h4>
-<div class="outline-text-4" id="text-org8b7e636">
+<div id="outline-container-orgb54d112" class="outline-4">
+<h4 id="orgb54d112">Operações com frações</h4>
+<div class="outline-text-4" id="text-orgb54d112">
 </div>
 <ul class="org-ul">
-<li><a id="org67b9d20"></a>Soma de frações<br />
-<div class="outline-text-5" id="text-org67b9d20">
+<li><a id="org506736e"></a>Soma de frações<br />
+<div class="outline-text-5" id="text-org506736e">
 <p>
 Para somar frações precisamos de um múltiplo comum. Em geral,
 escolhemos o Mínimo Múltiplo Comum (m.m.c). Exemplo:
@@ -462,8 +462,8 @@ escolhemos o Mínimo Múltiplo Comum (m.m.c). Exemplo:
 </div>
 </li>
 
-<li><a id="orge4eb817"></a>subtração de frações<br />
-<div class="outline-text-5" id="text-orge4eb817">
+<li><a id="org4510389"></a>subtração de frações<br />
+<div class="outline-text-5" id="text-org4510389">
 <p>
 A subtração é análoga.
 </p>
@@ -474,16 +474,16 @@ A subtração é análoga.
 </div>
 </li>
 
-<li><a id="org76e1054"></a>Multiplicação de frações<br />
-<div class="outline-text-5" id="text-org76e1054">
+<li><a id="orgb138f41"></a>Multiplicação de frações<br />
+<div class="outline-text-5" id="text-orgb138f41">
 <p>
 \[\frac{3}{2}\cdot \frac{2}{3} = \frac {3\cdot 2}{2\cdot 3} = \frac{6}{6}=1\]
 </p>
 </div>
 </li>
 
-<li><a id="org775fe24"></a>Divição de frações<br />
-<div class="outline-text-5" id="text-org775fe24">
+<li><a id="org6119fe3"></a>Divição de frações<br />
+<div class="outline-text-5" id="text-org6119fe3">
 <p>
 \[ \frac{3}{4}:\frac{6}{2} = \frac{3}{4}\cdot\frac{2}{6}  =
 \frac{1}{4}\cdot\frac{2}{2} = \frac{1}{4} \]

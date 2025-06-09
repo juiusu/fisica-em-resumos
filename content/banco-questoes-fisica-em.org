@@ -1,0 +1,1925 @@
+#+TITLE: Banco de questões de física nível médio
+#+DATE: 2025
+#+OPTIONS: toc:1
+#+AUTHOR: Joilson Silva Porto
+#+EMAIL: joilson.porto@ifam.edu.br
+
+
+** Dados
+
+Para as questões abaixo, considere a aceleração da gravidade:
+
+\[g = 10 m/s^2\]
+
+
+** Prensa hidráulica - princípio de Pascal
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+ FÍGURA 1: Prensa hidráulica, com embolo de área menor à esquerda, e maior à direita. Questões: 1 a 2.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Working_principle_of_a_hydraulic_jack.svg"
+       alt="prensa-hidraulica-1"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Working_principle_of_a_hydraulic_jack.svg">Olivier Cleynen</a>, CC0, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+*** Questão 1
+:PROPERTIES:
+:imagem: wikimedia
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: prensa_hidraulica, energia, deslocamento
+:END:
+
+
+Sabendo que a área do êmbolo pequeno é de \(0,01 m^2\) e a do êmbolo grande é de \(1,00 m^2\), qual deve ser a força mínima aplicada no êmbolo menor para levantar um carro de 1000 kg?
+
+
+#+BEGIN_EXPORT html
+a) 10 N &nbsp;&nbsp;&nbsp;  b) 100 N&nbsp; &nbsp;&nbsp; c) 1000 N&nbsp; &nbsp;&nbsp; d) 50 N &nbsp; &nbsp;&nbsp; e) 200 N 
+#+END_EXPORT
+
+*** Questão 2
+:PROPERTIES:
+:imagem: wikimedia
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: prensa_hidraulica, pascal
+:END:
+
+Suponha que a prensa hidráulica da FÍGURA 1 possui êmbolos circulares,
+o menor de raio \( 5\,cm \), e o maior de raio \( 50\,cm \). Um carro de massa \( 1500\,kg \) é colocado sobre o êmbolo maior. Qual deve ser a força mínima aplicada no êmbolo menor para equilibrar o sistema?
+
+
+#+BEGIN_EXPORT html
+a) 50 N      b) 100 N     c) 150 N     d) 250 N     e) 400 N
+#+END_EXPORT
+
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+  FÍGURA 2: Prensa hideáulica com seringas.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Hydraulic_transmission_between_two_syringes.svg"
+       alt="prensa-seringas"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Hydraulic_transmission_between_two_syringes.svg">MikeRun</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+*** Questão 3
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: prensa_hidraulica, pascal
+:END:
+
+Na imagem, dois êmbolos estão ligados por um tubo contendo fluido. Sabendo que a área do êmbolo menor é \( A_1 = 2\,cm^2 \) e a do êmbolo maior é \( A_2 = 10\,cm^2 \), determine a força \( F_2 \) gerada no êmbolo maior quando se aplica uma força \( F_1 = 40\,N \) no êmbolo menor.
+
+#+BEGIN_EXPORT html
+a) 100 N    b) 150 N    c) 200 N    d) 250 N    e) 300 N
+#+END_EXPORT
+
+*** Questão 4
+:PROPERTIES:
+:origem: banco-criado
+:tipo: discursiva
+:nivel: medio
+:tag: prensa_hidraulica, energia, deslocamento
+:END:
+
+Explique por que, em sistemas hidráulicos como o da imagem, se consegue aplicar uma força pequena e obter uma força grande. Que variável é "sacrificada" no processo?
+
+
+*** Questão 5
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: prensa_hidraulica, deslocamento, volume
+:END:
+
+Considere que a área do êmbolo pequeno é \( A_1 = 3\,cm^2 \), a área do êmbolo maior é \( A_2 = 9\,cm^2 \) e o deslocamento do êmbolo maior é \( s_2 = 2\,cm \). Qual deve ser o deslocamento \( s_1 \) do êmbolo menor para que o volume de fluido deslocado seja o mesmo?
+
+#+BEGIN_EXPORT html
+a) 3 cm    b) 4 cm    c) 5 cm    d) 6 cm    e) 7 cm
+#+END_EXPORT
+
+
+*** Questão 6
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: prensa_hidraulica, deslocamento, volume
+:END:
+
+Em um sistema hidráulico, o êmbolo menor se desloca \( 12\,cm \) quando comprimido. Sabendo que sua área é \( A_1 = 2\,cm^2 \) e a do êmbolo maior é \( A_2 = 8\,cm^2 \), determine o deslocamento \( s_2 \) do êmbolo maior.
+
+#+BEGIN_EXPORT html
+a) 2 cm    b) 3 cm    c) 4 cm    d) 5 cm    e) 6 cm
+#+END_EXPORT
+
+
+
+
+** Força de empuxo - princípio de Arquimedes
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+ FÍGURA 3: 
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Floating-and-sinking-2.svg"
+       alt="prensa-hidraulica-1"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Floating-and-sinking-2.svg">MikeRun</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+*** Questão 1 - Sobre Figura 3
+
+
+Na imagem, o primeiro corpo (da esquerda para a direita) afunda no líquido. Isso ocorre porque:
+
+A) Ele possui densidade menor que a do líquido.  
+
+B) A força de empuxo é maior que o peso.  
+
+C) A força peso é maior que o empuxo. 
+
+D) Ele está em equilíbrio neutro.
+
+*** Questão 2 - Sobre Figura 3
+
+No segundo corpo da esquerda para a direita, temos:
+
+A) Um corpo que irá subir, pois o empuxo é maior que o peso.  
+
+B) Um corpo em queda acelerada, pois o peso é maior.  
+
+C) Um corpo em equilíbrio, pois o empuxo e o peso se anulam.  
+
+D) Um corpo em flutuação total.
+
+*** Questão 3 - Sobre Figura 3
+Quando a força de empuxo é maior que a força peso, o corpo:
+
+A) Afunda lentamente.  
+
+B) Fica totalmente submerso.  
+
+C) Fica em repouso no fundo.  
+
+D) Sobe até atingir equilíbrio na superfície.
+
+
+*** Questão 4
+Na última situação (corpo fora da água com empuxo equilibrando o peso), podemos concluir que:
+
+A) O corpo é mais denso que o líquido.  
+
+B) O corpo está completamente submerso.  
+
+C) O corpo está flutuando com parte fora da água e está em equilíbrio.  
+
+D) O empuxo é menor que o peso.
+
+
+*** Questão 5
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: empuxo, hidrostática, densidade
+:END:
+
+Calcule o volume de água deslocado por um corpo de \( 10.000\,kg \), sabendo que a força de empuxo e a força peso sobre ele estão em equilíbrio. Dado: densidade da água = \( 1000\,kg/m^3 \).
+
+#+BEGIN_EXPORT html
+a) 5 m³    b) 10 m³    c) 15 m³    d) 20 m³    e) 25 m³
+#+END_EXPORT
+
+
+*** Questão 6
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: empuxo, densidade, hidrostática
+:END:
+
+Na última situação da imagem, considere que o corpo está em equilíbrio com \( \frac{2}{3} \) do seu volume submerso. Sabendo que a densidade do líquido é \( 1{,}0\,g/cm^3 \), qual é a densidade do corpo?
+
+#+BEGIN_EXPORT html
+a) 0,50 g/cm³    b) 0,67 g/cm³    c) 1,00 g/cm³    d) 1,50 g/cm³    e) 2,00 g/cm³
+#+END_EXPORT
+
+
+
+*** Questão 7
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: empuxo, prensa_hidraulica, pascal, hidrostática
+:END:
+
+Analise as afirmações a seguir e classifique-as como **verdadeiras (V)** ou **falsas (F)**:
+
+(   ) O empuxo é uma força resultante da diferença de pressão entre o
+topo e a base de um corpo submerso em um fluido.
+
+(   ) Em uma prensa hidráulica, a força aplicada no êmbolo menor é
+sempre igual à força exercida no êmbolo maior.
+
+(   ) O Princípio de Pascal afirma que uma variação de pressão em um
+ponto de um fluido em repouso é transmitida igualmente a todos os
+pontos do fluido.
+
+(   ) Um corpo flutua quando sua densidade é maior do que a do líquido
+em que está imerso.
+
+(   ) A área dos êmbolos não interfere na multiplicação de força em
+sistemas hidráulicos, apenas a pressão importa.
+
+
+#+BEGIN_EXPORT html
+a) V - F - V - F - F    b) V - V - V - F - V    c) V - F - V - V - F    d) F - F - V - V - F    e) V - V - V - V - V
+#+END_EXPORT
+
+
+*** Questão 8
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: empuxo, prensa_hidraulica, pascal, pressão
+:END:
+
+Classifique as afirmações a seguir como **verdadeiras (V)** ou **falsas (F)**:
+
+(   ) A pressão exercida por um líquido em repouso aumenta com a
+profundidade.
+
+(   ) Em uma prensa hidráulica, uma pequena força pode levantar
+grandes massas se aplicada sobre uma área menor.
+
+(   ) O empuxo depende apenas da massa do objeto submerso.
+
+(   ) Se um corpo está flutuando, o empuxo é igual ao peso do volume
+total do líquido deslocado.
+
+(   ) O princípio de Pascal é aplicado apenas em gases, não em
+líquidos.
+
+
+#+BEGIN_EXPORT html
+a) V - V - F - V - F    b) V - F - V - V - F    c) V - V - V - F - V    d) F - V - F - V - F    e) V - V - F - F - F
+#+END_EXPORT
+
+
+*** Questão 9
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: dificil
+:tag: empuxo, hidrostática, densidade, comparação
+:END:
+
+Um bloco maciço de mesmo volume é lançado em dois recipientes distintos: um contendo água (\( \rho = 1000\,kg/m^3 \)) e outro contendo glicerina (\( \rho = 1260\,kg/m^3 \)). Sabendo que o bloco afunda nos dois líquidos e que está totalmente submerso, qual das afirmações é correta?
+
+
+a) O empuxo é maior na água, pois o volume deslocado é maior.
+
+b) O empuxo é o mesmo em ambos, pois o volume do corpo é constante.
+
+c) O empuxo é maior na glicerina, pois sua densidade é maior.
+
+d) O empuxo depende apenas da massa do bloco, não do líquido.
+
+e) O empuxo é menor na glicerina, pois é mais densa.
+
+
+
+*** Questão 10
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: empuxo, hidrostática, densidade, cálculo
+:END:
+
+Um corpo de massa \( 6\,kg \) flutua em equilíbrio em um líquido de densidade \( 0{,}75\,g/cm^3 \), com \( 80\% \) de seu volume submerso. Considerando \( g = 10\,m/s^2 \), qual é o volume total do corpo?
+
+Dado: \( 1\,g/cm^3 = 1000\,kg/m^3 \)
+
+#+BEGIN_EXPORT html
+a) 0,008 m³    b) 0,010 m³    c) 0,012 m³    d) 0,016 m³    e) 0,020 m³
+#+END_EXPORT
+
+
+** Conceito de temperatura
+
+*** Questão 1
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: temperatura, conceito, microscópico
+:END:
+
+Qual das alternativas expressa corretamente o conceito de temperatura do ponto de vista microscópico?
+
+
+a) Temperatura é a quantidade de calor que um corpo possui.
+
+b) Temperatura está relacionada à energia potencial total das
+moléculas.
+
+c) Temperatura mede o grau de agitação das partículas que compõem um
+corpo.
+
+d) Temperatura é a força que o corpo exerce ao trocar calor.
+
+*** Questão 2
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: temperatura, energia_cinetica, microscópico
+:END:
+
+Quando dizemos que um corpo está com temperatura elevada, o que isso significa em termos moleculares?
+
+
+a) As moléculas estão com maior massa.
+
+b) As moléculas estão mais agitadas, com maior energia cinética média.
+
+c) O corpo tem mais calor acumulado.
+
+d) As moléculas estão mais próximas umas das outras.
+
+*** Questão 3
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: temperatura, energia_cinetica, equilíbrio
+:END:
+
+Dois corpos possuem a mesma temperatura. Podemos afirmar que:
+
+
+a) Eles possuem a mesma quantidade de calor.
+
+b) Suas moléculas estão paradas.
+
+c) Suas moléculas têm, em média, a mesma energia cinética.
+
+d) Eles têm a mesma massa e volume.
+
+
+** Escalas de temperatura
+
+*** Questão 1
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: temperatura, conversão, kelvin
+:END:
+
+Qual é a temperatura de \( 25^\circ C \) expressa na escala Kelvin?
+
+#+BEGIN_EXPORT html
+a) 248 K    b) 273 K    c) 298 K    d) 310 K
+#+END_EXPORT
+
+*** Questão 2
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: temperatura, conversão, celsius
+:END:
+
+Uma amostra de gás está a \( 300\,K \). Qual é a temperatura equivalente na escala Celsius?
+
+#+BEGIN_EXPORT html
+a) 27 ºC    b) 0 ºC    c) 37 ºC    d) 100 ºC
+#+END_EXPORT
+
+*** Questão 3
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: temperatura, conversão, fahrenheit
+:END:
+
+Qual é a temperatura correspondente a \( 0^\circ C \) na escala Fahrenheit?
+
+#+BEGIN_EXPORT html
+a) 32 ºF    b) 0 ºF    c) 100 ºF    d) 273 ºF
+#+END_EXPORT
+
+*** Questão 4
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: temperatura, conversão, fahrenheit
+:END:
+
+A temperatura de ebulição da água ao nível do mar é de \( 100^\circ C \). Qual é o valor correspondente na escala Fahrenheit?
+
+#+BEGIN_EXPORT html
+a) 100 ºF    b) 180 ºF    c) 212 ºF    d) 373 ºF
+#+END_EXPORT
+
+*** Questão 5
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: temperatura, conversão, fahrenheit
+:END:
+
+Uma temperatura de \( 20^\circ C \) equivale a quantos ºF?
+
+#+BEGIN_EXPORT html
+a) 36 ºF    b) 52 ºF    c) 68 ºF    d) 77 ºF
+#+END_EXPORT
+
+** Dilatação térmica
+
+
+*** Questão 1
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: dilatacao_termica, temperatura, comprimento
+:END:
+
+Uma barra metálica de \( 1{,}0\,m \) de comprimento é aquecida de \( 20^\circ C \) para \( 70^\circ C \). Sabendo que o coeficiente de dilatação linear do material é \( 20 \times 10^{-6}\,^\circ C^{-1} \), qual será o aumento no comprimento da barra?
+
+#+BEGIN_EXPORT html
+a) 0,0010 m    b) 0,0015 m    c) 0,0020 m    d) 0,0030 m    e) 0,0050 m
+#+END_EXPORT
+
+*** Questão 2
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: dificil
+:tag: dilatacao_termica, comparacao, conceito
+:END:
+
+Três barras metálicas de mesmo material e diferentes comprimentos são submetidas à mesma variação de temperatura. A barra A tem \( 1\,m \), a barra B tem \( 2\,m \), e a barra C tem \( 3\,m \). Sobre o aumento de comprimento (\( \Delta L \)) de cada barra, podemos afirmar que:
+
+
+a) Todas as barras se dilatam igualmente.
+
+b) A barra C se dilata três vezes mais que a A.
+
+c) A barra B se dilata menos que a A.
+
+d) O aumento de comprimento é inversamente proporcional ao comprimento
+inicial.
+
+e) Nenhuma das barras sofre dilatação, pois o material é o mesmo.
+
+
+*** Questão 3
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: dificil
+:tag: dilatacao_termica, anel, conceito, interpretacao
+:END:
+
+Um anel metálico possui um furo circular em seu centro. O anel é aquecido uniformemente. Considerando os efeitos da dilatação térmica, o que acontece com o diâmetro do furo durante o aquecimento?
+
+
+a) O furo diminui, pois o material se expande para dentro.
+
+b) O furo permanece com o mesmo diâmetro.
+
+c) O furo aumenta, pois se comporta como se fosse feito do mesmo
+material.
+
+d) O furo se fecha completamente.
+
+e) O diâmetro do furo só aumenta se o anel for oco por completo.
+
+
+*** Questão 4
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: dificil
+:tag: dilatacao_termica, ajuste, conceito, raciocinio
+:END:
+
+Um cilindro metálico de raio ligeiramente maior que o raio interno de um anel metálico deve ser encaixado dentro desse anel. Ambos são feitos de metais diferentes, com coeficientes de dilatação linear \( \alpha_{\text{anel}} > \alpha_{\text{cilindro}} \). Qual procedimento garante o encaixe sem deformação permanente?
+
+
+a) Aquecer apenas o anel, fazendo com que seu raio interno aumente
+mais que o do cilindro.
+
+b) Resfriar apenas o anel, para que ele contraia e encaixe o cilindro
+com mais firmeza.
+
+c) Aquecer apenas o cilindro, para que ele se expanda e entre sob
+pressão no anel.
+
+d) Aquecer ambos igualmente, pois o material do cilindro dilata menos.
+
+e) Resfriar ambos igualmente para que se contraiam ao mesmo tempo.
+
+
+*** Questão 5
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: dificil
+:tag: dilatacao_termica, linear, comparacao, interpretacao
+:END:
+
+Duas barras metálicas de mesmo comprimento inicial são feitas de materiais diferentes e submetidas a diferentes variações de temperatura:
+
+- A barra 1 tem coeficiente de dilatação linear \( \alpha_1 = 2 \times 10^{-5}\,^\circ C^{-1} \) e é aquecida de \( 20^\circ C \) para \( 120^\circ C \).
+- A barra 2 tem coeficiente \( \alpha_2 = 4 \times 10^{-5}\,^\circ C^{-1} \) e é aquecida de \( 20^\circ C \) para \( 70^\circ C \).
+
+Qual barra sofre maior aumento de comprimento?
+
+
+a) A barra 1, pois a variação de temperatura é maior.
+
+b) A barra 2, pois o coeficiente de dilatação é maior.
+
+c) Ambas se dilatam igualmente.
+
+d) A barra 2, pois seu produto \( \alpha \cdot \Delta T \) é maior.
+
+e) Não é possível saber sem o comprimento inicial.
+
+** Transferência de calor
+
+*** Questão 1
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: condução, transferencia_calor, termologia
+:END:
+
+Classifique as afirmações abaixo como **verdadeiras (V)** ou **falsas (F)**:
+
+(   ) A condução térmica é o modo de transferência de calor que ocorre
+predominantemente em sólidos.
+
+(   ) Durante a condução, o calor se propaga com o transporte de
+matéria.
+
+(   ) O calor sempre flui espontaneamente do corpo de menor
+temperatura para o de maior temperatura.
+
+(   ) O cobre conduz calor melhor que a madeira.
+
+(   ) Materiais isolantes térmicos são aqueles que impedem totalmente
+a condução de calor.
+
+
+#+BEGIN_EXPORT html
+a) V - F - F - V - F    b) V - V - F - V - V    c) V - F - V - V - F    d) F - F - V - V - V    e) V - F - V - F - F
+#+END_EXPORT
+
+
+*** Questão 2
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: conveccao, transferencia_calor, fluidos
+:END:
+
+Classifique como **verdadeiras (V)** ou **falsas (F)** as afirmações a seguir sobre convecção térmica:
+
+(   ) A convecção ocorre apenas em líquidos.
+
+(   ) A movimentação de massas de fluido é essencial para a convecção.
+
+(   ) A convecção natural ocorre sem a ação de dispositivos mecânicos.  
+
+(   ) O vento é um exemplo de convecção forçada.  
+
+(   ) Um sólido pode transferir calor por convecção.
+
+#+BEGIN_EXPORT html
+a) F - V - V - V - F    b) V - V - F - F - F    c) F - F - V - V - F    d) V - V - V - F - V    e) F - V - V - F - F
+#+END_EXPORT
+
+*** Questão 3
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: conveccao, aplicacoes, termologia
+:END:
+
+Analise as afirmações a seguir sobre aplicações de convecção térmica:
+
+
+(   ) Em uma geladeira, o ar frio desce e o ar quente sobe devido à convecção.  
+
+(   ) O aquecimento da água em uma panela é exemplo de convecção natural.  
+
+(   ) O radiador de um carro aquece o motor por convecção.  
+
+(   ) O ar-condicionado deve ser instalado próximo ao teto por causa do movimento do ar quente.  
+
+(   ) A convecção não depende da diferença de temperatura.
+
+#+BEGIN_EXPORT html
+a) V - V - F - V - F    b) F - V - V - F - F    c) V - F - F - V - V    d) V - V - V - V - F    e) F - V - F - F - V
+#+END_EXPORT
+
+*** Questão 4
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: radiacao_termica, termologia, calor
+:END:
+
+Classifique as afirmações abaixo como **verdadeiras (V)** ou **falsas (F)**:
+
+(   ) A radiação térmica não necessita de meio material para ocorrer.  
+
+(   ) A radiação térmica ocorre somente em corpos muito quentes.  
+
+(   ) Corpos escuros absorvem melhor a radiação térmica que corpos claros.  
+
+(   ) O vácuo impede a condução e a convecção, mas permite a radiação.  
+
+(   ) A radiação térmica só ocorre no estado gasoso.
+
+#+BEGIN_EXPORT html
+a) V - F - V - V - F    b) V - V - F - V - F    c) F - V - V - F - F    d) V - F - F - V - V    e) V - F - V - F - F
+#+END_EXPORT
+
+*** Questão 5
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: radiacao_termica, emissividade, absorcao
+:END:
+
+Analise as afirmações a seguir sobre emissão e absorção de radiação térmica:
+
+(   ) Todos os corpos emitem radiação térmica, independentemente da sua temperatura.  
+
+(   ) Superfícies metálicas e polidas são boas emissoras de calor.  
+
+(   ) A radiação solar é uma forma de radiação térmica.  
+
+(   ) Um corpo escuro e rugoso é, em geral, melhor absorvedor de radiação.  
+
+(   ) Em equilíbrio térmico, um corpo emite e absorve radiação na mesma taxa.
+
+#+BEGIN_EXPORT html
+a) F - V - F - V - V    b) V - F - V - V - V    c) V - V - F - F - V    d) F - F - V - V - F    e) V - F - V - F - F
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+  FIGURA 4: Emissão de infra vermelho por um cachorro. 
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Infrared_dog.jpg"
+       alt="infrared_dog.jpg"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Infrared_dog.jpg">NASA/IPAC</a>, Public domain, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
+#+END_EXPORT
+
+*** Questão 6 - Figura 4
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: radiacao_termica, imagem_termica, infravermelho
+:END:
+
+Analise as afirmações com base na imagem de infravermelho do cachorro:
+
+(   ) As regiões mais claras da imagem indicam áreas que emitem mais radiação térmica.  
+
+(   ) A câmera térmica capta a temperatura através de contato direto com o corpo do animal.  
+
+(   ) As orelhas do cachorro aparecem mais quentes que o focinho.  
+
+(   ) A radiação infravermelha é invisível ao olho humano.  
+
+(   ) A imagem representa a condução de calor entre as partes do corpo do cachorro.
+
+#+BEGIN_EXPORT html
+a) V - F - F - V - F    b) V - V - V - F - F    c) V - F - V - V - F    d) F - V - V - F - V    e) V - F - F - V - V
+#+END_EXPORT
+
+*** Questão 7 - Figura 4
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: radiacao_termica, temperatura, interpretacao
+:END:
+
+Com base na imagem e no fenômeno da radiação térmica, julgue as afirmações a seguir:
+
+(   ) A radiação térmica emitida depende da temperatura da superfície do corpo.  
+
+(   ) Partes do corpo com maior irrigação sanguínea tendem a aparecer mais quentes.  
+
+(   ) A escala de cores representa diretamente o tipo de material do corpo.  
+
+(   ) Corpos mais quentes emitem mais radiação infravermelha.  
+
+(   ) A imagem mostra transferência de calor por convecção.
+
+#+BEGIN_EXPORT html
+a) V - V - F - V - F    b) F - V - V - F - F    c) V - F - V - V - V    d) V - V - V - F - F    e) V - V - F - V - V
+#+END_EXPORT
+
+
+
+** Carga elétrica
+
+*** Questão 1
+:PROPERTIES:
+:origem: banco-criado
+:tipo: discursiva
+:nivel: facil
+:tag: carga_eletrica, particulas, atomo
+:END:
+
+a) Quais são as partículas básicas que constituem a matéria?
+
+b) Explique por que um átomo é eletricamente neutro em condições normais.
+
+c) Explique por que, em um átomo, os elétrons são as partículas que orbitam o núcleo, e não os prótons?
+
+*** Questão 2
+:PROPERTIES:
+:origem: banco-criado
+:tipo: discursiva
+:nivel: facil
+:tag: carga_eletrica, ionizacao, atomo
+:END:
+
+a) O que deve acontecer para que um átomo fique com carga \(+e\)?
+
+b) O que deve acontecer para que um átomo fique com carga \(-3e\)?
+
+*** Questão 3
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: carga_eletrica, calculo, coulomb
+:END:
+
+a) Calcule a carga elétrica total (em Coulombs) de um objeto que possui \(3 \times 10^{12}\) elétrons.
+
+b) Quantos elétrons precisam ser removidos de um corpo neutro para que ele adquira uma carga de \(+4{,}8 \times 10^{-12}\,C\)?
+
+*** Questão 4
+:PROPERTIES:
+:imagem: local
+:origem: UEA-SIS-2014
+:tipo: objetiva
+:nivel: medio
+:tag: carga_eletrica, vestibular
+:END:
+
+[Questão com imagem do arquivo uea-sis3-2014-1.png - necessária conversão da imagem]
+
+** Condutores e isolantes
+
+*** Questão 1
+:PROPERTIES:
+:origem: banco-criado
+:tipo: discursiva
+:nivel: facil
+:tag: condutores, isolantes, mobilidade_cargas
+:END:
+
+a) Explique, em termos da mobilidade das cargas elétricas, o que diferencia um condutor de um isolante.
+
+b) Cite dois exemplos de materiais condutores, e dois exemplos de materiais isolantes.
+
+*** Questão 2
+:PROPERTIES:
+:origem: banco-criado
+:tipo: discursiva
+:nivel: medio
+:tag: condutores, agua, ar, empirico
+:END:
+
+a) A água pura (água destilada) é um bom condutor de eletricidade? E a água comum (encontrada na natureza)? Justifique.
+
+b) O ar é um isolante ou um condutor de eletricidade? Justifique sua resposta a partir de uma observação empírica.
+
+*** Questão 3
+:PROPERTIES:
+:origem: banco-criado
+:tipo: discursiva
+:nivel: medio
+:tag: carga_eletrica, carga_liquida, neutralidade
+:END:
+
+Todos os objetos são formados por partículas com carga elétrica (prótons e elétrons). No entanto, a carga líquida de um objeto depende do balanço entre essas cargas. Explique como um objeto pode ter carga líquida nula, positiva ou negativa, utilizando exemplos.
+
+** Processos de eletrização
+
+*** Questão 1
+:PROPERTIES:
+:origem: banco-criado
+:tipo: discursiva
+:nivel: facil
+:tag: eletrizacao, atrito, transferencia_eletrons
+:END:
+
+a) Explique o que acontece com os elétrons quando dois materiais diferentes são atritados. Por que um corpo fica carregado positivamente e o outro negativamente?
+
+b) Dê dois exemplos práticos de eletrização por atrito e descreva como ocorre a transferência de elétrons em cada caso.
+
+*** Questão 2
+:PROPERTIES:
+:origem: banco-criado
+:tipo: discursiva
+:nivel: medio
+:tag: eletrizacao, contato, distribuicao_cargas
+:END:
+
+a) Se uma esfera metálica carregada negativamente tocar outra esfera idêntica neutra, qual será a carga final de cada uma? Justifique sua resposta.
+
+b) Duas esferas idênticas têm cargas, respectivamente, \(+10\,C\) e \(-5\,C\). Ao tocar essas duas esferas, qual será a carga final de cada uma? Justifique sua resposta.
+
+*** Questão 3
+:PROPERTIES:
+:imagem: local
+:origem: UEA-SIS-2018
+:tipo: objetiva
+:nivel: medio
+:tag: eletrizacao, vestibular
+:END:
+
+[Questão com imagem do arquivo uea-sis3-2018.png - necessária conversão da imagem]
+
+*** Questão 4
+:PROPERTIES:
+:imagem: local
+:origem: UEA-SIS-2016
+:tipo: objetiva
+:nivel: medio
+:tag: eletrizacao, vestibular
+:END:
+
+[Questão com imagem do arquivo uea-sis3-2016.png - necessária conversão da imagem]
+
+*** Questão 5
+:PROPERTIES:
+:imagem: local
+:origem: UEA-SIS-2014
+:tipo: objetiva
+:nivel: medio
+:tag: eletrizacao, vestibular
+:END:
+
+[Questão com imagem do arquivo uea-sis3-2014.png - necessária conversão da imagem]
+
+*** Questão 6
+:PROPERTIES:
+:imagem: local
+:origem: UEA-SIS-2019
+:tipo: objetiva
+:nivel: medio
+:tag: eletrizacao, vestibular
+:END:
+
+[Questão com imagem do arquivo uea-sis3-2019.png - necessária conversão da imagem]
+
+** Força elétrica
+
+*** Questão 1
+:PROPERTIES:
+:origem: banco-criado
+:tipo: discursiva
+:nivel: facil
+:tag: forca_eletrica, coulomb, atracao_repulsao
+:END:
+
+Imagine que dois objetos com cargas, respectivamente, \(q_1\) e \(q_2\) estão separados por uma distância \(d\).
+
+a) Se \(q_1 > 0\) e \(q_2 > 0\), a força será de atração ou repulsão?
+
+b) Se \(q_1 > 0\) e \(q_2 < 0\), a força será de atração ou repulsão?
+
+c) Se \(q_1 < 0\) e \(q_2 > 0\), a força será de atração ou repulsão?
+
+d) Se \(q_1 < 0\) e \(q_2 < 0\), a força será de atração ou repulsão?
+
+e) O que acontecerá com a força se a carga \(q_1\) for dobrada?
+
+f) O que acontecerá com a força se a carga \(q_2\) for triplicada?
+
+g) O que acontecerá com a força se a distância for dobrada?
+
+h) O que acontecerá com a força se a distância for triplicada?
+
+*** Questão 2
+:PROPERTIES:
+:origem: banco-criado
+:tipo: discursiva
+:nivel: dificil
+:tag: forca_eletrica, forca_gravitacional, comparacao, ordem_grandeza
+:END:
+
+Usando apenas ordem de grandeza para os valores necessários (exemplo \(9 \times 10^9 \sim 10^{10}\)), compare a força elétrica com a força gravitacional entre um próton e um elétron.
+
+*** Questão 3
+:PROPERTIES:
+:imagem: local
+:origem: UEA-SIS-2016
+:tipo: objetiva
+:nivel: medio
+:tag: forca_eletrica, vestibular
+:END:
+
+[Questão com imagem do arquivo uea-sis3-2016-1.png - necessária conversão da imagem]
+
+*** Questão 4
+:PROPERTIES:
+:imagem: local
+:origem: UEA-SIS-2019
+:tipo: objetiva
+:nivel: medio
+:tag: forca_eletrica, vestibular
+:END:
+
+[Questão com imagem dos arquivos uea-sis3-2019-2-part1.png e uea-sis3-2019-2-part2.png - necessária conversão das imagens]
+
+
+** Potencial elétrico
+
+*** Questão 1
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: potencial_eletrico, conceito, energia
+:END:
+
+O potencial elétrico em um ponto é definido como:
+
+#+BEGIN_EXPORT html
+a) A força elétrica por unidade de carga    b) A energia potencial por unidade de carga    c) A corrente elétrica por unidade de tempo    d) O campo elétrico por unidade de área    e) A resistência elétrica por unidade de comprimento
+#+END_EXPORT
+
+*** Questão 2
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: potencial_eletrico, unidade, volt
+:END:
+
+A unidade de medida padrão para o potencial elétrico é o Volt (V), que equivale a:
+
+#+BEGIN_EXPORT html
+a) Coulomb por segundo (C/s)    b) Joule por Coulomb (J/C)    c) Newton por metro (N/m)    d) Ampère por segundo (A/s)    e) Watt por Ampère (W/A)
+#+END_EXPORT
+
+*** Questão 3
+:PROPERTIES:
+:origem: banco-criado
+:tipo: discursiva
+:nivel: medio
+:tag: potencial_eletrico, tensao, diferenca_potencial
+:END:
+
+Explique a relação entre potencial elétrico, tensão elétrica e diferença de potencial elétrica. Por que essas grandezas são consideradas sinônimos para fins didáticos?
+
+*** Questão 4
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: potencial_eletrico, calculo, energia
+:END:
+
+Uma carga de \(2{,}0 \times 10^{-6}\,C\) possui energia potencial de \(4{,}0 \times 10^{-3}\,J\) em um determinado ponto. Qual é o potencial elétrico nesse ponto?
+
+#+BEGIN_EXPORT html
+a) 500 V    b) 1000 V    c) 1500 V    d) 2000 V    e) 2500 V
+#+END_EXPORT
+
+** Corrente elétrica
+
+*** Questão 1
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: corrente_eletrica, definicao, fluxo_cargas
+:END:
+
+A corrente elétrica é definida como:
+
+#+BEGIN_EXPORT html
+a) A quantidade total de cargas em um condutor    b) O fluxo orientado de carga elétrica em um condutor    c) A resistência de um material à passagem de cargas    d) A energia necessária para mover cargas elétricas    e) A força exercida entre cargas elétricas
+#+END_EXPORT
+
+*** Questão 2
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: corrente_eletrica, calculo, ampere
+:END:
+
+Se uma carga de \(15\,C\) atravessa a seção transversal de um condutor em \(3\,s\), qual é a corrente elétrica?
+
+#+BEGIN_EXPORT html
+a) 3 A    b) 5 A    c) 12 A    d) 18 A    e) 45 A
+#+END_EXPORT
+
+*** Questão 3
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: corrente_eletrica, sentido_convencional, eletrons
+:END:
+
+Sobre o sentido convencional da corrente elétrica, é correto afirmar que:
+
+#+BEGIN_EXPORT html
+a) É sempre o mesmo sentido do movimento dos elétrons    b) É o sentido que teriam cargas positivas se movendo    c) Depende do tipo de material condutor    d) É sempre da menor para a maior tensão    e) Não tem relação com o movimento de cargas
+#+END_EXPORT
+
+*** Questão 4
+:PROPERTIES:
+:origem: banco-criado
+:tipo: discursiva
+:nivel: medio
+:tag: corrente_eletrica, corrente_alternada, corrente_continua
+:END:
+
+Explique a diferença entre corrente contínua (CC) e corrente alternada (CA). Dê exemplos de dispositivos que utilizam cada tipo de corrente.
+
+*** Questão 5
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: corrente_eletrica, unidade, ampere
+:END:
+
+A unidade Ampère (A) equivale a:
+
+#+BEGIN_EXPORT html
+a) Joule por segundo (J/s)    b) Coulomb por segundo (C/s)    c) Volt por Ohm (V/Ω)    d) Watt por Volt (W/V)    e) Newton por Coulomb (N/C)
+#+END_EXPORT
+
+** Corrente, tensão e potência (Ampère, Volt e Watt)
+
+*** Questão 1
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: potencia, tensao, corrente, relacao
+:END:
+
+A potência elétrica pode ser calculada pela relação:
+
+#+BEGIN_EXPORT html
+a) P = U / I    b) P = U × I    c) P = U + I    d) P = U - I    e) P = I / U
+#+END_EXPORT
+
+*** Questão 2
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: potencia, calculo, watt
+:END:
+
+Um dispositivo elétrico opera com tensão de \(220\,V\) e corrente de \(2{,}5\,A\). Qual é a potência consumida?
+
+#+BEGIN_EXPORT html
+a) 88 W    b) 222,5 W    c) 440 W    d) 550 W    e) 880 W
+#+END_EXPORT
+
+*** Questão 3
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: unidades_eletricas, definicoes, grandezas
+:END:
+
+Analise as afirmações sobre as unidades elétricas e classifique-as como **verdadeiras (V)** ou **falsas (F)**:
+
+(   ) O Watt (W) é a unidade de potência e equivale a Joule por segundo (J/s).
+
+(   ) O Volt (V) é a unidade de tensão elétrica e equivale a Joule por Coulomb (J/C).
+
+(   ) O Ampère (A) é a unidade de corrente elétrica e equivale a Coulomb por segundo (C/s).
+
+(   ) O Hertz (Hz) mede a frequência e equivale a oscilações por segundo.
+
+(   ) O Coulomb (C) equivale aproximadamente a \(6{,}25 \times 10^{18}\) cargas elementares.
+
+#+BEGIN_EXPORT html
+a) V - V - V - V - V    b) V - V - V - V - F    c) V - V - V - F - V    d) V - F - V - V - V    e) F - V - V - V - V
+#+END_EXPORT
+
+*** Questão 4
+:PROPERTIES:
+:origem: banco-criado
+:tipo: discursiva
+:nivel: medio
+:tag: potencia, demonstracao, energia
+:END:
+
+Demonstre matematicamente que a potência elétrica \(P = U \times I\), partindo das definições de tensão (\(U = E/Q\)) e corrente (\(I = Q/t\)).
+
+*** Questão 5
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: dificil
+:tag: potencia, energia, tempo, calculo
+:END:
+
+Uma lâmpada de \(60\,W\) fica ligada por \(5\) horas. Qual é a energia consumida em kWh?
+
+#+BEGIN_EXPORT html
+a) 0,3 kWh    b) 0,5 kWh    c) 1,2 kWh    d) 3,0 kWh    e) 12 kWh
+#+END_EXPORT
+
+** Associações de componentes eletrônicos
+
+*** Questão 1
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: associacao_serie, corrente, tensao
+:END:
+
+Em uma associação em série de componentes eletrônicos:
+
+#+BEGIN_EXPORT html
+a) A corrente se divide e a tensão é a mesma    b) A corrente é a mesma e a tensão se divide    c) Tanto a corrente quanto a tensão se dividem    d) Tanto a corrente quanto a tensão são iguais    e) A corrente é nula e a tensão é máxima
+#+END_EXPORT
+
+*** Questão 2
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: associacao_paralelo, corrente, tensao
+:END:
+
+Em uma associação em paralelo de componentes eletrônicos:
+
+#+BEGIN_EXPORT html
+a) A corrente se divide e a tensão é a mesma    b) A corrente é a mesma e a tensão se divide    c) Tanto a corrente quanto a tensão se dividem    d) Tanto a corrente quanto a tensão são iguais    e) A tensão é nula e a corrente é máxima
+#+END_EXPORT
+
+*** Questão 3
+:PROPERTIES:
+:origem: banco-criado
+:tipo: discursiva
+:nivel: medio
+:tag: associacao_serie_paralelo, lampadas, comparacao
+:END:
+
+Compare o funcionamento de duas lâmpadas idênticas ligadas em série com o mesmo par de lâmpadas ligadas em paralelo a uma mesma fonte de tensão. Qual configuração produzirá maior brilho? Justifique sua resposta.
+
+*** Questão 4
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: associacao_serie, tensao_divisao, calculo
+:END:
+
+Duas lâmpadas estão ligadas em série a uma fonte de \(12\,V\). Se uma lâmpada tem tensão de \(4\,V\), qual é a tensão na outra lâmpada?
+
+#+BEGIN_EXPORT html
+a) 4 V    b) 6 V    c) 8 V    d) 12 V    e) 16 V
+#+END_EXPORT
+
+*** Questão 5
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: associacao_paralelo, corrente_divisao, calculo
+:END:
+
+Dois resistores estão ligados em paralelo. Se a corrente total é \(6\,A\) e um dos resistores conduz \(2\,A\), qual é a corrente no outro resistor?
+
+#+BEGIN_EXPORT html
+a) 2 A    b) 3 A    c) 4 A    d) 6 A    e) 8 A
+#+END_EXPORT
+
+** Resistores
+
+*** Questão 1
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: resistencia, definicao, propriedade
+:END:
+
+A resistência elétrica é:
+
+#+BEGIN_EXPORT html
+a) A capacidade de um material conduzir eletricidade    b) Uma propriedade dos condutores de resistir à passagem da corrente    c) A quantidade de energia armazenada em um circuito    d) A força exercida entre cargas elétricas    e) A velocidade de movimento dos elétrons
+#+END_EXPORT
+
+*** Questão 2
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: resistencia, unidade, ohm
+:END:
+
+A unidade de medida da resistência elétrica é o Ohm (Ω), que equivale a:
+
+#+BEGIN_EXPORT html
+a) Volt por Ampère (V/A)    b) Ampère por Volt (A/V)    c) Watt por Volt (W/V)    d) Joule por Coulomb (J/C)    e) Coulomb por segundo (C/s)
+#+END_EXPORT
+
+*** Questão 3
+:PROPERTIES:
+:origem: banco-criado
+:tipo: discursiva
+:nivel: facil
+:tag: resistores, aplicacoes, funcoes
+:END:
+
+Cite duas principais funções dos resistores em circuitos elétricos e explique como eles desempenham essas funções.
+
+*** Questão 4
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: lei_ohm, resistor_ohmico, proporcionalidade
+:END:
+
+Um resistor ôhmico é caracterizado por:
+
+#+BEGIN_EXPORT html
+a) Resistência que varia com a temperatura    b) Resistência constante e relação linear entre tensão e corrente    c) Capacidade de armazenar energia elétrica    d) Condutividade que aumenta com a corrente    e) Resistência que diminui com o tempo
+#+END_EXPORT
+
+*** Questão 5
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: resistor_nao_ohmico, temperatura, variacao
+:END:
+
+Resistores não ôhmicos são caracterizados por:
+
+#+BEGIN_EXPORT html
+a) Resistência sempre constante    b) Resistência que varia, geralmente devido ao aumento da temperatura    c) Ausência total de resistência    d) Condutividade infinita    e) Capacidade de gerar energia elétrica
+#+END_EXPORT
+
+*** Questão 6
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: resistores_serie, resistencia_equivalente, calculo
+:END:
+
+Dois resistores de \(3\,\Omega\) e \(7\,\Omega\) são ligados em série. A resistência equivalente é:
+
+#+BEGIN_EXPORT html
+a) 2,1 Ω    b) 4 Ω    c) 5 Ω    d) 10 Ω    e) 21 Ω
+#+END_EXPORT
+
+*** Questão 7
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: resistores_paralelo, resistencia_equivalente, calculo
+:END:
+
+Dois resistores de \(6\,\Omega\) cada um são ligados em paralelo. A resistência equivalente é:
+
+#+BEGIN_EXPORT html
+a) 3 Ω    b) 6 Ω    c) 12 Ω    d) 18 Ω    e) 36 Ω
+#+END_EXPORT
+
+*** Questão 8
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: dificil
+:tag: resistores_serie, formula_geral, calculo
+:END:
+
+Três resistores de \(2\,\Omega\), \(4\,\Omega\) e \(6\,\Omega\) são ligados em série. A resistência equivalente é:
+
+#+BEGIN_EXPORT html
+a) 1,09 Ω    b) 4 Ω    c) 8 Ω    d) 12 Ω    e) 48 Ω
+#+END_EXPORT
+
+*** Questão 9
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: dificil
+:tag: resistores_paralelo, formula_geral, calculo
+:END:
+
+Três resistores de \(3\,\Omega\), \(6\,\Omega\) e \(9\,\Omega\) são ligados em paralelo. A resistência equivalente é aproximadamente:
+
+#+BEGIN_EXPORT html
+a) 1,6 Ω    b) 3,0 Ω    c) 6,0 Ω    d) 9,0 Ω    e) 18,0 Ω
+#+END_EXPORT
+
+*** Questão 10
+:PROPERTIES:
+:origem: banco-criado
+:tipo: discursiva
+:nivel: dificil
+:tag: resistores_serie_paralelo, comparacao, analise
+:END:
+
+Analise o comportamento da resistência equivalente quando resistores são associados em série versus em paralelo. Explique por que a resistência equivalente em série é sempre maior que qualquer resistor individual, enquanto em paralelo é sempre menor.
+
+
+** Grandezas e unidades de medida
+
+*** Questão 1
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: grandezas_fisicas, unidades, correspondencia
+:END:
+
+Relacione as grandezas físicas da coluna A com suas respectivas unidades de medida (símbolos) na coluna B.
+
+| Coluna A       | Coluna B            |
+|----------------+---------------------|
+| 1. Massa       | a. ( _ ) °C         |
+| 2. Temperatura | b. ( **1** ) kg     |
+| 3. Densidade   | c. ( _ ) L          |
+| 4. Volume      | d. ( _ ) s, h       |
+| 5. Tempo       | e. ( _ ) m, km      |
+| 6. Velocidade  | f. ( _ ) g/mL, kg/L |
+| 7. Distância   | g. ( _ ) km/h, m/s  |
+
+#+BEGIN_EXPORT html
+a) 1-b, 2-a, 3-f, 4-c, 5-d, 6-g, 7-e    b) 1-a, 2-b, 3-c, 4-d, 5-e, 6-f, 7-g    c) 1-b, 2-c, 3-a, 4-f, 5-g, 6-d, 7-e    d) 1-g, 2-f, 3-e, 4-d, 5-c, 6-b, 7-a    e) 1-b, 2-a, 3-f, 4-c, 5-d, 6-g, 7-e
+#+END_EXPORT
+
+*** Questão 2
+:PROPERTIES:
+:origem: banco-criado
+:tipo: discursiva
+:nivel: facil
+:tag: densidade, calculo, grandezas_fisicas
+:END:
+
+Um líquido possui volume de \(500\,mL\) e massa de \(600\,g\).
+
+a) Qual grandeza física pode ser calculada com esses dados?
+
+b) Calcule o valor dessa grandeza e indique a unidade de medida adequada.
+
+*** Questão 3
+:PROPERTIES:
+:origem: banco-criado
+:tipo: discursiva
+:nivel: facil
+:tag: velocidade, calculo, movimento_uniforme
+:END:
+
+Imagine uma situação em que um automóvel se mova de modo totalmente uniforme, durante \(2\,h\) e percorra uma distância de \(140\,km\).
+
+a) De acordo com as informações da questão anterior, qual grandeza você acha que poderia ser calculada com esses dados?
+
+b) Calcule essa grandeza, indicando a sua unidade de medida.
+
+** Proporcionalidade
+
+*** Questão 1
+:PROPERTIES:
+:origem: banco-criado
+:tipo: discursiva
+:nivel: medio
+:tag: proporcionalidade_direta, velocidade, movimento
+:END:
+
+a) Se um carro percorre \(60\) metros em \(3\) segundos com velocidade constante, qual seria a distância percorrida em \(7\) segundos? Use o conceito de proporcionalidade direta para resolver.
+
+b) Construa uma tabela com quatro pares de valores para o carro com a velocidade do item anterior.
+
+c) Construa um gráfico a partir da tabela do item anterior.
+
+*** Questão 2
+:PROPERTIES:
+:origem: banco-criado
+:tipo: discursiva
+:nivel: medio
+:tag: proporcionalidade, velocidade_tempo, analise_dados
+:END:
+
+Se o carro agora muda sua velocidade, conforme a tabela abaixo:
+
+| v (m/s) | 0 | 20 | 40 | 80 | 100 |
+| t (s)   | 0 |  1 |  2 |  4 |   5 |
+
+a) A velocidade e o tempo são grandezas diretamente proporcionais para esse exemplo? Justifique.
+
+b) A distância percorrida e o tempo são grandezas diretamente proporcionais para esse exemplo? Justifique.
+
+c) Qual é o valor e a unidade de medida da constante de proporcionalidade desse exemplo?
+
+*** Questão 3
+:PROPERTIES:
+:origem: banco-criado
+:tipo: discursiva
+:nivel: medio
+:tag: proporcionalidade_inversa, velocidade, tempo
+:END:
+
+a) Se um carro leva \(12\) segundos para percorrer uma distância fixa a uma velocidade de \(5\,m/s\), quanto tempo levaria se a velocidade aumentasse para \(15\,m/s\)? Use o conceito de proporcionalidade inversa.
+
+b) Construa uma tabela considerando variações de \(5\,m/s\) em \(5\,m/s\) no valor da velocidade.
+
+*** Questão 4
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: proporcionalidade_inversa, trabalho, eficiencia
+:END:
+
+Um muro pode ser construído por \(6\) pedreiros em \(9\) horas. Se o número de pedreiros for aumentado para \(12\), quanto tempo será necessário para construir o mesmo muro, mantendo-se a mesma eficiência de trabalho?
+
+#+BEGIN_EXPORT html
+a) 3,5 horas    b) 4,5 horas    c) 6,0 horas    d) 7,5 horas    e) 18 horas
+#+END_EXPORT
+
+** Cinemática - conceitos iniciais
+
+*** Questão 1
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: cinematica, referencial, conceito
+:END:
+
+Em cinemática, o referencial é um conceito fundamental para descrever o movimento. O referencial pode ser definido como:
+
+#+BEGIN_EXPORT html
+a) A velocidade de um objeto em movimento    b) O ponto de referência (ponto zero) usado para determinar a posição dos objetos    c) A força que atua sobre um corpo em movimento    d) A aceleração de um objeto durante seu deslocamento    e) A trajetória percorrida pelo objeto
+#+END_EXPORT
+
+*** Questão 2
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: cinematica, posicao, deslocamento
+:END:
+
+A diferença entre posição e deslocamento é que:
+
+#+BEGIN_EXPORT html
+a) Posição e deslocamento são sinônimos em Física    b) Posição é a localização de um objeto em relação ao referencial, enquanto deslocamento é a variação da posição em um intervalo de tempo    c) Deslocamento é sempre maior que a posição    d) Posição depende do tempo, mas deslocamento não    e) Deslocamento é sempre positivo
+#+END_EXPORT
+
+*** Questão 3
+:PROPERTIES:
+:imagem: local
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: cinematica, referencial, posicao
+:END:
+
+Observe a imagem e julgue as afirmações abaixo como **verdadeiras (V)** ou **falsas (F)**:
+
+(   ) O carro vermelho está em uma posição negativa em relação ao referencial.
+
+(   ) Os carros azuis estão se afastando do referencial em sentidos opostos.
+
+(   ) O referencial está fixado na posição \(x = 0\).
+
+(   ) A seta vermelha representa movimento com velocidade negativa.
+
+(   ) A seta azul indica que o movimento é no sentido crescente da trajetória.
+
+#+BEGIN_EXPORT html
+a) V - V - V - F - V    b) V - F - V - F - V    c) V - V - V - F - F    d) F - V - V - V - F    e) V - V - F - F - V
+#+END_EXPORT
+
+*** Questão 4
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: cinematica, aceleracao, variacao_velocidade
+:END:
+
+Quando há uma variação de velocidade de um objeto, seja aumento ou redução, podemos afirmar que:
+
+#+BEGIN_EXPORT html
+a) O objeto está em repouso    b) Existe uma aceleração    c) A força resultante é nula    d) O movimento é uniforme    e) A velocidade é constante
+#+END_EXPORT
+
+** Velocidade
+
+*** Questão 1
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: velocidade_media, calculo, cinematica
+:END:
+
+Um carro se desloca de uma posição \(S_0 = -10\,m\) para uma posição final \(S_f = -5\,m\) em um intervalo de tempo de \(2\) segundos. A velocidade média deste carro foi de:
+
+#+BEGIN_EXPORT html
+a) 7,5 m/s    b) -2,5 m/s    c) 2,5 m/s    d) -7,5 m/s    e) 0 m/s
+#+END_EXPORT
+
+*** Questão 2
+:PROPERTIES:
+:imagem: local
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: cinematica, velocidade_media, analise_visual
+:END:
+
+Considere as imagens obtidas em dois instantes: a primeira em \(t = 10\,s\) e a segunda em \(t = 20\,s\). Com base nas posições dos veículos nos dois momentos, classifique as afirmações como **verdadeiras (V)** ou **falsas (F)**:
+
+(   ) O carro vermelho percorreu \(10\,m\) no sentido positivo em \(10\,s\), portanto sua velocidade média foi de \(1{,}0\,m/s\).
+
+(   ) O carro azul da esquerda percorreu \(15\,m\) no sentido positivo, logo sua velocidade média foi de \(1{,}5\,m/s\).
+
+(   ) A velocidade média é calculada pela razão entre o deslocamento e o intervalo de tempo.
+
+(   ) O carro azul da direita permaneceu parado durante o intervalo analisado.
+
+(   ) O carro vermelho se move no sentido negativo da trajetória.
+
+#+BEGIN_EXPORT html
+a) V - V - V - F - V    b) V - F - V - V - F    c) F - F - V - V - F    d) V - F - V - V - F    e) V - F - F - V - F
+#+END_EXPORT
+
+*** Questão 3
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: velocidade, definicao, conceito
+:END:
+
+A velocidade é definida como:
+
+#+BEGIN_EXPORT html
+a) A força aplicada sobre um objeto    b) A massa de um corpo em movimento    c) A razão entre um deslocamento e o intervalo de tempo correspondente    d) A energia cinética de um objeto    e) A aceleração de um corpo
+#+END_EXPORT
+
+*** Questão 4
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: mru, velocidade_constante, posicao_inicial
+:END:
+
+Um carro move-se com velocidade constante de \(v = 12\,m/s\). No instante \(t = 5\,s\), ele se encontra na posição \(s = 18\,m\). Qual era sua posição no instante \(t = 0\,s\), considerando movimento retilíneo uniforme?
+
+#+BEGIN_EXPORT html
+a) -60 m    b) -42 m    c) -12 m    d) -6 m    e) -18 m
+#+END_EXPORT
+
+** Aceleração
+
+*** Questão 1
+:PROPERTIES:
+:imagem: local
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: aceleracao, velocidade, cinematica
+:END:
+
+O gráfico mostra a velocidade de um carro em dois instantes: \(v_1 = 10\,m/s\) no tempo \(t_1 = 2\,s\), e \(v_2 = 40\,m/s\) no tempo \(t_2 = 7\,s\). Qual foi a aceleração média do carro nesse intervalo?
+
+#+BEGIN_EXPORT html
+a) 4 m/s²    b) 6 m/s²    c) 8 m/s²    d) 10 m/s²    e) 12 m/s²
+#+END_EXPORT
+
+*** Questão 2
+:PROPERTIES:
+:imagem: local
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: aceleracao, velocidade_inicial, mruv
+:END:
+
+Um carro percorre uma trajetória retilínea com aceleração constante. No instante \(t = 2\,s\), sua velocidade é \(10\,m/s\), e no instante \(t = 7\,s\), sua velocidade é \(40\,m/s\). Com base nessas informações, qual era a velocidade do carro no instante \(t = 0\,s\)?
+
+#+BEGIN_EXPORT html
+a) 0 m/s    b) -10 m/s    c) -2 m/s    d) 2 m/s    e) -5 m/s
+#+END_EXPORT
+
+** Primeira Lei de Newton
+
+*** Questão 1
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: primeira_lei_newton, inercia, conceito
+:END:
+
+O conceito de inércia pode ser descrito como:
+
+#+BEGIN_EXPORT html
+a) A capacidade de um objeto acelerar rapidamente    b) A "preguiça" que objetos com massa têm de deixar seu estado de repouso ou movimento uniforme    c) A força que mantém os objetos em movimento    d) A velocidade máxima que um objeto pode atingir    e) A resistência do ar sobre corpos em movimento
+#+END_EXPORT
+
+*** Questão 2
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: primeira_lei_newton, massa, inercia
+:END:
+
+Sobre a relação entre massa e inércia, é correto afirmar que:
+
+#+BEGIN_EXPORT html
+a) Quanto menor a massa, maior a inércia    b) Massa e inércia são grandezas independentes    c) Quanto maior a massa, mais difícil será para mudar o movimento do corpo    d) A inércia não depende da massa do objeto    e) A inércia é inversamente proporcional à massa
+#+END_EXPORT
+
+*** Questão 3
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: primeira_lei_newton, referenciais_inerciais, conceito
+:END:
+
+Os referenciais inerciais são aqueles que:
+
+#+BEGIN_EXPORT html
+a) Estão sempre em movimento acelerado    b) Respeitam a Primeira Lei de Newton    c) Possuem força centrífuga real    d) Estão sempre em repouso absoluto    e) Têm velocidade constante diferente de zero
+#+END_EXPORT
+
+*** Questão 4
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: primeira_lei_newton, forca_centrifuga, referencial
+:END:
+
+Quando uma pessoa está dentro de um automóvel que faz uma curva, ela sente uma força para fora da curva. Essa força:
+
+#+BEGIN_EXPORT html
+a) É uma força real que atua sobre a pessoa    b) É chamada de força centrífuga e não existe de fato, sendo resultado do referencial estar acelerado    c) É sempre maior que o peso da pessoa    d) Só existe quando o carro está freando    e) É proporcional à velocidade do carro
+#+END_EXPORT
+
+** Segunda Lei de Newton
+
+*** Questão 1
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: segunda_lei_newton, formula, conceito
+:END:
+
+A fórmula matemática que representa a Segunda Lei de Newton pode ser escrita como:
+
+#+BEGIN_EXPORT html
+a) F = mv    b) F = ma    c) a = F/m    d) Tanto b quanto c estão corretas    e) F = m/a
+#+END_EXPORT
+
+*** Questão 2
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: segunda_lei_newton, principio_fundamental, dinamica
+:END:
+
+A Segunda Lei de Newton, conhecida como Princípio Fundamental da Dinâmica, estabelece que:
+
+#+BEGIN_EXPORT html
+a) A velocidade é sempre mantida por uma força    b) A aceleração de um objeto é diretamente proporcional à força resultante e inversamente proporcional à sua massa    c) Todo objeto em repouso tende a permanecer em repouso    d) A energia se conserva em todos os sistemas    e) A força é sempre constante
+#+END_EXPORT
+
+*** Questão 3
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: segunda_lei_newton, forca_aceleracao, proporcionalidade
+:END:
+
+Se a força resultante sobre um objeto dobrar e sua massa permanecer a mesma, sua aceleração:
+
+#+BEGIN_EXPORT html
+a) Permanecerá a mesma    b) Será reduzida pela metade    c) Dobrará    d) Será reduzida a um quarto    e) Triplicará
+#+END_EXPORT
+
+*** Questão 4
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: dificil
+:tag: segunda_lei_newton, aceleracao, forca, calculo
+:END:
+
+Um corpo de massa \(\frac{1}{3}\,kg\) sofre uma aceleração de \(12\,m/s²\) ao ser empurrado por uma força horizontal constante. Qual é o valor da força aplicada?
+
+#+BEGIN_EXPORT html
+a) 3 N    b) 4 N    c) 5 N    d) 6 N    e) 8 N
+#+END_EXPORT
+
+*** Questão 5
+:PROPERTIES:
+:imagem: local
+:origem: banco-criado
+:tipo: objetiva
+:nivel: medio
+:tag: segunda_lei_newton, grafico, comparacao, massa
+:END:
+
+O gráfico Força × Aceleração apresenta duas retas: uma vermelha representando o corpo A e outra azul representando o corpo B. Com base no gráfico e na Segunda Lei de Newton, é correto afirmar que:
+
+#+BEGIN_EXPORT html
+a) Ambos os corpos possuem a mesma massa, pois as retas são paralelas    b) O corpo A possui maior massa porque sua reta é mais inclinada    c) O corpo B possui maior massa porque, para a mesma aceleração, exige mais força    d) A massa do corpo A é maior que a do corpo B, pois sua aceleração é maior    e) A massa do corpo B é menor que a do corpo A, pois sua reta é mais horizontal
+#+END_EXPORT
+
+** Terceira Lei de Newton
+
+*** Questão 1
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: terceira_lei_newton, acao_reacao, conceito
+:END:
+
+A Terceira Lei de Newton, conhecida como Lei da Ação e Reação, afirma que:
+
+#+BEGIN_EXPORT html
+a) A força é proporcional à massa    b) Sempre que um objeto exerce uma força sobre outro objeto, este outro objeto exerce uma força igual e oposta sobre o primeiro    c) Objetos em repouso tendem a permanecer em repouso    d) A aceleração é inversamente proporcional à força    e) As forças sempre se anulam
+#+END_EXPORT
+
+*** Questão 2
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: terceira_lei_newton, acao_reacao, propriedades
+:END:
+
+Sobre as forças de ação e reação, é correto afirmar que elas:
+
+#+BEGIN_EXPORT html
+a) Atuam no mesmo objeto    b) Têm o mesmo módulo e orientação oposta, atuando em objetos diferentes    c) Só existem quando há movimento    d) São sempre maiores que o peso dos objetos    e) Podem se anular mutuamente
+#+END_EXPORT
+
+*** Questão 3
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: terceira_lei_newton, acao_reacao, dinamica
+:END:
+
+Analise as afirmações a seguir com base na Terceira Lei de Newton (ação e reação):
+
+(   ) Se um carro colide com um caminhão, a força que o carro exerce no caminhão é igual em módulo à força que o caminhão exerce no carro.
+
+(   ) As forças de ação e reação atuam em corpos diferentes e não se anulam mutuamente.
+
+(   ) A ação de um corpo sobre outro pode produzir movimento apenas se a força de reação for maior.
+
+(   ) Quando empurramos uma parede e sentimos a força de volta, estamos percebendo a reação à nossa ação.
+
+(   ) As forças de ação e reação sempre têm a mesma direção e sentidos opostos.
+
+#+BEGIN_EXPORT html
+a) V - V - F - V - V    b) V - F - F - V - V    c) F - V - F - V - F    d) V - V - V - V - V    e) V - V - F - F - V
+#+END_EXPORT
+
+** Questões integradas de dinâmica
+
+*** Questão 1
+:PROPERTIES:
+:origem: banco-criado
+:tipo: discursiva
+:nivel: medio
+:tag: forca_centripeta, forca_centrifuga, conceito
+:END:
+
+Explique qual é a diferença entre força centrípeta e força centrífuga. Dê exemplos.
+
+*** Questão 2
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: forca_resultante, vetores, calculo
+:END:
+
+Duas pessoas puxam uma caixa com forças de \(10\,N\) e \(15\,N\) em direções opostas. A força resultante sobre a caixa é:
+
+#+BEGIN_EXPORT html
+a) 25 N    b) 5 N    c) 0 N    d) 150 N    e) 12,5 N
+#+END_EXPORT
+
+*** Questão 3
+:PROPERTIES:
+:origem: banco-criado
+:tipo: objetiva
+:nivel: facil
+:tag: forca_resultante, definicao, conceito
+:END:
+
+A força resultante pode ser definida como:
+
+#+BEGIN_EXPORT html
+a) A maior força atuando sobre um objeto    b) A soma aritmética de todas as forças    c) O resultado líquido de todas as forças atuantes sobre um objeto    d) A força de atrito entre superfícies    e) A força gravitacional sobre o objeto
+#+END_EXPORT
+
