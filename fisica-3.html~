@@ -40,78 +40,78 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org51bbd20">Eletricidade e magnetismo - visão geral</a></li>
-<li><a href="#orgede8b40">Eletrostática</a>
+<li><a href="#org6fbfc11">Eletricidade e magnetismo - visão geral</a></li>
+<li><a href="#org88ba351">Eletrostática</a>
 <ul>
-<li><a href="#org58186c6">Carga elétrica</a></li>
-<li><a href="#org246807d">Condutores e isolantes</a></li>
-<li><a href="#orgfc20491">Processos de eletrização</a></li>
-<li><a href="#org004bf01">Força elétrica</a></li>
-<li><a href="#orgf120bd1">Polarização</a></li>
-<li><a href="#org541f48a">Campo elétrico</a></li>
-<li><a href="#orgbc0e29b">Potencial elétrico</a></li>
+<li><a href="#org79414b1">Carga elétrica</a></li>
+<li><a href="#org574fc63">Condutores e isolantes</a></li>
+<li><a href="#org60a1da9">Processos de eletrização</a></li>
+<li><a href="#org876b444">Força elétrica</a></li>
+<li><a href="#org1ddcf76">Polarização</a></li>
+<li><a href="#org40a1652">Campo elétrico</a></li>
+<li><a href="#orgb9067b4">Potencial elétrico</a></li>
 </ul>
 </li>
-<li><a href="#org3cd4816">Eletrodinâmica</a>
+<li><a href="#org9dc2da0">Eletrodinâmica</a>
 <ul>
-<li><a href="#org0516e46">Corrente elétrica</a>
+<li><a href="#orgdd70122">Corrente elétrica</a>
 <ul>
-<li><a href="#org3a89073">Definição de corrente elétrica</a></li>
-<li><a href="#orgc01de53">Noções sobre corrente alternada</a></li>
+<li><a href="#orgeee9be6">Definição de corrente elétrica</a></li>
+<li><a href="#orgf2cccc9">Noções sobre corrente alternada</a></li>
 </ul>
 </li>
-<li><a href="#org6afd201">Corrente, tensão e potência (Ampère, Volt e Watt)</a></li>
-<li><a href="#orgacaac76">Associações de compoonentes eletrônicos</a></li>
-<li><a href="#org3aec790">Resistores</a>
+<li><a href="#org88b3c2d">Corrente, tensão e potência (Ampère, Volt e Watt)</a></li>
+<li><a href="#org9cf3511">Associações de compoonentes eletrônicos</a></li>
+<li><a href="#org49c99d5">Resistores</a>
 <ul>
-<li><a href="#org56f6d89">Resistência</a></li>
-<li><a href="#org9b9dc65">Lei de Ohm</a></li>
-<li><a href="#org5e84ce1">Resistência equivalente a resistores em série</a></li>
-<li><a href="#org04e6e92">Resistência equivalente a resistores em série</a></li>
+<li><a href="#orgd73ce8b">Resistência</a></li>
+<li><a href="#org3ef3788">Lei de Ohm</a></li>
+<li><a href="#org8b4b07d">Resistência equivalente a resistores em série</a></li>
+<li><a href="#org9d92b5d">Resistência equivalente a resistores em série</a></li>
 </ul>
 </li>
-<li><a href="#orgeafbeee">Outros componentes eletrônicos</a>
+<li><a href="#orgf4c7764">Outros componentes eletrônicos</a>
 <ul>
-<li><a href="#org9630d45">Capacitores</a></li>
-<li><a href="#org413bf82">Diodos</a></li>
-<li><a href="#org91fa7ca">Transistores</a></li>
+<li><a href="#org81f3954">Capacitores</a></li>
+<li><a href="#org12c748a">Diodos</a></li>
+<li><a href="#orgf53301b">Transistores</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#orgc02f615">Magetismo</a>
+<li><a href="#orgd8092c3">Magetismo</a>
 <ul>
-<li><a href="#orga90fad8">Ímãns</a></li>
-<li><a href="#org329cd06">Campo magnético</a></li>
-<li><a href="#org4646174">Carga magnética</a></li>
-<li><a href="#org47f48fe">Magnetismo e corrente elétrica</a></li>
-<li><a href="#org1b71ada">Força magnética</a></li>
+<li><a href="#orge3e1d48">Ímãns</a></li>
+<li><a href="#org2cddd32">Campo magnético</a></li>
+<li><a href="#org51446e3">Carga magnética</a></li>
+<li><a href="#org9b967a0">Magnetismo e corrente elétrica</a></li>
+<li><a href="#org1e4117f">Força magnética</a></li>
 </ul>
 </li>
-<li><a href="#org1b02f56">Eletromagnetismo</a>
+<li><a href="#orgd7d52d9">Eletromagnetismo</a>
 <ul>
-<li><a href="#org718da3f">Indução magnética</a></li>
-<li><a href="#org1317fcf">Geração de corrente induzida</a></li>
-<li><a href="#org802a641">Geradores</a></li>
-<li><a href="#org4aad83b">Transformadores</a></li>
-<li><a href="#orgae3505f">Motores</a></li>
+<li><a href="#org314516c">Indução magnética</a></li>
+<li><a href="#org7417767">Geração de corrente induzida</a></li>
+<li><a href="#orgca4d1fd">Geradores</a></li>
+<li><a href="#orgc5e0e15">Transformadores</a></li>
+<li><a href="#org70cea12">Motores</a></li>
 </ul>
 </li>
-<li><a href="#orge614ffd">Física moderna</a>
+<li><a href="#org854404d">Física moderna</a>
 <ul>
-<li><a href="#orgd50b41a">Efeitos fotoelétrico e Compton</a></li>
-<li><a href="#orgcdad63b">Dualidade onda-partícula</a></li>
-<li><a href="#org5943adc">Modelo atômico de Bohr</a></li>
-<li><a href="#orga4f1373">Radioatividade</a></li>
-<li><a href="#org749a2b4">Física nuclear</a></li>
-<li><a href="#org437d585">Modelo padrão</a></li>
-<li><a href="#org1f821f8">Cosmologia</a></li>
+<li><a href="#org758a9f6">Efeitos fotoelétrico e Compton</a></li>
+<li><a href="#orgaab8cc0">Dualidade onda-partícula</a></li>
+<li><a href="#orgd0b9a54">Modelo atômico de Bohr</a></li>
+<li><a href="#org3066958">Radioatividade</a></li>
+<li><a href="#org2544be8">Física nuclear</a></li>
+<li><a href="#orgf7e6d6c">Modelo padrão</a></li>
+<li><a href="#org68d1e87">Cosmologia</a></li>
 </ul>
 </li>
-<li><a href="#org94a89f1">Exercícios e problemas</a>
+<li><a href="#org286677f">Exercícios e problemas</a>
 <ul>
-<li><a href="#orgb695219">questoes: unidade 1</a></li>
-<li><a href="#orgf7c55a7">questões: unidade 2</a></li>
+<li><a href="#org176da56">questoes: unidade 1</a></li>
+<li><a href="#org2f604ef">questões: unidade 2</a></li>
 </ul>
 </li>
 </ul>
@@ -121,13 +121,13 @@
 
 <hr style=\"margin: 2em 0; border: none; border-top: 3px solid #ccc;\">
 
-<div id="outline-container-org51bbd20" class="outline-2">
-<h2 id="org51bbd20">Eletricidade e magnetismo - visão geral</h2>
-<div class="outline-text-2" id="text-org51bbd20">
+<div id="outline-container-org6fbfc11" class="outline-2">
+<h2 id="org6fbfc11">Eletricidade e magnetismo - visão geral</h2>
+<div class="outline-text-2" id="text-org6fbfc11">
 <p>
-A área da física que busca entender os fundamentos por trás dos fenômenos elétricos e magnéticos, sendo a base para explicações de
-fenômenos naturais, como o campo magnético da terra, até aplicações na
-tecnologia como a eletrônica.
+A área da física que trata dos fundamentos dos fenômenos elétricos e
+magnéticos, sendo a base para a compreensão de diversos fenômenos, que
+vão desde os mais naturais como o campo magnético da terra, até aplicações na tecnologia, como a eletrônica.
 </p>
 
 
@@ -156,9 +156,9 @@ tecnologia como a eletrônica.
 </div>
 
 
-<div id="outline-container-orgede8b40" class="outline-2">
-<h2 id="orgede8b40">Eletrostática</h2>
-<div class="outline-text-2" id="text-orgede8b40">
+<div id="outline-container-org88ba351" class="outline-2">
+<h2 id="org88ba351">Eletrostática</h2>
+<div class="outline-text-2" id="text-org88ba351">
 <p>
 O estudo dos conceitos iniciais da eletricidade, considerando, para um
 melhor entendimento, que as cargas elétricas estão estáticas.
@@ -170,9 +170,9 @@ melhor entendimento, que as cargas elétricas estão estáticas.
 </div>
 
 
-<div id="outline-container-org58186c6" class="outline-3">
-<h3 id="org58186c6">Carga elétrica</h3>
-<div class="outline-text-3" id="text-org58186c6">
+<div id="outline-container-org79414b1" class="outline-3">
+<h3 id="org79414b1">Carga elétrica</h3>
+<div class="outline-text-3" id="text-org79414b1">
 <blockquote>
 <p>
 A Carga elétrica é a propriedade da matéria que gera força elétrica;
@@ -274,9 +274,9 @@ pela eletrização dos objetos macroscópicos, bem como pela
 </div>
 </div>
 
-<div id="outline-container-org246807d" class="outline-3">
-<h3 id="org246807d">Condutores e isolantes</h3>
-<div class="outline-text-3" id="text-org246807d">
+<div id="outline-container-org574fc63" class="outline-3">
+<h3 id="org574fc63">Condutores e isolantes</h3>
+<div class="outline-text-3" id="text-org574fc63">
 <ul class="org-ul">
 <li>Condutores
 <ul class="org-ul">
@@ -318,9 +318,9 @@ Semicondutores
 </div>
 
 
-<div id="outline-container-orgfc20491" class="outline-3">
-<h3 id="orgfc20491">Processos de eletrização</h3>
-<div class="outline-text-3" id="text-orgfc20491">
+<div id="outline-container-org60a1da9" class="outline-3">
+<h3 id="org60a1da9">Processos de eletrização</h3>
+<div class="outline-text-3" id="text-org60a1da9">
 <ul class="org-ul">
 <li><p>
 Eletrização <b>por atrito</b>
@@ -377,9 +377,9 @@ Nesse processo, um corpo nele é eletrizado sem que seja colocado em contato com
 </div>
 
 
-<div id="outline-container-org004bf01" class="outline-3">
-<h3 id="org004bf01">Força elétrica</h3>
-<div class="outline-text-3" id="text-org004bf01">
+<div id="outline-container-org876b444" class="outline-3">
+<h3 id="org876b444">Força elétrica</h3>
+<div class="outline-text-3" id="text-org876b444">
 <p>
 A força elétrica é gerada pela carga elétrica. Assim, dois corpos
 eletrizados exercem, entre si, uma força, que pode ser de atração ou repulsão.
@@ -433,27 +433,27 @@ Essa lei é análoga à <a href="https://pt.wikipedia.org/wiki/Lei_da_gravita%C3
 </div>
 </div>
 
-<div id="outline-container-orgf120bd1" class="outline-3">
-<h3 id="orgf120bd1">Polarização</h3>
-<div class="outline-text-3" id="text-orgf120bd1">
+<div id="outline-container-org1ddcf76" class="outline-3">
+<h3 id="org1ddcf76">Polarização</h3>
+<div class="outline-text-3" id="text-org1ddcf76">
 <div style="margin-top:100px;"></div>
 
 <hr style=\"margin: 2em 0; border: none; border-top: 1px solid #ccc;\">
 </div>
 </div>
 
-<div id="outline-container-org541f48a" class="outline-3">
-<h3 id="org541f48a">Campo elétrico</h3>
-<div class="outline-text-3" id="text-org541f48a">
+<div id="outline-container-org40a1652" class="outline-3">
+<h3 id="org40a1652">Campo elétrico</h3>
+<div class="outline-text-3" id="text-org40a1652">
 <div style="margin-top:100px;"></div>
 
 <hr style=\"margin: 2em 0; border: none; border-top: 1px solid #ccc;\">
 </div>
 </div>
 
-<div id="outline-container-orgbc0e29b" class="outline-3">
-<h3 id="orgbc0e29b">Potencial elétrico</h3>
-<div class="outline-text-3" id="text-orgbc0e29b">
+<div id="outline-container-orgb9067b4" class="outline-3">
+<h3 id="orgb9067b4">Potencial elétrico</h3>
+<div class="outline-text-3" id="text-orgb9067b4">
 <p>
 O potencial elétrico (\(U\)) em um ponto é a energia potencial por
 carga que teria uma carga positiva naquele ponto. Assim, em termos
@@ -505,22 +505,27 @@ iremos considerá-las sinônimos.
 </div>
 
 
-<div id="outline-container-org3cd4816" class="outline-2">
-<h2 id="org3cd4816">Eletrodinâmica</h2>
-<div class="outline-text-2" id="text-org3cd4816">
+<div id="outline-container-org9dc2da0" class="outline-2">
+<h2 id="org9dc2da0">Eletrodinâmica</h2>
+<div class="outline-text-2" id="text-org9dc2da0">
+<p>
+Aqui começaremos a considerar as cargtas elétricas em movimento. 
+</p>
+
+
 <div style="margin-top:100px;"></div>
 
 <hr style=\"margin: 2em 0; border: none; border-top: 1px solid #ccc;\">
 </div>
 
 
-<div id="outline-container-org0516e46" class="outline-3">
-<h3 id="org0516e46">Corrente elétrica</h3>
-<div class="outline-text-3" id="text-org0516e46">
+<div id="outline-container-orgdd70122" class="outline-3">
+<h3 id="orgdd70122">Corrente elétrica</h3>
+<div class="outline-text-3" id="text-orgdd70122">
 </div>
-<div id="outline-container-org3a89073" class="outline-4">
-<h4 id="org3a89073">Definição de corrente elétrica</h4>
-<div class="outline-text-4" id="text-org3a89073">
+<div id="outline-container-orgeee9be6" class="outline-4">
+<h4 id="orgeee9be6">Definição de corrente elétrica</h4>
+<div class="outline-text-4" id="text-orgeee9be6">
 <p>
 É o fluxo orientado de carga elétrica em um condutor, e pode ser
 calculado imaginando a quantidade de carga que atravessa uma área
@@ -564,9 +569,9 @@ Couloumbs por segundo. Em símbolos
 </div>
 </div>
 
-<div id="outline-container-orgc01de53" class="outline-4">
-<h4 id="orgc01de53">Noções sobre corrente alternada</h4>
-<div class="outline-text-4" id="text-orgc01de53">
+<div id="outline-container-orgf2cccc9" class="outline-4">
+<h4 id="orgf2cccc9">Noções sobre corrente alternada</h4>
+<div class="outline-text-4" id="text-orgf2cccc9">
 <p>
 Na corrente contínua (cc) , o fluxo está sepre em um sentido. Por exemplo,
 uma lâmpada ligada a uma pila. As polaridades da pilha (fixas)
@@ -587,9 +592,9 @@ a uma tomada, com alternações entre 50 e 60 Hz.
 </div>
 </div>
 
-<div id="outline-container-org6afd201" class="outline-3">
-<h3 id="org6afd201">Corrente, tensão e potência (Ampère, Volt e Watt)</h3>
-<div class="outline-text-3" id="text-org6afd201">
+<div id="outline-container-org88b3c2d" class="outline-3">
+<h3 id="org88b3c2d">Corrente, tensão e potência (Ampère, Volt e Watt)</h3>
+<div class="outline-text-3" id="text-org88b3c2d">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -694,9 +699,9 @@ P \)
 </div>
 </div>
 
-<div id="outline-container-orgacaac76" class="outline-3">
-<h3 id="orgacaac76">Associações de compoonentes eletrônicos</h3>
-<div class="outline-text-3" id="text-orgacaac76">
+<div id="outline-container-org9cf3511" class="outline-3">
+<h3 id="org9cf3511">Associações de compoonentes eletrônicos</h3>
+<div class="outline-text-3" id="text-org9cf3511">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     Ligações em Série e Paralelo de uma bateria e duas lâmpadas.
@@ -737,13 +742,13 @@ P \)
 </div>
 
 
-<div id="outline-container-org3aec790" class="outline-3">
-<h3 id="org3aec790">Resistores</h3>
-<div class="outline-text-3" id="text-org3aec790">
+<div id="outline-container-org49c99d5" class="outline-3">
+<h3 id="org49c99d5">Resistores</h3>
+<div class="outline-text-3" id="text-org49c99d5">
 </div>
-<div id="outline-container-org56f6d89" class="outline-4">
-<h4 id="org56f6d89">Resistência</h4>
-<div class="outline-text-4" id="text-org56f6d89">
+<div id="outline-container-orgd73ce8b" class="outline-4">
+<h4 id="orgd73ce8b">Resistência</h4>
+<div class="outline-text-4" id="text-orgd73ce8b">
 <blockquote>
 <p>
 Resistência é uma propriedade dos condutores de resistir a passagem da corrente.
@@ -764,7 +769,7 @@ Resistência é uma propriedade dos condutores de resistir a passagem da corrent
 </ul></li>
 
 <li><p>
-Unidade de medida de resistência é o Ohm, símbolo \(Omega\)
+Unidade de medida de resistência é o Ohm, símbolo \(\Omega\)
 </p>
 
 <p>
@@ -781,9 +786,9 @@ Unidade de medida de resistência é o Ohm, símbolo \(Omega\)
 
 
 
-<div id="outline-container-org9b9dc65" class="outline-4">
-<h4 id="org9b9dc65">Lei de Ohm</h4>
-<div class="outline-text-4" id="text-org9b9dc65">
+<div id="outline-container-org3ef3788" class="outline-4">
+<h4 id="org3ef3788">Lei de Ohm</h4>
+<div class="outline-text-4" id="text-org3ef3788">
 <ul class="org-ul">
 <li>resistores ôhmico:
 
@@ -830,9 +835,9 @@ Unidade de medida de resistência é o Ohm, símbolo \(Omega\)
 </div>
 
 
-<div id="outline-container-org5e84ce1" class="outline-4">
-<h4 id="org5e84ce1">Resistência equivalente a resistores em série</h4>
-<div class="outline-text-4" id="text-org5e84ce1">
+<div id="outline-container-org8b4b07d" class="outline-4">
+<h4 id="org8b4b07d">Resistência equivalente a resistores em série</h4>
+<div class="outline-text-4" id="text-org8b4b07d">
 <div style="margin-top:100px;"></div>
 
 <p>
@@ -873,11 +878,11 @@ No caso mais geral (n resistores) teremos
 
 
 
-<div id="outline-container-org04e6e92" class="outline-4">
-<h4 id="org04e6e92">Resistência equivalente a resistores em série</h4>
-<div class="outline-text-4" id="text-org04e6e92">
+<div id="outline-container-org9d92b5d" class="outline-4">
+<h4 id="org9d92b5d">Resistência equivalente a resistores em série</h4>
+<div class="outline-text-4" id="text-org9d92b5d">
 <p>
-\[\frac{1}{R_p}\] = \frac{1}{R_1} + \frac{1}{R_2}\]
+\[ \frac{1}{R_p} = \frac{1}{R_1} + \frac{1}{R_2}\]
 </p>
 
 <div style="margin-top:50px;"></div>
@@ -903,7 +908,7 @@ Par um caso geral, com n resistores em paralelo, teremos:
 
 
 <p>
-\[\frac{1}{R_p}\] = \frac{1}{R_1} + &hellip; +  \frac{1}{R_n}\]
+\[ \frac{1}{R_p} = \frac{1}{R_1} + \dots +  \frac{1}{R_n}\]
 </p>
 
 <div style="margin-top:100px;"></div>
@@ -914,120 +919,120 @@ Par um caso geral, com n resistores em paralelo, teremos:
 </div>
 </div>
 
-<div id="outline-container-orgeafbeee" class="outline-3">
-<h3 id="orgeafbeee">Outros componentes eletrônicos</h3>
-<div class="outline-text-3" id="text-orgeafbeee">
+<div id="outline-container-orgf4c7764" class="outline-3">
+<h3 id="orgf4c7764">Outros componentes eletrônicos</h3>
+<div class="outline-text-3" id="text-orgf4c7764">
 </div>
-<div id="outline-container-org9630d45" class="outline-4">
-<h4 id="org9630d45">Capacitores</h4>
-</div>
-
-<div id="outline-container-org413bf82" class="outline-4">
-<h4 id="org413bf82">Diodos</h4>
+<div id="outline-container-org81f3954" class="outline-4">
+<h4 id="org81f3954">Capacitores</h4>
 </div>
 
-<div id="outline-container-org91fa7ca" class="outline-4">
-<h4 id="org91fa7ca">Transistores</h4>
-</div>
-</div>
+<div id="outline-container-org12c748a" class="outline-4">
+<h4 id="org12c748a">Diodos</h4>
 </div>
 
-
-
-
-<div id="outline-container-orgc02f615" class="outline-2">
-<h2 id="orgc02f615">Magetismo</h2>
-<div class="outline-text-2" id="text-orgc02f615">
+<div id="outline-container-orgf53301b" class="outline-4">
+<h4 id="orgf53301b">Transistores</h4>
 </div>
-<div id="outline-container-orga90fad8" class="outline-3">
-<h3 id="orga90fad8">Ímãns</h3>
-</div>
-
-<div id="outline-container-org329cd06" class="outline-3">
-<h3 id="org329cd06">Campo magnético</h3>
-</div>
-
-<div id="outline-container-org4646174" class="outline-3">
-<h3 id="org4646174">Carga magnética</h3>
-</div>
-
-<div id="outline-container-org47f48fe" class="outline-3">
-<h3 id="org47f48fe">Magnetismo e corrente elétrica</h3>
-</div>
-
-<div id="outline-container-org1b71ada" class="outline-3">
-<h3 id="org1b71ada">Força magnética</h3>
 </div>
 </div>
 
-<div id="outline-container-org1b02f56" class="outline-2">
-<h2 id="org1b02f56">Eletromagnetismo</h2>
-<div class="outline-text-2" id="text-org1b02f56">
+
+
+
+<div id="outline-container-orgd8092c3" class="outline-2">
+<h2 id="orgd8092c3">Magetismo</h2>
+<div class="outline-text-2" id="text-orgd8092c3">
 </div>
-<div id="outline-container-org718da3f" class="outline-3">
-<h3 id="org718da3f">Indução magnética</h3>
+<div id="outline-container-orge3e1d48" class="outline-3">
+<h3 id="orge3e1d48">Ímãns</h3>
 </div>
 
-<div id="outline-container-org1317fcf" class="outline-3">
-<h3 id="org1317fcf">Geração de corrente induzida</h3>
+<div id="outline-container-org2cddd32" class="outline-3">
+<h3 id="org2cddd32">Campo magnético</h3>
 </div>
 
-<div id="outline-container-org802a641" class="outline-3">
-<h3 id="org802a641">Geradores</h3>
+<div id="outline-container-org51446e3" class="outline-3">
+<h3 id="org51446e3">Carga magnética</h3>
 </div>
 
-<div id="outline-container-org4aad83b" class="outline-3">
-<h3 id="org4aad83b">Transformadores</h3>
+<div id="outline-container-org9b967a0" class="outline-3">
+<h3 id="org9b967a0">Magnetismo e corrente elétrica</h3>
 </div>
 
-<div id="outline-container-orgae3505f" class="outline-3">
-<h3 id="orgae3505f">Motores</h3>
-</div>
-</div>
-
-<div id="outline-container-orge614ffd" class="outline-2">
-<h2 id="orge614ffd">Física moderna</h2>
-<div class="outline-text-2" id="text-orge614ffd">
-</div>
-<div id="outline-container-orgd50b41a" class="outline-3">
-<h3 id="orgd50b41a">Efeitos fotoelétrico e Compton</h3>
-</div>
-
-<div id="outline-container-orgcdad63b" class="outline-3">
-<h3 id="orgcdad63b">Dualidade onda-partícula</h3>
-</div>
-
-<div id="outline-container-org5943adc" class="outline-3">
-<h3 id="org5943adc">Modelo atômico de Bohr</h3>
-</div>
-
-<div id="outline-container-orga4f1373" class="outline-3">
-<h3 id="orga4f1373">Radioatividade</h3>
-</div>
-
-<div id="outline-container-org749a2b4" class="outline-3">
-<h3 id="org749a2b4">Física nuclear</h3>
-</div>
-
-<div id="outline-container-org437d585" class="outline-3">
-<h3 id="org437d585">Modelo padrão</h3>
-</div>
-
-<div id="outline-container-org1f821f8" class="outline-3">
-<h3 id="org1f821f8">Cosmologia</h3>
+<div id="outline-container-org1e4117f" class="outline-3">
+<h3 id="org1e4117f">Força magnética</h3>
 </div>
 </div>
 
-<div id="outline-container-org94a89f1" class="outline-2">
-<h2 id="org94a89f1">Exercícios e problemas</h2>
-<div class="outline-text-2" id="text-org94a89f1">
+<div id="outline-container-orgd7d52d9" class="outline-2">
+<h2 id="orgd7d52d9">Eletromagnetismo</h2>
+<div class="outline-text-2" id="text-orgd7d52d9">
 </div>
-<div id="outline-container-orgb695219" class="outline-3">
-<h3 id="orgb695219"><a href="quest-fis3-u1.html">questoes: unidade 1</a></h3>
+<div id="outline-container-org314516c" class="outline-3">
+<h3 id="org314516c">Indução magnética</h3>
 </div>
 
-<div id="outline-container-orgf7c55a7" class="outline-3">
-<h3 id="orgf7c55a7"><a href="quest-fis3-u2.html">questões: unidade 2</a></h3>
+<div id="outline-container-org7417767" class="outline-3">
+<h3 id="org7417767">Geração de corrente induzida</h3>
+</div>
+
+<div id="outline-container-orgca4d1fd" class="outline-3">
+<h3 id="orgca4d1fd">Geradores</h3>
+</div>
+
+<div id="outline-container-orgc5e0e15" class="outline-3">
+<h3 id="orgc5e0e15">Transformadores</h3>
+</div>
+
+<div id="outline-container-org70cea12" class="outline-3">
+<h3 id="org70cea12">Motores</h3>
+</div>
+</div>
+
+<div id="outline-container-org854404d" class="outline-2">
+<h2 id="org854404d">Física moderna</h2>
+<div class="outline-text-2" id="text-org854404d">
+</div>
+<div id="outline-container-org758a9f6" class="outline-3">
+<h3 id="org758a9f6">Efeitos fotoelétrico e Compton</h3>
+</div>
+
+<div id="outline-container-orgaab8cc0" class="outline-3">
+<h3 id="orgaab8cc0">Dualidade onda-partícula</h3>
+</div>
+
+<div id="outline-container-orgd0b9a54" class="outline-3">
+<h3 id="orgd0b9a54">Modelo atômico de Bohr</h3>
+</div>
+
+<div id="outline-container-org3066958" class="outline-3">
+<h3 id="org3066958">Radioatividade</h3>
+</div>
+
+<div id="outline-container-org2544be8" class="outline-3">
+<h3 id="org2544be8">Física nuclear</h3>
+</div>
+
+<div id="outline-container-orgf7e6d6c" class="outline-3">
+<h3 id="orgf7e6d6c">Modelo padrão</h3>
+</div>
+
+<div id="outline-container-org68d1e87" class="outline-3">
+<h3 id="org68d1e87">Cosmologia</h3>
+</div>
+</div>
+
+<div id="outline-container-org286677f" class="outline-2">
+<h2 id="org286677f">Exercícios e problemas</h2>
+<div class="outline-text-2" id="text-org286677f">
+</div>
+<div id="outline-container-org176da56" class="outline-3">
+<h3 id="org176da56"><a href="quest-fis3-u1.html">questoes: unidade 1</a></h3>
+</div>
+
+<div id="outline-container-org2f604ef" class="outline-3">
+<h3 id="org2f604ef"><a href="quest-fis3-u2.html">questões: unidade 2</a></h3>
 </div>
 </div>
 </div>
