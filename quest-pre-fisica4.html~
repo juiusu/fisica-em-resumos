@@ -14,13 +14,29 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-orge6719f2" class="outline-2">
-<h2 id="orge6719f2">Questões de revisão: grandezas diretamente proporcionais e grandezas inversamente proporcionais</h2>
-<div class="outline-text-2" id="text-orge6719f2">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org99c49f8">Questões de revisão: grandezas diretamente proporcionais e grandezas inversamente proporcionais</a>
+<ul>
+<li><a href="#org6c89eac">Questão 1</a></li>
+<li><a href="#org09079ca">Questão 2</a></li>
+<li><a href="#org67d7f2d">Questão 3</a></li>
+<li><a href="#org4dc385c">Questão 4</a></li>
+</ul>
+</li>
+</ul>
 </div>
-<div id="outline-container-org1c4035c" class="outline-3">
-<h3 id="org1c4035c">Questão 1</h3>
-<div class="outline-text-3" id="text-org1c4035c">
+</div>
+
+<div id="outline-container-org99c49f8" class="outline-2">
+<h2 id="org99c49f8">Questões de revisão: grandezas diretamente proporcionais e grandezas inversamente proporcionais</h2>
+<div class="outline-text-2" id="text-org99c49f8">
+</div>
+<div id="outline-container-org6c89eac" class="outline-3">
+<h3 id="org6c89eac">Questão 1</h3>
+<div class="outline-text-3" id="text-org6c89eac">
 <p>
 <b><b>a)</b></b> Se um carro percorre 60 metros em 3 segundos com velocidade constante, qual seria a distância percorrida em 7 segundos? Use o conceito de proporcionalidade direta para resolver.
 </p>
@@ -36,9 +52,9 @@
 </div>
 </div>
 
-<div id="outline-container-org8436881" class="outline-3">
-<h3 id="org8436881">Questão 2</h3>
-<div class="outline-text-3" id="text-org8436881">
+<div id="outline-container-org09079ca" class="outline-3">
+<h3 id="org09079ca">Questão 2</h3>
+<div class="outline-text-3" id="text-org09079ca">
 <p>
 Se o carro agora muda sua velocidade, conforme a tabela a baixo:
 </p>
@@ -96,9 +112,9 @@ proporcionalidade desse exemplo?
 </div>
 </div>
 
-<div id="outline-container-org8f1d7b9" class="outline-3">
-<h3 id="org8f1d7b9">Questão 3</h3>
-<div class="outline-text-3" id="text-org8f1d7b9">
+<div id="outline-container-org67d7f2d" class="outline-3">
+<h3 id="org67d7f2d">Questão 3</h3>
+<div class="outline-text-3" id="text-org67d7f2d">
 <p>
 <b><b>a)</b></b> Se um carro leva 12 segundos para percorrer uma distância fixa
   a uma velocidade de 5 m/s, quanto tempo levaria se a velocidade
@@ -112,9 +128,9 @@ proporcionalidade desse exemplo?
 </div>
 </div>
 
-<div id="outline-container-org2e7f266" class="outline-3">
-<h3 id="org2e7f266">Questão 4</h3>
-<div class="outline-text-3" id="text-org2e7f266">
+<div id="outline-container-org4dc385c" class="outline-3">
+<h3 id="org4dc385c">Questão 4</h3>
+<div class="outline-text-3" id="text-org4dc385c">
 <p>
 <b><b>a)</b></b> Um muro pode ser construído por 6 pedreiros em 9 horas. Se o número de
 pedreiros for aumentado para 12, quanto tempo será necessário para
