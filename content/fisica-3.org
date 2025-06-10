@@ -585,7 +585,7 @@ No caso mais geral (n resistores) teremos
 
 
 
-*** Resistência equivalente a resistores em série
+*** Resistência equivalente a resistores em paralelo
 
 \[ \frac{1}{R_p} = \frac{1}{R_1} + \frac{1}{R_2}\]
 
