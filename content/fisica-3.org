@@ -1,7 +1,6 @@
 #+OPTIONS: toc:t
 
 
-
 #+BEGIN_EXPORT html
 <div style="margin-top:200px;"></div>
 #+END_EXPORT
@@ -454,6 +453,32 @@ Resistência é uma propriedade dos condutores de resistir a passagem da corrent
   \[\Omega = \frac{V}{A}\]
 
 
+
+
+#+BEGIN_EXPORT html
+<div style="margin-top:100px;"></div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Analogia sobre a relação entre Resistência \(\Omega\), tensão \(V\) e corrente \(A\).
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Lei_de_ohm_-_Ohm%27s_law.jpg"
+       alt="lei-de-ohm"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: Elilopes, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
+
 #+BEGIN_EXPORT html
 <div style="margin-top:100px;"></div>
 #+END_EXPORT
@@ -494,7 +519,7 @@ Resistência é uma propriedade dos condutores de resistir a passagem da corrent
        alt="circuito com fonte variável e resistor, valores de tensão e corrente indicados"
        style="width:100%; height:auto;">
   <p style="font-size:0.75em; color:gray;">
-    Fonte: imagem criada pelo autor no  <a href="https://www.tinkercad.com/" target="_blank"> Autodesk Tinkercad</a> 
+    Fonte: imagem criada pelo autor usando a plataforma  <a href="https://www.tinkercad.com/" target="_blank"> Autodesk Tinkercad</a> 
   </p>
 </div>
 #+END_EXPORT
@@ -536,7 +561,7 @@ Resistência é uma propriedade dos condutores de resistir a passagem da corrent
        alt="circuito com fonte variável, valores de tensão e corrente indicados, resistores e série."
        style="width:100%; height:auto;">
   <p style="font-size:0.75em; color:gray;">
-    Fonte: imagem criada pelo autor no  <a href="https://www.tinkercad.com/" target="_blank"> Autodesk Tinkercad</a> 
+    Fonte: imagem criada pelo autor usando a plataforma  <a href="https://www.tinkercad.com/" target="_blank"> Autodesk Tinkercad</a> 
   </p>
 </div>
 #+END_EXPORT
@@ -578,7 +603,7 @@ No caso mais geral (n resistores) teremos
        alt="circuito com fonte variável, valores de tensão e corrente indicados, resistores em paralelo."
        style="width:100%; height:auto;">
   <p style="font-size:0.75em; color:gray;">
-    Fonte: imagem criada pelo autor no  <a href="https://www.tinkercad.com/" target="_blank"> Autodesk Tinkercad</a> 
+    Fonte: imagem criada pelo autor usando a plataforma  <a href="https://www.tinkercad.com/" target="_blank"> Autodesk Tinkercad</a> 
   </p>
 </div>
 #+END_EXPORT
