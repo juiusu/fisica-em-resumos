@@ -1,3 +1,5 @@
+#+OPTIONS: toc:2
+
 * Física 3 - Exercícios e problemas - unidade 1
 ** Questões de revisão: Carga elétrica
 

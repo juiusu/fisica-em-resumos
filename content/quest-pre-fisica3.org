@@ -1,3 +1,5 @@
+#+OPTIONS: toc:2
+
 * Questões de revisão: gráficos
 
 O gráfico abaixo será usado em todas as questões desse tópico.

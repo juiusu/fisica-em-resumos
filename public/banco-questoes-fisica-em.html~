@@ -41,39 +41,39 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org0a51b8a">Dados</a></li>
-<li><a href="#orgd11c269">Prensa hidráulica - princípio de Pascal</a></li>
-<li><a href="#orgd8e31c2">Força de empuxo - princípio de Arquimedes</a></li>
-<li><a href="#orgdbc1572">Conceito de temperatura</a></li>
-<li><a href="#org83f2f4f">Escalas de temperatura</a></li>
-<li><a href="#org06c4f41">Dilatação térmica</a></li>
-<li><a href="#org0ed3a7e">Transferência de calor</a></li>
-<li><a href="#orgef0c35a">Carga elétrica</a></li>
-<li><a href="#org2a9a4ea">Condutores e isolantes</a></li>
-<li><a href="#org40690ae">Processos de eletrização</a></li>
-<li><a href="#org4525a52">Força elétrica</a></li>
-<li><a href="#org69698a8">Potencial elétrico</a></li>
-<li><a href="#org90c435e">Corrente elétrica</a></li>
-<li><a href="#org2145f9d">Corrente, tensão e potência (Ampère, Volt e Watt)</a></li>
-<li><a href="#org522f7a9">Associações de componentes eletrônicos</a></li>
-<li><a href="#org14ca936">Resistores</a></li>
-<li><a href="#org9d3ae8b">Grandezas e unidades de medida</a></li>
-<li><a href="#org74d12ea">Proporcionalidade</a></li>
-<li><a href="#org901dd51">Cinemática - conceitos iniciais</a></li>
-<li><a href="#org31f6203">Velocidade</a></li>
-<li><a href="#org9ddd649">Aceleração</a></li>
-<li><a href="#org3992267">Primeira Lei de Newton</a></li>
-<li><a href="#org3f9fdf1">Segunda Lei de Newton</a></li>
-<li><a href="#org9d3b4c4">Terceira Lei de Newton</a></li>
-<li><a href="#org6df3fa0">Questões integradas de dinâmica</a></li>
+<li><a href="#org1bee3ae">Dados</a></li>
+<li><a href="#orgda6c9f1">Prensa hidráulica - princípio de Pascal</a></li>
+<li><a href="#orgc6696e6">Força de empuxo - princípio de Arquimedes</a></li>
+<li><a href="#orgc328b8b">Conceito de temperatura</a></li>
+<li><a href="#org1dad213">Escalas de temperatura</a></li>
+<li><a href="#org8348674">Dilatação térmica</a></li>
+<li><a href="#org89e5d4a">Transferência de calor</a></li>
+<li><a href="#orgc5b4931">Carga elétrica</a></li>
+<li><a href="#org0da7ab4">Condutores e isolantes</a></li>
+<li><a href="#org0741e98">Processos de eletrização</a></li>
+<li><a href="#org3cdc90c">Força elétrica</a></li>
+<li><a href="#org3bfddfd">Potencial elétrico</a></li>
+<li><a href="#orgffd0f98">Corrente elétrica</a></li>
+<li><a href="#org88adeb0">Corrente, tensão e potência (Ampère, Volt e Watt)</a></li>
+<li><a href="#orgb8a326d">Associações de componentes eletrônicos</a></li>
+<li><a href="#orgef470f1">Resistores</a></li>
+<li><a href="#org71a6fe8">Grandezas e unidades de medida</a></li>
+<li><a href="#org5f7879e">Proporcionalidade</a></li>
+<li><a href="#orge4a2aed">Cinemática - conceitos iniciais</a></li>
+<li><a href="#orgd61a0ac">Velocidade</a></li>
+<li><a href="#org18a0b64">Aceleração</a></li>
+<li><a href="#orgb1368e9">Primeira Lei de Newton</a></li>
+<li><a href="#org255da35">Segunda Lei de Newton</a></li>
+<li><a href="#org9aca88d">Terceira Lei de Newton</a></li>
+<li><a href="#org4896314">Questões integradas de dinâmica</a></li>
 </ul>
 </div>
 </div>
 
 
-<div id="outline-container-org0a51b8a" class="outline-2">
-<h2 id="org0a51b8a">Dados</h2>
-<div class="outline-text-2" id="text-org0a51b8a">
+<div id="outline-container-org1bee3ae" class="outline-2">
+<h2 id="org1bee3ae">Dados</h2>
+<div class="outline-text-2" id="text-org1bee3ae">
 <p>
 Para as questões abaixo, considere a aceleração da gravidade:
 </p>
@@ -85,9 +85,9 @@ Para as questões abaixo, considere a aceleração da gravidade:
 </div>
 
 
-<div id="outline-container-orgd11c269" class="outline-2">
-<h2 id="orgd11c269">Prensa hidráulica - princípio de Pascal</h2>
-<div class="outline-text-2" id="text-orgd11c269">
+<div id="outline-container-orgda6c9f1" class="outline-2">
+<h2 id="orgda6c9f1">Prensa hidráulica - princípio de Pascal</h2>
+<div class="outline-text-2" id="text-orgda6c9f1">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
  FÍGURA 1: Prensa hidráulica, com embolo de área menor à esquerda, e maior à direita. Questões: 1 a 2.
@@ -105,9 +105,9 @@ Para as questões abaixo, considere a aceleração da gravidade:
 
 
 
-<div id="outline-container-orgce0ad78" class="outline-3">
-<h3 id="orgce0ad78">Questão 1</h3>
-<div class="outline-text-3" id="text-orgce0ad78">
+<div id="outline-container-org966f66d" class="outline-3">
+<h3 id="org966f66d">Questão 1</h3>
+<div class="outline-text-3" id="text-org966f66d">
 <p>
 Sabendo que a área do êmbolo pequeno é de \(0,01 m^2\) e a do êmbolo grande é de \(1,00 m^2\), qual deve ser a força mínima aplicada no êmbolo menor para levantar um carro de 1000 kg?
 </p>
@@ -117,9 +117,9 @@ a) 10 N &nbsp;&nbsp;&nbsp;  b) 100 N&nbsp; &nbsp;&nbsp; c) 1000 N&nbsp; &nbsp;&n
 </div>
 </div>
 
-<div id="outline-container-orgbc0cf05" class="outline-3">
-<h3 id="orgbc0cf05">Questão 2</h3>
-<div class="outline-text-3" id="text-orgbc0cf05">
+<div id="outline-container-org75a3396" class="outline-3">
+<h3 id="org75a3396">Questão 2</h3>
+<div class="outline-text-3" id="text-org75a3396">
 <p>
 Suponha que a prensa hidráulica da FÍGURA 1 possui êmbolos circulares,
 o menor de raio \( 5\,cm \), e o maior de raio \( 50\,cm \). Um carro de massa \( 1500\,kg \) é colocado sobre o êmbolo maior. Qual deve ser a força mínima aplicada no êmbolo menor para equilibrar o sistema?
@@ -148,9 +148,9 @@ a) 50 N      b) 100 N     c) 150 N     d) 250 N     e) 400 N
 </div>
 
 
-<div id="outline-container-org3ab2a81" class="outline-3">
-<h3 id="org3ab2a81">Questão 3</h3>
-<div class="outline-text-3" id="text-org3ab2a81">
+<div id="outline-container-org4a650c4" class="outline-3">
+<h3 id="org4a650c4">Questão 3</h3>
+<div class="outline-text-3" id="text-org4a650c4">
 <p>
 Na imagem, dois êmbolos estão ligados por um tubo contendo fluido. Sabendo que a área do êmbolo menor é \( A_1 = 2\,cm^2 \) e a do êmbolo maior é \( A_2 = 10\,cm^2 \), determine a força \( F_2 \) gerada no êmbolo maior quando se aplica uma força \( F_1 = 40\,N \) no êmbolo menor.
 </p>
@@ -159,9 +159,9 @@ a) 100 N    b) 150 N    c) 200 N    d) 250 N    e) 300 N
 </div>
 </div>
 
-<div id="outline-container-org1a06519" class="outline-3">
-<h3 id="org1a06519">Questão 4</h3>
-<div class="outline-text-3" id="text-org1a06519">
+<div id="outline-container-org4d6435f" class="outline-3">
+<h3 id="org4d6435f">Questão 4</h3>
+<div class="outline-text-3" id="text-org4d6435f">
 <p>
 Explique por que, em sistemas hidráulicos como o da imagem, se consegue aplicar uma força pequena e obter uma força grande. Que variável é "sacrificada" no processo?
 </p>
@@ -169,9 +169,9 @@ Explique por que, em sistemas hidráulicos como o da imagem, se consegue aplicar
 </div>
 
 
-<div id="outline-container-orged4bf3b" class="outline-3">
-<h3 id="orged4bf3b">Questão 5</h3>
-<div class="outline-text-3" id="text-orged4bf3b">
+<div id="outline-container-org6bbc5e0" class="outline-3">
+<h3 id="org6bbc5e0">Questão 5</h3>
+<div class="outline-text-3" id="text-org6bbc5e0">
 <p>
 Considere que a área do êmbolo pequeno é \( A_1 = 3\,cm^2 \), a área do êmbolo maior é \( A_2 = 9\,cm^2 \) e o deslocamento do êmbolo maior é \( s_2 = 2\,cm \). Qual deve ser o deslocamento \( s_1 \) do êmbolo menor para que o volume de fluido deslocado seja o mesmo?
 </p>
@@ -181,9 +181,9 @@ a) 3 cm    b) 4 cm    c) 5 cm    d) 6 cm    e) 7 cm
 </div>
 
 
-<div id="outline-container-org4965527" class="outline-3">
-<h3 id="org4965527">Questão 6</h3>
-<div class="outline-text-3" id="text-org4965527">
+<div id="outline-container-org8770e44" class="outline-3">
+<h3 id="org8770e44">Questão 6</h3>
+<div class="outline-text-3" id="text-org8770e44">
 <p>
 Em um sistema hidráulico, o êmbolo menor se desloca \( 12\,cm \) quando comprimido. Sabendo que sua área é \( A_1 = 2\,cm^2 \) e a do êmbolo maior é \( A_2 = 8\,cm^2 \), determine o deslocamento \( s_2 \) do êmbolo maior.
 </p>
@@ -196,9 +196,9 @@ a) 2 cm    b) 3 cm    c) 4 cm    d) 5 cm    e) 6 cm
 
 
 
-<div id="outline-container-orgd8e31c2" class="outline-2">
-<h2 id="orgd8e31c2">Força de empuxo - princípio de Arquimedes</h2>
-<div class="outline-text-2" id="text-orgd8e31c2">
+<div id="outline-container-orgc6696e6" class="outline-2">
+<h2 id="orgc6696e6">Força de empuxo - princípio de Arquimedes</h2>
+<div class="outline-text-2" id="text-orgc6696e6">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
  FÍGURA 3: 
@@ -216,9 +216,9 @@ a) 2 cm    b) 3 cm    c) 4 cm    d) 5 cm    e) 6 cm
 
 
 
-<div id="outline-container-orgb017e40" class="outline-3">
-<h3 id="orgb017e40">Questão 1 - Sobre Figura 3</h3>
-<div class="outline-text-3" id="text-orgb017e40">
+<div id="outline-container-org7ebdf74" class="outline-3">
+<h3 id="org7ebdf74">Questão 1 - Sobre Figura 3</h3>
+<div class="outline-text-3" id="text-org7ebdf74">
 <p>
 Na imagem, o primeiro corpo (da esquerda para a direita) afunda no líquido. Isso ocorre porque:
 </p>
@@ -241,9 +241,9 @@ D) Ele está em equilíbrio neutro.
 </div>
 </div>
 
-<div id="outline-container-orge1e95ae" class="outline-3">
-<h3 id="orge1e95ae">Questão 2 - Sobre Figura 3</h3>
-<div class="outline-text-3" id="text-orge1e95ae">
+<div id="outline-container-orgc2ccf49" class="outline-3">
+<h3 id="orgc2ccf49">Questão 2 - Sobre Figura 3</h3>
+<div class="outline-text-3" id="text-orgc2ccf49">
 <p>
 No segundo corpo da esquerda para a direita, temos:
 </p>
@@ -266,9 +266,9 @@ D) Um corpo em flutuação total.
 </div>
 </div>
 
-<div id="outline-container-orgfa6932d" class="outline-3">
-<h3 id="orgfa6932d">Questão 3 - Sobre Figura 3</h3>
-<div class="outline-text-3" id="text-orgfa6932d">
+<div id="outline-container-org25d51cc" class="outline-3">
+<h3 id="org25d51cc">Questão 3 - Sobre Figura 3</h3>
+<div class="outline-text-3" id="text-org25d51cc">
 <p>
 Quando a força de empuxo é maior que a força peso, o corpo:
 </p>
@@ -292,9 +292,9 @@ D) Sobe até atingir equilíbrio na superfície.
 </div>
 
 
-<div id="outline-container-org39bb11b" class="outline-3">
-<h3 id="org39bb11b">Questão 4</h3>
-<div class="outline-text-3" id="text-org39bb11b">
+<div id="outline-container-org9e90359" class="outline-3">
+<h3 id="org9e90359">Questão 4</h3>
+<div class="outline-text-3" id="text-org9e90359">
 <p>
 Na última situação (corpo fora da água com empuxo equilibrando o peso), podemos concluir que:
 </p>
@@ -318,9 +318,9 @@ D) O empuxo é menor que o peso.
 </div>
 
 
-<div id="outline-container-org0c0d345" class="outline-3">
-<h3 id="org0c0d345">Questão 5</h3>
-<div class="outline-text-3" id="text-org0c0d345">
+<div id="outline-container-orgcd29fdf" class="outline-3">
+<h3 id="orgcd29fdf">Questão 5</h3>
+<div class="outline-text-3" id="text-orgcd29fdf">
 <p>
 Calcule o volume de água deslocado por um corpo de \( 10.000\,kg \), sabendo que a força de empuxo e a força peso sobre ele estão em equilíbrio. Dado: densidade da água = \( 1000\,kg/m^3 \).
 </p>
@@ -330,9 +330,9 @@ a) 5 m³    b) 10 m³    c) 15 m³    d) 20 m³    e) 25 m³
 </div>
 
 
-<div id="outline-container-orge5be397" class="outline-3">
-<h3 id="orge5be397">Questão 6</h3>
-<div class="outline-text-3" id="text-orge5be397">
+<div id="outline-container-orgc2d17f1" class="outline-3">
+<h3 id="orgc2d17f1">Questão 6</h3>
+<div class="outline-text-3" id="text-orgc2d17f1">
 <p>
 Na última situação da imagem, considere que o corpo está em equilíbrio com \( \frac{2}{3} \) do seu volume submerso. Sabendo que a densidade do líquido é \( 1{,}0\,g/cm^3 \), qual é a densidade do corpo?
 </p>
@@ -343,9 +343,9 @@ a) 0,50 g/cm³    b) 0,67 g/cm³    c) 1,00 g/cm³    d) 1,50 g/cm³
 
 
 
-<div id="outline-container-orgbb55c45" class="outline-3">
-<h3 id="orgbb55c45">Questão 7</h3>
-<div class="outline-text-3" id="text-orgbb55c45">
+<div id="outline-container-org51b4e98" class="outline-3">
+<h3 id="org51b4e98">Questão 7</h3>
+<div class="outline-text-3" id="text-org51b4e98">
 <p>
 Analise as afirmações a seguir e classifique-as como <b><b>verdadeiras (V)</b></b> ou <b><b>falsas (F)</b></b>:
 </p>
@@ -382,9 +382,9 @@ a) V - F - V - F - F    b) V - V - V - F - V    c) V - F - V - V - F  
 </div>
 
 
-<div id="outline-container-orgf7a5f79" class="outline-3">
-<h3 id="orgf7a5f79">Questão 8</h3>
-<div class="outline-text-3" id="text-orgf7a5f79">
+<div id="outline-container-org9ed373c" class="outline-3">
+<h3 id="org9ed373c">Questão 8</h3>
+<div class="outline-text-3" id="text-org9ed373c">
 <p>
 Classifique as afirmações a seguir como <b><b>verdadeiras (V)</b></b> ou <b><b>falsas (F)</b></b>:
 </p>
@@ -419,9 +419,9 @@ a) V - V - F - V - F    b) V - F - V - V - F    c) V - V - V - F - V  
 </div>
 
 
-<div id="outline-container-org30e5447" class="outline-3">
-<h3 id="org30e5447">Questão 9</h3>
-<div class="outline-text-3" id="text-org30e5447">
+<div id="outline-container-org694d59e" class="outline-3">
+<h3 id="org694d59e">Questão 9</h3>
+<div class="outline-text-3" id="text-org694d59e">
 <p>
 Um bloco maciço de mesmo volume é lançado em dois recipientes distintos: um contendo água (\( \rho = 1000\,kg/m^3 \)) e outro contendo glicerina (\( \rho = 1260\,kg/m^3 \)). Sabendo que o bloco afunda nos dois líquidos e que está totalmente submerso, qual das afirmações é correta?
 </p>
@@ -451,9 +451,9 @@ e) O empuxo é menor na glicerina, pois é mais densa.
 
 
 
-<div id="outline-container-orgac400a7" class="outline-3">
-<h3 id="orgac400a7">Questão 10</h3>
-<div class="outline-text-3" id="text-orgac400a7">
+<div id="outline-container-org5a7a809" class="outline-3">
+<h3 id="org5a7a809">Questão 10</h3>
+<div class="outline-text-3" id="text-org5a7a809">
 <p>
 Um corpo de massa \( 6\,kg \) flutua em equilíbrio em um líquido de densidade \( 0{,}75\,g/cm^3 \), com \( 80\% \) de seu volume submerso. Considerando \( g = 10\,m/s^2 \), qual é o volume total do corpo?
 </p>
@@ -468,13 +468,13 @@ a) 0,008 m³    b) 0,010 m³    c) 0,012 m³    d) 0,016 m³    
 </div>
 
 
-<div id="outline-container-orgdbc1572" class="outline-2">
-<h2 id="orgdbc1572">Conceito de temperatura</h2>
-<div class="outline-text-2" id="text-orgdbc1572">
+<div id="outline-container-orgc328b8b" class="outline-2">
+<h2 id="orgc328b8b">Conceito de temperatura</h2>
+<div class="outline-text-2" id="text-orgc328b8b">
 </div>
-<div id="outline-container-org5b0704a" class="outline-3">
-<h3 id="org5b0704a">Questão 1</h3>
-<div class="outline-text-3" id="text-org5b0704a">
+<div id="outline-container-org075496c" class="outline-3">
+<h3 id="org075496c">Questão 1</h3>
+<div class="outline-text-3" id="text-org075496c">
 <p>
 Qual das alternativas expressa corretamente o conceito de temperatura do ponto de vista microscópico?
 </p>
@@ -500,9 +500,9 @@ d) Temperatura é a força que o corpo exerce ao trocar calor.
 </div>
 </div>
 
-<div id="outline-container-org7893928" class="outline-3">
-<h3 id="org7893928">Questão 2</h3>
-<div class="outline-text-3" id="text-org7893928">
+<div id="outline-container-org8bddece" class="outline-3">
+<h3 id="org8bddece">Questão 2</h3>
+<div class="outline-text-3" id="text-org8bddece">
 <p>
 Quando dizemos que um corpo está com temperatura elevada, o que isso significa em termos moleculares?
 </p>
@@ -526,9 +526,9 @@ d) As moléculas estão mais próximas umas das outras.
 </div>
 </div>
 
-<div id="outline-container-orge9d4ad9" class="outline-3">
-<h3 id="orge9d4ad9">Questão 3</h3>
-<div class="outline-text-3" id="text-orge9d4ad9">
+<div id="outline-container-org43dfcae" class="outline-3">
+<h3 id="org43dfcae">Questão 3</h3>
+<div class="outline-text-3" id="text-org43dfcae">
 <p>
 Dois corpos possuem a mesma temperatura. Podemos afirmar que:
 </p>
@@ -554,13 +554,13 @@ d) Eles têm a mesma massa e volume.
 </div>
 
 
-<div id="outline-container-org83f2f4f" class="outline-2">
-<h2 id="org83f2f4f">Escalas de temperatura</h2>
-<div class="outline-text-2" id="text-org83f2f4f">
+<div id="outline-container-org1dad213" class="outline-2">
+<h2 id="org1dad213">Escalas de temperatura</h2>
+<div class="outline-text-2" id="text-org1dad213">
 </div>
-<div id="outline-container-org697b732" class="outline-3">
-<h3 id="org697b732">Questão 1</h3>
-<div class="outline-text-3" id="text-org697b732">
+<div id="outline-container-org315a04d" class="outline-3">
+<h3 id="org315a04d">Questão 1</h3>
+<div class="outline-text-3" id="text-org315a04d">
 <p>
 Qual é a temperatura de \( 25^\circ C \) expressa na escala Kelvin?
 </p>
@@ -569,9 +569,9 @@ a) 248 K    b) 273 K    c) 298 K    d) 310 K
 </div>
 </div>
 
-<div id="outline-container-org04e6b82" class="outline-3">
-<h3 id="org04e6b82">Questão 2</h3>
-<div class="outline-text-3" id="text-org04e6b82">
+<div id="outline-container-orge3ff653" class="outline-3">
+<h3 id="orge3ff653">Questão 2</h3>
+<div class="outline-text-3" id="text-orge3ff653">
 <p>
 Uma amostra de gás está a \( 300\,K \). Qual é a temperatura equivalente na escala Celsius?
 </p>
@@ -580,9 +580,9 @@ a) 27 ºC    b) 0 ºC    c) 37 ºC    d) 100 ºC
 </div>
 </div>
 
-<div id="outline-container-org0c826bd" class="outline-3">
-<h3 id="org0c826bd">Questão 3</h3>
-<div class="outline-text-3" id="text-org0c826bd">
+<div id="outline-container-org9f03208" class="outline-3">
+<h3 id="org9f03208">Questão 3</h3>
+<div class="outline-text-3" id="text-org9f03208">
 <p>
 Qual é a temperatura correspondente a \( 0^\circ C \) na escala Fahrenheit?
 </p>
@@ -591,9 +591,9 @@ a) 32 ºF    b) 0 ºF    c) 100 ºF    d) 273 ºF
 </div>
 </div>
 
-<div id="outline-container-orgcb0666a" class="outline-3">
-<h3 id="orgcb0666a">Questão 4</h3>
-<div class="outline-text-3" id="text-orgcb0666a">
+<div id="outline-container-org479d02b" class="outline-3">
+<h3 id="org479d02b">Questão 4</h3>
+<div class="outline-text-3" id="text-org479d02b">
 <p>
 A temperatura de ebulição da água ao nível do mar é de \( 100^\circ C \). Qual é o valor correspondente na escala Fahrenheit?
 </p>
@@ -602,9 +602,9 @@ a) 100 ºF    b) 180 ºF    c) 212 ºF    d) 373 ºF
 </div>
 </div>
 
-<div id="outline-container-orgc8bbc6a" class="outline-3">
-<h3 id="orgc8bbc6a">Questão 5</h3>
-<div class="outline-text-3" id="text-orgc8bbc6a">
+<div id="outline-container-orgcca0be0" class="outline-3">
+<h3 id="orgcca0be0">Questão 5</h3>
+<div class="outline-text-3" id="text-orgcca0be0">
 <p>
 Uma temperatura de \( 20^\circ C \) equivale a quantos ºF?
 </p>
@@ -614,13 +614,13 @@ a) 36 ºF    b) 52 ºF    c) 68 ºF    d) 77 ºF
 </div>
 </div>
 
-<div id="outline-container-org06c4f41" class="outline-2">
-<h2 id="org06c4f41">Dilatação térmica</h2>
-<div class="outline-text-2" id="text-org06c4f41">
+<div id="outline-container-org8348674" class="outline-2">
+<h2 id="org8348674">Dilatação térmica</h2>
+<div class="outline-text-2" id="text-org8348674">
 </div>
-<div id="outline-container-org7be8741" class="outline-3">
-<h3 id="org7be8741">Questão 1</h3>
-<div class="outline-text-3" id="text-org7be8741">
+<div id="outline-container-org4f8ff85" class="outline-3">
+<h3 id="org4f8ff85">Questão 1</h3>
+<div class="outline-text-3" id="text-org4f8ff85">
 <p>
 Uma barra metálica de \( 1{,}0\,m \) de comprimento é aquecida de \( 20^\circ C \) para \( 70^\circ C \). Sabendo que o coeficiente de dilatação linear do material é \( 20 \times 10^{-6}\,^\circ C^{-1} \), qual será o aumento no comprimento da barra?
 </p>
@@ -629,9 +629,9 @@ a) 0,0010 m    b) 0,0015 m    c) 0,0020 m    d) 0,0030 m    e) 0
 </div>
 </div>
 
-<div id="outline-container-orgac63eb4" class="outline-3">
-<h3 id="orgac63eb4">Questão 2</h3>
-<div class="outline-text-3" id="text-orgac63eb4">
+<div id="outline-container-orgaf70f8c" class="outline-3">
+<h3 id="orgaf70f8c">Questão 2</h3>
+<div class="outline-text-3" id="text-orgaf70f8c">
 <p>
 Três barras metálicas de mesmo material e diferentes comprimentos são submetidas à mesma variação de temperatura. A barra A tem \( 1\,m \), a barra B tem \( 2\,m \), e a barra C tem \( 3\,m \). Sobre o aumento de comprimento (\( \Delta L \)) de cada barra, podemos afirmar que:
 </p>
@@ -661,9 +661,9 @@ e) Nenhuma das barras sofre dilatação, pois o material é o mesmo.
 </div>
 
 
-<div id="outline-container-orgc282bd3" class="outline-3">
-<h3 id="orgc282bd3">Questão 3</h3>
-<div class="outline-text-3" id="text-orgc282bd3">
+<div id="outline-container-org801179e" class="outline-3">
+<h3 id="org801179e">Questão 3</h3>
+<div class="outline-text-3" id="text-org801179e">
 <p>
 Um anel metálico possui um furo circular em seu centro. O anel é aquecido uniformemente. Considerando os efeitos da dilatação térmica, o que acontece com o diâmetro do furo durante o aquecimento?
 </p>
@@ -693,9 +693,9 @@ e) O diâmetro do furo só aumenta se o anel for oco por completo.
 </div>
 
 
-<div id="outline-container-orgb0f5d34" class="outline-3">
-<h3 id="orgb0f5d34">Questão 4</h3>
-<div class="outline-text-3" id="text-orgb0f5d34">
+<div id="outline-container-orgd602b2a" class="outline-3">
+<h3 id="orgd602b2a">Questão 4</h3>
+<div class="outline-text-3" id="text-orgd602b2a">
 <p>
 Um cilindro metálico de raio ligeiramente maior que o raio interno de um anel metálico deve ser encaixado dentro desse anel. Ambos são feitos de metais diferentes, com coeficientes de dilatação linear \( \alpha_{\text{anel}} > \alpha_{\text{cilindro}} \). Qual procedimento garante o encaixe sem deformação permanente?
 </p>
@@ -727,9 +727,9 @@ e) Resfriar ambos igualmente para que se contraiam ao mesmo tempo.
 </div>
 
 
-<div id="outline-container-org6890f3b" class="outline-3">
-<h3 id="org6890f3b">Questão 5</h3>
-<div class="outline-text-3" id="text-org6890f3b">
+<div id="outline-container-org04bb071" class="outline-3">
+<h3 id="org04bb071">Questão 5</h3>
+<div class="outline-text-3" id="text-org04bb071">
 <p>
 Duas barras metálicas de mesmo comprimento inicial são feitas de materiais diferentes e submetidas a diferentes variações de temperatura:
 </p>
@@ -767,13 +767,13 @@ e) Não é possível saber sem o comprimento inicial.
 </div>
 </div>
 
-<div id="outline-container-org0ed3a7e" class="outline-2">
-<h2 id="org0ed3a7e">Transferência de calor</h2>
-<div class="outline-text-2" id="text-org0ed3a7e">
+<div id="outline-container-org89e5d4a" class="outline-2">
+<h2 id="org89e5d4a">Transferência de calor</h2>
+<div class="outline-text-2" id="text-org89e5d4a">
 </div>
-<div id="outline-container-org6f42161" class="outline-3">
-<h3 id="org6f42161">Questão 1</h3>
-<div class="outline-text-3" id="text-org6f42161">
+<div id="outline-container-orgc0d4924" class="outline-3">
+<h3 id="orgc0d4924">Questão 1</h3>
+<div class="outline-text-3" id="text-orgc0d4924">
 <p>
 Classifique as afirmações abaixo como <b><b>verdadeiras (V)</b></b> ou <b><b>falsas (F)</b></b>:
 </p>
@@ -808,9 +808,9 @@ a) V - F - F - V - F    b) V - V - F - V - V    c) V - F - V - V - F  
 </div>
 
 
-<div id="outline-container-org30a8080" class="outline-3">
-<h3 id="org30a8080">Questão 2</h3>
-<div class="outline-text-3" id="text-org30a8080">
+<div id="outline-container-org47ac393" class="outline-3">
+<h3 id="org47ac393">Questão 2</h3>
+<div class="outline-text-3" id="text-org47ac393">
 <p>
 Classifique como <b><b>verdadeiras (V)</b></b> ou <b><b>falsas (F)</b></b> as afirmações a seguir sobre convecção térmica:
 </p>
@@ -839,9 +839,9 @@ a) F - V - V - V - F    b) V - V - F - F - F    c) F - F - V - V - F  
 </div>
 </div>
 
-<div id="outline-container-orga5e722a" class="outline-3">
-<h3 id="orga5e722a">Questão 3</h3>
-<div class="outline-text-3" id="text-orga5e722a">
+<div id="outline-container-orgfc2d310" class="outline-3">
+<h3 id="orgfc2d310">Questão 3</h3>
+<div class="outline-text-3" id="text-orgfc2d310">
 <p>
 Analise as afirmações a seguir sobre aplicações de convecção térmica:
 </p>
@@ -871,9 +871,9 @@ a) V - V - F - V - F    b) F - V - V - F - F    c) V - F - F - V - V  
 </div>
 </div>
 
-<div id="outline-container-org14ce110" class="outline-3">
-<h3 id="org14ce110">Questão 4</h3>
-<div class="outline-text-3" id="text-org14ce110">
+<div id="outline-container-orgc093e9d" class="outline-3">
+<h3 id="orgc093e9d">Questão 4</h3>
+<div class="outline-text-3" id="text-orgc093e9d">
 <p>
 Classifique as afirmações abaixo como <b><b>verdadeiras (V)</b></b> ou <b><b>falsas (F)</b></b>:
 </p>
@@ -902,9 +902,9 @@ a) V - F - V - V - F    b) V - V - F - V - F    c) F - V - V - F - F  
 </div>
 </div>
 
-<div id="outline-container-org6d88e2a" class="outline-3">
-<h3 id="org6d88e2a">Questão 5</h3>
-<div class="outline-text-3" id="text-org6d88e2a">
+<div id="outline-container-org8774096" class="outline-3">
+<h3 id="org8774096">Questão 5</h3>
+<div class="outline-text-3" id="text-org8774096">
 <p>
 Analise as afirmações a seguir sobre emissão e absorção de radiação térmica:
 </p>
@@ -949,9 +949,9 @@ a) F - V - F - V - V    b) V - F - V - V - V    c) V - V - F - F - V  
 </div>
 </div>
 
-<div id="outline-container-orga681acd" class="outline-3">
-<h3 id="orga681acd">Questão 6 - Figura 4</h3>
-<div class="outline-text-3" id="text-orga681acd">
+<div id="outline-container-org083fb1f" class="outline-3">
+<h3 id="org083fb1f">Questão 6 - Figura 4</h3>
+<div class="outline-text-3" id="text-org083fb1f">
 <p>
 Analise as afirmações com base na imagem de infravermelho do cachorro:
 </p>
@@ -980,9 +980,9 @@ a) V - F - F - V - F    b) V - V - V - F - F    c) V - F - V - V - F  
 </div>
 </div>
 
-<div id="outline-container-orgfd445d3" class="outline-3">
-<h3 id="orgfd445d3">Questão 7 - Figura 4</h3>
-<div class="outline-text-3" id="text-orgfd445d3">
+<div id="outline-container-org404b913" class="outline-3">
+<h3 id="org404b913">Questão 7 - Figura 4</h3>
+<div class="outline-text-3" id="text-org404b913">
 <p>
 Com base na imagem e no fenômeno da radiação térmica, julgue as afirmações a seguir:
 </p>
@@ -1014,13 +1014,13 @@ a) V - V - F - V - F    b) F - V - V - F - F    c) V - F - V - V - V  
 
 
 
-<div id="outline-container-orgef0c35a" class="outline-2">
-<h2 id="orgef0c35a">Carga elétrica</h2>
-<div class="outline-text-2" id="text-orgef0c35a">
+<div id="outline-container-orgc5b4931" class="outline-2">
+<h2 id="orgc5b4931">Carga elétrica</h2>
+<div class="outline-text-2" id="text-orgc5b4931">
 </div>
-<div id="outline-container-org23e627a" class="outline-3">
-<h3 id="org23e627a">Questão 1</h3>
-<div class="outline-text-3" id="text-org23e627a">
+<div id="outline-container-org3e6a9d9" class="outline-3">
+<h3 id="org3e6a9d9">Questão 1</h3>
+<div class="outline-text-3" id="text-org3e6a9d9">
 <p>
 a) Quais são as partículas básicas que constituem a matéria?
 </p>
@@ -1035,9 +1035,9 @@ c) Explique por que, em um átomo, os elétrons são as partículas que orbitam 
 </div>
 </div>
 
-<div id="outline-container-org527c659" class="outline-3">
-<h3 id="org527c659">Questão 2</h3>
-<div class="outline-text-3" id="text-org527c659">
+<div id="outline-container-org2666126" class="outline-3">
+<h3 id="org2666126">Questão 2</h3>
+<div class="outline-text-3" id="text-org2666126">
 <p>
 a) O que deve acontecer para que um átomo fique com carga \(+e\)?
 </p>
@@ -1048,9 +1048,9 @@ b) O que deve acontecer para que um átomo fique com carga \(-3e\)?
 </div>
 </div>
 
-<div id="outline-container-org30efd79" class="outline-3">
-<h3 id="org30efd79">Questão 3</h3>
-<div class="outline-text-3" id="text-org30efd79">
+<div id="outline-container-orged6eea9" class="outline-3">
+<h3 id="orged6eea9">Questão 3</h3>
+<div class="outline-text-3" id="text-orged6eea9">
 <p>
 a) Calcule a carga elétrica total (em Coulombs) de um objeto que possui \(3 \times 10^{12}\) elétrons.
 </p>
@@ -1061,9 +1061,9 @@ b) Quantos elétrons precisam ser removidos de um corpo neutro para que ele adqu
 </div>
 </div>
 
-<div id="outline-container-org84a61e8" class="outline-3">
-<h3 id="org84a61e8">Questão 4</h3>
-<div class="outline-text-3" id="text-org84a61e8">
+<div id="outline-container-orgb7c1d79" class="outline-3">
+<h3 id="orgb7c1d79">Questão 4</h3>
+<div class="outline-text-3" id="text-orgb7c1d79">
 <p>
 [Questão com imagem do arquivo uea-sis3-2014-1.png - necessária conversão da imagem]
 </p>
@@ -1071,13 +1071,13 @@ b) Quantos elétrons precisam ser removidos de um corpo neutro para que ele adqu
 </div>
 </div>
 
-<div id="outline-container-org2a9a4ea" class="outline-2">
-<h2 id="org2a9a4ea">Condutores e isolantes</h2>
-<div class="outline-text-2" id="text-org2a9a4ea">
+<div id="outline-container-org0da7ab4" class="outline-2">
+<h2 id="org0da7ab4">Condutores e isolantes</h2>
+<div class="outline-text-2" id="text-org0da7ab4">
 </div>
-<div id="outline-container-org638f095" class="outline-3">
-<h3 id="org638f095">Questão 1</h3>
-<div class="outline-text-3" id="text-org638f095">
+<div id="outline-container-org838a00b" class="outline-3">
+<h3 id="org838a00b">Questão 1</h3>
+<div class="outline-text-3" id="text-org838a00b">
 <p>
 a) Explique, em termos da mobilidade das cargas elétricas, o que diferencia um condutor de um isolante.
 </p>
@@ -1088,9 +1088,9 @@ b) Cite dois exemplos de materiais condutores, e dois exemplos de materiais isol
 </div>
 </div>
 
-<div id="outline-container-orgbacb657" class="outline-3">
-<h3 id="orgbacb657">Questão 2</h3>
-<div class="outline-text-3" id="text-orgbacb657">
+<div id="outline-container-org233f7e2" class="outline-3">
+<h3 id="org233f7e2">Questão 2</h3>
+<div class="outline-text-3" id="text-org233f7e2">
 <p>
 a) A água pura (água destilada) é um bom condutor de eletricidade? E a água comum (encontrada na natureza)? Justifique.
 </p>
@@ -1101,9 +1101,9 @@ b) O ar é um isolante ou um condutor de eletricidade? Justifique sua resposta a
 </div>
 </div>
 
-<div id="outline-container-org435f4b1" class="outline-3">
-<h3 id="org435f4b1">Questão 3</h3>
-<div class="outline-text-3" id="text-org435f4b1">
+<div id="outline-container-orgcb791be" class="outline-3">
+<h3 id="orgcb791be">Questão 3</h3>
+<div class="outline-text-3" id="text-orgcb791be">
 <p>
 Todos os objetos são formados por partículas com carga elétrica (prótons e elétrons). No entanto, a carga líquida de um objeto depende do balanço entre essas cargas. Explique como um objeto pode ter carga líquida nula, positiva ou negativa, utilizando exemplos.
 </p>
@@ -1111,13 +1111,13 @@ Todos os objetos são formados por partículas com carga elétrica (prótons e e
 </div>
 </div>
 
-<div id="outline-container-org40690ae" class="outline-2">
-<h2 id="org40690ae">Processos de eletrização</h2>
-<div class="outline-text-2" id="text-org40690ae">
+<div id="outline-container-org0741e98" class="outline-2">
+<h2 id="org0741e98">Processos de eletrização</h2>
+<div class="outline-text-2" id="text-org0741e98">
 </div>
-<div id="outline-container-org3b9b147" class="outline-3">
-<h3 id="org3b9b147">Questão 1</h3>
-<div class="outline-text-3" id="text-org3b9b147">
+<div id="outline-container-org64eeedf" class="outline-3">
+<h3 id="org64eeedf">Questão 1</h3>
+<div class="outline-text-3" id="text-org64eeedf">
 <p>
 a) Explique o que acontece com os elétrons quando dois materiais diferentes são atritados. Por que um corpo fica carregado positivamente e o outro negativamente?
 </p>
@@ -1128,9 +1128,9 @@ b) Dê dois exemplos práticos de eletrização por atrito e descreva como ocorr
 </div>
 </div>
 
-<div id="outline-container-orgd6e678e" class="outline-3">
-<h3 id="orgd6e678e">Questão 2</h3>
-<div class="outline-text-3" id="text-orgd6e678e">
+<div id="outline-container-org0fe8dc7" class="outline-3">
+<h3 id="org0fe8dc7">Questão 2</h3>
+<div class="outline-text-3" id="text-org0fe8dc7">
 <p>
 a) Se uma esfera metálica carregada negativamente tocar outra esfera idêntica neutra, qual será a carga final de cada uma? Justifique sua resposta.
 </p>
@@ -1141,36 +1141,36 @@ b) Duas esferas idênticas têm cargas, respectivamente, \(+10\,C\) e \(-5\,C\).
 </div>
 </div>
 
-<div id="outline-container-org9f739ca" class="outline-3">
-<h3 id="org9f739ca">Questão 3</h3>
-<div class="outline-text-3" id="text-org9f739ca">
+<div id="outline-container-org84c1c1b" class="outline-3">
+<h3 id="org84c1c1b">Questão 3</h3>
+<div class="outline-text-3" id="text-org84c1c1b">
 <p>
 [Questão com imagem do arquivo uea-sis3-2018.png - necessária conversão da imagem]
 </p>
 </div>
 </div>
 
-<div id="outline-container-org46e4a62" class="outline-3">
-<h3 id="org46e4a62">Questão 4</h3>
-<div class="outline-text-3" id="text-org46e4a62">
+<div id="outline-container-org4636ab8" class="outline-3">
+<h3 id="org4636ab8">Questão 4</h3>
+<div class="outline-text-3" id="text-org4636ab8">
 <p>
 [Questão com imagem do arquivo uea-sis3-2016.png - necessária conversão da imagem]
 </p>
 </div>
 </div>
 
-<div id="outline-container-org0215fb7" class="outline-3">
-<h3 id="org0215fb7">Questão 5</h3>
-<div class="outline-text-3" id="text-org0215fb7">
+<div id="outline-container-orgfe03557" class="outline-3">
+<h3 id="orgfe03557">Questão 5</h3>
+<div class="outline-text-3" id="text-orgfe03557">
 <p>
 [Questão com imagem do arquivo uea-sis3-2014.png - necessária conversão da imagem]
 </p>
 </div>
 </div>
 
-<div id="outline-container-org16d77fa" class="outline-3">
-<h3 id="org16d77fa">Questão 6</h3>
-<div class="outline-text-3" id="text-org16d77fa">
+<div id="outline-container-org526322f" class="outline-3">
+<h3 id="org526322f">Questão 6</h3>
+<div class="outline-text-3" id="text-org526322f">
 <p>
 [Questão com imagem do arquivo uea-sis3-2019.png - necessária conversão da imagem]
 </p>
@@ -1178,13 +1178,13 @@ b) Duas esferas idênticas têm cargas, respectivamente, \(+10\,C\) e \(-5\,C\).
 </div>
 </div>
 
-<div id="outline-container-org4525a52" class="outline-2">
-<h2 id="org4525a52">Força elétrica</h2>
-<div class="outline-text-2" id="text-org4525a52">
+<div id="outline-container-org3cdc90c" class="outline-2">
+<h2 id="org3cdc90c">Força elétrica</h2>
+<div class="outline-text-2" id="text-org3cdc90c">
 </div>
-<div id="outline-container-org9f8fb55" class="outline-3">
-<h3 id="org9f8fb55">Questão 1</h3>
-<div class="outline-text-3" id="text-org9f8fb55">
+<div id="outline-container-org70ec9d3" class="outline-3">
+<h3 id="org70ec9d3">Questão 1</h3>
+<div class="outline-text-3" id="text-org70ec9d3">
 <p>
 Imagine que dois objetos com cargas, respectivamente, \(q_1\) e \(q_2\) estão separados por uma distância \(d\).
 </p>
@@ -1223,27 +1223,27 @@ h) O que acontecerá com a força se a distância for triplicada?
 </div>
 </div>
 
-<div id="outline-container-org64be656" class="outline-3">
-<h3 id="org64be656">Questão 2</h3>
-<div class="outline-text-3" id="text-org64be656">
+<div id="outline-container-org805ee75" class="outline-3">
+<h3 id="org805ee75">Questão 2</h3>
+<div class="outline-text-3" id="text-org805ee75">
 <p>
 Usando apenas ordem de grandeza para os valores necessários (exemplo \(9 \times 10^9 \sim 10^{10}\)), compare a força elétrica com a força gravitacional entre um próton e um elétron.
 </p>
 </div>
 </div>
 
-<div id="outline-container-org89e72ac" class="outline-3">
-<h3 id="org89e72ac">Questão 3</h3>
-<div class="outline-text-3" id="text-org89e72ac">
+<div id="outline-container-org21d53f3" class="outline-3">
+<h3 id="org21d53f3">Questão 3</h3>
+<div class="outline-text-3" id="text-org21d53f3">
 <p>
 [Questão com imagem do arquivo uea-sis3-2016-1.png - necessária conversão da imagem]
 </p>
 </div>
 </div>
 
-<div id="outline-container-orgd472889" class="outline-3">
-<h3 id="orgd472889">Questão 4</h3>
-<div class="outline-text-3" id="text-orgd472889">
+<div id="outline-container-orgea3b7d7" class="outline-3">
+<h3 id="orgea3b7d7">Questão 4</h3>
+<div class="outline-text-3" id="text-orgea3b7d7">
 <p>
 [Questão com imagem dos arquivos uea-sis3-2019-2-part1.png e uea-sis3-2019-2-part2.png - necessária conversão das imagens]
 </p>
@@ -1252,13 +1252,13 @@ Usando apenas ordem de grandeza para os valores necessários (exemplo \(9 \times
 </div>
 
 
-<div id="outline-container-org69698a8" class="outline-2">
-<h2 id="org69698a8">Potencial elétrico</h2>
-<div class="outline-text-2" id="text-org69698a8">
+<div id="outline-container-org3bfddfd" class="outline-2">
+<h2 id="org3bfddfd">Potencial elétrico</h2>
+<div class="outline-text-2" id="text-org3bfddfd">
 </div>
-<div id="outline-container-orgb2cac3e" class="outline-3">
-<h3 id="orgb2cac3e">Questão 1</h3>
-<div class="outline-text-3" id="text-orgb2cac3e">
+<div id="outline-container-orgb7833e1" class="outline-3">
+<h3 id="orgb7833e1">Questão 1</h3>
+<div class="outline-text-3" id="text-orgb7833e1">
 <p>
 O potencial elétrico em um ponto é definido como:
 </p>
@@ -1267,9 +1267,9 @@ a) A força elétrica por unidade de carga    b) A energia potencial por unidade
 </div>
 </div>
 
-<div id="outline-container-org1abc5ac" class="outline-3">
-<h3 id="org1abc5ac">Questão 2</h3>
-<div class="outline-text-3" id="text-org1abc5ac">
+<div id="outline-container-orgdc9f0f7" class="outline-3">
+<h3 id="orgdc9f0f7">Questão 2</h3>
+<div class="outline-text-3" id="text-orgdc9f0f7">
 <p>
 A unidade de medida padrão para o potencial elétrico é o Volt (V), que equivale a:
 </p>
@@ -1278,18 +1278,18 @@ a) Coulomb por segundo (C/s)    b) Joule por Coulomb (J/C)    c) Newton por metr
 </div>
 </div>
 
-<div id="outline-container-orgbfeee09" class="outline-3">
-<h3 id="orgbfeee09">Questão 3</h3>
-<div class="outline-text-3" id="text-orgbfeee09">
+<div id="outline-container-orge777c25" class="outline-3">
+<h3 id="orge777c25">Questão 3</h3>
+<div class="outline-text-3" id="text-orge777c25">
 <p>
 Explique a relação entre potencial elétrico, tensão elétrica e diferença de potencial elétrica. Por que essas grandezas são consideradas sinônimos para fins didáticos?
 </p>
 </div>
 </div>
 
-<div id="outline-container-orge55f58b" class="outline-3">
-<h3 id="orge55f58b">Questão 4</h3>
-<div class="outline-text-3" id="text-orge55f58b">
+<div id="outline-container-orgb821889" class="outline-3">
+<h3 id="orgb821889">Questão 4</h3>
+<div class="outline-text-3" id="text-orgb821889">
 <p>
 Uma carga de \(2{,}0 \times 10^{-6}\,C\) possui energia potencial de \(4{,}0 \times 10^{-3}\,J\) em um determinado ponto. Qual é o potencial elétrico nesse ponto?
 </p>
@@ -1299,13 +1299,13 @@ a) 500 V    b) 1000 V    c) 1500 V    d) 2000 V    e) 2500 V
 </div>
 </div>
 
-<div id="outline-container-org90c435e" class="outline-2">
-<h2 id="org90c435e">Corrente elétrica</h2>
-<div class="outline-text-2" id="text-org90c435e">
+<div id="outline-container-orgffd0f98" class="outline-2">
+<h2 id="orgffd0f98">Corrente elétrica</h2>
+<div class="outline-text-2" id="text-orgffd0f98">
 </div>
-<div id="outline-container-org5316782" class="outline-3">
-<h3 id="org5316782">Questão 1</h3>
-<div class="outline-text-3" id="text-org5316782">
+<div id="outline-container-orgae2dcc5" class="outline-3">
+<h3 id="orgae2dcc5">Questão 1</h3>
+<div class="outline-text-3" id="text-orgae2dcc5">
 <p>
 A corrente elétrica é definida como:
 </p>
@@ -1314,9 +1314,9 @@ a) A quantidade total de cargas em um condutor    b) O fluxo orientado de carga 
 </div>
 </div>
 
-<div id="outline-container-org9c361b2" class="outline-3">
-<h3 id="org9c361b2">Questão 2</h3>
-<div class="outline-text-3" id="text-org9c361b2">
+<div id="outline-container-org1f2b194" class="outline-3">
+<h3 id="org1f2b194">Questão 2</h3>
+<div class="outline-text-3" id="text-org1f2b194">
 <p>
 Se uma carga de \(15\,C\) atravessa a seção transversal de um condutor em \(3\,s\), qual é a corrente elétrica?
 </p>
@@ -1325,9 +1325,9 @@ a) 3 A    b) 5 A    c) 12 A    d) 18 A    e) 45 A
 </div>
 </div>
 
-<div id="outline-container-orgfe097f0" class="outline-3">
-<h3 id="orgfe097f0">Questão 3</h3>
-<div class="outline-text-3" id="text-orgfe097f0">
+<div id="outline-container-org0431bc0" class="outline-3">
+<h3 id="org0431bc0">Questão 3</h3>
+<div class="outline-text-3" id="text-org0431bc0">
 <p>
 Sobre o sentido convencional da corrente elétrica, é correto afirmar que:
 </p>
@@ -1336,18 +1336,18 @@ a) É sempre o mesmo sentido do movimento dos elétrons    b) É o sentido que t
 </div>
 </div>
 
-<div id="outline-container-orgd79da36" class="outline-3">
-<h3 id="orgd79da36">Questão 4</h3>
-<div class="outline-text-3" id="text-orgd79da36">
+<div id="outline-container-org7a0a1c3" class="outline-3">
+<h3 id="org7a0a1c3">Questão 4</h3>
+<div class="outline-text-3" id="text-org7a0a1c3">
 <p>
 Explique a diferença entre corrente contínua (CC) e corrente alternada (CA). Dê exemplos de dispositivos que utilizam cada tipo de corrente.
 </p>
 </div>
 </div>
 
-<div id="outline-container-orga66ee8b" class="outline-3">
-<h3 id="orga66ee8b">Questão 5</h3>
-<div class="outline-text-3" id="text-orga66ee8b">
+<div id="outline-container-orgcfd652d" class="outline-3">
+<h3 id="orgcfd652d">Questão 5</h3>
+<div class="outline-text-3" id="text-orgcfd652d">
 <p>
 A unidade Ampère (A) equivale a:
 </p>
@@ -1357,13 +1357,13 @@ a) Joule por segundo (J/s)    b) Coulomb por segundo (C/s)    c) Volt por Ohm (V
 </div>
 </div>
 
-<div id="outline-container-org2145f9d" class="outline-2">
-<h2 id="org2145f9d">Corrente, tensão e potência (Ampère, Volt e Watt)</h2>
-<div class="outline-text-2" id="text-org2145f9d">
+<div id="outline-container-org88adeb0" class="outline-2">
+<h2 id="org88adeb0">Corrente, tensão e potência (Ampère, Volt e Watt)</h2>
+<div class="outline-text-2" id="text-org88adeb0">
 </div>
-<div id="outline-container-org052cbb3" class="outline-3">
-<h3 id="org052cbb3">Questão 1</h3>
-<div class="outline-text-3" id="text-org052cbb3">
+<div id="outline-container-orgbabfeb7" class="outline-3">
+<h3 id="orgbabfeb7">Questão 1</h3>
+<div class="outline-text-3" id="text-orgbabfeb7">
 <p>
 A potência elétrica pode ser calculada pela relação:
 </p>
@@ -1372,9 +1372,9 @@ a) P = U / I    b) P = U × I    c) P = U + I    d) P = U - I    e) P = I / U
 </div>
 </div>
 
-<div id="outline-container-org11a07fc" class="outline-3">
-<h3 id="org11a07fc">Questão 2</h3>
-<div class="outline-text-3" id="text-org11a07fc">
+<div id="outline-container-org0881812" class="outline-3">
+<h3 id="org0881812">Questão 2</h3>
+<div class="outline-text-3" id="text-org0881812">
 <p>
 Um dispositivo elétrico opera com tensão de \(220\,V\) e corrente de \(2{,}5\,A\). Qual é a potência consumida?
 </p>
@@ -1383,9 +1383,9 @@ a) 88 W    b) 222,5 W    c) 440 W    d) 550 W    e) 880 W
 </div>
 </div>
 
-<div id="outline-container-orge4c5203" class="outline-3">
-<h3 id="orge4c5203">Questão 3</h3>
-<div class="outline-text-3" id="text-orge4c5203">
+<div id="outline-container-org722ccb9" class="outline-3">
+<h3 id="org722ccb9">Questão 3</h3>
+<div class="outline-text-3" id="text-org722ccb9">
 <p>
 Analise as afirmações sobre as unidades elétricas e classifique-as como <b><b>verdadeiras (V)</b></b> ou <b><b>falsas (F)</b></b>:
 </p>
@@ -1414,18 +1414,18 @@ a) V - V - V - V - V    b) V - V - V - V - F    c) V - V - V - F - V    d) V - F
 </div>
 </div>
 
-<div id="outline-container-org2d575b7" class="outline-3">
-<h3 id="org2d575b7">Questão 4</h3>
-<div class="outline-text-3" id="text-org2d575b7">
+<div id="outline-container-org13df07c" class="outline-3">
+<h3 id="org13df07c">Questão 4</h3>
+<div class="outline-text-3" id="text-org13df07c">
 <p>
 Demonstre matematicamente que a potência elétrica \(P = U \times I\), partindo das definições de tensão (\(U = E/Q\)) e corrente (\(I = Q/t\)).
 </p>
 </div>
 </div>
 
-<div id="outline-container-org1d865ac" class="outline-3">
-<h3 id="org1d865ac">Questão 5</h3>
-<div class="outline-text-3" id="text-org1d865ac">
+<div id="outline-container-org5abfcd9" class="outline-3">
+<h3 id="org5abfcd9">Questão 5</h3>
+<div class="outline-text-3" id="text-org5abfcd9">
 <p>
 Uma lâmpada de \(60\,W\) fica ligada por \(5\) horas. Qual é a energia consumida em kWh?
 </p>
@@ -1435,13 +1435,13 @@ a) 0,3 kWh    b) 0,5 kWh    c) 1,2 kWh    d) 3,0 kWh    e) 12 kWh
 </div>
 </div>
 
-<div id="outline-container-org522f7a9" class="outline-2">
-<h2 id="org522f7a9">Associações de componentes eletrônicos</h2>
-<div class="outline-text-2" id="text-org522f7a9">
+<div id="outline-container-orgb8a326d" class="outline-2">
+<h2 id="orgb8a326d">Associações de componentes eletrônicos</h2>
+<div class="outline-text-2" id="text-orgb8a326d">
 </div>
-<div id="outline-container-orgc370270" class="outline-3">
-<h3 id="orgc370270">Questão 1</h3>
-<div class="outline-text-3" id="text-orgc370270">
+<div id="outline-container-orgb497e49" class="outline-3">
+<h3 id="orgb497e49">Questão 1</h3>
+<div class="outline-text-3" id="text-orgb497e49">
 <p>
 Em uma associação em série de componentes eletrônicos:
 </p>
@@ -1450,9 +1450,9 @@ a) A corrente se divide e a tensão é a mesma    b) A corrente é a mesma e a t
 </div>
 </div>
 
-<div id="outline-container-orgfe086be" class="outline-3">
-<h3 id="orgfe086be">Questão 2</h3>
-<div class="outline-text-3" id="text-orgfe086be">
+<div id="outline-container-org4a377aa" class="outline-3">
+<h3 id="org4a377aa">Questão 2</h3>
+<div class="outline-text-3" id="text-org4a377aa">
 <p>
 Em uma associação em paralelo de componentes eletrônicos:
 </p>
@@ -1461,18 +1461,18 @@ a) A corrente se divide e a tensão é a mesma    b) A corrente é a mesma e a t
 </div>
 </div>
 
-<div id="outline-container-org72ea9c2" class="outline-3">
-<h3 id="org72ea9c2">Questão 3</h3>
-<div class="outline-text-3" id="text-org72ea9c2">
+<div id="outline-container-org72af568" class="outline-3">
+<h3 id="org72af568">Questão 3</h3>
+<div class="outline-text-3" id="text-org72af568">
 <p>
 Compare o funcionamento de duas lâmpadas idênticas ligadas em série com o mesmo par de lâmpadas ligadas em paralelo a uma mesma fonte de tensão. Qual configuração produzirá maior brilho? Justifique sua resposta.
 </p>
 </div>
 </div>
 
-<div id="outline-container-orgf001fe6" class="outline-3">
-<h3 id="orgf001fe6">Questão 4</h3>
-<div class="outline-text-3" id="text-orgf001fe6">
+<div id="outline-container-orge797705" class="outline-3">
+<h3 id="orge797705">Questão 4</h3>
+<div class="outline-text-3" id="text-orge797705">
 <p>
 Duas lâmpadas estão ligadas em série a uma fonte de \(12\,V\). Se uma lâmpada tem tensão de \(4\,V\), qual é a tensão na outra lâmpada?
 </p>
@@ -1481,9 +1481,9 @@ a) 4 V    b) 6 V    c) 8 V    d) 12 V    e) 16 V
 </div>
 </div>
 
-<div id="outline-container-orgef169d0" class="outline-3">
-<h3 id="orgef169d0">Questão 5</h3>
-<div class="outline-text-3" id="text-orgef169d0">
+<div id="outline-container-orgd87c4eb" class="outline-3">
+<h3 id="orgd87c4eb">Questão 5</h3>
+<div class="outline-text-3" id="text-orgd87c4eb">
 <p>
 Dois resistores estão ligados em paralelo. Se a corrente total é \(6\,A\) e um dos resistores conduz \(2\,A\), qual é a corrente no outro resistor?
 </p>
@@ -1493,13 +1493,13 @@ a) 2 A    b) 3 A    c) 4 A    d) 6 A    e) 8 A
 </div>
 </div>
 
-<div id="outline-container-org14ca936" class="outline-2">
-<h2 id="org14ca936">Resistores</h2>
-<div class="outline-text-2" id="text-org14ca936">
+<div id="outline-container-orgef470f1" class="outline-2">
+<h2 id="orgef470f1">Resistores</h2>
+<div class="outline-text-2" id="text-orgef470f1">
 </div>
-<div id="outline-container-org161ab35" class="outline-3">
-<h3 id="org161ab35">Questão 1</h3>
-<div class="outline-text-3" id="text-org161ab35">
+<div id="outline-container-org39ba774" class="outline-3">
+<h3 id="org39ba774">Questão 1</h3>
+<div class="outline-text-3" id="text-org39ba774">
 <p>
 A resistência elétrica é:
 </p>
@@ -1508,9 +1508,9 @@ a) A capacidade de um material conduzir eletricidade    b) Uma propriedade dos c
 </div>
 </div>
 
-<div id="outline-container-org67cd1fe" class="outline-3">
-<h3 id="org67cd1fe">Questão 2</h3>
-<div class="outline-text-3" id="text-org67cd1fe">
+<div id="outline-container-org8210443" class="outline-3">
+<h3 id="org8210443">Questão 2</h3>
+<div class="outline-text-3" id="text-org8210443">
 <p>
 A unidade de medida da resistência elétrica é o Ohm (Ω), que equivale a:
 </p>
@@ -1519,18 +1519,18 @@ a) Volt por Ampère (V/A)    b) Ampère por Volt (A/V)    c) Watt por Volt (W/V)
 </div>
 </div>
 
-<div id="outline-container-org9106835" class="outline-3">
-<h3 id="org9106835">Questão 3</h3>
-<div class="outline-text-3" id="text-org9106835">
+<div id="outline-container-org3130026" class="outline-3">
+<h3 id="org3130026">Questão 3</h3>
+<div class="outline-text-3" id="text-org3130026">
 <p>
 Cite duas principais funções dos resistores em circuitos elétricos e explique como eles desempenham essas funções.
 </p>
 </div>
 </div>
 
-<div id="outline-container-orgc614331" class="outline-3">
-<h3 id="orgc614331">Questão 4</h3>
-<div class="outline-text-3" id="text-orgc614331">
+<div id="outline-container-orgc07a30b" class="outline-3">
+<h3 id="orgc07a30b">Questão 4</h3>
+<div class="outline-text-3" id="text-orgc07a30b">
 <p>
 Um resistor ôhmico é caracterizado por:
 </p>
@@ -1539,9 +1539,9 @@ a) Resistência que varia com a temperatura    b) Resistência constante e rela�
 </div>
 </div>
 
-<div id="outline-container-org26564c5" class="outline-3">
-<h3 id="org26564c5">Questão 5</h3>
-<div class="outline-text-3" id="text-org26564c5">
+<div id="outline-container-org4dc616a" class="outline-3">
+<h3 id="org4dc616a">Questão 5</h3>
+<div class="outline-text-3" id="text-org4dc616a">
 <p>
 Resistores não ôhmicos são caracterizados por:
 </p>
@@ -1550,9 +1550,9 @@ a) Resistência sempre constante    b) Resistência que varia, geralmente devido
 </div>
 </div>
 
-<div id="outline-container-org72919dd" class="outline-3">
-<h3 id="org72919dd">Questão 6</h3>
-<div class="outline-text-3" id="text-org72919dd">
+<div id="outline-container-orge35a41c" class="outline-3">
+<h3 id="orge35a41c">Questão 6</h3>
+<div class="outline-text-3" id="text-orge35a41c">
 <p>
 Dois resistores de \(3\,\Omega\) e \(7\,\Omega\) são ligados em série. A resistência equivalente é:
 </p>
@@ -1561,9 +1561,9 @@ a) 2,1 Ω    b) 4 Ω    c) 5 Ω    d) 10 Ω    e) 21 Ω
 </div>
 </div>
 
-<div id="outline-container-orgdf05637" class="outline-3">
-<h3 id="orgdf05637">Questão 7</h3>
-<div class="outline-text-3" id="text-orgdf05637">
+<div id="outline-container-org0d2e2f6" class="outline-3">
+<h3 id="org0d2e2f6">Questão 7</h3>
+<div class="outline-text-3" id="text-org0d2e2f6">
 <p>
 Dois resistores de \(6\,\Omega\) cada um são ligados em paralelo. A resistência equivalente é:
 </p>
@@ -1572,9 +1572,9 @@ a) 3 Ω    b) 6 Ω    c) 12 Ω    d) 18 Ω    e) 36 Ω
 </div>
 </div>
 
-<div id="outline-container-orge626611" class="outline-3">
-<h3 id="orge626611">Questão 8</h3>
-<div class="outline-text-3" id="text-orge626611">
+<div id="outline-container-org75431b3" class="outline-3">
+<h3 id="org75431b3">Questão 8</h3>
+<div class="outline-text-3" id="text-org75431b3">
 <p>
 Três resistores de \(2\,\Omega\), \(4\,\Omega\) e \(6\,\Omega\) são ligados em série. A resistência equivalente é:
 </p>
@@ -1583,9 +1583,9 @@ a) 1,09 Ω    b) 4 Ω    c) 8 Ω    d) 12 Ω    e) 48 Ω
 </div>
 </div>
 
-<div id="outline-container-org9ae296b" class="outline-3">
-<h3 id="org9ae296b">Questão 9</h3>
-<div class="outline-text-3" id="text-org9ae296b">
+<div id="outline-container-org7a617a5" class="outline-3">
+<h3 id="org7a617a5">Questão 9</h3>
+<div class="outline-text-3" id="text-org7a617a5">
 <p>
 Três resistores de \(3\,\Omega\), \(6\,\Omega\) e \(9\,\Omega\) são ligados em paralelo. A resistência equivalente é aproximadamente:
 </p>
@@ -1594,9 +1594,9 @@ a) 1,6 Ω    b) 3,0 Ω    c) 6,0 Ω    d) 9,0 Ω    e) 18,0 Ω
 </div>
 </div>
 
-<div id="outline-container-org4285a7f" class="outline-3">
-<h3 id="org4285a7f">Questão 10</h3>
-<div class="outline-text-3" id="text-org4285a7f">
+<div id="outline-container-orgd64fd2c" class="outline-3">
+<h3 id="orgd64fd2c">Questão 10</h3>
+<div class="outline-text-3" id="text-orgd64fd2c">
 <p>
 Analise o comportamento da resistência equivalente quando resistores são associados em série versus em paralelo. Explique por que a resistência equivalente em série é sempre maior que qualquer resistor individual, enquanto em paralelo é sempre menor.
 </p>
@@ -1605,13 +1605,13 @@ Analise o comportamento da resistência equivalente quando resistores são assoc
 </div>
 
 
-<div id="outline-container-org9d3ae8b" class="outline-2">
-<h2 id="org9d3ae8b">Grandezas e unidades de medida</h2>
-<div class="outline-text-2" id="text-org9d3ae8b">
+<div id="outline-container-org71a6fe8" class="outline-2">
+<h2 id="org71a6fe8">Grandezas e unidades de medida</h2>
+<div class="outline-text-2" id="text-org71a6fe8">
 </div>
-<div id="outline-container-org495d857" class="outline-3">
-<h3 id="org495d857">Questão 1</h3>
-<div class="outline-text-3" id="text-org495d857">
+<div id="outline-container-orgd9a33b4" class="outline-3">
+<h3 id="orgd9a33b4">Questão 1</h3>
+<div class="outline-text-3" id="text-orgd9a33b4">
 <p>
 Relacione as grandezas físicas da coluna A com suas respectivas unidades de medida (símbolos) na coluna B.
 </p>
@@ -1672,9 +1672,9 @@ a) 1-b, 2-a, 3-f, 4-c, 5-d, 6-g, 7-e    b) 1-a, 2-b, 3-c, 4-d, 5-e, 6-f, 7-g    
 </div>
 </div>
 
-<div id="outline-container-org07f33ab" class="outline-3">
-<h3 id="org07f33ab">Questão 2</h3>
-<div class="outline-text-3" id="text-org07f33ab">
+<div id="outline-container-org789d484" class="outline-3">
+<h3 id="org789d484">Questão 2</h3>
+<div class="outline-text-3" id="text-org789d484">
 <p>
 Um líquido possui volume de \(500\,mL\) e massa de \(600\,g\).
 </p>
@@ -1689,9 +1689,9 @@ b) Calcule o valor dessa grandeza e indique a unidade de medida adequada.
 </div>
 </div>
 
-<div id="outline-container-orgdf2e43f" class="outline-3">
-<h3 id="orgdf2e43f">Questão 3</h3>
-<div class="outline-text-3" id="text-orgdf2e43f">
+<div id="outline-container-orgbc1a6ae" class="outline-3">
+<h3 id="orgbc1a6ae">Questão 3</h3>
+<div class="outline-text-3" id="text-orgbc1a6ae">
 <p>
 Imagine uma situação em que um automóvel se mova de modo totalmente uniforme, durante \(2\,h\) e percorra uma distância de \(140\,km\).
 </p>
@@ -1707,13 +1707,13 @@ b) Calcule essa grandeza, indicando a sua unidade de medida.
 </div>
 </div>
 
-<div id="outline-container-org74d12ea" class="outline-2">
-<h2 id="org74d12ea">Proporcionalidade</h2>
-<div class="outline-text-2" id="text-org74d12ea">
+<div id="outline-container-org5f7879e" class="outline-2">
+<h2 id="org5f7879e">Proporcionalidade</h2>
+<div class="outline-text-2" id="text-org5f7879e">
 </div>
-<div id="outline-container-org679d7da" class="outline-3">
-<h3 id="org679d7da">Questão 1</h3>
-<div class="outline-text-3" id="text-org679d7da">
+<div id="outline-container-org3ce56b8" class="outline-3">
+<h3 id="org3ce56b8">Questão 1</h3>
+<div class="outline-text-3" id="text-org3ce56b8">
 <p>
 a) Se um carro percorre \(60\) metros em \(3\) segundos com velocidade constante, qual seria a distância percorrida em \(7\) segundos? Use o conceito de proporcionalidade direta para resolver.
 </p>
@@ -1728,9 +1728,9 @@ c) Construa um gráfico a partir da tabela do item anterior.
 </div>
 </div>
 
-<div id="outline-container-org1f30933" class="outline-3">
-<h3 id="org1f30933">Questão 2</h3>
-<div class="outline-text-3" id="text-org1f30933">
+<div id="outline-container-orgad22936" class="outline-3">
+<h3 id="orgad22936">Questão 2</h3>
+<div class="outline-text-3" id="text-orgad22936">
 <p>
 Se o carro agora muda sua velocidade, conforme a tabela abaixo:
 </p>
@@ -1786,9 +1786,9 @@ c) Qual é o valor e a unidade de medida da constante de proporcionalidade desse
 </div>
 </div>
 
-<div id="outline-container-org17758d5" class="outline-3">
-<h3 id="org17758d5">Questão 3</h3>
-<div class="outline-text-3" id="text-org17758d5">
+<div id="outline-container-org28dd62b" class="outline-3">
+<h3 id="org28dd62b">Questão 3</h3>
+<div class="outline-text-3" id="text-org28dd62b">
 <p>
 a) Se um carro leva \(12\) segundos para percorrer uma distância fixa a uma velocidade de \(5\,m/s\), quanto tempo levaria se a velocidade aumentasse para \(15\,m/s\)? Use o conceito de proporcionalidade inversa.
 </p>
@@ -1799,9 +1799,9 @@ b) Construa uma tabela considerando variações de \(5\,m/s\) em \(5\,m/s\) no v
 </div>
 </div>
 
-<div id="outline-container-orgfb53745" class="outline-3">
-<h3 id="orgfb53745">Questão 4</h3>
-<div class="outline-text-3" id="text-orgfb53745">
+<div id="outline-container-orgba15ba4" class="outline-3">
+<h3 id="orgba15ba4">Questão 4</h3>
+<div class="outline-text-3" id="text-orgba15ba4">
 <p>
 Um muro pode ser construído por \(6\) pedreiros em \(9\) horas. Se o número de pedreiros for aumentado para \(12\), quanto tempo será necessário para construir o mesmo muro, mantendo-se a mesma eficiência de trabalho?
 </p>
@@ -1811,13 +1811,13 @@ a) 3,5 horas    b) 4,5 horas    c) 6,0 horas    d) 7,5 horas    e) 18 horas
 </div>
 </div>
 
-<div id="outline-container-org901dd51" class="outline-2">
-<h2 id="org901dd51">Cinemática - conceitos iniciais</h2>
-<div class="outline-text-2" id="text-org901dd51">
+<div id="outline-container-orge4a2aed" class="outline-2">
+<h2 id="orge4a2aed">Cinemática - conceitos iniciais</h2>
+<div class="outline-text-2" id="text-orge4a2aed">
 </div>
-<div id="outline-container-org623a609" class="outline-3">
-<h3 id="org623a609">Questão 1</h3>
-<div class="outline-text-3" id="text-org623a609">
+<div id="outline-container-orge00082f" class="outline-3">
+<h3 id="orge00082f">Questão 1</h3>
+<div class="outline-text-3" id="text-orge00082f">
 <p>
 Em cinemática, o referencial é um conceito fundamental para descrever o movimento. O referencial pode ser definido como:
 </p>
@@ -1826,9 +1826,9 @@ a) A velocidade de um objeto em movimento    b) O ponto de referência (ponto ze
 </div>
 </div>
 
-<div id="outline-container-org6f84b4a" class="outline-3">
-<h3 id="org6f84b4a">Questão 2</h3>
-<div class="outline-text-3" id="text-org6f84b4a">
+<div id="outline-container-org0e97d39" class="outline-3">
+<h3 id="org0e97d39">Questão 2</h3>
+<div class="outline-text-3" id="text-org0e97d39">
 <p>
 A diferença entre posição e deslocamento é que:
 </p>
@@ -1837,9 +1837,9 @@ a) Posição e deslocamento são sinônimos em Física    b) Posição é a loca
 </div>
 </div>
 
-<div id="outline-container-org2cc94eb" class="outline-3">
-<h3 id="org2cc94eb">Questão 3</h3>
-<div class="outline-text-3" id="text-org2cc94eb">
+<div id="outline-container-org6ae9fa1" class="outline-3">
+<h3 id="org6ae9fa1">Questão 3</h3>
+<div class="outline-text-3" id="text-org6ae9fa1">
 <p>
 Observe a imagem e julgue as afirmações abaixo como <b><b>verdadeiras (V)</b></b> ou <b><b>falsas (F)</b></b>:
 </p>
@@ -1868,9 +1868,9 @@ a) V - V - V - F - V    b) V - F - V - F - V    c) V - V - V - F - F    d) F - V
 </div>
 </div>
 
-<div id="outline-container-org018fe88" class="outline-3">
-<h3 id="org018fe88">Questão 4</h3>
-<div class="outline-text-3" id="text-org018fe88">
+<div id="outline-container-orga38a0a7" class="outline-3">
+<h3 id="orga38a0a7">Questão 4</h3>
+<div class="outline-text-3" id="text-orga38a0a7">
 <p>
 Quando há uma variação de velocidade de um objeto, seja aumento ou redução, podemos afirmar que:
 </p>
@@ -1880,13 +1880,13 @@ a) O objeto está em repouso    b) Existe uma aceleração    c) A força result
 </div>
 </div>
 
-<div id="outline-container-org31f6203" class="outline-2">
-<h2 id="org31f6203">Velocidade</h2>
-<div class="outline-text-2" id="text-org31f6203">
+<div id="outline-container-orgd61a0ac" class="outline-2">
+<h2 id="orgd61a0ac">Velocidade</h2>
+<div class="outline-text-2" id="text-orgd61a0ac">
 </div>
-<div id="outline-container-orgd10a500" class="outline-3">
-<h3 id="orgd10a500">Questão 1</h3>
-<div class="outline-text-3" id="text-orgd10a500">
+<div id="outline-container-org6708e30" class="outline-3">
+<h3 id="org6708e30">Questão 1</h3>
+<div class="outline-text-3" id="text-org6708e30">
 <p>
 Um carro se desloca de uma posição \(S_0 = -10\,m\) para uma posição final \(S_f = -5\,m\) em um intervalo de tempo de \(2\) segundos. A velocidade média deste carro foi de:
 </p>
@@ -1895,9 +1895,9 @@ a) 7,5 m/s    b) -2,5 m/s    c) 2,5 m/s    d) -7,5 m/s    e) 0 m/s
 </div>
 </div>
 
-<div id="outline-container-org7986c8c" class="outline-3">
-<h3 id="org7986c8c">Questão 2</h3>
-<div class="outline-text-3" id="text-org7986c8c">
+<div id="outline-container-org4f59c0d" class="outline-3">
+<h3 id="org4f59c0d">Questão 2</h3>
+<div class="outline-text-3" id="text-org4f59c0d">
 <p>
 Considere as imagens obtidas em dois instantes: a primeira em \(t = 10\,s\) e a segunda em \(t = 20\,s\). Com base nas posições dos veículos nos dois momentos, classifique as afirmações como <b><b>verdadeiras (V)</b></b> ou <b><b>falsas (F)</b></b>:
 </p>
@@ -1926,9 +1926,9 @@ a) V - V - V - F - V    b) V - F - V - V - F    c) F - F - V - V - F    d) V - F
 </div>
 </div>
 
-<div id="outline-container-orgbbcbb1c" class="outline-3">
-<h3 id="orgbbcbb1c">Questão 3</h3>
-<div class="outline-text-3" id="text-orgbbcbb1c">
+<div id="outline-container-org159bfae" class="outline-3">
+<h3 id="org159bfae">Questão 3</h3>
+<div class="outline-text-3" id="text-org159bfae">
 <p>
 A velocidade é definida como:
 </p>
@@ -1937,9 +1937,9 @@ a) A força aplicada sobre um objeto    b) A massa de um corpo em movimento    c
 </div>
 </div>
 
-<div id="outline-container-org9590afb" class="outline-3">
-<h3 id="org9590afb">Questão 4</h3>
-<div class="outline-text-3" id="text-org9590afb">
+<div id="outline-container-orgccd805c" class="outline-3">
+<h3 id="orgccd805c">Questão 4</h3>
+<div class="outline-text-3" id="text-orgccd805c">
 <p>
 Um carro move-se com velocidade constante de \(v = 12\,m/s\). No instante \(t = 5\,s\), ele se encontra na posição \(s = 18\,m\). Qual era sua posição no instante \(t = 0\,s\), considerando movimento retilíneo uniforme?
 </p>
@@ -1949,13 +1949,13 @@ a) -60 m    b) -42 m    c) -12 m    d) -6 m    e) -18 m
 </div>
 </div>
 
-<div id="outline-container-org9ddd649" class="outline-2">
-<h2 id="org9ddd649">Aceleração</h2>
-<div class="outline-text-2" id="text-org9ddd649">
+<div id="outline-container-org18a0b64" class="outline-2">
+<h2 id="org18a0b64">Aceleração</h2>
+<div class="outline-text-2" id="text-org18a0b64">
 </div>
-<div id="outline-container-orgce17648" class="outline-3">
-<h3 id="orgce17648">Questão 1</h3>
-<div class="outline-text-3" id="text-orgce17648">
+<div id="outline-container-orge30659f" class="outline-3">
+<h3 id="orge30659f">Questão 1</h3>
+<div class="outline-text-3" id="text-orge30659f">
 <p>
 O gráfico mostra a velocidade de um carro em dois instantes: \(v_1 = 10\,m/s\) no tempo \(t_1 = 2\,s\), e \(v_2 = 40\,m/s\) no tempo \(t_2 = 7\,s\). Qual foi a aceleração média do carro nesse intervalo?
 </p>
@@ -1964,9 +1964,9 @@ a) 4 m/s²    b) 6 m/s²    c) 8 m/s²    d) 10 m/s²    e) 12 m/s²
 </div>
 </div>
 
-<div id="outline-container-orgeab40b5" class="outline-3">
-<h3 id="orgeab40b5">Questão 2</h3>
-<div class="outline-text-3" id="text-orgeab40b5">
+<div id="outline-container-org89ae788" class="outline-3">
+<h3 id="org89ae788">Questão 2</h3>
+<div class="outline-text-3" id="text-org89ae788">
 <p>
 Um carro percorre uma trajetória retilínea com aceleração constante. No instante \(t = 2\,s\), sua velocidade é \(10\,m/s\), e no instante \(t = 7\,s\), sua velocidade é \(40\,m/s\). Com base nessas informações, qual era a velocidade do carro no instante \(t = 0\,s\)?
 </p>
@@ -1976,13 +1976,13 @@ a) 0 m/s    b) -10 m/s    c) -2 m/s    d) 2 m/s    e) -5 m/s
 </div>
 </div>
 
-<div id="outline-container-org3992267" class="outline-2">
-<h2 id="org3992267">Primeira Lei de Newton</h2>
-<div class="outline-text-2" id="text-org3992267">
+<div id="outline-container-orgb1368e9" class="outline-2">
+<h2 id="orgb1368e9">Primeira Lei de Newton</h2>
+<div class="outline-text-2" id="text-orgb1368e9">
 </div>
-<div id="outline-container-org57bf84d" class="outline-3">
-<h3 id="org57bf84d">Questão 1</h3>
-<div class="outline-text-3" id="text-org57bf84d">
+<div id="outline-container-orga619284" class="outline-3">
+<h3 id="orga619284">Questão 1</h3>
+<div class="outline-text-3" id="text-orga619284">
 <p>
 O conceito de inércia pode ser descrito como:
 </p>
@@ -1991,9 +1991,9 @@ a) A capacidade de um objeto acelerar rapidamente    b) A "preguiça" que objeto
 </div>
 </div>
 
-<div id="outline-container-org1ea50e3" class="outline-3">
-<h3 id="org1ea50e3">Questão 2</h3>
-<div class="outline-text-3" id="text-org1ea50e3">
+<div id="outline-container-org8aef67d" class="outline-3">
+<h3 id="org8aef67d">Questão 2</h3>
+<div class="outline-text-3" id="text-org8aef67d">
 <p>
 Sobre a relação entre massa e inércia, é correto afirmar que:
 </p>
@@ -2002,9 +2002,9 @@ a) Quanto menor a massa, maior a inércia    b) Massa e inércia são grandezas 
 </div>
 </div>
 
-<div id="outline-container-org2d8dc13" class="outline-3">
-<h3 id="org2d8dc13">Questão 3</h3>
-<div class="outline-text-3" id="text-org2d8dc13">
+<div id="outline-container-org9288dbd" class="outline-3">
+<h3 id="org9288dbd">Questão 3</h3>
+<div class="outline-text-3" id="text-org9288dbd">
 <p>
 Os referenciais inerciais são aqueles que:
 </p>
@@ -2013,9 +2013,9 @@ a) Estão sempre em movimento acelerado    b) Respeitam a Primeira Lei de Newton
 </div>
 </div>
 
-<div id="outline-container-org0689e3a" class="outline-3">
-<h3 id="org0689e3a">Questão 4</h3>
-<div class="outline-text-3" id="text-org0689e3a">
+<div id="outline-container-org9bb6897" class="outline-3">
+<h3 id="org9bb6897">Questão 4</h3>
+<div class="outline-text-3" id="text-org9bb6897">
 <p>
 Quando uma pessoa está dentro de um automóvel que faz uma curva, ela sente uma força para fora da curva. Essa força:
 </p>
@@ -2025,13 +2025,13 @@ a) É uma força real que atua sobre a pessoa    b) É chamada de força centrí
 </div>
 </div>
 
-<div id="outline-container-org3f9fdf1" class="outline-2">
-<h2 id="org3f9fdf1">Segunda Lei de Newton</h2>
-<div class="outline-text-2" id="text-org3f9fdf1">
+<div id="outline-container-org255da35" class="outline-2">
+<h2 id="org255da35">Segunda Lei de Newton</h2>
+<div class="outline-text-2" id="text-org255da35">
 </div>
-<div id="outline-container-orgb87756c" class="outline-3">
-<h3 id="orgb87756c">Questão 1</h3>
-<div class="outline-text-3" id="text-orgb87756c">
+<div id="outline-container-orge4eecfb" class="outline-3">
+<h3 id="orge4eecfb">Questão 1</h3>
+<div class="outline-text-3" id="text-orge4eecfb">
 <p>
 A fórmula matemática que representa a Segunda Lei de Newton pode ser escrita como:
 </p>
@@ -2040,9 +2040,9 @@ a) F = mv    b) F = ma    c) a = F/m    d) Tanto b quanto c estão corretas    e
 </div>
 </div>
 
-<div id="outline-container-orgb859249" class="outline-3">
-<h3 id="orgb859249">Questão 2</h3>
-<div class="outline-text-3" id="text-orgb859249">
+<div id="outline-container-orge384fb0" class="outline-3">
+<h3 id="orge384fb0">Questão 2</h3>
+<div class="outline-text-3" id="text-orge384fb0">
 <p>
 A Segunda Lei de Newton, conhecida como Princípio Fundamental da Dinâmica, estabelece que:
 </p>
@@ -2051,9 +2051,9 @@ a) A velocidade é sempre mantida por uma força    b) A aceleração de um obje
 </div>
 </div>
 
-<div id="outline-container-org4d023c3" class="outline-3">
-<h3 id="org4d023c3">Questão 3</h3>
-<div class="outline-text-3" id="text-org4d023c3">
+<div id="outline-container-orgc2f078a" class="outline-3">
+<h3 id="orgc2f078a">Questão 3</h3>
+<div class="outline-text-3" id="text-orgc2f078a">
 <p>
 Se a força resultante sobre um objeto dobrar e sua massa permanecer a mesma, sua aceleração:
 </p>
@@ -2062,9 +2062,9 @@ a) Permanecerá a mesma    b) Será reduzida pela metade    c) Dobrará    d) Se
 </div>
 </div>
 
-<div id="outline-container-orge4805fa" class="outline-3">
-<h3 id="orge4805fa">Questão 4</h3>
-<div class="outline-text-3" id="text-orge4805fa">
+<div id="outline-container-org985b124" class="outline-3">
+<h3 id="org985b124">Questão 4</h3>
+<div class="outline-text-3" id="text-org985b124">
 <p>
 Um corpo de massa \(\frac{1}{3}\,kg\) sofre uma aceleração de \(12\,m/s²\) ao ser empurrado por uma força horizontal constante. Qual é o valor da força aplicada?
 </p>
@@ -2073,9 +2073,9 @@ a) 3 N    b) 4 N    c) 5 N    d) 6 N    e) 8 N
 </div>
 </div>
 
-<div id="outline-container-org3368075" class="outline-3">
-<h3 id="org3368075">Questão 5</h3>
-<div class="outline-text-3" id="text-org3368075">
+<div id="outline-container-orga573604" class="outline-3">
+<h3 id="orga573604">Questão 5</h3>
+<div class="outline-text-3" id="text-orga573604">
 <p>
 O gráfico Força × Aceleração apresenta duas retas: uma vermelha representando o corpo A e outra azul representando o corpo B. Com base no gráfico e na Segunda Lei de Newton, é correto afirmar que:
 </p>
@@ -2085,13 +2085,13 @@ a) Ambos os corpos possuem a mesma massa, pois as retas são paralelas    b) O c
 </div>
 </div>
 
-<div id="outline-container-org9d3b4c4" class="outline-2">
-<h2 id="org9d3b4c4">Terceira Lei de Newton</h2>
-<div class="outline-text-2" id="text-org9d3b4c4">
+<div id="outline-container-org9aca88d" class="outline-2">
+<h2 id="org9aca88d">Terceira Lei de Newton</h2>
+<div class="outline-text-2" id="text-org9aca88d">
 </div>
-<div id="outline-container-org1833100" class="outline-3">
-<h3 id="org1833100">Questão 1</h3>
-<div class="outline-text-3" id="text-org1833100">
+<div id="outline-container-org4d3f687" class="outline-3">
+<h3 id="org4d3f687">Questão 1</h3>
+<div class="outline-text-3" id="text-org4d3f687">
 <p>
 A Terceira Lei de Newton, conhecida como Lei da Ação e Reação, afirma que:
 </p>
@@ -2100,9 +2100,9 @@ a) A força é proporcional à massa    b) Sempre que um objeto exerce uma forç
 </div>
 </div>
 
-<div id="outline-container-orgd5a0f0f" class="outline-3">
-<h3 id="orgd5a0f0f">Questão 2</h3>
-<div class="outline-text-3" id="text-orgd5a0f0f">
+<div id="outline-container-org1d1d6a4" class="outline-3">
+<h3 id="org1d1d6a4">Questão 2</h3>
+<div class="outline-text-3" id="text-org1d1d6a4">
 <p>
 Sobre as forças de ação e reação, é correto afirmar que elas:
 </p>
@@ -2111,9 +2111,9 @@ a) Atuam no mesmo objeto    b) Têm o mesmo módulo e orientação oposta, atuan
 </div>
 </div>
 
-<div id="outline-container-orgaa4f088" class="outline-3">
-<h3 id="orgaa4f088">Questão 3</h3>
-<div class="outline-text-3" id="text-orgaa4f088">
+<div id="outline-container-org8c922e7" class="outline-3">
+<h3 id="org8c922e7">Questão 3</h3>
+<div class="outline-text-3" id="text-org8c922e7">
 <p>
 Analise as afirmações a seguir com base na Terceira Lei de Newton (ação e reação):
 </p>
@@ -2143,22 +2143,22 @@ a) V - V - F - V - V    b) V - F - F - V - V    c) F - V - F - V - F    d) V - V
 </div>
 </div>
 
-<div id="outline-container-org6df3fa0" class="outline-2">
-<h2 id="org6df3fa0">Questões integradas de dinâmica</h2>
-<div class="outline-text-2" id="text-org6df3fa0">
+<div id="outline-container-org4896314" class="outline-2">
+<h2 id="org4896314">Questões integradas de dinâmica</h2>
+<div class="outline-text-2" id="text-org4896314">
 </div>
-<div id="outline-container-org683d12c" class="outline-3">
-<h3 id="org683d12c">Questão 1</h3>
-<div class="outline-text-3" id="text-org683d12c">
+<div id="outline-container-orge7e5f9e" class="outline-3">
+<h3 id="orge7e5f9e">Questão 1</h3>
+<div class="outline-text-3" id="text-orge7e5f9e">
 <p>
 Explique qual é a diferença entre força centrípeta e força centrífuga. Dê exemplos.
 </p>
 </div>
 </div>
 
-<div id="outline-container-org0835368" class="outline-3">
-<h3 id="org0835368">Questão 2</h3>
-<div class="outline-text-3" id="text-org0835368">
+<div id="outline-container-org0a3d906" class="outline-3">
+<h3 id="org0a3d906">Questão 2</h3>
+<div class="outline-text-3" id="text-org0a3d906">
 <p>
 Duas pessoas puxam uma caixa com forças de \(10\,N\) e \(15\,N\) em direções opostas. A força resultante sobre a caixa é:
 </p>
@@ -2167,9 +2167,9 @@ a) 25 N    b) 5 N    c) 0 N    d) 150 N    e) 12,5 N
 </div>
 </div>
 
-<div id="outline-container-org5015756" class="outline-3">
-<h3 id="org5015756">Questão 3</h3>
-<div class="outline-text-3" id="text-org5015756">
+<div id="outline-container-org83a0539" class="outline-3">
+<h3 id="org83a0539">Questão 3</h3>
+<div class="outline-text-3" id="text-org83a0539">
 <p>
 A força resultante pode ser definida como:
 </p>

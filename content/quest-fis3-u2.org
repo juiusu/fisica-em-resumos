@@ -1,3 +1,5 @@
+#+OPTIONS: toc:2
+
 * Física 3 - Exercícios e problemas - Unidade 2
 
 ** tensão = energia por carga (\(U = \frac{E}{q}\))
@@ -208,12 +210,12 @@ a) 0,1 \(\Omega\)     &nbsp;&nbsp;&nbsp;  b) 1,0 \(\Omega\)     &nbsp; &nbsp;&nb
 
 *** Questão 5 (figura 5)
 
-*** Questão 6 (figura 4)
+*** Questão 6 (figura 5)
 Qual a corrente estabelecida no circuito da figura 4, se a tensão
 elétrica for de \(10\,v\)?
 
 
-*** Questão 7 (figura 4)
+*** Questão 7 (figura 5)
 
 Calcule:
 
@@ -227,6 +229,84 @@ c) A potência dissipada no resistor \(R_2\)
 
 ** Questões integradas e questões de vestibulares
 
-*** Questão 1 -
+*** Questão 1 - PSC-3-2023
 
-[[file:q47-psc-3-2023.png]]
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+  </p>
+  <img src="./psc-pngs/q46-psc-3-2023.png"
+       alt="questão 46 psc 3 2023"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+*** Questão 2 - PSC-3-2023
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+  </p>
+  <img src="./psc-pngs/q47-psc-3-2023.png"
+       alt="questão 47 psc 3 2023"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+*** Questão 3 - SIS2-2024
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+  </p>
+  <img src="./uea-pngs/q49-sis2-2024.png"
+       alt="questão 49 sis 2 2024"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+*** Quetão 4 - OBF-2023
+
+O circuito da figura mostra quatro lâmpadas iguais, idêntica pelas letras P, Q, R e S, todas
+acesas, conectadas a uma fonte de corrente contínua E. Se a lâmpada Q é desconectada, qual
+das seguintes afirmações é verdadeira?
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+  </p>
+  <img src="./pictures/q9-obf-2023.png"
+       alt="figura circuito - fontes e lâmpadas"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+a) As lâmpadas P, R e S permanecem igualmente brilhantes.
+
+b) A lâmpada P é mais brilhante do que antes, mas não tão brilhante do que R e S são
+agora.
+
+c) A lâmpada P é menos brilhante do que antes, e não tão brilhante do que R e S são agora.
+
+d) A lâmpada P é mais brilhante do que antes, e também mais brilhante do que R e S são
+agora.
+
+e) A lâmpada P é menos brilhante do que antes, mas mais brilhante do que R e S são agora.

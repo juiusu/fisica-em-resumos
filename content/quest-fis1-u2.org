@@ -1,4 +1,4 @@
-#+OPTIONS: toc:t
+#+OPTIONS: toc:2
 
 * Física I - Exercícios, problemas - Unidade II
 
