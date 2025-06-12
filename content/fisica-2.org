@@ -466,9 +466,227 @@ Um dissipador de calor proporcciona uma grande área de ruperfície para convec�
 
 ** A primeira Lei da Termodinâmica
 
-* Óptica
-
 * Ondas
+
+** Visão geral
+
+Ondas estão presentes de diversas formas na natureza. De um modo
+geral, podemos classificá-las como
+
+- ondas de matéria
+
+  - som
+
+  - ondas na superfícia da água
+
+  - ondas sísmicas
+
+- ondas de campo
+
+  - Ondas eletromagnéticas
+
+  - Ondas gravitacionais
+
+
+** Movimento periódico
+
+um movimento que se repete, 
+
+- Caracterizado por
+
+  - período \(T\);
+
+  - frequência \(f\);
+
+  - Amplitude \(A\).
+
+Exemplos: movimento circular uniforme, pêndulo simples
+  
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+O movimento de um satélite em órbita pode ser um exemplo de movimento circular uniforme.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Uniform-circular-motion-frames.svg"
+       alt="satélite em órbita circular"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Uniform-circular-motion-frames.svg">MikeRun</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Um pêndulo simples é um exemplo de movimento periódico.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Pendulum-no-text.gif"
+       alt="animação pêndulo simples"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Pendulum-no-text.gif">Stündle (modification Ideophagous)</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
+
+** Conceito de onda
+
+
+Uma onda é um movimento periódico que se propaga.
+
+Exemplo: onda em uma corda
+
+- caracterizado por:
+
+  - Período \(T\)
+
+  - Frequência \(f\)
+
+  - Amplitude \(A\)
+
+  - Comprimento de onda \(\lambda\)
+
+  - Velocidade \( v\)
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Comparação entre uma onda numa corda e um movimento periódico.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Simple_harmonic_motion_animation.gif"
+       alt="Composição de MHS e onda"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Simple_harmonic_motion_animation.gif">User:Evil_saltine</a>, Public domain, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+** Caracterização de ondas
+
+*** Ondas longitudinais
+- Definição: Direção de propagação paralela à direção de oscilação
+
+- Exemplos:
+
+  - Ondas sonoras
+
+*** Ondas transversais
+
+- Definição: Direção de propagação perpendicular à direção de oscilação
+
+- Exemplos:
+
+  - Ondas em uma corda
+
+  - Ondas eletromagnéticas
+
+*** Ondas estacionárias
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Ondas estacionárias em uma corda.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Standing_waves_on_a_string.gif"
+       alt="Ondas estacionárias"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Standing_waves_on_a_string.gif">Adjwilley</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+*** Ondas unidimensionais
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Standing_wave.gif"
+       alt="Condas estacionárias e unidimensionais"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Standing_wave.gif">Lucas Vieira</a>, Public domain, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+*** Ondas bidimensionais
+
+- Superfícia da água
+
+- na pele de um tambor
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Onda superficial em uma
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/2006-01-14_Surface_waves.jpg"
+       alt="onda superficial"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:2006-01-14_Surface_waves.jpg">Roger McLassus</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Ondas bidimensionais estacionárias, por exemplo, na pele de um tambor - modo fundamental de vibração.
+  </p>
+  <img src=" "
+       alt="onda estacionária bidimensional modo fundamental"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Drum_vibration_mode01.gif">Oleg Alexandrov</a>, Public domain, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Ondas bidimensionais estacionárias, por exemplo, na pele de um tambor - segundo modo de vibração.
+  </p>
+  <img src="https://commons.wikimedia.org/wiki/File:Drum_vibration_mode21.gif"
+       alt="onda estacionária bidimensional - segundo modo"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Drum_vibration_mode21.gif">Oleg Alexandrov</a>, Public domain, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+*** Ondas tridimensionais
+
+
+- Ondas eletromagnéticas (luz, rádio, ifravermelho)
+
+- Ondas sonoras
+
+* Óptica
 
 * Exercícios e Problemas
 

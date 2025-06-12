@@ -36,17 +36,17 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-org4c06a6e" class="outline-2">
-<h2 id="org4c06a6e">Banco de Questões de Física - Mecânica</h2>
-<div class="outline-text-2" id="text-org4c06a6e">
+<div id="outline-container-org13c7ef4" class="outline-2">
+<h2 id="org13c7ef4">Banco de Questões de Física - Mecânica</h2>
+<div class="outline-text-2" id="text-org13c7ef4">
 </div>
-<div id="outline-container-org38b696c" class="outline-3">
-<h3 id="org38b696c">Questões de Cinemática</h3>
-<div class="outline-text-3" id="text-org38b696c">
+<div id="outline-container-orgf2788f8" class="outline-3">
+<h3 id="orgf2788f8">Questões de Cinemática</h3>
+<div class="outline-text-3" id="text-orgf2788f8">
 </div>
-<div id="outline-container-orge55289c" class="outline-4">
-<h4 id="orge55289c">Questão 1</h4>
-<div class="outline-text-4" id="text-orge55289c">
+<div id="outline-container-org113cee2" class="outline-4">
+<h4 id="org113cee2">Questão 1</h4>
+<div class="outline-text-4" id="text-org113cee2">
 <p>
 Em Cinemática, o referencial é um conceito fundamental para descrever o movimento. O referencial pode ser definido como:
 </p>
@@ -69,9 +69,9 @@ d) A aceleração de um objeto durante seu deslocamento.
 </div>
 </div>
 
-<div id="outline-container-org57324e4" class="outline-4">
-<h4 id="org57324e4">Questão 2</h4>
-<div class="outline-text-4" id="text-org57324e4">
+<div id="outline-container-orgeff8fac" class="outline-4">
+<h4 id="orgeff8fac">Questão 2</h4>
+<div class="outline-text-4" id="text-orgeff8fac">
 <p>
 Um carro se desloca de uma posição \(S_0 = -10 m\) para uma posição final \(S_f = -5 m\) em um intervalo de tempo de 2 segundos. A velocidade média deste carro foi de:
 </p>
@@ -83,9 +83,9 @@ a) 7,5 m/s    b) -2,5 m/s    c) 2,5 m/s    d) -7,5 m/s
 </div>
 
 
-<div id="outline-container-org16acba4" class="outline-4">
-<h4 id="org16acba4">Questão 3</h4>
-<div class="outline-text-4" id="text-org16acba4">
+<div id="outline-container-org98348d2" class="outline-4">
+<h4 id="org98348d2">Questão 3</h4>
+<div class="outline-text-4" id="text-org98348d2">
 <p>
 A diferença entre posição e deslocamento é que:
 </p>
@@ -108,9 +108,9 @@ d) Posição depende do tempo, mas deslocamento não.
 </div>
 </div>
 
-<div id="outline-container-orgad965c8" class="outline-4">
-<h4 id="orgad965c8">Questão 4</h4>
-<div class="outline-text-4" id="text-orgad965c8">
+<div id="outline-container-org07c6b39" class="outline-4">
+<h4 id="org07c6b39">Questão 4</h4>
+<div class="outline-text-4" id="text-org07c6b39">
 <p>
 Quando há uma variação de velocidade de um objeto, seja aumento ou redução, podemos afirmar que:
 a) O objeto está em repouso.  
@@ -131,9 +131,9 @@ d) O movimento é uniforme.
 </div>
 
 
-<div id="outline-container-org9a8af5c" class="outline-4">
-<h4 id="org9a8af5c">Questão 5</h4>
-<div class="outline-text-4" id="text-org9a8af5c">
+<div id="outline-container-orgf6b18b6" class="outline-4">
+<h4 id="orgf6b18b6">Questão 5</h4>
+<div class="outline-text-4" id="text-orgf6b18b6">
 <p>
 A velocidade é definida como:
 </p>
@@ -158,13 +158,13 @@ d) A energia cinética de um objeto.
 </div>
 
 
-<div id="outline-container-orgb328cbd" class="outline-3">
-<h3 id="orgb328cbd">Questões sobre Primeira Lei de Newton (Inércia)</h3>
-<div class="outline-text-3" id="text-orgb328cbd">
+<div id="outline-container-org217a2a0" class="outline-3">
+<h3 id="org217a2a0">Questões sobre Primeira Lei de Newton (Inércia)</h3>
+<div class="outline-text-3" id="text-org217a2a0">
 </div>
-<div id="outline-container-org161dccf" class="outline-4">
-<h4 id="org161dccf">Questão 6</h4>
-<div class="outline-text-4" id="text-org161dccf">
+<div id="outline-container-org02810c4" class="outline-4">
+<h4 id="org02810c4">Questão 6</h4>
+<div class="outline-text-4" id="text-org02810c4">
 <p>
 A Primeira Lei de Newton, também conhecida como Lei da Inércia, estabelece que:
 </p>
@@ -188,9 +188,9 @@ d) A aceleração é inversamente proporcional à massa.
 </div>
 
 
-<div id="outline-container-org6f8b068" class="outline-4">
-<h4 id="org6f8b068">Questão 7</h4>
-<div class="outline-text-4" id="text-org6f8b068">
+<div id="outline-container-orge2289e9" class="outline-4">
+<h4 id="orge2289e9">Questão 7</h4>
+<div class="outline-text-4" id="text-orge2289e9">
 <p>
 O conceito de inércia pode ser descrito como:
 </p>
@@ -214,9 +214,9 @@ d) A velocidade máxima que um objeto pode atingir.
 </div>
 
 
-<div id="outline-container-orgda87b82" class="outline-4">
-<h4 id="orgda87b82">Questão 8</h4>
-<div class="outline-text-4" id="text-orgda87b82">
+<div id="outline-container-org7c01b0e" class="outline-4">
+<h4 id="org7c01b0e">Questão 8</h4>
+<div class="outline-text-4" id="text-org7c01b0e">
 <p>
 Sobre a relação entre massa e inércia, é correto afirmar que:
 </p>
@@ -240,9 +240,9 @@ d) A inércia não depende da massa do objeto.
 </div>
 
 
-<div id="outline-container-org961ebab" class="outline-4">
-<h4 id="org961ebab">Questão 9</h4>
-<div class="outline-text-4" id="text-org961ebab">
+<div id="outline-container-org45fce97" class="outline-4">
+<h4 id="org45fce97">Questão 9</h4>
+<div class="outline-text-4" id="text-org45fce97">
 <p>
 Os referenciais inerciais são aqueles que:
 </p>
@@ -266,9 +266,9 @@ d) Estão sempre em repouso absoluto.
 </div>
 
 
-<div id="outline-container-org7ff4ff5" class="outline-4">
-<h4 id="org7ff4ff5">Questão 10</h4>
-<div class="outline-text-4" id="text-org7ff4ff5">
+<div id="outline-container-orgd2c0c13" class="outline-4">
+<h4 id="orgd2c0c13">Questão 10</h4>
+<div class="outline-text-4" id="text-orgd2c0c13">
 <p>
 Quando uma pessoa está dentro de um automóvel que faz uma curva, ela sente uma força para fora da curva. Essa força:
 a) É uma força real que atua sobre a pessoa.  
@@ -290,13 +290,13 @@ d) Só existe quando o carro está freando.
 </div>
 
 
-<div id="outline-container-org1e39041" class="outline-3">
-<h3 id="org1e39041">Questões sobre Segunda Lei de Newton</h3>
-<div class="outline-text-3" id="text-org1e39041">
+<div id="outline-container-orga8fd94f" class="outline-3">
+<h3 id="orga8fd94f">Questões sobre Segunda Lei de Newton</h3>
+<div class="outline-text-3" id="text-orga8fd94f">
 </div>
-<div id="outline-container-org3545c75" class="outline-4">
-<h4 id="org3545c75">Questão 11</h4>
-<div class="outline-text-4" id="text-org3545c75">
+<div id="outline-container-org1df14e8" class="outline-4">
+<h4 id="org1df14e8">Questão 11</h4>
+<div class="outline-text-4" id="text-org1df14e8">
 <p>
 A Segunda Lei de Newton, conhecida como Princípio Fundamental da Dinâmica, estabelece que:
 a) A velocidade é sempre mantida por uma força.
@@ -317,15 +317,15 @@ d) A energia se conserva em todos os sistemas.
 </div>
 
 
-<div id="outline-container-org07814a0" class="outline-4">
-<h4 id="org07814a0">Questão 12</h4>
-<div class="outline-text-4" id="text-org07814a0">
+<div id="outline-container-org62abed0" class="outline-4">
+<h4 id="org62abed0">Questão 12</h4>
+<div class="outline-text-4" id="text-org62abed0">
 </div>
 </div>
 
-<div id="outline-container-orgbf94772" class="outline-4">
-<h4 id="orgbf94772">Questão 13</h4>
-<div class="outline-text-4" id="text-orgbf94772">
+<div id="outline-container-orga6a5efc" class="outline-4">
+<h4 id="orga6a5efc">Questão 13</h4>
+<div class="outline-text-4" id="text-orga6a5efc">
 <p>
 Se a força resultante sobre um objeto dobrar e sua massa permanecer constante, sua aceleração:
 a) Permanecerá a mesma.  
@@ -338,13 +338,13 @@ d) Será reduzida a um quarto.
 </div>
 
 
-<div id="outline-container-org228131d" class="outline-3">
-<h3 id="org228131d">Questões sobre Terceira Lei de Newton</h3>
-<div class="outline-text-3" id="text-org228131d">
+<div id="outline-container-org68904f4" class="outline-3">
+<h3 id="org68904f4">Questões sobre Terceira Lei de Newton</h3>
+<div class="outline-text-3" id="text-org68904f4">
 </div>
-<div id="outline-container-org435c8c5" class="outline-4">
-<h4 id="org435c8c5">Questão 14</h4>
-<div class="outline-text-4" id="text-org435c8c5">
+<div id="outline-container-org62c5f8e" class="outline-4">
+<h4 id="org62c5f8e">Questão 14</h4>
+<div class="outline-text-4" id="text-org62c5f8e">
 <p>
 A Terceira Lei de Newton, conhecida como Lei da Ação e Reação, afirma que:
 </p>
@@ -368,9 +368,9 @@ d) A aceleração é inversamente proporcional à massa.
 </div>
 
 
-<div id="outline-container-org76d1ef7" class="outline-4">
-<h4 id="org76d1ef7">Questão 15</h4>
-<div class="outline-text-4" id="text-org76d1ef7">
+<div id="outline-container-org6327d36" class="outline-4">
+<h4 id="org6327d36">Questão 15</h4>
+<div class="outline-text-4" id="text-org6327d36">
 <p>
 Sobre as forças de ação e reação, é correto afirmar que elas:
 </p>
@@ -395,13 +395,13 @@ d) São sempre maiores que o peso dos objetos.
 </div>
 
 
-<div id="outline-container-org8cdbb70" class="outline-3">
-<h3 id="org8cdbb70">Questões sobre Forças</h3>
-<div class="outline-text-3" id="text-org8cdbb70">
+<div id="outline-container-org4a110dc" class="outline-3">
+<h3 id="org4a110dc">Questões sobre Forças</h3>
+<div class="outline-text-3" id="text-org4a110dc">
 </div>
-<div id="outline-container-org667bedb" class="outline-4">
-<h4 id="org667bedb">Questão 16</h4>
-<div class="outline-text-4" id="text-org667bedb">
+<div id="outline-container-org3a73d73" class="outline-4">
+<h4 id="org3a73d73">Questão 16</h4>
+<div class="outline-text-4" id="text-org3a73d73">
 <p>
 A força é uma grandeza vetorial, o que significa que:
 a) Ela possui apenas intensidade.  
@@ -413,9 +413,9 @@ d) Ela não pode ser medida.
 </div>
 
 
-<div id="outline-container-orga6b7241" class="outline-4">
-<h4 id="orga6b7241">Questão 17</h4>
-<div class="outline-text-4" id="text-orga6b7241">
+<div id="outline-container-orgba36bca" class="outline-4">
+<h4 id="orgba36bca">Questão 17</h4>
+<div class="outline-text-4" id="text-orgba36bca">
 <p>
 Duas pessoas puxam uma caixa com forças de 10 N e 15 N em direções opostas. A força resultante sobre a caixa é:
 a) 25 N  
@@ -427,9 +427,9 @@ d) 150 N
 </div>
 
 
-<div id="outline-container-org114d3ed" class="outline-4">
-<h4 id="org114d3ed">Questão 18</h4>
-<div class="outline-text-4" id="text-org114d3ed">
+<div id="outline-container-org5a92f73" class="outline-4">
+<h4 id="org5a92f73">Questão 18</h4>
+<div class="outline-text-4" id="text-org5a92f73">
 <p>
 A força resultante pode ser definida como:
 </p>
@@ -453,9 +453,9 @@ d) A força de atrito entre superfícies.
 </div>
 
 
-<div id="outline-container-orgeb347f6" class="outline-4">
-<h4 id="orgeb347f6">Questão 19</h4>
-<div class="outline-text-4" id="text-orgeb347f6">
+<div id="outline-container-org9bc887f" class="outline-4">
+<h4 id="org9bc887f">Questão 19</h4>
+<div class="outline-text-4" id="text-org9bc887f">
 <p>
 A força de resistência do ar:
 </p>
@@ -480,13 +480,13 @@ d) Não existe no vácuo nem na atmosfera.
 </div>
 
 
-<div id="outline-container-org3c23df0" class="outline-3">
-<h3 id="org3c23df0">Questões Integradas</h3>
-<div class="outline-text-3" id="text-org3c23df0">
+<div id="outline-container-org4e07bd6" class="outline-3">
+<h3 id="org4e07bd6">Questões Integradas</h3>
+<div class="outline-text-3" id="text-org4e07bd6">
 </div>
-<div id="outline-container-orgb2ce7d3" class="outline-4">
-<h4 id="orgb2ce7d3">Questão 20</h4>
-<div class="outline-text-4" id="text-orgb2ce7d3">
+<div id="outline-container-org03e5fc2" class="outline-4">
+<h4 id="org03e5fc2">Questão 20</h4>
+<div class="outline-text-4" id="text-org03e5fc2">
 <p>
 Um carro trafega em uma estrada retilínea com velocidade constante de 60 km/h. Nesta situação:
 </p>
@@ -510,9 +510,9 @@ d) O carro está desacelerando gradualmente.
 </div>
 
 
-<div id="outline-container-org8b08d66" class="outline-4">
-<h4 id="org8b08d66">Questão 21</h4>
-<div class="outline-text-4" id="text-org8b08d66">
+<div id="outline-container-org9a2c98a" class="outline-4">
+<h4 id="org9a2c98a">Questão 21</h4>
+<div class="outline-text-4" id="text-org9a2c98a">
 <p>
 Durante uma freada brusca, os passageiros de um ônibus são "jogados" para frente. Esse fenômeno é explicado:
 </p>
@@ -538,9 +538,9 @@ d) Pela força de atrito entre os pés e o chão.
 
 
 
-<div id="outline-container-org04cedc9" class="outline-4">
-<h4 id="org04cedc9">Questão 22</h4>
-<div class="outline-text-4" id="text-org04cedc9">
+<div id="outline-container-orgc78f22c" class="outline-4">
+<h4 id="orgc78f22c">Questão 22</h4>
+<div class="outline-text-4" id="text-orgc78f22c">
 <p>
 Um objeto de massa 2 kg sofre a ação de uma força resultante de 10 N. Sua aceleração será:
 </p>
@@ -564,9 +564,9 @@ d) 12 m/s²
 </div>
 
 
-<div id="outline-container-orga98d4d9" class="outline-4">
-<h4 id="orga98d4d9">Questão 23</h4>
-<div class="outline-text-4" id="text-orga98d4d9">
+<div id="outline-container-orgae81068" class="outline-4">
+<h4 id="orgae81068">Questão 23</h4>
+<div class="outline-text-4" id="text-orgae81068">
 <p>
 Em um cabo de guerra, duas equipes puxam uma corda com forças iguais e opostas. Se a corda não se move, isso significa que:
 </p>

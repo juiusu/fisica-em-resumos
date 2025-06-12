@@ -14,13 +14,13 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-org9122fba" class="outline-2">
-<h2 id="org9122fba">Estilos</h2>
-<div class="outline-text-2" id="text-org9122fba">
+<div id="outline-container-org26c73ff" class="outline-2">
+<h2 id="org26c73ff">Estilos</h2>
+<div class="outline-text-2" id="text-org26c73ff">
 </div>
-<div id="outline-container-org9866952" class="outline-3">
-<h3 id="org9866952">Espaço vertical</h3>
-<div class="outline-text-3" id="text-org9866952">
+<div id="outline-container-org2fea51e" class="outline-3">
+<h3 id="org2fea51e">Espaço vertical</h3>
+<div class="outline-text-3" id="text-org2fea51e">
 <ul class="org-ul">
 <li>de 100 pixels</li>
 </ul>
@@ -28,16 +28,16 @@
 <div style="margin-top:100px;"></div>
 </div>
 </div>
-<div id="outline-container-org9cc941d" class="outline-3">
-<h3 id="org9cc941d">Linha horizontal</h3>
-<div class="outline-text-3" id="text-org9cc941d">
+<div id="outline-container-org36e2d4a" class="outline-3">
+<h3 id="org36e2d4a">Linha horizontal</h3>
+<div class="outline-text-3" id="text-org36e2d4a">
 <hr style="margin: 2em 0; border: none; border-top: 2px solid #ccc;">
 </div>
 </div>
 
-<div id="outline-container-org330fbd8" class="outline-3">
-<h3 id="org330fbd8">Imagens Domínio Público</h3>
-<div class="outline-text-3" id="text-org330fbd8">
+<div id="outline-container-orgd9ed668" class="outline-3">
+<h3 id="orgd9ed668">Imagens Domínio Público</h3>
+<div class="outline-text-3" id="text-orgd9ed668">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     Animação de uma <a href="https://pt.wikipedia.org/wiki/Aurora_polar" target="_blank">Aurora Polar</a>.
@@ -55,9 +55,9 @@
 </div>
 </div>
 
-<div id="outline-container-org01955ca" class="outline-3">
-<h3 id="org01955ca">Imagens próprias</h3>
-<div class="outline-text-3" id="text-org01955ca">
+<div id="outline-container-orgcf527ac" class="outline-3">
+<h3 id="orgcf527ac">Imagens próprias</h3>
+<div class="outline-text-3" id="text-orgcf527ac">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     Ligações em Série e Paralelo de uma bateria e duas lâmpadas.
