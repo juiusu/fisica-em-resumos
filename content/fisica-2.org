@@ -468,25 +468,40 @@ Um dissipador de calor proporcciona uma grande área de ruperfície para convec�
 
 * Ondas
 
-** Visão geral
+** Introdução
 
-Ondas estão presentes de diversas formas na natureza. De um modo
-geral, podemos classificá-las como
+Ondas estão presentes de diversas formas na natureza:
 
-- ondas de matéria
 
-  - som
+Som, luz, ondas de rádio, ondas sísmicas, ultra som etc
 
-  - ondas na superfícia da água
+** Caracterização enquanto natureza da onda
 
-  - ondas sísmicas
+- ondas mecânicas
 
-- ondas de campo
+  - Necessitam de um meio material para se propagar
 
-  - Ondas eletromagnéticas
+  - Exemplos
 
-  - Ondas gravitacionais
+    - som
 
+    - ondas na superfície da água
+
+    - ondas sísmicas
+
+
+- Ondas de campo
+
+  - Não necessitam de um meio material para se propagar
+
+  - Exemplos
+
+    - Ondas eletromagnéticas
+
+      - rádio, micro ondas, infra vermelho, luz, ultra violeta, raios
+        x, raios gamma
+
+    - Ondas gravitacionais
 
 ** Movimento periódico
 
@@ -497,8 +512,6 @@ um movimento que se repete,
   - período \(T\);
 
   - frequência \(f\);
-
-  - Amplitude \(A\).
 
 Exemplos: movimento circular uniforme, pêndulo simples
   
@@ -531,10 +544,6 @@ Um pêndulo simples é um exemplo de movimento periódico.
 </div>
 #+END_EXPORT
 
-
-
-
-
 ** Conceito de onda
 
 
@@ -554,7 +563,6 @@ Exemplo: onda em uma corda
 
   - Velocidade \( v\)
 
-
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
@@ -570,8 +578,7 @@ Comparação entre uma onda numa corda e um movimento periódico.
 #+END_EXPORT
 
 
-
-** Caracterização de ondas
+** Caracterização quanto a propagação
 
 *** Ondas longitudinais
 - Definição: Direção de propagação paralela à direção de oscilação
@@ -589,6 +596,116 @@ Comparação entre uma onda numa corda e um movimento periódico.
   - Ondas em uma corda
 
   - Ondas eletromagnéticas
+
+** Fenômenos relacionados à propagação
+
+- reflexão
+- transmissão
+  - refração 
+- interferência
+- absorção
+- difração
+- dispersão
+- polarização
+
+*** Reflexão 1D
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Reflexões possíveis de uma onda em uma corda: extremidade livre e extremidade fixa.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/WaveReflect.gif"
+       alt="wave-reflection"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:WaveReflect.gif">And1mu</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+*** Refleção 2D
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Reflexão de uma onda, com representação dos ângulos de incidência e reflexão.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Reflection-animation.gif"
+       alt="wave-reflection-2d"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Reflection-animation.gif">MikeRun</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+*** transmissão 1D
+
+
+
+*** Transmissão (refração) 2D
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Transmição com refração: meio menos denso para meio mais denso.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Refraction_animation.gif"
+       alt="refraction-2d"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte:<a href="https://commons.wikimedia.org/wiki/File:Refraction_animation.gif">Ulflund</a>, CC0, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+*** Reflexão e transmissão 1D
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Reflexões e transmissão: meio menos denso para meio mais denso.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Partial_transmittance.gif"
+       alt="partial-transmitance"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte:<a href="https://commons.wikimedia.org/wiki/File:Partial_transmittance.gif">Oleg Alexandrov</a>, Public domain, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+*** Reflexão e refração 2D
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Reflexões e transmissão (com refração): meio menos denso para meio mais denso, com represetnações dos ângulos de incidência e refração.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Refraction-animation.gif"
+       alt="refraction-animation"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Refraction-animation.gif">MikeRun</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+*** Interferência 1 D
+
+
+*** Interferência 2 D
+
+** Caracterização de ondas
 
 *** Ondas estacionárias
 
@@ -623,7 +740,6 @@ Ondas estacionárias em uma corda.
   </p>
 </div>
 #+END_EXPORT
-
 
 *** Ondas bidimensionais
 
@@ -685,6 +801,9 @@ Ondas bidimensionais estacionárias, por exemplo, na pele de um tambor - segundo
 - Ondas eletromagnéticas (luz, rádio, ifravermelho)
 
 - Ondas sonoras
+
+
+
 
 * Óptica
 
