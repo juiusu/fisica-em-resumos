@@ -40,67 +40,79 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org9f55363">Mecânica dos Fluidos</a>
+<li><a href="#org21eafaf">Mecânica dos Fluidos</a>
 <ul>
-<li><a href="#orgc71df62">Pressão Hidrostática</a>
+<li><a href="#orgf131049">Pressão Hidrostática</a>
 <ul>
-<li><a href="#org1f52883">Conceitos iniciais</a></li>
-<li><a href="#org345acfc">Conceito de pressão</a></li>
-<li><a href="#orgc331e51">Pressão em um líquido</a></li>
-<li><a href="#org4a657c8">Pressão atmosférica</a></li>
+<li><a href="#org429cf8e">Conceitos iniciais</a></li>
+<li><a href="#orgc83e8f3">Conceito de pressão</a></li>
+<li><a href="#org3ff9a17">Pressão em um líquido</a></li>
+<li><a href="#org5af1766">Pressão atmosférica</a></li>
 </ul>
 </li>
-<li><a href="#org91f4530">Prensa Hidráulica</a></li>
-<li><a href="#org40481ba">Empuxo</a></li>
-<li><a href="#org2a26883">Pressão Hidrodinâmica</a></li>
-<li><a href="#org539672b">Aerodinâmica</a></li>
+<li><a href="#org8089f1d">Prensa Hidráulica</a></li>
+<li><a href="#org94d603c">Empuxo</a></li>
+<li><a href="#org457b7cd">Pressão Hidrodinâmica</a></li>
+<li><a href="#org873e497">Aerodinâmica</a></li>
 </ul>
 </li>
-<li><a href="#orgdec1c48">Termodinâmica</a>
+<li><a href="#orgf5c7c1d">Termodinâmica</a>
 <ul>
-<li><a href="#org5d04dea">Conceito de temperatura</a></li>
-<li><a href="#orge50206b">Escalas termométricas</a></li>
-<li><a href="#orgdcc4074">Dilatação Térmica</a>
+<li><a href="#org4dd1344">Conceito de temperatura</a></li>
+<li><a href="#orgc0e834e">Escalas termométricas</a></li>
+<li><a href="#org4922325">Dilatação Térmica</a>
 <ul>
-<li><a href="#org77f8188">Dilatação Linear</a></li>
-<li><a href="#orgce83715">Dilatação superficial</a></li>
-<li><a href="#org33e86e2">Dilatação volumétrica</a></li>
+<li><a href="#org0d14813">Dilatação Linear</a></li>
+<li><a href="#org7494059">Dilatação superficial</a></li>
+<li><a href="#org4f94794">Dilatação volumétrica</a></li>
 </ul>
 </li>
-<li><a href="#org70137e5">Propagação de calor</a>
+<li><a href="#org496c8a5">Propagação de calor</a>
 <ul>
-<li><a href="#orgc2c40d5">Condução</a></li>
-<li><a href="#orgeb1ccb8">Convecção</a></li>
-<li><a href="#orgd5134f3">Irradiação</a></li>
+<li><a href="#org6b475ee">Condução</a></li>
+<li><a href="#orgd8317cc">Convecção</a></li>
+<li><a href="#org1026988">Irradiação</a></li>
 </ul>
 </li>
-<li><a href="#org394aec3">Conceito de calor</a></li>
-<li><a href="#org995960b">Calor específico e  Calor latente</a></li>
-<li><a href="#orgc1d77e3">A primeira Lei da Termodinâmica</a></li>
+<li><a href="#org9a143d9">Conceito de calor</a></li>
+<li><a href="#orgd55df3f">Calor específico e  Calor latente</a></li>
+<li><a href="#orgb2e0a2e">A primeira Lei da Termodinâmica</a></li>
 </ul>
 </li>
-<li><a href="#org70d8902">Ondas</a>
+<li><a href="#orgdc452ae">Ondas</a>
 <ul>
-<li><a href="#org92b07b1">Visão geral</a></li>
-<li><a href="#org6bbaaf4">Movimento periódico</a></li>
-<li><a href="#org5824e88">Conceito de onda</a></li>
-<li><a href="#orgb9d63c5">Caracterização de ondas</a>
+<li><a href="#org00ccf9e">Introdução</a></li>
+<li><a href="#org695f7ee">Caracterização enquanto natureza da onda</a></li>
+<li><a href="#org63db397">Movimento periódico</a></li>
+<li><a href="#org491f3a7">Conceito de onda</a></li>
+<li><a href="#orgcded878">Caracterização quanto a propagação</a>
 <ul>
-<li><a href="#orgba3fab5">Ondas longitudinais</a></li>
-<li><a href="#org8ed114a">Ondas transversais</a></li>
-<li><a href="#org018e7ba">Ondas estacionárias</a></li>
-<li><a href="#orgb6b4ce6">Ondas unidimensionais</a></li>
-<li><a href="#org28e37b2">Ondas bidimensionais</a></li>
-<li><a href="#org91b2cdb">Ondas tridimensionais</a></li>
+<li><a href="#org856ba2b">Ondas longitudinais</a></li>
+<li><a href="#org9cbd268">Ondas transversais</a></li>
+</ul>
+</li>
+<li><a href="#orge6f730f">Fenômenos relacionados à propagação</a></li>
+<li><a href="#orgae830a7">Reflexão 1D</a></li>
+<li><a href="#org638b480">Refleção 2D</a></li>
+<li><a href="#org3620fb4">transmissão 1D</a></li>
+<li><a href="#org663cc03">Transmissão (refração) 2D</a></li>
+<li><a href="#org874feed">Reflexão e transmissão 1D</a></li>
+<li><a href="#org3097eb8">Reflexão e refração 2D</a></li>
+<li><a href="#org9453fbb">Caracterização de ondas</a>
+<ul>
+<li><a href="#org1515dc4">Ondas estacionárias</a></li>
+<li><a href="#orgaaf3b7b">Ondas unidimensionais</a></li>
+<li><a href="#orgf6eb00f">Ondas bidimensionais</a></li>
+<li><a href="#org99433e6">Ondas tridimensionais</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org269f198">Óptica</a></li>
-<li><a href="#orgde0fe8e">Exercícios e Problemas</a>
+<li><a href="#org06669eb">Óptica</a></li>
+<li><a href="#org5eb7a11">Exercícios e Problemas</a>
 <ul>
-<li><a href="#org8101e5e">Unidade 1</a></li>
-<li><a href="#orgb07d63f">Unidade 2</a></li>
+<li><a href="#orgc30a1cd">Unidade 1</a></li>
+<li><a href="#org2f831e7">Unidade 2</a></li>
 </ul>
 </li>
 </ul>
@@ -108,26 +120,26 @@
 </div>
 
 
-<div id="outline-container-org9f55363" class="outline-2">
-<h2 id="org9f55363">Mecânica dos Fluidos</h2>
-<div class="outline-text-2" id="text-org9f55363">
+<div id="outline-container-org21eafaf" class="outline-2">
+<h2 id="org21eafaf">Mecânica dos Fluidos</h2>
+<div class="outline-text-2" id="text-org21eafaf">
 </div>
-<div id="outline-container-orgc71df62" class="outline-3">
-<h3 id="orgc71df62">Pressão Hidrostática</h3>
-<div class="outline-text-3" id="text-orgc71df62">
+<div id="outline-container-orgf131049" class="outline-3">
+<h3 id="orgf131049">Pressão Hidrostática</h3>
+<div class="outline-text-3" id="text-orgf131049">
 </div>
-<div id="outline-container-org1f52883" class="outline-4">
-<h4 id="org1f52883">Conceitos iniciais</h4>
-<div class="outline-text-4" id="text-org1f52883">
+<div id="outline-container-org429cf8e" class="outline-4">
+<h4 id="org429cf8e">Conceitos iniciais</h4>
+<div class="outline-text-4" id="text-org429cf8e">
 <p>
 Relembre os conceitos de <a href="area.html">Área</a> ,  <a href="volume.html">volume</a> e  <a href="densidade">densidade</a> .
 </p>
 </div>
 </div>
 
-<div id="outline-container-org345acfc" class="outline-4">
-<h4 id="org345acfc">Conceito de pressão</h4>
-<div class="outline-text-4" id="text-org345acfc">
+<div id="outline-container-orgc83e8f3" class="outline-4">
+<h4 id="orgc83e8f3">Conceito de pressão</h4>
+<div class="outline-text-4" id="text-orgc83e8f3">
 <p>
 É a força distribuida pela àrea sob a qual está aplicada:
 </p>
@@ -143,9 +155,9 @@ Explicação mais detalhada sobre <a href="conceito-de-pressao.html">conceito de
 </div>
 
 
-<div id="outline-container-orgc331e51" class="outline-4">
-<h4 id="orgc331e51">Pressão em um líquido</h4>
-<div class="outline-text-4" id="text-orgc331e51">
+<div id="outline-container-org3ff9a17" class="outline-4">
+<h4 id="org3ff9a17">Pressão em um líquido</h4>
+<div class="outline-text-4" id="text-org3ff9a17">
 <p>
 A pressão hidrostática é causada pelo peso de um fluido em eterminado
  ponto do fluido. Por exemplo, a pressão que você sente ao mergulhar
@@ -198,9 +210,9 @@ p = d g h
 </div>
 
 
-<div id="outline-container-org4a657c8" class="outline-4">
-<h4 id="org4a657c8">Pressão atmosférica</h4>
-<div class="outline-text-4" id="text-org4a657c8">
+<div id="outline-container-org5af1766" class="outline-4">
+<h4 id="org5af1766">Pressão atmosférica</h4>
+<div class="outline-text-4" id="text-org5af1766">
 <p>
 Apressão atmosférica é um tipo de pressão hidrostática, porém,
 considerando que estamos envolvidos por um fluido que são os diversos
@@ -234,9 +246,9 @@ atmosférica a nível do mar. Sua relação com a unidade pascal é:
 </div>
 </div>
 
-<div id="outline-container-org91f4530" class="outline-3">
-<h3 id="org91f4530">Prensa Hidráulica</h3>
-<div class="outline-text-3" id="text-org91f4530">
+<div id="outline-container-org8089f1d" class="outline-3">
+<h3 id="org8089f1d">Prensa Hidráulica</h3>
+<div class="outline-text-3" id="text-org8089f1d">
 <p>
 Como conseguimos levantar um carro com o pé utilizando um <a href="https://pt.wikipedia.org/wiki/Macaco_(ferramenta)">Macaco</a>
 Hidrálico ?
@@ -295,9 +307,9 @@ Qual o custo de apliar a força, já que a energia se conserva?
 </div>
 
 
-<div id="outline-container-org40481ba" class="outline-3">
-<h3 id="org40481ba">Empuxo</h3>
-<div class="outline-text-3" id="text-org40481ba">
+<div id="outline-container-org94d603c" class="outline-3">
+<h3 id="org94d603c">Empuxo</h3>
+<div class="outline-text-3" id="text-org94d603c">
 <p>
 Como um objeto pode ficar submerso em um fluido, um bloco de madeira
 flutuando em água, por exemplo, se a força peso o empurra para baixo?
@@ -350,19 +362,19 @@ Sorry, your browser does not support SVG.</object>
 </div>
 
 
-<div id="outline-container-org2a26883" class="outline-3">
-<h3 id="org2a26883">Pressão Hidrodinâmica</h3>
+<div id="outline-container-org457b7cd" class="outline-3">
+<h3 id="org457b7cd">Pressão Hidrodinâmica</h3>
 </div>
 
 
-<div id="outline-container-org539672b" class="outline-3">
-<h3 id="org539672b">Aerodinâmica</h3>
+<div id="outline-container-org873e497" class="outline-3">
+<h3 id="org873e497">Aerodinâmica</h3>
 </div>
 </div>
 
-<div id="outline-container-orgdec1c48" class="outline-2">
-<h2 id="orgdec1c48">Termodinâmica</h2>
-<div class="outline-text-2" id="text-orgdec1c48">
+<div id="outline-container-orgf5c7c1d" class="outline-2">
+<h2 id="orgf5c7c1d">Termodinâmica</h2>
+<div class="outline-text-2" id="text-orgf5c7c1d">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     Ilustração de um  <a href=" https://pt.wikipedia.org/wiki/Motor_de_combust%C3%A3o_interna" target="_blank"> motor de combustão térmica</a>.
@@ -378,9 +390,9 @@ Public domain, via Wikimedia Commons
 </div>
 
 
-<div id="outline-container-org5d04dea" class="outline-3">
-<h3 id="org5d04dea">Conceito de temperatura</h3>
-<div class="outline-text-3" id="text-org5d04dea">
+<div id="outline-container-org4dd1344" class="outline-3">
+<h3 id="org4dd1344">Conceito de temperatura</h3>
+<div class="outline-text-3" id="text-org4dd1344">
 <p>
 A temperatura está relacionada a agitação a nível molecular. Ou seja,
 ela representa a energia do movimento das partículas (moléculas, ou
@@ -423,9 +435,9 @@ Fonte:
 
 
 
-<div id="outline-container-orge50206b" class="outline-3">
-<h3 id="orge50206b">Escalas termométricas</h3>
-<div class="outline-text-3" id="text-orge50206b">
+<div id="outline-container-orgc0e834e" class="outline-3">
+<h3 id="orgc0e834e">Escalas termométricas</h3>
+<div class="outline-text-3" id="text-orgc0e834e">
 <p>
 Principais escalas de temperatura: 
 </p>
@@ -509,13 +521,13 @@ Principais escalas de temperatura:
 
 
 
-<div id="outline-container-orgdcc4074" class="outline-3">
-<h3 id="orgdcc4074">Dilatação Térmica</h3>
-<div class="outline-text-3" id="text-orgdcc4074">
+<div id="outline-container-org4922325" class="outline-3">
+<h3 id="org4922325">Dilatação Térmica</h3>
+<div class="outline-text-3" id="text-org4922325">
 </div>
-<div id="outline-container-org77f8188" class="outline-4">
-<h4 id="org77f8188">Dilatação Linear</h4>
-<div class="outline-text-4" id="text-org77f8188">
+<div id="outline-container-org0d14813" class="outline-4">
+<h4 id="org0d14813">Dilatação Linear</h4>
+<div class="outline-text-4" id="text-org0d14813">
 <div style="text-align:center;">
   <a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons"
      href="https://commons.wikimedia.org/wiki/File:Thermal-expansion.svg"
@@ -617,9 +629,9 @@ característico de cada substância.
 </div>
 
 
-<div id="outline-container-orgce83715" class="outline-4">
-<h4 id="orgce83715">Dilatação superficial</h4>
-<div class="outline-text-4" id="text-orgce83715">
+<div id="outline-container-org7494059" class="outline-4">
+<h4 id="org7494059">Dilatação superficial</h4>
+<div class="outline-text-4" id="text-org7494059">
 <div style="text-align:center;">
   <a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons"
      href="https://commons.wikimedia.org/wiki/File:Thermal-expansion-aera.svg"
@@ -635,9 +647,9 @@ característico de cada substância.
 </div>
 
 
-<div id="outline-container-org33e86e2" class="outline-4">
-<h4 id="org33e86e2">Dilatação volumétrica</h4>
-<div class="outline-text-4" id="text-org33e86e2">
+<div id="outline-container-org4f94794" class="outline-4">
+<h4 id="org4f94794">Dilatação volumétrica</h4>
+<div class="outline-text-4" id="text-org4f94794">
 <div style="text-align:center;">
   <a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons"
      href="https://commons.wikimedia.org/wiki/File:Thermal-expansion-volume.svg"
@@ -653,13 +665,13 @@ característico de cada substância.
 </div>
 </div>
 
-<div id="outline-container-org70137e5" class="outline-3">
-<h3 id="org70137e5">Propagação de calor</h3>
-<div class="outline-text-3" id="text-org70137e5">
+<div id="outline-container-org496c8a5" class="outline-3">
+<h3 id="org496c8a5">Propagação de calor</h3>
+<div class="outline-text-3" id="text-org496c8a5">
 </div>
-<div id="outline-container-orgc2c40d5" class="outline-4">
-<h4 id="orgc2c40d5">Condução</h4>
-<div class="outline-text-4" id="text-orgc2c40d5">
+<div id="outline-container-org6b475ee" class="outline-4">
+<h4 id="org6b475ee">Condução</h4>
+<div class="outline-text-4" id="text-org6b475ee">
 <p>
 Calor é conduzido ponto a ponto, onde a energia sendo transferida por
 colisões a nível molecular. 
@@ -680,9 +692,9 @@ colisões a nível molecular.
 
 
 
-<div id="outline-container-orgeb1ccb8" class="outline-4">
-<h4 id="orgeb1ccb8">Convecção</h4>
-<div class="outline-text-4" id="text-orgeb1ccb8">
+<div id="outline-container-orgd8317cc" class="outline-4">
+<h4 id="orgd8317cc">Convecção</h4>
+<div class="outline-text-4" id="text-orgd8317cc">
 <p>
 Em fluidos, a diferença de temperatura causa regiões com diferentes
 densidades, deviso a expansão térmica. 
@@ -725,9 +737,9 @@ Um dissipador de calor proporcciona uma grande área de ruperfície para convec�
 </div>
 
 
-<div id="outline-container-orgd5134f3" class="outline-4">
-<h4 id="orgd5134f3">Irradiação</h4>
-<div class="outline-text-4" id="text-orgd5134f3">
+<div id="outline-container-org1026988" class="outline-4">
+<h4 id="org1026988">Irradiação</h4>
+<div class="outline-text-4" id="text-org1026988">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     Emissão de infra vermelho por um cachorro. 
@@ -766,62 +778,90 @@ Um dissipador de calor proporcciona uma grande área de ruperfície para convec�
 
 
 
-<div id="outline-container-org394aec3" class="outline-3">
-<h3 id="org394aec3">Conceito de calor</h3>
+<div id="outline-container-org9a143d9" class="outline-3">
+<h3 id="org9a143d9">Conceito de calor</h3>
 </div>
 
-<div id="outline-container-org995960b" class="outline-3">
-<h3 id="org995960b">Calor específico e  Calor latente</h3>
-<div class="outline-text-3" id="text-org995960b">
+<div id="outline-container-orgd55df3f" class="outline-3">
+<h3 id="orgd55df3f">Calor específico e  Calor latente</h3>
+<div class="outline-text-3" id="text-orgd55df3f">
 <a title="Przygocki, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Agua_temperatura_por_calor.svg"><img width="512" alt="Graph of temperature of phases of water heated from −100 °C to 200 °C – the dashed line example shows that melting and heating 1 kg of ice at −50 °C to water at 40 °C needs 600 kJ" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Agua_temperatura_por_calor.svg/512px-Agua_temperatura_por_calor.svg.png?20220221221432"></a>
 </div>
 </div>
 
 
 
-<div id="outline-container-orgc1d77e3" class="outline-3">
-<h3 id="orgc1d77e3">A primeira Lei da Termodinâmica</h3>
+<div id="outline-container-orgb2e0a2e" class="outline-3">
+<h3 id="orgb2e0a2e">A primeira Lei da Termodinâmica</h3>
 </div>
 </div>
 
-<div id="outline-container-org70d8902" class="outline-2">
-<h2 id="org70d8902">Ondas</h2>
-<div class="outline-text-2" id="text-org70d8902">
+<div id="outline-container-orgdc452ae" class="outline-2">
+<h2 id="orgdc452ae">Ondas</h2>
+<div class="outline-text-2" id="text-orgdc452ae">
 </div>
-<div id="outline-container-org92b07b1" class="outline-3">
-<h3 id="org92b07b1">Visão geral</h3>
-<div class="outline-text-3" id="text-org92b07b1">
+<div id="outline-container-org00ccf9e" class="outline-3">
+<h3 id="org00ccf9e">Introdução</h3>
+<div class="outline-text-3" id="text-org00ccf9e">
 <p>
-Ondas estão presentes de diversas formas na natureza. De um modo
-geral, podemos classificá-las como
+Ondas estão presentes de diversas formas na natureza:
 </p>
 
+
+<p>
+Som, luz, ondas de rádio, ondas sísmicas, ultra som etc
+</p>
+</div>
+</div>
+
+<div id="outline-container-org695f7ee" class="outline-3">
+<h3 id="org695f7ee">Caracterização enquanto natureza da onda</h3>
+<div class="outline-text-3" id="text-org695f7ee">
 <ul class="org-ul">
-<li>ondas de matéria
+<li>ondas mecânicas
+
+<ul class="org-ul">
+<li>Necessitam de um meio material para se propagar</li>
+
+<li>Exemplos
 
 <ul class="org-ul">
 <li>som</li>
 
-<li>ondas na superfícia da água</li>
+<li>ondas na superfície da água</li>
 
 <li>ondas sísmicas</li>
 </ul></li>
+</ul></li>
+</ul>
 
-<li>ondas de campo
 
 <ul class="org-ul">
-<li>Ondas eletromagnéticas</li>
+<li>Ondas de campo
+
+<ul class="org-ul">
+<li>Não necessitam de um meio material para se propagar</li>
+
+<li>Exemplos
+
+<ul class="org-ul">
+<li>Ondas eletromagnéticas
+
+<ul class="org-ul">
+<li>rádio, micro ondas, infra vermelho, luz, ultra violeta, raios
+x, raios gamma</li>
+</ul></li>
 
 <li>Ondas gravitacionais</li>
+</ul></li>
 </ul></li>
 </ul>
 </div>
 </div>
 
-
-<div id="outline-container-org6bbaaf4" class="outline-3">
-<h3 id="org6bbaaf4">Movimento periódico</h3>
-<div class="outline-text-3" id="text-org6bbaaf4">
+<div id="outline-container-org63db397" class="outline-3">
+<h3 id="org63db397">Movimento periódico</h3>
+<div class="outline-text-3" id="text-org63db397">
 <p>
 um movimento que se repete, 
 </p>
@@ -833,8 +873,6 @@ um movimento que se repete,
 <li>período \(T\);</li>
 
 <li>frequência \(f\);</li>
-
-<li>Amplitude \(A\).</li>
 </ul></li>
 </ul>
 
@@ -869,13 +907,9 @@ Um pêndulo simples é um exemplo de movimento periódico.
 </div>
 </div>
 
-
-
-
-
-<div id="outline-container-org5824e88" class="outline-3">
-<h3 id="org5824e88">Conceito de onda</h3>
-<div class="outline-text-3" id="text-org5824e88">
+<div id="outline-container-org491f3a7" class="outline-3">
+<h3 id="org491f3a7">Conceito de onda</h3>
+<div class="outline-text-3" id="text-org491f3a7">
 <p>
 Uma onda é um movimento periódico que se propaga.
 </p>
@@ -900,7 +934,6 @@ Exemplo: onda em uma corda
 </ul></li>
 </ul>
 
-
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
 Comparação entre uma onda numa corda e um movimento periódico.
@@ -916,14 +949,13 @@ Comparação entre uma onda numa corda e um movimento periódico.
 </div>
 
 
-
-<div id="outline-container-orgb9d63c5" class="outline-3">
-<h3 id="orgb9d63c5">Caracterização de ondas</h3>
-<div class="outline-text-3" id="text-orgb9d63c5">
+<div id="outline-container-orgcded878" class="outline-3">
+<h3 id="orgcded878">Caracterização quanto a propagação</h3>
+<div class="outline-text-3" id="text-orgcded878">
 </div>
-<div id="outline-container-orgba3fab5" class="outline-4">
-<h4 id="orgba3fab5">Ondas longitudinais</h4>
-<div class="outline-text-4" id="text-orgba3fab5">
+<div id="outline-container-org856ba2b" class="outline-4">
+<h4 id="org856ba2b">Ondas longitudinais</h4>
+<div class="outline-text-4" id="text-org856ba2b">
 <ul class="org-ul">
 <li>Definição: Direção de propagação paralela à direção de oscilação</li>
 
@@ -936,9 +968,9 @@ Comparação entre uma onda numa corda e um movimento periódico.
 </div>
 </div>
 
-<div id="outline-container-org8ed114a" class="outline-4">
-<h4 id="org8ed114a">Ondas transversais</h4>
-<div class="outline-text-4" id="text-org8ed114a">
+<div id="outline-container-org9cbd268" class="outline-4">
+<h4 id="org9cbd268">Ondas transversais</h4>
+<div class="outline-text-4" id="text-org9cbd268">
 <ul class="org-ul">
 <li>Definição: Direção de propagação perpendicular à direção de oscilação</li>
 
@@ -952,10 +984,104 @@ Comparação entre uma onda numa corda e um movimento periódico.
 </ul>
 </div>
 </div>
+</div>
 
-<div id="outline-container-org018e7ba" class="outline-4">
-<h4 id="org018e7ba">Ondas estacionárias</h4>
-<div class="outline-text-4" id="text-org018e7ba">
+<div id="outline-container-orge6f730f" class="outline-3">
+<h3 id="orge6f730f">Fenômenos relacionados à propagação</h3>
+<div class="outline-text-3" id="text-orge6f730f">
+<ul class="org-ul">
+<li>reflexão</li>
+<li>absorção</li>
+<li>transmissão
+<ul class="org-ul">
+<li>refração</li>
+</ul></li>
+<li>interferência</li>
+<li>difração</li>
+<li>dispersão</li>
+<li>polarização</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgae830a7" class="outline-3">
+<h3 id="orgae830a7">Reflexão 1D</h3>
+<div class="outline-text-3" id="text-orgae830a7">
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Reflexões possíveis de uma onda em uma corda: extremidade livre e extremidade fixa.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/WaveReflect.gif"
+       alt="wave-reflection"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:WaveReflect.gif">And1mu</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-org638b480" class="outline-3">
+<h3 id="org638b480">Refleção 2D</h3>
+</div>
+
+<div id="outline-container-org3620fb4" class="outline-3">
+<h3 id="org3620fb4">transmissão 1D</h3>
+</div>
+
+
+
+<div id="outline-container-org663cc03" class="outline-3">
+<h3 id="org663cc03">Transmissão (refração) 2D</h3>
+</div>
+
+<div id="outline-container-org874feed" class="outline-3">
+<h3 id="org874feed">Reflexão e transmissão 1D</h3>
+<div class="outline-text-3" id="text-org874feed">
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Reflexões e transmissão: meio menos denso para meio mais denso.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Partial_transmittance.gif"
+       alt="partial-transmitance"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte:<a href="https://commons.wikimedia.org/wiki/File:Partial_transmittance.gif">Oleg Alexandrov</a>, Public domain, via Wikimedia Commons
+  </p>
+</div>
+</div>
+</div>
+
+
+
+<div id="outline-container-org3097eb8" class="outline-3">
+<h3 id="org3097eb8">Reflexão e refração 2D</h3>
+<div class="outline-text-3" id="text-org3097eb8">
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Reflexões e transmissão: meio menos denso para meio mais denso.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Refraction-animation.gif"
+       alt="refraction-animation"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Refraction-animation.gif">MikeRun</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+</div>
+</div>
+
+
+
+
+<div id="outline-container-org9453fbb" class="outline-3">
+<h3 id="org9453fbb">Caracterização de ondas</h3>
+<div class="outline-text-3" id="text-org9453fbb">
+</div>
+<div id="outline-container-org1515dc4" class="outline-4">
+<h4 id="org1515dc4">Ondas estacionárias</h4>
+<div class="outline-text-4" id="text-org1515dc4">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
 Ondas estacionárias em uma corda.
@@ -970,9 +1096,9 @@ Ondas estacionárias em uma corda.
 </div>
 </div>
 
-<div id="outline-container-orgb6b4ce6" class="outline-4">
-<h4 id="orgb6b4ce6">Ondas unidimensionais</h4>
-<div class="outline-text-4" id="text-orgb6b4ce6">
+<div id="outline-container-orgaaf3b7b" class="outline-4">
+<h4 id="orgaaf3b7b">Ondas unidimensionais</h4>
+<div class="outline-text-4" id="text-orgaaf3b7b">
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
 
@@ -987,10 +1113,9 @@ Ondas estacionárias em uma corda.
 </div>
 </div>
 
-
-<div id="outline-container-org28e37b2" class="outline-4">
-<h4 id="org28e37b2">Ondas bidimensionais</h4>
-<div class="outline-text-4" id="text-org28e37b2">
+<div id="outline-container-orgf6eb00f" class="outline-4">
+<h4 id="orgf6eb00f">Ondas bidimensionais</h4>
+<div class="outline-text-4" id="text-orgf6eb00f">
 <ul class="org-ul">
 <li>Superfícia da água</li>
 
@@ -1041,9 +1166,9 @@ Ondas bidimensionais estacionárias, por exemplo, na pele de um tambor - segundo
 </div>
 </div>
 
-<div id="outline-container-org91b2cdb" class="outline-4">
-<h4 id="org91b2cdb">Ondas tridimensionais</h4>
-<div class="outline-text-4" id="text-org91b2cdb">
+<div id="outline-container-org99433e6" class="outline-4">
+<h4 id="org99433e6">Ondas tridimensionais</h4>
+<div class="outline-text-4" id="text-org99433e6">
 <ul class="org-ul">
 <li>Ondas eletromagnéticas (luz, rádio, ifravermelho)</li>
 
@@ -1054,20 +1179,23 @@ Ondas bidimensionais estacionárias, por exemplo, na pele de um tambor - segundo
 </div>
 </div>
 
-<div id="outline-container-org269f198" class="outline-2">
-<h2 id="org269f198">Óptica</h2>
+
+
+
+<div id="outline-container-org06669eb" class="outline-2">
+<h2 id="org06669eb">Óptica</h2>
 </div>
 
-<div id="outline-container-orgde0fe8e" class="outline-2">
-<h2 id="orgde0fe8e">Exercícios e Problemas</h2>
-<div class="outline-text-2" id="text-orgde0fe8e">
+<div id="outline-container-org5eb7a11" class="outline-2">
+<h2 id="org5eb7a11">Exercícios e Problemas</h2>
+<div class="outline-text-2" id="text-org5eb7a11">
 </div>
-<div id="outline-container-org8101e5e" class="outline-3">
-<h3 id="org8101e5e">Unidade 1</h3>
+<div id="outline-container-orgc30a1cd" class="outline-3">
+<h3 id="orgc30a1cd">Unidade 1</h3>
 </div>
 
-<div id="outline-container-orgb07d63f" class="outline-3">
-<h3 id="orgb07d63f"><a href="quest-fis2-u2.html">Unidade 2</a></h3>
+<div id="outline-container-org2f831e7" class="outline-3">
+<h3 id="org2f831e7"><a href="quest-fis2-u2.html">Unidade 2</a></h3>
 </div>
 </div>
 </div>
