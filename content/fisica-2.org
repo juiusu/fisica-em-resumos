@@ -583,13 +583,53 @@ Comparação entre uma onda numa corda e um movimento periódico.
 *** Ondas longitudinais
 - Definição: Direção de propagação paralela à direção de oscilação
 
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Ondas longitudinais (mesma direção de direção e propagação) em uma mola.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/WelleLong.jpg"
+       alt="longitudinal wave"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:WelleLong.jpg">OpenStax College</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
 - Exemplos:
 
   - Ondas sonoras
 
+
+
+
 *** Ondas transversais
 
 - Definição: Direção de propagação perpendicular à direção de oscilação
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Ondas transversaç (direções de propagação e oscilação perpendiculares) em uma mola.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/WelleTrans.jpg"
+       alt="transverse wave"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:WelleTrans.jpg">OpenStax College</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
 
 - Exemplos:
 
