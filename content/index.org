@@ -53,6 +53,8 @@ Sugestões dos alunos serão sempre bem-vindas.
 
 - [[file:banco-de-imagens-completo.org][Imagens usadas]]
 
+- [[https://commons.wikimedia.org][Wikimedia Commons]] 
+
 - [[file:banco-questoes-fisica-em.org][banco de questões]]
 ---------------------------------------------------------------------
 

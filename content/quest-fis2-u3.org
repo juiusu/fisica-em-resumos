@@ -1,0 +1,67 @@
+
+* Questão 1 – Velocidade do som
+
+Sabendo que a velocidade de uma onda é dada por \( v = \lambda \cdot f \), em que:
+- \( v \) é a velocidade da onda (em m/s),
+- \( \lambda \) é o comprimento de onda (em metros),
+- \( f \) é a frequência da onda (em Hz),
+
+**a)** Considere que a frequência de 440 Hz de som está associada a um comprimento de onda de 0,600 m.  
+Qual é a velocidade de propagação do som nesse caso?
+
+**Alternativas:**
+a) 240 m/s  
+b) 264 m/s  
+c) 330 m/s  
+d) 360 m/s  
+
+
+* Questão 2 – Frequência de onda eletromagnética (luz)
+
+A luz é uma onda eletromagnética cuja velocidade de propagação no vácuo é \( 3{,}0 \times 10^8\,\text{m/s} \).
+
+**b)** Qual é a frequência de uma onda de luz com comprimento de onda \( \lambda = 2{,}0 \times 10^{-8}\, \text{m} \)?
+
+**Alternativas:**
+a) \( 1{,}5 \times 10^{15} \,\text{Hz} \)  
+b) \( 6{,}0 \times 10^{15} \,\text{Hz} \)  
+c) \( 1{,}5 \times 10^{16} \,\text{Hz} \)  
+d) \( 6{,}0 \times 10^{16} \,\text{Hz} \)  
+
+* Questão 3 – Som embaixo d'água
+
+O som se propaga mais rapidamente na água do que no ar. Suponha que uma onda sonora se propague na água com comprimento de onda igual a 1,5 m e frequência de 1.000 Hz.  
+Qual é a velocidade do som na água, nessa situação?
+
+**Alternativas:**
+a) 1.000 m/s  
+b) 1.300 m/s  
+c) 1.500 m/s  
+d) 1.700 m/s  
+
+* Questão 4 – Luz visível
+
+A cor verde da luz visível está associada a um comprimento de onda de aproximadamente \( 5{,}5 \times 10^{-7} \) m.  
+Qual a frequência dessa onda, considerando a velocidade da luz no vácuo igual a \( 3{,}0 \times 10^8 \, \text{m/s} \)?
+
+**Alternativas:**
+a) \( 5{,}5 \times 10^{14} \, \text{Hz} \)  
+b) \( 4{,}5 \times 10^{14} \, \text{Hz} \)  
+c) \( 6{,}0 \times 10^{14} \, \text{Hz} \)  
+d) \( 3{,}0 \times 10^{13} \, \text{Hz} \)
+
+
+* Questão 5 – Micro-ondas
+
+Um forno de micro-ondas utiliza ondas eletromagnéticas com frequência típica de \( 2{,}45 \times 10^9 \, \text{Hz} \).  
+Qual é o comprimento de onda correspondente, considerando a velocidade da luz \( 3{,}0 \times 10^8 \, \text{m/s} \)?
+
+**Alternativas:**
+a) 0,12 m  
+b) 0,20 m  
+c) 0,45 m  
+d) 1,20 m  
+
+
+
+
