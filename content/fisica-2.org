@@ -466,14 +466,34 @@ Um dissipador de calor proporcciona uma grande área de ruperfície para convec�
 
 ** A primeira Lei da Termodinâmica
 
+#+BEGIN_EXPORT html
+<div style="margin-top:200px;"></div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<hr style=\"margin: 2em 0; border: none; border-top: 3px solid #ccc;\">
+#+END_EXPORT
+
+
 * Ondas
+
+
+
+#+BEGIN_EXPORT html
+<div style="margin-top:200px;"></div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<hr style=\"margin: 2em 0; border: none; border-top: 3px solid #ccc;\">
+#+END_EXPORT
+
 
 ** Introdução
 
 Ondas estão presentes de diversas formas na natureza:
 
 
-Som, luz, ondas de rádio, ondas sísmicas, ultra som etc
+Som, luz, ondas de rádio, ondas sísmicas, ultrassom etc
 
 ** Caracterização enquanto natureza da onda
 
@@ -502,6 +522,18 @@ Som, luz, ondas de rádio, ondas sísmicas, ultra som etc
         x, raios gamma
 
     - Ondas gravitacionais
+
+
+
+#+BEGIN_EXPORT html
+<div style="margin-top:200px;"></div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<hr style=\"margin: 2em 0; border: none; border-top: 3px solid #ccc;\">
+#+END_EXPORT
+
+
 
 ** Movimento periódico
 
@@ -544,6 +576,18 @@ Um pêndulo simples é um exemplo de movimento periódico.
 </div>
 #+END_EXPORT
 
+
+
+#+BEGIN_EXPORT html
+<div style="margin-top:200px;"></div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<hr style=\"margin: 2em 0; border: none; border-top: 3px solid #ccc;\">
+#+END_EXPORT
+
+
+
 ** Conceito de onda
 
 
@@ -575,6 +619,69 @@ Comparação entre uma onda numa corda e um movimento periódico.
     Fonte: <a href="https://commons.wikimedia.org/wiki/File:Simple_harmonic_motion_animation.gif">User:Evil_saltine</a>, Public domain, via Wikimedia Commons
   </p>
 </div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="margin-top:200px;"></div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<hr style=\"margin: 2em 0; border: none; border-top: 3px solid #ccc;\">
+#+END_EXPORT
+
+- Perído e frequência 
+
+\[ T  = \frac{1}{f}\]
+
+- Velocidade
+
+\[ v  = \frac{\lambda}{T}\]
+
+
+\[ v = \lambda f\]
+
+
+#+BEGIN_EXPORT html
+<div style="margin-top:200px;"></div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<hr style=\"margin: 2em 0; border: none; border-top: 3px solid #ccc;\">
+#+END_EXPORT
+
+
+- exemplos:
+
+  - Velocidade do som no ar (aproximado)
+
+    \[v_{som} = 340 m/s\]
+
+  - Velocidade da luz no vácuo
+
+    \[ v_{luz} = 3 \times 10^\{8} \]
+
+  - Frequência da nota lá padrão
+
+    \[f = 440 Hz\]
+
+  - Comprimento de onda da cor vermelha (aproximado)
+
+    \[ \lambda = 700 nm = 700 \times 700 \times 10^{-9} m \]
+
+  - Ultrassom (aproximadamente)
+
+    - \[f = 5 MHz = 5 \times 10^{6} Hz\]
+    
+
+
+#+BEGIN_EXPORT html
+<div style="margin-top:200px;"></div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<hr style=\"margin: 2em 0; border: none; border-top: 3px solid #ccc;\">
 #+END_EXPORT
 
 
@@ -637,12 +744,28 @@ Ondas transversaç (direções de propagação e oscilação perpendiculares) em
 
   - Ondas eletromagnéticas
 
+
+#+BEGIN_EXPORT html
+<div style="margin-top:200px;"></div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<hr style=\"margin: 2em 0; border: none; border-top: 3px solid #ccc;\">
+#+END_EXPORT
+
+
+
 ** Fenômenos relacionados à propagação
 
 - reflexão
+  - eco (som)
+  - reverberação (som)
+  - reflexo (luz - espelho)
 - transmissão
-  - refração 
+  - refração (luz)
 - interferência
+  - Padrão de intererência (luz, som)
+  - ondas estacionárias (corda)
 - absorção
 - difração
 - dispersão
@@ -684,7 +807,6 @@ Reflexão de uma onda, com representação dos ângulos de incidência e reflex�
 
 
 *** transmissão 1D
-
 
 
 *** Transmissão (refração) 2D
@@ -844,6 +966,62 @@ Ondas bidimensionais estacionárias, por exemplo, na pele de um tambor - segundo
 
 
 
+* Mais sobre frequência e amplitude
+
+| grandeza      | som                  | luz                    |
+|---------------+----------------------+------------------------|
+| Amplitude     | Volume (intensidade) | brilho (intensidade)   |
+| Frequência    | nota músical         | cor                    |
+| Forma da onda | timbre               | coerência/espectro     |
+| polarização   | -                    | Orientação da vibração |
+
+- ondas eletromagnéticas como a luz são ondas transverdais, e por isso
+  podem haver polarização
+
+- a luz pode ser
+
+  - monocromática,  coerente e pura (como lazer)
+
+  - espectral, com mistrua de várias frequências (como a luz branca)
+
+* Intensidade Sonora e Escala em Decibéis
+
+* Intensidade Sonora e Escala em Decibéis
+
+** Conceitos principais
+
+- A unidade decibel (**dB**) é usada para medir **nível de intensidade sonora**.
+- O ouvido humano percebe o som de forma **logarítmica**, e não linear.
+- A fórmula usada é:
+
+  
+  \[
+  L = 10 \cdot \log_{10}\left(\frac{I}{I_0}\right)
+  \]
+  
+  Onde:
+  - \( L \): nível sonoro em decibéis
+  - \( I \): intensidade do som
+  - \( I_0 = 10^{-12} \, \text{W/m}^2 \): intensidade mínima audível
+
+** Exemplos práticos
+
+| Nível (dB) | Exemplo de som         | Observação              |
+|------------+-------------------------+--------------------------|
+| 0 dB       | Limite da audição       | Som quase inaudível     |
+| 30 dB      | Sussurro                | Som muito fraco         |
+| 60 dB      | Conversa normal         | Nível confortável       |
+| 90 dB      | Trânsito pesado         | Muito alto              |
+| 120 dB     | Show ou trovão perto    | Limite da dor           |
+
+- Cada **+10 dB** representa um som **10 vezes mais intenso**.
+- A sensação de volume **dobra a cada +10 dB** aproximadamente.
+
+
+
+
+
+* Audibilidade
 
 * Óptica
 
@@ -852,6 +1030,15 @@ Ondas bidimensionais estacionárias, por exemplo, na pele de um tambor - segundo
 ** Unidade 1
 
 ** [[file:quest-fis2-u2.org][Unidade 2]] 
+
+
+https://phet.colorado.edu/sims/html/sound-waves/latest/sound-waves_all.html?locale=pt_BR
+
+https://phet.colorado.edu/pt_BR/simulations/fourier-making-waves
+https://phet.colorado.edu/pt_BR/simulations/wave-on-a-string
+
+https://phet.colorado.edu/pt_BR/simulations/wave-interference
+
 
 ** [[file:quest-fis2-u3.org][Unidade 3]] 
 

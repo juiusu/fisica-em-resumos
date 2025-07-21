@@ -1,0 +1,92 @@
+* Atividade: Cálculo de Carga e Potência – Bateria e Carregador de Celular
+
+** Objetivo
+Compreender os conceitos de carga elétrica, capacidade da bateria e potência, realizando cálculos baseados em dados reais de aparelhos celulares e seus carregadores.
+
+** Instruções
+
+*** 1. Levantamento de Dados
+- Identifique e registre as seguintes informações (normalmente impressas na bateria e no carregador do seu celular ou disponíveis no manual/on-line):
+  - Capacidade da bateria (em mAh)
+  - Tensão da bateria (em V)
+  - Corrente de saída do carregador (em A ou mA)
+  - Tensão de saída do carregador (em V)
+
+*** 2. Montagem da Tabela
+
+Preencha a tabela abaixo com os dados reais do seu aparelho:
+
+| Item             | Valor           | Unidade |
+|------------------+----------------+---------|
+| Capacidade       |                | mAh     |
+| Tensão Bateria   |                | V       |
+| Energia (bateria)|                | Wh      |
+| Corrente Carregador |            | mA ou A |
+| Tensão Carregador   |            | V       |
+| Potência Carregador |            | W       |
+
+*** 3. Cálculos
+
+**** a) Energia armazenada na bateria
+Calcule a energia máxima armazenada na bateria, em watt-hora (Wh):
+
+#+begin_comment
+- Fórmula:  
+  \[
+  E_{\text{bateria}} = \frac{\text{Capacidade (mAh)}}{1000} \times \text{Tensão (V)}
+  \]
+#+end_comment
+
+**** b) Potência do carregador
+Calcule a potência fornecida pelo carregador, em watts (W):
+
+
+
+#+begin_comment
+- Fórmula:  
+
+  \[
+  P_{\text{carregador}} = \text{Corrente (A)} \times \text{Tensão (V)}
+  \]
+#+end_comment
+
+**** c) Tempo teórico de carregamento
+Estime o tempo mínimo para carregar a bateria totalmente (em horas), supondo 100% de eficiência (na prática, o tempo real é maior):
+
+#+begin_comment
+- Fórmula:  
+
+  \[
+  t = \frac{\text{Capacidade (mAh)}}{\text{Corrente (mA)}}
+  \]
+#+end_comment
+
+*** 4. Exemplo (preencher com dados reais)
+
+| Item                | Valor     | Unidade |
+|---------------------+----------+---------|
+| Capacidade          | 4000     | mAh     |
+| Tensão Bateria      | 3,8      | V       |
+| Energia (bateria)   | 15,2     | Wh      |
+| Corrente Carregador | 2000     | mA      |
+| Tensão Carregador   | 5,0      | V       |
+| Potência Carregador | 10,0     | W       |
+
+#+begin_comment
+- Energia: 4000/1000 × 3,8 = 15,2 Wh
+- Potência: 2,0 × 5,0 = 10,0 W
+- Tempo teórico: 4000 / 2000 = 2 h
+#+end_comment
+
+*** 5. Perguntas para Análise
+
+1. Qual é a diferença entre a energia armazenada na bateria (Wh) e a potência do carregador (W)?
+2. O tempo de carregamento real costuma ser maior do que o calculado. Por quê?
+3. O que pode influenciar a eficiência do carregamento de uma bateria de celular?
+
+** Entrega
+
+- Preencha a tabela com os dados reais do seu celular/carregador.
+- Mostre todos os cálculos.
+- Responda as perguntas de análise.
+

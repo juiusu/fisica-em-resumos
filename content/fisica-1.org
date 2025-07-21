@@ -664,6 +664,40 @@ módulo e orientação oposta,
 #+END_EXPORT
 
 
+** Principio da conservação da energia
+
+A energia é uma quantidade que se conserva, ou seja, não podemos criar
+nem destruir energia, apenas transformar de um tipo em outra.
+
+
+** Energia cinética
+
+A energia associada ao movimento de um objeto de massa \(m\) com
+velocidade \(v\) é calculada pela expressão
+
+\[ E_c = \frac{m v^2\}{2} \]
+
+** Energia potencial gravitacional
+
+A energia associada a posição de um objeto, de massa \(m\), em uma
+altura \(h\), submetido a uma gravidade caracterizada
+pela aceleração \(g\)  (na superfície da terra, usaremos o valor \(g =
+10 m/s^2\)
+
+\[E_g = m g h \]
+
+** Trabalho de uma força
+
+A energia fornecida ao aplicar uma força \(F\) em um objeto, movendo-o na
+mesma direção da aplicação da força, por uma distância \(d\) é
+calculada por
+
+\[W = F d\]
+
+** Conservação da energia mecânica
+
+[[https://phet.colorado.edu/pt_BR/simulations/energy-skate-park][Simulação Energia na pista de skate]] 
+
 * Gravitação
 
 
@@ -698,7 +732,11 @@ A mecânica dos fluidos estuda o comportamento de líquidos e gases em repouso o
 #+END_EXPORT
 
 
-[[file:quest-fis1-u2.org][Unidade 2]]
+** [[file:quest-fis1-u2.org][Unidade 2]]
+
+** [[file:quest-fis1-u3.org][Unidade 3]]
+
+** [[file:atividade-fis1-u3.org][Atividade avaliativa 1 da unidade 3]] 
 
 #+BEGIN_EXPORT html
 <div style=\"margin-top:30px;\"></div>

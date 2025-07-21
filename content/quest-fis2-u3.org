@@ -6,7 +6,7 @@ Sabendo que a velocidade de uma onda é dada por \( v = \lambda \cdot f \), em q
 - \( \lambda \) é o comprimento de onda (em metros),
 - \( f \) é a frequência da onda (em Hz),
 
-**a)** Considere que a frequência de 440 Hz de som está associada a um comprimento de onda de 0,600 m.  
+Considere que a frequência de 440 Hz de som está associada a um comprimento de onda de 0,600 m.  
 Qual é a velocidade de propagação do som nesse caso?
 
 **Alternativas:**
@@ -16,17 +16,7 @@ c) 330 m/s
 d) 360 m/s  
 
 
-* Questão 2 – Frequência de onda eletromagnética (luz)
 
-A luz é uma onda eletromagnética cuja velocidade de propagação no vácuo é \( 3{,}0 \times 10^8\,\text{m/s} \).
-
-**b)** Qual é a frequência de uma onda de luz com comprimento de onda \( \lambda = 2{,}0 \times 10^{-8}\, \text{m} \)?
-
-**Alternativas:**
-a) \( 1{,}5 \times 10^{15} \,\text{Hz} \)  
-b) \( 6{,}0 \times 10^{15} \,\text{Hz} \)  
-c) \( 1{,}5 \times 10^{16} \,\text{Hz} \)  
-d) \( 6{,}0 \times 10^{16} \,\text{Hz} \)  
 
 * Questão 3 – Som embaixo d'água
 
@@ -61,6 +51,59 @@ a) 0,12 m
 b) 0,20 m  
 c) 0,45 m  
 d) 1,20 m  
+
+
+
+
+* Questões sobre dB
+** Questão 1
+Qual o nível de intensidade sonora considerado confortável para uma conversa comum?
+
+a) 10 dB  
+b) 30 dB  
+c) 60 dB  
+d) 90 dB  
+
+** Questão 2
+Um som de 90 dB é quantas vezes mais intenso que um de 60 dB?
+
+a) 2 vezes  
+b) 10 vezes  
+c) 100 vezes  
+d) 1000 vezes  
+
+** Questão 3
+Qual destes sons está mais próximo do limite da dor?
+
+a) 30 dB  
+b) 60 dB  
+c) 90 dB  
+d) 120 dB  
+
+** Questão 4
+Se um som tem 0 dB, o que isso significa?
+
+a) Não há som nenhum.  
+b) É o som mais fraco que podemos ouvir.  
+c) É o som mais forte possível.  
+d) Significa silêncio absoluto.
+
+
+[[https://docs.google.com/forms/d/1gB35mLsxaBF7gVevDkUEK8YX-DPnbuFY9XuqJY8fH1Q/edit][questões no google sheet]]
+
+[[https://docs.google.com/forms/d/13jq9r8dyksMqAeB1XzcKCRbx5WSdtQMETdxzrmGS9lU/edit][Questões no googe sheet 2]]
+
+
+
+Atividades para entrega até quarta-feira - 23/07
+
+* Atividade de revisão ondas - 1
+
+https://forms.gle/SSvwxpatDiFjgmab7
+
+* Atividade de revisão ondas - 2
+
+https://forms.gle/Cz584GDUuu6DUaR76
 
 
 

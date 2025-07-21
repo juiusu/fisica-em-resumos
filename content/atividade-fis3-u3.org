@@ -1,0 +1,51 @@
+* Atividade Avaliativa: Planilha de Consumo Energético
+
+** Objetivo
+Elaborar uma planilha que permita analisar o consumo de energia elétrica dos principais equipamentos do local de estágio, estimando custos e identificando os maiores consumidores.
+
+** Instruções
+
+*** 1. Levantamento dos Equipamentos
+Liste pelo menos **cinco** equipamentos elétricos do local de estágio que consomem energia regularmente.
+
+*** 2. Montagem da Planilha
+Monte uma planilha com as seguintes colunas:
+
+| Equipamento        | Potência (W) | Consumo Diário (h) | Consumo Mensal (h) | Consumo Mensal (kWh) | Custo Mensal (R$) | % do Consumo |
+|--------------------+--------------+--------------------+--------------------+----------------------+-------------------+--------------|
+
+**** Descrição das colunas:
+- **Equipamento:** Nome do equipamento.
+- **Potência (W):** Potência nominal do equipamento (em watts).
+- **Consumo Diário (h):** Tempo médio de uso por dia (em horas).
+- **Consumo Mensal (h):** Tempo médio de uso por mês (em horas).  
+  *Sugestão: Consumo Diário (h) × 30 dias*
+- **Consumo Mensal (kWh):** Energia consumida no mês.  
+  *Fórmula: (Potência (W) × Consumo Mensal (h)) ÷ 1000*
+- **Custo Mensal (R$):** Valor gasto por mês.  
+  *Fórmula: Consumo Mensal (kWh) × Tarifa de energia (informar o valor local)*
+- **% do Consumo:** Proporção do consumo de cada equipamento em relação ao total.  
+  *Fórmula: (Consumo Mensal (kWh) do equipamento ÷ Consumo Mensal (kWh) total) × 100*
+
+**** Inclua uma linha ou células ao final da tabela com os **totais** de cada coluna, principalmente do Consumo Mensal (kWh) e do Custo Mensal (R$).
+
+*** 3. Elaboração do Gráfico
+- Com os dados da coluna “% do Consumo”, crie um **gráfico de pizza** para mostrar visualmente a participação de cada equipamento no consumo total.
+
+    - Utilize os recursos do seu editor de planilhas (Calc, Excel, Google Sheets).
+
+    - Certifique-se de que cada fatia do gráfico corresponde a um equipamento.
+
+*** 4. Observações Finais
+
+- Coloque a tarifa de energia usada para os cálculos (valor do kWh em reais).
+
+- Faça uma breve análise: Qual equipamento consome mais? Que medidas poderiam ser adotadas para economizar energia?
+
+** Entrega
+
+- A planilha pode ser entregue em formato digital (arquivo .ods, .xlsx ou Google Sheets compartilhado).
+
+- Inclua a imagem do gráfico de pizza.
+
+- Adicione uma breve análise dos resultados.

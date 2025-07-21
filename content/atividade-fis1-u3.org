@@ -1,0 +1,69 @@
+* Atividade: Conservação de Energia Mecânica — Pista de Skate
+
+** Objetivo
+Compreender os conceitos de energia cinética, energia potencial gravitacional, energia térmica e fricção, aplicando-os à análise do movimento de um skatista em uma pista, com ênfase na conservação de energia mecânica.
+
+** Dados Iniciais para os Exercícios
+- Massa do skatista: 50 kg
+- Gravidade: \(g = 10 \, m/s^2\)
+- Altura inicial da pista: 5,0 m
+- Desconsidere a resistência do ar, exceto quando indicado.
+- Quando houver fricção, use: Força de fricção \(F_{fric}\) = 100 N
+- Comprimento da pista (nas questões com fricção): 10 m
+
+** Tabela de Símbolos e Fórmulas
+
+| Símbolo          | Significado                                | Fórmula                                        |
+|------------------+--------------------------------------------+------------------------------------------------|
+| \(E_c\)          | Energia cinética                           | \(E_c = \frac{1}{2}mv^2\)                      |
+| \(E_p\)          | Energia potencial gravitacional            | \(E_p = mgh\)                                  |
+| \(E_{mec}\)      | Energia mecânica total                     | \(E_{mec} = E_c + E_p\)                        |
+| \(E_{térmica}\)  | Energia transformada em calor (fricção)    | \(E_{térmica} = F_{fric} \cdot d\)             |
+
+** Atividades
+
+*** 1. Questões Básicas
+
+1. Um skatista (massa = 50 kg) está parado no topo de uma rampa de 5 m de altura.  
+   a) Calcule a energia potencial gravitacional do skatista nessa posição.  
+   b) Qual é a energia cinética do skatista nesse instante?
+
+2. Supondo que não haja fricção e o skatista desça até o ponto mais baixo da pista (altura = 0 m):  
+   a) Qual será a energia cinética do skatista no ponto mais baixo?  
+   b) Qual será a velocidade do skatista no ponto mais baixo?
+
+3. Se a massa do skatista fosse de 80 kg, qual seria a energia cinética ao final da descida? A velocidade seria diferente? Explique.
+
+*** 2. Interpretação de Gráficos Simples
+
+4. Considere um gráfico de barras mostrando as energias potencial, cinética e total do skatista em diferentes pontos da pista, sem fricção.  
+   a) Em que ponto a energia cinética é máxima?  
+   b) Em que ponto a energia potencial é máxima?  
+   c) O que se observa com a energia total?
+
+*** 3. Introduzindo Fricção
+
+5. Agora considere que há fricção. Ao descer a pista de 5 m de altura e percorrer 10 m, o skatista perde energia devido à fricção.  
+   a) Calcule a energia térmica gerada pela fricção ao longo do trajeto.  
+   b) Qual será a energia mecânica disponível no final do percurso?  
+   c) Qual será a velocidade do skatista ao final do percurso?
+
+*** 4. Situações Aplicadas
+
+6. Se a pista for modificada para ter uma altura inicial de 8 m e a fricção for mantida, repita os cálculos dos itens 5.a, 5.b e 5.c.
+
+7. O que acontece com a energia cinética do skatista se ele começar a descer a partir do meio da rampa (altura = 2,5 m), sem fricção?
+
+*** 5. Análise e Discussão
+
+8. Explique o que acontece com a energia do sistema se mudarmos a referência de altura (por exemplo, considerar o ponto mais baixo da pista como \(h=0\) ou \(h=-1\) m).
+
+9. Projete um trecho de pista para que o skatista alcance uma determinada velocidade de 10 m/s em determinado ponto, considerando ausência de fricção.  
+   a) Qual deve ser a altura mínima da rampa para que isso ocorra?
+
+10. Em sua opinião, por que a energia total do sistema diminui quando há fricção? Cite exemplos do cotidiano em que isso ocorre.
+
+** Espaço para Respostas e Anotações
+
+- Utilize os espaços a seguir para seus cálculos, justificativas e explicações. Se possível, use gráficos para ilustrar as respostas dos itens interpretativos e aplicados.
+

@@ -682,3 +682,7 @@ Par um caso geral, com n resistores em paralelo, teremos:
 ** [[file:quest-fis3-u1.org][questoes: unidade 1]]
 
 ** [[file:quest-fis3-u2.org][questões: unidade 2]]
+
+** [[file:atividade-fis3-u3.org][Atividade avaliativa 1 - unidade 3]] 
+
+** [[file:atividade-fis3-u3-a2.org][Atividade avaliativa 2 - unidade 3]]

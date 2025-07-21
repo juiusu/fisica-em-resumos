@@ -1,0 +1,115 @@
+#+OPTIONS: toc:2
+
+* Física I - Exercícios, problemas - Unidade III
+
+** Definição de Energia cinética
+
+1. A energia cinética é definida como
+
+\[ E_c = \frac{m}{2} v^2
+
+Calcule a energia cinética nas seguintes condições
+
+
+a)  m = 10 kg e v = 2 m/s
+
+b)  m = 10 kg e  v = 4 m/s
+
+c)  m = 20 kg e v = 2 m/s
+
+1. O que acontece com a energia cinética de um corpo, se a velocidade
+   dobrar?
+
+2. Qual é a relação entre a energia cinética de dois corpos com a
+   mesma velocidade se o corpo A tem a metade da massa do corpo B?
+
+   
+** Definição de Energia potencial gravitacional
+
+
+A energia potencial gravitacional é definida como
+
+\[ E_g = m g h\]
+
+onde, na superfície da terra, consideramos a aceleração da gravidade
+\( g = 10 m/s^2\)
+
+1. Calcule a energia potencial gravitacional para os seguintes casos:
+
+   a) m = 10 kg e h = 2 m
+
+   b) m = 5 kg e h =  2 m
+
+   c) m = 5 kg e h = 4 m
+
+   d) m = 10 kg e h = 1 m
+
+
+2. O que acontece com a energia potencial gravitacional de um corpo
+   quando sua altura reduz para a metade?
+
+3. Qual é a relação entre a energia potencial de dois corpos que estão
+   a mesma altura, mas onde o corpo A tem a metade da massa do corpo
+   B?
+
+** Conversão de energia: potencial em cinética
+1. Qual será a velocidade de um objeto de 10 kg que é solto de uma
+   altura de 100m com velocidade, nula quando esse objeto estiver em:
+
+a) h = 0 m
+
+b) h = 95 m 
+
+c) h = 80 m 
+
+d) h = 55 m 
+
+e) h = 20 m 
+
+f) h = 3,2 m 
+
+** Definição de Trabalho
+
+O trabalho \( W \) realizado por uma força constante \( F \), quando um corpo se desloca uma distância \( d \) na mesma direção da força, é definido como:
+
+\[ W = F \cdot d \]
+
+1. Calcule o trabalho realizado nas seguintes situações:
+
+   a) F = 10 N, d = 5 m
+
+   b) F = 20 N, d = 3 m
+
+   c) F = 15 N, d = 0 m
+
+   d) F = 50 N, d = 10 m
+
+2. O que acontece com o trabalho realizado se a força for o dobro e a
+   distância for a metade?
+
+3. Se um corpo se move perpendicularmente à direção da força, qual é o
+   valor do trabalho realizado?
+
+** Conversão de Trabalho em Energia Cinética
+
+1. Quando uma força realiza trabalho sobre um corpo, e esse trabalho
+   resulta em aumento de velocidade, dizemos que a energia cinética
+   foi aumentada pela força.
+
+2. Sabendo que o trabalho é igual à variação da energia cinética:
+
+\[ W = \Delta E_c = E_{c,f} - E_{c,i} \]
+
+   Resolva as seguintes questões:
+
+   a) Um corpo de 5 kg parte do repouso e atinge 6 m/s. Qual foi o
+      trabalho realizado sobre ele?
+
+   b) Um corpo de 8 kg aumenta sua velocidade de 2 m/s para 6 m/s.
+      Qual foi o trabalho realizado?
+
+   c) Um corpo de 3 kg tem sua velocidade reduzida de 10 m/s para 4 m/s.
+      Qual foi o trabalho realizado sobre ele? O trabalho foi positivo
+      ou negativo?
+
+3. Em quais situações o trabalho realizado é negativo? Dê um exemplo.
