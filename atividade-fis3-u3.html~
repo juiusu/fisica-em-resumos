@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Joilson Silva Porto" />
+<meta http-equiv="Content-Language" content="pt-BR">
+
+                     <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
+</head>
+<body>
+<div id="content">
+<div id="outline-container-orgb344c22" class="outline-2">
+<h2 id="orgb344c22">Atividade Avaliativa: Planilha de Consumo Energético</h2>
+<div class="outline-text-2" id="text-orgb344c22">
+</div>
+<div id="outline-container-orgdaf9fe5" class="outline-3">
+<h3 id="orgdaf9fe5">Objetivo</h3>
+<div class="outline-text-3" id="text-orgdaf9fe5">
+<p>
+Elaborar uma planilha que permita analisar o consumo de energia elétrica dos principais equipamentos do local de estágio, estimando custos e identificando os maiores consumidores.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7fb421f" class="outline-3">
+<h3 id="org7fb421f">Instruções</h3>
+<div class="outline-text-3" id="text-org7fb421f">
+</div>
+<div id="outline-container-orgd90656e" class="outline-4">
+<h4 id="orgd90656e">1. Levantamento dos Equipamentos</h4>
+<div class="outline-text-4" id="text-orgd90656e">
+<p>
+Liste pelo menos <b><b>cinco</b></b> equipamentos elétricos do local de estágio que consomem energia regularmente.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org428544b" class="outline-4">
+<h4 id="org428544b">2. Montagem da Planilha</h4>
+<div class="outline-text-4" id="text-org428544b">
+<p>
+Monte uma planilha com as seguintes colunas:
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">Equipamento</td>
+<td class="org-left">Potência (W)</td>
+<td class="org-left">Consumo Diário (h)</td>
+<td class="org-left">Consumo Mensal (h)</td>
+<td class="org-left">Consumo Mensal (kWh)</td>
+<td class="org-left">Custo Mensal (R$)</td>
+<td class="org-left">% do Consumo</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<ul class="org-ul">
+<li><a id="org743534f"></a>Descrição das colunas:<br />
+<div class="outline-text-5" id="text-org743534f">
+<ul class="org-ul">
+<li><b><b>Equipamento:</b></b> Nome do equipamento.</li>
+<li><b><b>Potência (W):</b></b> Potência nominal do equipamento (em watts).</li>
+<li><b><b>Consumo Diário (h):</b></b> Tempo médio de uso por dia (em horas).</li>
+<li><b><b>Consumo Mensal (h):</b></b> Tempo médio de uso por mês (em horas).  
+<b>Sugestão: Consumo Diário (h) × 30 dias</b></li>
+<li><b><b>Consumo Mensal (kWh):</b></b> Energia consumida no mês.  
+<b>Fórmula: (Potência (W) × Consumo Mensal (h)) ÷ 1000</b></li>
+<li><b><b>Custo Mensal (R$):</b></b> Valor gasto por mês.  
+<b>Fórmula: Consumo Mensal (kWh) × Tarifa de energia (informar o valor local)</b></li>
+<li><b><b>% do Consumo:</b></b> Proporção do consumo de cada equipamento em relação ao total.  
+<b>Fórmula: (Consumo Mensal (kWh) do equipamento ÷ Consumo Mensal (kWh) total) × 100</b></li>
+</ul>
+</div>
+</li>
+
+<li><a id="orgb630fb8"></a>Inclua uma linha ou células ao final da tabela com os <b><b>totais</b></b> de cada coluna, principalmente do Consumo Mensal (kWh) e do Custo Mensal (R$).<br /></li>
+</ul>
+</div>
+
+<div id="outline-container-orga614c66" class="outline-4">
+<h4 id="orga614c66">3. Elaboração do Gráfico</h4>
+<div class="outline-text-4" id="text-orga614c66">
+<ul class="org-ul">
+<li>Com os dados da coluna “% do Consumo”, crie um <b><b>gráfico de pizza</b></b> para mostrar visualmente a participação de cada equipamento no consumo total.
+
+<ul class="org-ul">
+<li>Utilize os recursos do seu editor de planilhas (Calc, Excel, Google Sheets).</li>
+
+<li>Certifique-se de que cada fatia do gráfico corresponde a um equipamento.</li>
+</ul></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgd75fd3d" class="outline-4">
+<h4 id="orgd75fd3d">4. Observações Finais</h4>
+<div class="outline-text-4" id="text-orgd75fd3d">
+<ul class="org-ul">
+<li>Coloque a tarifa de energia usada para os cálculos (valor do kWh em reais).</li>
+
+<li>Faça uma breve análise: Qual equipamento consome mais? Que medidas poderiam ser adotadas para economizar energia?</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org3728fbe" class="outline-3">
+<h3 id="org3728fbe">Entrega</h3>
+<div class="outline-text-3" id="text-org3728fbe">
+<ul class="org-ul">
+<li>A planilha pode ser entregue em formato digital (arquivo .ods, .xlsx ou Google Sheets compartilhado).</li>
+
+<li>Inclua a imagem do gráfico de pizza.</li>
+
+<li>Adicione uma breve análise dos resultados.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Joilson Silva Porto</p>
+<p class="email">Email: <a href="mailto:joilson.porto@ifam.edu.br">joilson.porto@ifam.edu.br</a></p>
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.1 (<a href="https://orgmode.org">Org</a> mode 9.3)</p>
+</div>
+</body>
+</html>

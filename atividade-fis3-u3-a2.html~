@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Joilson Silva Porto" />
+<meta http-equiv="Content-Language" content="pt-BR">
+
+                     <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
+</head>
+<body>
+<div id="content">
+<div id="outline-container-org1f8198d" class="outline-2">
+<h2 id="org1f8198d">Atividade: Cálculo de Carga e Potência – Bateria e Carregador de Celular</h2>
+<div class="outline-text-2" id="text-org1f8198d">
+</div>
+<div id="outline-container-orge5cfd5f" class="outline-3">
+<h3 id="orge5cfd5f">Objetivo</h3>
+<div class="outline-text-3" id="text-orge5cfd5f">
+<p>
+Compreender os conceitos de carga elétrica, capacidade da bateria e potência, realizando cálculos baseados em dados reais de aparelhos celulares e seus carregadores.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgf863f8e" class="outline-3">
+<h3 id="orgf863f8e">Instruções</h3>
+<div class="outline-text-3" id="text-orgf863f8e">
+</div>
+<div id="outline-container-org477e51c" class="outline-4">
+<h4 id="org477e51c">1. Levantamento de Dados</h4>
+<div class="outline-text-4" id="text-org477e51c">
+<ul class="org-ul">
+<li>Identifique e registre as seguintes informações (normalmente impressas na bateria e no carregador do seu celular ou disponíveis no manual/on-line):
+<ul class="org-ul">
+<li>Capacidade da bateria (em mAh)</li>
+<li>Tensão da bateria (em V)</li>
+<li>Corrente de saída do carregador (em A ou mA)</li>
+<li>Tensão de saída do carregador (em V)</li>
+</ul></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org82f48ae" class="outline-4">
+<h4 id="org82f48ae">2. Montagem da Tabela</h4>
+<div class="outline-text-4" id="text-org82f48ae">
+<p>
+Preencha a tabela abaixo com os dados reais do seu aparelho:
+</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Item</th>
+<th scope="col" class="org-left">Valor</th>
+<th scope="col" class="org-left">Unidade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Capacidade</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">mAh</td>
+</tr>
+
+<tr>
+<td class="org-left">Tensão Bateria</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">V</td>
+</tr>
+
+<tr>
+<td class="org-left">Energia (bateria)</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Wh</td>
+</tr>
+
+<tr>
+<td class="org-left">Corrente Carregador</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">mA ou A</td>
+</tr>
+
+<tr>
+<td class="org-left">Tensão Carregador</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">V</td>
+</tr>
+
+<tr>
+<td class="org-left">Potência Carregador</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">W</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-orgb911c57" class="outline-4">
+<h4 id="orgb911c57">3. Cálculos</h4>
+<div class="outline-text-4" id="text-orgb911c57">
+</div>
+<ul class="org-ul">
+<li><a id="org063e941"></a>a) Energia armazenada na bateria<br />
+<div class="outline-text-5" id="text-org063e941">
+<p>
+Calcule a energia máxima armazenada na bateria, em watt-hora (Wh):
+</p>
+</div>
+</li>
+
+<li><a id="orgb591e37"></a>b) Potência do carregador<br />
+<div class="outline-text-5" id="text-orgb591e37">
+<p>
+Calcule a potência fornecida pelo carregador, em watts (W):
+</p>
+</div>
+</li>
+
+<li><a id="org6b7e3a4"></a>c) Tempo teórico de carregamento<br />
+<div class="outline-text-5" id="text-org6b7e3a4">
+<p>
+Estime o tempo mínimo para carregar a bateria totalmente (em horas), supondo 100% de eficiência (na prática, o tempo real é maior):
+</p>
+</div>
+</li>
+</ul>
+</div>
+
+<div id="outline-container-orga23cd5e" class="outline-4">
+<h4 id="orga23cd5e">4. Exemplo (preencher com dados reais)</h4>
+<div class="outline-text-4" id="text-orga23cd5e">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Item</th>
+<th scope="col" class="org-left">Valor</th>
+<th scope="col" class="org-left">Unidade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Capacidade</td>
+<td class="org-left">4000</td>
+<td class="org-left">mAh</td>
+</tr>
+
+<tr>
+<td class="org-left">Tensão Bateria</td>
+<td class="org-left">3,8</td>
+<td class="org-left">V</td>
+</tr>
+
+<tr>
+<td class="org-left">Energia (bateria)</td>
+<td class="org-left">15,2</td>
+<td class="org-left">Wh</td>
+</tr>
+
+<tr>
+<td class="org-left">Corrente Carregador</td>
+<td class="org-left">2000</td>
+<td class="org-left">mA</td>
+</tr>
+
+<tr>
+<td class="org-left">Tensão Carregador</td>
+<td class="org-left">5,0</td>
+<td class="org-left">V</td>
+</tr>
+
+<tr>
+<td class="org-left">Potência Carregador</td>
+<td class="org-left">10,0</td>
+<td class="org-left">W</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div id="outline-container-org2476b72" class="outline-4">
+<h4 id="org2476b72">5. Perguntas para Análise</h4>
+<div class="outline-text-4" id="text-org2476b72">
+<ol class="org-ol">
+<li>Qual é a diferença entre a energia armazenada na bateria (Wh) e a potência do carregador (W)?</li>
+<li>O tempo de carregamento real costuma ser maior do que o calculado. Por quê?</li>
+<li>O que pode influenciar a eficiência do carregamento de uma bateria de celular?</li>
+</ol>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org124ae64" class="outline-3">
+<h3 id="org124ae64">Entrega</h3>
+<div class="outline-text-3" id="text-org124ae64">
+<ul class="org-ul">
+<li>Preencha a tabela com os dados reais do seu celular/carregador.</li>
+<li>Mostre todos os cálculos.</li>
+<li>Responda as perguntas de análise.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Joilson Silva Porto</p>
+<p class="email">Email: <a href="mailto:joilson.porto@ifam.edu.br">joilson.porto@ifam.edu.br</a></p>
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.1 (<a href="https://orgmode.org">Org</a> mode 9.3)</p>
+</div>
+</body>
+</html>
