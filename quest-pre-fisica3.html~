@@ -40,20 +40,20 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org78e1a3b">Questões de revisão: gráficos</a>
+<li><a href="#org9c94ec1">Questões de revisão: gráficos</a>
 <ul>
-<li><a href="#org3108bff">Questão 1</a></li>
-<li><a href="#orga91c6ad">Questão 2</a></li>
-<li><a href="#org652e0a8">Questão 3</a></li>
+<li><a href="#org27235bb">Questão 1</a></li>
+<li><a href="#org6e7aa1a">Questão 2</a></li>
+<li><a href="#orgda28c25">Questão 3</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org78e1a3b" class="outline-2">
-<h2 id="org78e1a3b">Questões de revisão: gráficos</h2>
-<div class="outline-text-2" id="text-org78e1a3b">
+<div id="outline-container-org9c94ec1" class="outline-2">
+<h2 id="org9c94ec1">Questões de revisão: gráficos</h2>
+<div class="outline-text-2" id="text-org9c94ec1">
 <p>
 O gráfico abaixo será usado em todas as questões desse tópico.
 </p>
@@ -66,9 +66,9 @@ O gráfico abaixo será usado em todas as questões desse tópico.
 </div>
 </div>
 
-<div id="outline-container-org3108bff" class="outline-3">
-<h3 id="org3108bff">Questão 1</h3>
-<div class="outline-text-3" id="text-org3108bff">
+<div id="outline-container-org27235bb" class="outline-3">
+<h3 id="org27235bb">Questão 1</h3>
+<div class="outline-text-3" id="text-org27235bb">
 <p>
 Considere que o gráfico acima representa o movimento uniforme de um
 carrro em uma rodovia.
@@ -93,9 +93,9 @@ v = \frac{d}{t}
 </div>
 
 
-<div id="outline-container-orga91c6ad" class="outline-3">
-<h3 id="orga91c6ad">Questão 2</h3>
-<div class="outline-text-3" id="text-orga91c6ad">
+<div id="outline-container-org6e7aa1a" class="outline-3">
+<h3 id="org6e7aa1a">Questão 2</h3>
+<div class="outline-text-3" id="text-org6e7aa1a">
 <p>
 Construa uma tabela relacionando distância e tempo para o movimento
 descrito no gráfico acima.
@@ -103,9 +103,9 @@ descrito no gráfico acima.
 </div>
 </div>
 
-<div id="outline-container-org652e0a8" class="outline-3">
-<h3 id="org652e0a8">Questão 3</h3>
-<div class="outline-text-3" id="text-org652e0a8">
+<div id="outline-container-orgda28c25" class="outline-3">
+<h3 id="orgda28c25">Questão 3</h3>
+<div class="outline-text-3" id="text-orgda28c25">
 <ul class="org-ul">
 <li>a) Faça um novo gráfico, considerando, um segundo carro que tem o
 dobro da velocidade do primeiro (o primeiro é o que está

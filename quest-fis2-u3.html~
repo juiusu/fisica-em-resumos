@@ -36,9 +36,9 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-orgbc25167" class="outline-2">
-<h2 id="orgbc25167">Questão 1 – Velocidade do som</h2>
-<div class="outline-text-2" id="text-orgbc25167">
+<div id="outline-container-org18acb18" class="outline-2">
+<h2 id="org18acb18">Questão 1 – Velocidade do som</h2>
+<div class="outline-text-2" id="text-org18acb18">
 <p>
 Sabendo que a velocidade de uma onda é dada por \( v = \lambda \cdot f \), em que:
 </p>
@@ -64,9 +64,11 @@ d) 360 m/s
 </div>
 
 
-<div id="outline-container-org684977f" class="outline-2">
-<h2 id="org684977f">Questão 3 – Som embaixo d'água</h2>
-<div class="outline-text-2" id="text-org684977f">
+
+
+<div id="outline-container-org0bf0015" class="outline-2">
+<h2 id="org0bf0015">Questão 3 – Som embaixo d'água</h2>
+<div class="outline-text-2" id="text-org0bf0015">
 <p>
 O som se propaga mais rapidamente na água do que no ar. Suponha que uma onda sonora se propague na água com comprimento de onda igual a 1,5 m e frequência de 1.000 Hz.  
 Qual é a velocidade do som na água, nessa situação?
@@ -82,9 +84,9 @@ d) 1.700 m/s
 </div>
 </div>
 
-<div id="outline-container-org3583ccf" class="outline-2">
-<h2 id="org3583ccf">Questão 4 – Luz visível</h2>
-<div class="outline-text-2" id="text-org3583ccf">
+<div id="outline-container-org3ea21e6" class="outline-2">
+<h2 id="org3ea21e6">Questão 4 – Luz visível</h2>
+<div class="outline-text-2" id="text-org3ea21e6">
 <p>
 A cor verde da luz visível está associada a um comprimento de onda de aproximadamente \( 5{,}5 \times 10^{-7} \) m.  
 Qual a frequência dessa onda, considerando a velocidade da luz no vácuo igual a \( 3{,}0 \times 10^8 \, \text{m/s} \)?
@@ -101,9 +103,9 @@ d) \( 3{,}0 \times 10^{13} \, \text{Hz} \)
 </div>
 
 
-<div id="outline-container-orgc8e2126" class="outline-2">
-<h2 id="orgc8e2126">Questão 5 – Micro-ondas</h2>
-<div class="outline-text-2" id="text-orgc8e2126">
+<div id="outline-container-org25021ab" class="outline-2">
+<h2 id="org25021ab">Questão 5 – Micro-ondas</h2>
+<div class="outline-text-2" id="text-org25021ab">
 <p>
 Um forno de micro-ondas utiliza ondas eletromagnéticas com frequência típica de \( 2{,}45 \times 10^9 \, \text{Hz} \).  
 Qual é o comprimento de onda correspondente, considerando a velocidade da luz \( 3{,}0 \times 10^8 \, \text{m/s} \)?
@@ -122,13 +124,13 @@ d) 1,20 m
 
 
 
-<div id="outline-container-org68fb1a3" class="outline-2">
-<h2 id="org68fb1a3">Questões sobre dB</h2>
-<div class="outline-text-2" id="text-org68fb1a3">
+<div id="outline-container-org5b0dff9" class="outline-2">
+<h2 id="org5b0dff9">Questões sobre dB</h2>
+<div class="outline-text-2" id="text-org5b0dff9">
 </div>
-<div id="outline-container-org1a49a12" class="outline-3">
-<h3 id="org1a49a12">Questão 1</h3>
-<div class="outline-text-3" id="text-org1a49a12">
+<div id="outline-container-org2480c57" class="outline-3">
+<h3 id="org2480c57">Questão 1</h3>
+<div class="outline-text-3" id="text-org2480c57">
 <p>
 Qual o nível de intensidade sonora considerado confortável para uma conversa comum?
 </p>
@@ -142,9 +144,9 @@ d) 90 dB
 </div>
 </div>
 
-<div id="outline-container-org5d91d89" class="outline-3">
-<h3 id="org5d91d89">Questão 2</h3>
-<div class="outline-text-3" id="text-org5d91d89">
+<div id="outline-container-org728da61" class="outline-3">
+<h3 id="org728da61">Questão 2</h3>
+<div class="outline-text-3" id="text-org728da61">
 <p>
 Um som de 90 dB é quantas vezes mais intenso que um de 60 dB?
 </p>
@@ -158,9 +160,9 @@ d) 1000 vezes
 </div>
 </div>
 
-<div id="outline-container-org9362a2e" class="outline-3">
-<h3 id="org9362a2e">Questão 3</h3>
-<div class="outline-text-3" id="text-org9362a2e">
+<div id="outline-container-org9285731" class="outline-3">
+<h3 id="org9285731">Questão 3</h3>
+<div class="outline-text-3" id="text-org9285731">
 <p>
 Qual destes sons está mais próximo do limite da dor?
 </p>
@@ -174,9 +176,9 @@ d) 120 dB
 </div>
 </div>
 
-<div id="outline-container-org37100fa" class="outline-3">
-<h3 id="org37100fa">Questão 4</h3>
-<div class="outline-text-3" id="text-org37100fa">
+<div id="outline-container-org6cfe534" class="outline-3">
+<h3 id="org6cfe534">Questão 4</h3>
+<div class="outline-text-3" id="text-org6cfe534">
 <p>
 Se um som tem 0 dB, o que isso significa?
 </p>
@@ -196,7 +198,31 @@ d) Significa silêncio absoluto.
 <p>
 <a href="https://docs.google.com/forms/d/13jq9r8dyksMqAeB1XzcKCRbx5WSdtQMETdxzrmGS9lU/edit">Questões no googe sheet 2</a>
 </p>
+
+
+
+<p>
+Atividades para entrega até quarta-feira - 23/07
+</p>
 </div>
+</div>
+</div>
+
+<div id="outline-container-org0c928da" class="outline-2">
+<h2 id="org0c928da">Atividade de revisão ondas - 1</h2>
+<div class="outline-text-2" id="text-org0c928da">
+<p>
+<a href="https://forms.gle/SSvwxpatDiFjgmab7">https://forms.gle/SSvwxpatDiFjgmab7</a>
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge7bcd5f" class="outline-2">
+<h2 id="orge7bcd5f">Atividade de revisão ondas - 2</h2>
+<div class="outline-text-2" id="text-orge7bcd5f">
+<p>
+<a href="https://forms.gle/Cz584GDUuu6DUaR76">https://forms.gle/Cz584GDUuu6DUaR76</a>
+</p>
 </div>
 </div>
 </div>

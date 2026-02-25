@@ -36,22 +36,22 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-org81b0ef6" class="outline-2">
-<h2 id="org81b0ef6">Atividade: Conservação de Energia Mecânica — Pista de Skate</h2>
-<div class="outline-text-2" id="text-org81b0ef6">
+<div id="outline-container-org6f84d1a" class="outline-2">
+<h2 id="org6f84d1a">Atividade: Conservação de Energia Mecânica — Pista de Skate</h2>
+<div class="outline-text-2" id="text-org6f84d1a">
 </div>
-<div id="outline-container-org767a7cd" class="outline-3">
-<h3 id="org767a7cd">Objetivo</h3>
-<div class="outline-text-3" id="text-org767a7cd">
+<div id="outline-container-orge839f2b" class="outline-3">
+<h3 id="orge839f2b">Objetivo</h3>
+<div class="outline-text-3" id="text-orge839f2b">
 <p>
 Compreender os conceitos de energia cinética, energia potencial gravitacional, energia térmica e fricção, aplicando-os à análise do movimento de um skatista em uma pista, com ênfase na conservação de energia mecânica.
 </p>
 </div>
 </div>
 
-<div id="outline-container-org8ad911e" class="outline-3">
-<h3 id="org8ad911e">Dados Iniciais para os Exercícios</h3>
-<div class="outline-text-3" id="text-org8ad911e">
+<div id="outline-container-org8bf66fe" class="outline-3">
+<h3 id="org8bf66fe">Dados Iniciais para os Exercícios</h3>
+<div class="outline-text-3" id="text-org8bf66fe">
 <ul class="org-ul">
 <li>Massa do skatista: 50 kg</li>
 <li>Gravidade: \(g = 10 \, m/s^2\)</li>
@@ -63,9 +63,9 @@ Compreender os conceitos de energia cinética, energia potencial gravitacional, 
 </div>
 </div>
 
-<div id="outline-container-org3189b76" class="outline-3">
-<h3 id="org3189b76">Tabela de Símbolos e Fórmulas</h3>
-<div class="outline-text-3" id="text-org3189b76">
+<div id="outline-container-orgd64d2f6" class="outline-3">
+<h3 id="orgd64d2f6">Tabela de Símbolos e Fórmulas</h3>
+<div class="outline-text-3" id="text-orgd64d2f6">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -112,13 +112,13 @@ Compreender os conceitos de energia cinética, energia potencial gravitacional, 
 </div>
 </div>
 
-<div id="outline-container-org3d42ee2" class="outline-3">
-<h3 id="org3d42ee2">Atividades</h3>
-<div class="outline-text-3" id="text-org3d42ee2">
+<div id="outline-container-orga9a915a" class="outline-3">
+<h3 id="orga9a915a">Atividades</h3>
+<div class="outline-text-3" id="text-orga9a915a">
 </div>
-<div id="outline-container-orgafdca05" class="outline-4">
-<h4 id="orgafdca05">1. Questões Básicas</h4>
-<div class="outline-text-4" id="text-orgafdca05">
+<div id="outline-container-orga64cdb8" class="outline-4">
+<h4 id="orga64cdb8">1. Questões Básicas</h4>
+<div class="outline-text-4" id="text-orga64cdb8">
 <ol class="org-ol">
 <li>Um skatista (massa = 50 kg) está parado no topo de uma rampa de 5 m de altura.  
 a) Calcule a energia potencial gravitacional do skatista nessa posição.  
@@ -133,9 +133,9 @@ b) Qual será a velocidade do skatista no ponto mais baixo?</li>
 </div>
 </div>
 
-<div id="outline-container-orgf65ad2a" class="outline-4">
-<h4 id="orgf65ad2a">2. Interpretação de Gráficos Simples</h4>
-<div class="outline-text-4" id="text-orgf65ad2a">
+<div id="outline-container-org7eb3127" class="outline-4">
+<h4 id="org7eb3127">2. Interpretação de Gráficos Simples</h4>
+<div class="outline-text-4" id="text-org7eb3127">
 <ol class="org-ol">
 <li>Considere um gráfico de barras mostrando as energias potencial, cinética e total do skatista em diferentes pontos da pista, sem fricção.  
 a) Em que ponto a energia cinética é máxima?  
@@ -145,9 +145,9 @@ c) O que se observa com a energia total?</li>
 </div>
 </div>
 
-<div id="outline-container-org46a62a8" class="outline-4">
-<h4 id="org46a62a8">3. Introduzindo Fricção</h4>
-<div class="outline-text-4" id="text-org46a62a8">
+<div id="outline-container-org9088c1c" class="outline-4">
+<h4 id="org9088c1c">3. Introduzindo Fricção</h4>
+<div class="outline-text-4" id="text-org9088c1c">
 <ol class="org-ol">
 <li>Agora considere que há fricção. Ao descer a pista de 5 m de altura e percorrer 10 m, o skatista perde energia devido à fricção.  
 a) Calcule a energia térmica gerada pela fricção ao longo do trajeto.  
@@ -157,9 +157,9 @@ c) Qual será a velocidade do skatista ao final do percurso?</li>
 </div>
 </div>
 
-<div id="outline-container-org1dfd228" class="outline-4">
-<h4 id="org1dfd228">4. Situações Aplicadas</h4>
-<div class="outline-text-4" id="text-org1dfd228">
+<div id="outline-container-org8156c42" class="outline-4">
+<h4 id="org8156c42">4. Situações Aplicadas</h4>
+<div class="outline-text-4" id="text-org8156c42">
 <ol class="org-ol">
 <li>Se a pista for modificada para ter uma altura inicial de 8 m e a fricção for mantida, repita os cálculos dos itens 5.a, 5.b e 5.c.</li>
 
@@ -168,9 +168,9 @@ c) Qual será a velocidade do skatista ao final do percurso?</li>
 </div>
 </div>
 
-<div id="outline-container-org03dfe35" class="outline-4">
-<h4 id="org03dfe35">5. Análise e Discussão</h4>
-<div class="outline-text-4" id="text-org03dfe35">
+<div id="outline-container-org513d270" class="outline-4">
+<h4 id="org513d270">5. Análise e Discussão</h4>
+<div class="outline-text-4" id="text-org513d270">
 <ol class="org-ol">
 <li>Explique o que acontece com a energia do sistema se mudarmos a referência de altura (por exemplo, considerar o ponto mais baixo da pista como \(h=0\) ou \(h=-1\) m).</li>
 
@@ -183,9 +183,9 @@ a) Qual deve ser a altura mínima da rampa para que isso ocorra?</li>
 </div>
 </div>
 
-<div id="outline-container-org1afe5eb" class="outline-3">
-<h3 id="org1afe5eb">Espaço para Respostas e Anotações</h3>
-<div class="outline-text-3" id="text-org1afe5eb">
+<div id="outline-container-orgdd1882a" class="outline-3">
+<h3 id="orgdd1882a">Espaço para Respostas e Anotações</h3>
+<div class="outline-text-3" id="text-orgdd1882a">
 <ul class="org-ul">
 <li>Utilize os espaços a seguir para seus cálculos, justificativas e explicações. Se possível, use gráficos para ilustrar as respostas dos itens interpretativos e aplicados.</li>
 </ul>
