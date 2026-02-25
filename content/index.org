@@ -27,7 +27,7 @@ DemonDeLuxe (Dominique Toussaint), CC BY-SA 3.0 <http://creativecommons.org/lice
 
 
 * Introdução
-Nessa página serão resumidas as aulas de **física** dos Cursos Técnicos de Nível Médio em Informática, Administração e Agropecuária na Forma Integrada, do IFAM /Campus/ Eirunepé; ministradas no ano de 2025.
+Nessa página serão resumidas as aulas de **física** dos Cursos Técnicos de Nível Médio em Informática, Administração e Agropecuária na Forma Integrada, do IFAM /Campus/ Eirunepé; ministradas no ano de 2026.
 
 O objetivo é construir um material de consulta aos estudantes ao longo do desenvolvimento das disciplinas. 
 

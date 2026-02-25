@@ -40,26 +40,26 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org1f38c74">Física I - Exercícios, problemas - Unidade III</a>
+<li><a href="#orgfe9c47c">Física I - Exercícios, problemas - Unidade III</a>
 <ul>
-<li><a href="#org3724b18">Definição de Energia cinética</a></li>
-<li><a href="#orgf34ba66">Definição de Energia potencial gravitacional</a></li>
-<li><a href="#org5b2a73f">Conversão de energia: potencial em cinética</a></li>
-<li><a href="#orgf51d7ca">Definição de Trabalho</a></li>
-<li><a href="#org1d6b68d">Conversão de Trabalho em Energia Cinética</a></li>
+<li><a href="#orgf0462cf">Definição de Energia cinética</a></li>
+<li><a href="#org50e47fb">Definição de Energia potencial gravitacional</a></li>
+<li><a href="#org078c7fa">Conversão de energia: potencial em cinética</a></li>
+<li><a href="#orgcdf511a">Definição de Trabalho</a></li>
+<li><a href="#orgefdc12f">Conversão de Trabalho em Energia Cinética</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-org1f38c74" class="outline-2">
-<h2 id="org1f38c74">Física I - Exercícios, problemas - Unidade III</h2>
-<div class="outline-text-2" id="text-org1f38c74">
+<div id="outline-container-orgfe9c47c" class="outline-2">
+<h2 id="orgfe9c47c">Física I - Exercícios, problemas - Unidade III</h2>
+<div class="outline-text-2" id="text-orgfe9c47c">
 </div>
-<div id="outline-container-org3724b18" class="outline-3">
-<h3 id="org3724b18">Definição de Energia cinética</h3>
-<div class="outline-text-3" id="text-org3724b18">
+<div id="outline-container-orgf0462cf" class="outline-3">
+<h3 id="orgf0462cf">Definição de Energia cinética</h3>
+<div class="outline-text-3" id="text-orgf0462cf">
 <ol class="org-ol">
 <li>A energia cinética é definida como</li>
 </ol>
@@ -96,9 +96,9 @@ mesma velocidade se o corpo A tem a metade da massa do corpo B?</li>
 </div>
 
 
-<div id="outline-container-orgf34ba66" class="outline-3">
-<h3 id="orgf34ba66">Definição de Energia potencial gravitacional</h3>
-<div class="outline-text-3" id="text-orgf34ba66">
+<div id="outline-container-org50e47fb" class="outline-3">
+<h3 id="org50e47fb">Definição de Energia potencial gravitacional</h3>
+<div class="outline-text-3" id="text-org50e47fb">
 <p>
 A energia potencial gravitacional é definida como
 </p>
@@ -146,9 +146,9 @@ B?</li>
 </div>
 </div>
 
-<div id="outline-container-org5b2a73f" class="outline-3">
-<h3 id="org5b2a73f">Conversão de energia: potencial em cinética</h3>
-<div class="outline-text-3" id="text-org5b2a73f">
+<div id="outline-container-org078c7fa" class="outline-3">
+<h3 id="org078c7fa">Conversão de energia: potencial em cinética</h3>
+<div class="outline-text-3" id="text-org078c7fa">
 <ol class="org-ol">
 <li>Qual será a velocidade de um objeto de 10 kg que é solto de uma
 altura de 100m com velocidade, nula quando esse objeto estiver em:</li>
@@ -180,9 +180,9 @@ f) h = 3,2 m
 </div>
 </div>
 
-<div id="outline-container-orgf51d7ca" class="outline-3">
-<h3 id="orgf51d7ca">Definição de Trabalho</h3>
-<div class="outline-text-3" id="text-orgf51d7ca">
+<div id="outline-container-orgcdf511a" class="outline-3">
+<h3 id="orgcdf511a">Definição de Trabalho</h3>
+<div class="outline-text-3" id="text-orgcdf511a">
 <p>
 O trabalho \( W \) realizado por uma força constante \( F \), quando um corpo se desloca uma distância \( d \) na mesma direção da força, é definido como:
 </p>
@@ -221,9 +221,9 @@ valor do trabalho realizado?</li>
 </div>
 </div>
 
-<div id="outline-container-org1d6b68d" class="outline-3">
-<h3 id="org1d6b68d">Conversão de Trabalho em Energia Cinética</h3>
-<div class="outline-text-3" id="text-org1d6b68d">
+<div id="outline-container-orgefdc12f" class="outline-3">
+<h3 id="orgefdc12f">Conversão de Trabalho em Energia Cinética</h3>
+<div class="outline-text-3" id="text-orgefdc12f">
 <ol class="org-ol">
 <li>Quando uma força realiza trabalho sobre um corpo, e esse trabalho
 resulta em aumento de velocidade, dizemos que a energia cinética

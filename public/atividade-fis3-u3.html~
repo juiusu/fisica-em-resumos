@@ -14,35 +14,35 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-orgb344c22" class="outline-2">
-<h2 id="orgb344c22">Atividade Avaliativa: Planilha de Consumo Energético</h2>
-<div class="outline-text-2" id="text-orgb344c22">
+<div id="outline-container-org1e74789" class="outline-2">
+<h2 id="org1e74789">Atividade Avaliativa: Planilha de Consumo Energético</h2>
+<div class="outline-text-2" id="text-org1e74789">
 </div>
-<div id="outline-container-orgdaf9fe5" class="outline-3">
-<h3 id="orgdaf9fe5">Objetivo</h3>
-<div class="outline-text-3" id="text-orgdaf9fe5">
+<div id="outline-container-org2a1e8e7" class="outline-3">
+<h3 id="org2a1e8e7">Objetivo</h3>
+<div class="outline-text-3" id="text-org2a1e8e7">
 <p>
 Elaborar uma planilha que permita analisar o consumo de energia elétrica dos principais equipamentos do local de estágio, estimando custos e identificando os maiores consumidores.
 </p>
 </div>
 </div>
 
-<div id="outline-container-org7fb421f" class="outline-3">
-<h3 id="org7fb421f">Instruções</h3>
-<div class="outline-text-3" id="text-org7fb421f">
+<div id="outline-container-orgbdecad8" class="outline-3">
+<h3 id="orgbdecad8">Instruções</h3>
+<div class="outline-text-3" id="text-orgbdecad8">
 </div>
-<div id="outline-container-orgd90656e" class="outline-4">
-<h4 id="orgd90656e">1. Levantamento dos Equipamentos</h4>
-<div class="outline-text-4" id="text-orgd90656e">
+<div id="outline-container-org99837e3" class="outline-4">
+<h4 id="org99837e3">1. Levantamento dos Equipamentos</h4>
+<div class="outline-text-4" id="text-org99837e3">
 <p>
 Liste pelo menos <b><b>cinco</b></b> equipamentos elétricos do local de estágio que consomem energia regularmente.
 </p>
 </div>
 </div>
 
-<div id="outline-container-org428544b" class="outline-4">
-<h4 id="org428544b">2. Montagem da Planilha</h4>
-<div class="outline-text-4" id="text-org428544b">
+<div id="outline-container-orgd586a65" class="outline-4">
+<h4 id="orgd586a65">2. Montagem da Planilha</h4>
+<div class="outline-text-4" id="text-orgd586a65">
 <p>
 Monte uma planilha com as seguintes colunas:
 </p>
@@ -80,8 +80,8 @@ Monte uma planilha com as seguintes colunas:
 </div>
 
 <ul class="org-ul">
-<li><a id="org743534f"></a>Descrição das colunas:<br />
-<div class="outline-text-5" id="text-org743534f">
+<li><a id="org1ebb59c"></a>Descrição das colunas:<br />
+<div class="outline-text-5" id="text-org1ebb59c">
 <ul class="org-ul">
 <li><b><b>Equipamento:</b></b> Nome do equipamento.</li>
 <li><b><b>Potência (W):</b></b> Potência nominal do equipamento (em watts).</li>
@@ -98,13 +98,13 @@ Monte uma planilha com as seguintes colunas:
 </div>
 </li>
 
-<li><a id="orgb630fb8"></a>Inclua uma linha ou células ao final da tabela com os <b><b>totais</b></b> de cada coluna, principalmente do Consumo Mensal (kWh) e do Custo Mensal (R$).<br /></li>
+<li><a id="orgd3d4183"></a>Inclua uma linha ou células ao final da tabela com os <b><b>totais</b></b> de cada coluna, principalmente do Consumo Mensal (kWh) e do Custo Mensal (R$).<br /></li>
 </ul>
 </div>
 
-<div id="outline-container-orga614c66" class="outline-4">
-<h4 id="orga614c66">3. Elaboração do Gráfico</h4>
-<div class="outline-text-4" id="text-orga614c66">
+<div id="outline-container-orga4bf438" class="outline-4">
+<h4 id="orga4bf438">3. Elaboração do Gráfico</h4>
+<div class="outline-text-4" id="text-orga4bf438">
 <ul class="org-ul">
 <li>Com os dados da coluna “% do Consumo”, crie um <b><b>gráfico de pizza</b></b> para mostrar visualmente a participação de cada equipamento no consumo total.
 
@@ -117,9 +117,9 @@ Monte uma planilha com as seguintes colunas:
 </div>
 </div>
 
-<div id="outline-container-orgd75fd3d" class="outline-4">
-<h4 id="orgd75fd3d">4. Observações Finais</h4>
-<div class="outline-text-4" id="text-orgd75fd3d">
+<div id="outline-container-org72ed1da" class="outline-4">
+<h4 id="org72ed1da">4. Observações Finais</h4>
+<div class="outline-text-4" id="text-org72ed1da">
 <ul class="org-ul">
 <li>Coloque a tarifa de energia usada para os cálculos (valor do kWh em reais).</li>
 
@@ -129,9 +129,9 @@ Monte uma planilha com as seguintes colunas:
 </div>
 </div>
 
-<div id="outline-container-org3728fbe" class="outline-3">
-<h3 id="org3728fbe">Entrega</h3>
-<div class="outline-text-3" id="text-org3728fbe">
+<div id="outline-container-orgcfa8a87" class="outline-3">
+<h3 id="orgcfa8a87">Entrega</h3>
+<div class="outline-text-3" id="text-orgcfa8a87">
 <ul class="org-ul">
 <li>A planilha pode ser entregue em formato digital (arquivo .ods, .xlsx ou Google Sheets compartilhado).</li>
 

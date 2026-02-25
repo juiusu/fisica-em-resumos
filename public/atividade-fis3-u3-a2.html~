@@ -14,26 +14,26 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-org1f8198d" class="outline-2">
-<h2 id="org1f8198d">Atividade: Cálculo de Carga e Potência – Bateria e Carregador de Celular</h2>
-<div class="outline-text-2" id="text-org1f8198d">
+<div id="outline-container-org3ffbe09" class="outline-2">
+<h2 id="org3ffbe09">Atividade: Cálculo de Carga e Potência – Bateria e Carregador de Celular</h2>
+<div class="outline-text-2" id="text-org3ffbe09">
 </div>
-<div id="outline-container-orge5cfd5f" class="outline-3">
-<h3 id="orge5cfd5f">Objetivo</h3>
-<div class="outline-text-3" id="text-orge5cfd5f">
+<div id="outline-container-org6ec1c26" class="outline-3">
+<h3 id="org6ec1c26">Objetivo</h3>
+<div class="outline-text-3" id="text-org6ec1c26">
 <p>
 Compreender os conceitos de carga elétrica, capacidade da bateria e potência, realizando cálculos baseados em dados reais de aparelhos celulares e seus carregadores.
 </p>
 </div>
 </div>
 
-<div id="outline-container-orgf863f8e" class="outline-3">
-<h3 id="orgf863f8e">Instruções</h3>
-<div class="outline-text-3" id="text-orgf863f8e">
+<div id="outline-container-orge20b5ac" class="outline-3">
+<h3 id="orge20b5ac">Instruções</h3>
+<div class="outline-text-3" id="text-orge20b5ac">
 </div>
-<div id="outline-container-org477e51c" class="outline-4">
-<h4 id="org477e51c">1. Levantamento de Dados</h4>
-<div class="outline-text-4" id="text-org477e51c">
+<div id="outline-container-org44fc779" class="outline-4">
+<h4 id="org44fc779">1. Levantamento de Dados</h4>
+<div class="outline-text-4" id="text-org44fc779">
 <ul class="org-ul">
 <li>Identifique e registre as seguintes informações (normalmente impressas na bateria e no carregador do seu celular ou disponíveis no manual/on-line):
 <ul class="org-ul">
@@ -46,9 +46,9 @@ Compreender os conceitos de carga elétrica, capacidade da bateria e potência, 
 </div>
 </div>
 
-<div id="outline-container-org82f48ae" class="outline-4">
-<h4 id="org82f48ae">2. Montagem da Tabela</h4>
-<div class="outline-text-4" id="text-org82f48ae">
+<div id="outline-container-org1d4b910" class="outline-4">
+<h4 id="org1d4b910">2. Montagem da Tabela</h4>
+<div class="outline-text-4" id="text-org1d4b910">
 <p>
 Preencha a tabela abaixo com os dados reais do seu aparelho:
 </p>
@@ -111,29 +111,29 @@ Preencha a tabela abaixo com os dados reais do seu aparelho:
 </div>
 </div>
 
-<div id="outline-container-orgb911c57" class="outline-4">
-<h4 id="orgb911c57">3. Cálculos</h4>
-<div class="outline-text-4" id="text-orgb911c57">
+<div id="outline-container-org56fd2d9" class="outline-4">
+<h4 id="org56fd2d9">3. Cálculos</h4>
+<div class="outline-text-4" id="text-org56fd2d9">
 </div>
 <ul class="org-ul">
-<li><a id="org063e941"></a>a) Energia armazenada na bateria<br />
-<div class="outline-text-5" id="text-org063e941">
+<li><a id="org816a15d"></a>a) Energia armazenada na bateria<br />
+<div class="outline-text-5" id="text-org816a15d">
 <p>
 Calcule a energia máxima armazenada na bateria, em watt-hora (Wh):
 </p>
 </div>
 </li>
 
-<li><a id="orgb591e37"></a>b) Potência do carregador<br />
-<div class="outline-text-5" id="text-orgb591e37">
+<li><a id="orge3904d3"></a>b) Potência do carregador<br />
+<div class="outline-text-5" id="text-orge3904d3">
 <p>
 Calcule a potência fornecida pelo carregador, em watts (W):
 </p>
 </div>
 </li>
 
-<li><a id="org6b7e3a4"></a>c) Tempo teórico de carregamento<br />
-<div class="outline-text-5" id="text-org6b7e3a4">
+<li><a id="org0369498"></a>c) Tempo teórico de carregamento<br />
+<div class="outline-text-5" id="text-org0369498">
 <p>
 Estime o tempo mínimo para carregar a bateria totalmente (em horas), supondo 100% de eficiência (na prática, o tempo real é maior):
 </p>
@@ -142,9 +142,9 @@ Estime o tempo mínimo para carregar a bateria totalmente (em horas), supondo 10
 </ul>
 </div>
 
-<div id="outline-container-orga23cd5e" class="outline-4">
-<h4 id="orga23cd5e">4. Exemplo (preencher com dados reais)</h4>
-<div class="outline-text-4" id="text-orga23cd5e">
+<div id="outline-container-org0c30644" class="outline-4">
+<h4 id="org0c30644">4. Exemplo (preencher com dados reais)</h4>
+<div class="outline-text-4" id="text-org0c30644">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
@@ -203,9 +203,9 @@ Estime o tempo mínimo para carregar a bateria totalmente (em horas), supondo 10
 </div>
 </div>
 
-<div id="outline-container-org2476b72" class="outline-4">
-<h4 id="org2476b72">5. Perguntas para Análise</h4>
-<div class="outline-text-4" id="text-org2476b72">
+<div id="outline-container-org7ffc118" class="outline-4">
+<h4 id="org7ffc118">5. Perguntas para Análise</h4>
+<div class="outline-text-4" id="text-org7ffc118">
 <ol class="org-ol">
 <li>Qual é a diferença entre a energia armazenada na bateria (Wh) e a potência do carregador (W)?</li>
 <li>O tempo de carregamento real costuma ser maior do que o calculado. Por quê?</li>
@@ -215,9 +215,9 @@ Estime o tempo mínimo para carregar a bateria totalmente (em horas), supondo 10
 </div>
 </div>
 
-<div id="outline-container-org124ae64" class="outline-3">
-<h3 id="org124ae64">Entrega</h3>
-<div class="outline-text-3" id="text-org124ae64">
+<div id="outline-container-org9dd2b0f" class="outline-3">
+<h3 id="org9dd2b0f">Entrega</h3>
+<div class="outline-text-3" id="text-org9dd2b0f">
 <ul class="org-ul">
 <li>Preencha a tabela com os dados reais do seu celular/carregador.</li>
 <li>Mostre todos os cálculos.</li>
