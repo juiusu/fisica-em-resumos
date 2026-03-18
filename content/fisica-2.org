@@ -18,6 +18,43 @@ Relembre os conceitos de [[file:area.org][Área]] ,  [[file:volume.org][volume]]
 Explicação mais detalhada sobre [[file:conceito-de-pressao.org][conceito de pressão]] 
 
 
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+ FÍGURA : Pressão = força por área
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Pressure_force_area.svg/500px-Pressure_force_area.svg.png"
+       alt=alt="Pressure"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Pressure_force_area.svg">Klaus-Dieter Keller</a>, Public domain, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+ FÍGURA : Exemplo de como um mesmo objeto (mesma força peso) pode exercer diferentes valores de pressão.
+  </p>
+  <img src="https://commons.wikimedia.org/wiki/File:Pressure_schematic.svg"
+       alt="Pressure schematic" 
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a title="すじにくシチュー, CC0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Pressure_schematic.svg"><img width="960"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pressure_schematic.svg/960px-Pressure_schematic.svg.png"></a>, CC0, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
 *** Pressão em um líquido
 
 A pressão hidrostática é causada pelo peso de um fluido em eterminado

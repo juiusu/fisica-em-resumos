@@ -46,7 +46,7 @@ Sugestões dos alunos serão sempre bem-vindas.
 
 * [[file:fisica-3.org][Física III]]
 
-** [[revisao-prova1-fis3.org][Questões de revisão - Prova 1 - 3º ano]]
+** [[file:revisao-prova1-fis3.org][Questões de revisão - Prova 1 - 3º ano]]
 
 * Referências
 - HEWITT, Paul G. *Física Conceitual*. Bookman Editora, 2023.
@@ -67,3 +67,6 @@ Sugestões dos alunos serão sempre bem-vindas.
 [[file:./pictures/ifam-logo.png]]    Insituto Federal do Amazonas - /Campus/ Eirunepé
 
 ---------------------------------------------------------------------
+
+
+
