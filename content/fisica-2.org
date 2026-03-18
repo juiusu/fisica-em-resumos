@@ -7,7 +7,7 @@
 
 *** Conceitos iniciais
 
-Relembre os conceitos de [[file:area.org][Área]] ,  [[file:volume.org][volume]] e  [[file:densidade][densidade]] .
+Relembre os conceitos de [[file:area.org][Área]] ,  [[file:volume.org][volume]] e  [[file:densidade.org][densidade]] .
 
 *** Conceito de pressão
 

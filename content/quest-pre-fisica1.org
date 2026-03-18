@@ -1,5 +1,4 @@
 #+OPTIONS: toc:2
-
 * Questões de Revisão: Grandezas e Unidades de Medida
 
 ** Questão 1
@@ -34,4 +33,3 @@ uniforme, durante 2h e percorra uma distância de 140 Km.
 - b) Calcule essa grandeza, indicando a sua unidade de medida.
 
 
-** Questão 4

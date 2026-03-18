@@ -7,7 +7,7 @@ proporcionais. Verifique o exemplo da tabela abaixo:
 
 #+CAPTION: Relação entre massa e volume de um fluido
 | *Massa (kg)*      | 1,25 | 2,50 | 5,00 | 10,0 |
-| *Volume (\(m^3\)* | 1,0  | 2,0  | 4,0  | 8,0  |
+| *Volume (\(m^3)\)*  | 1,0  | 2,0  | 4,0  | 8,0  |
 
 Podemos, a partir dessa relação de proporcionalidade, estabelecer uma
 fórmula, que seria:
