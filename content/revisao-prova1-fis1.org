@@ -48,7 +48,7 @@ Em um experimento, foram medidas massas e volumes de amostras de mel, e a densid
 
 a) Calcule o volume correspondente a uma massa de 10 g de mel.
 
-b) Complete a tabela abaixo com quatro pares de valores (massa e volume) que sejam compatíveis com essa densidade. Lembre-se: \(\text{densidade} = \frac{\text{massa}}{\text{volume}}\).
+b) Complete a tabela abaixo com quatro pares de valores (massa e volume) que sejam compatíveis com essa densidade. Lembre-se: \(\textd{ensidade} = \frac{\text{massa}}{\text{volume}}\). 
 
 | Massa (g) | Volume (mL) |
 |-----------+-------------|
