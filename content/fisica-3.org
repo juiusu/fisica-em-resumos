@@ -76,7 +76,7 @@ assim como a massa é a propriedade da matéria que gera força gravitacional.
 
   - \(e=1,6\times 10 ^{-19} \, C\)
 
-- Constituíntes básicos da matéria (matéria ordinária)
+- Constituintes básicos da matéria (matéria ordinária)
 
 #+titulo: valores aproximados de massa e carga
 | Partícula | Massa (kg)            | Carga elétrica (C)     | Múltiplos da carga elementar |
@@ -93,7 +93,7 @@ assim como a massa é a propriedade da matéria que gera força gravitacional.
   - Cada átomo (caracterizado pelo número de prótons) é denomidado um
     elemento químico. 
   
-  - Prótons e neutrons constituem o núcleo, elétrons se movimentam em
+  - Prótons e nêutrons constituem o núcleo, elétrons se movimentam em
     órbitas bem definidas.
 
   - Elétrons de valência (mas afastados do núcleo) são os responsáveis
@@ -102,7 +102,7 @@ assim como a massa é a propriedade da matéria que gera força gravitacional.
 
 - Moléculas
 
-  - Definição: Conjunto de átomos ligados químicamente
+  - Definição: Conjunto de átomos ligados quimicamente
 
 
 #+BEGIN_EXPORT html
@@ -114,6 +114,13 @@ assim como a massa é a propriedade da matéria que gera força gravitacional.
 #+END_EXPORT
 
 ** Condutores e isolantes
+
+Lidamos constantemente com energia elétrica no nosso dia a dia, e seabemos, por experiência, que podemos tomar um choque se tocarmos em um fio desencapado, se este estiver ligado à eletricidade. O que difere a borracha que envolve o fio, do cobre que preenche o seu interior?
+
+A corrente elétrica é, essencialmente, a movimentação de elétrons nos materiais (ou íons, no caso de soluções como a água). A forma como a matéria está organizada, se por ligações covalentes, ou ligações metálicas, diferem, assim, na disponibilidade e movimentação dos elétrons em cada material.
+
+Assim, classificamos os materiais como condutores e isolantes, a depender da sua capacidade de conduzir corrente elétrica.
+
 
 - Condutores
   - Exemplos:
