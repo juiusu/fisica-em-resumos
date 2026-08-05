@@ -1,0 +1,72 @@
+
+#+TITLE: Resumos das Aulas de Física
+#+DATE: 2025
+#+OPTIONS: toc:nil
+#+AUTHOR: Joilson Silva Porto
+#+EMAIL: joilson.porto@ifam.edu.br
+#+startup: overview
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Ilustração do <a href="https://pt.wikipedia.org/wiki/P%C3%AAndulo_de_Foucault" target="_blank">Pêndulo de Foucault</a>.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Foucault_pendulum_animated.gif"
+       alt="Animação do Pêndulo de Foucault."
+       style="width:60%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+    Fonte: <a href="https://upload.wikimedia.org/wikipedia/commons/a/a1/Foucault_pendulum_animated.gif" target="_blank">
+DemonDeLuxe (Dominique Toussaint), CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons
+    </a>
+  </p>
+</div>
+#+END_EXPORT
+
+* Introdução
+
+Nessas páginas serão sistematizados resumos dos temas abordados em
+aula, nas disciplinas ministradas pelo Prof. Joilson - IFAM/CMC.
+
+O objetivo é construir um material de consulta aos estudantes ao longo
+do desenvolvimento das disciplinas, sem a pretenção de ser um material completo.
+
+Sugestões dos alunos serão sempre bem-vindas.
+
+* [[file:sugestoes-como-estudar.org][Sugestões sobre como estudar]]
+
+* [[file:pre-fisica.org][Pré-Física]]
+* [[file:fisica-1.org][Física I]]
+
+* [[file:fisica-2.org][Física II]]
+
+* [[file:fisica-3.org][Física III]]
+
+* [[file:fisica-aplicada-TPQ.org][FÍSICA APLICADA: Curso Superior em Tecnologia de Alimentos]]
+
+* [[file:fisica-aplicada-TA.org][FÍSICA APLICADA: Curso Superior de Tecnologia em Processos Químicos]]
+
+* 
+
+* Referências
+- HEWITT, Paul G. *Física Conceitual*. Bookman Editora, 2023.
+
+- ALVARENGA, Beatriz; MÁXIMO, Antônio. *Física Ensino Médio*. São Paulo: Editora Scipione, 2006.
+
+- [[https://github.com/juiusu/fisica-em-resumos.git][Projeto completo no Git-Hub]]   
+
+- [[file:banco-de-imagens-completo.org][Imagens usadas]]
+
+- [[https://commons.wikimedia.org][Wikimedia Commons]] 
+
+- [[file:banco-questoes-fisica-em.org][banco de questões]]
+---------------------------------------------------------------------
+
+
+#+ATTR_HTML: :width 25px
+[[file:./pictures/ifam-logo.png]]    Insituto Federal do Amazonas - /Campus/ Eirunepé
+
+---------------------------------------------------------------------
+
+
+
+
