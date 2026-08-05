@@ -5,8 +5,7 @@
 ** Grandezas e Unidades de Medida
 
 As grandezas físicas são conceitos aos quais podemos atribuir valores
-numéricos, enquanto que as unidades de medida são padrões de medida
-para cada grandeza correspondente.
+numéricos, enquanto que as unidades de medida são padrões de medida para cada grandeza correspondente.
 
 
 Na tabela abaixo estão algumas grandezas físicas com correspondentes unidades de medida:
@@ -186,7 +185,6 @@ A subtração é análoga.
 
 
 
-
 ** Potência de 10 e prefixos do SI
 
 *** Potenciação
@@ -279,3 +277,24 @@ Observação: os prefixos mais comuns no dia a dia são: quilo (k), mega (M), gi
 - A distância entre a Terra e o Sol é aproximadamente \(1,5 \times 10^{11}\) m.
 
 [[file:quest-pre-fisica6.org][Questões de revisão: potência de 10 e prefixos do SI]]
+
+** Exemplo final
+
+Uma das equações mais importnates para a mecânica é a equação que
+relaciona a massa, aceleração e força, que resulta da Segunda Lei de
+Newton. De forma simplificada ela pode ser escrita assim:
+
+\( F = m \cdot a \)
+
+Ou, para analizarmos do ponto de vista da aceleração, reescrevemos
+
+\( a = \frac{F}{m} \)
+
+Aqui, podemos compreendê-la a partir das noções de proporcionalidade
+aprendidas, considerando que a aceleração é proporcional a força,
+
+\( a \sim F \)
+
+e inversamente proporcional à massa:
+
+\( a \sim \frac{1}{m}\)

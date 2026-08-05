@@ -1,0 +1,37 @@
+#+OPTIONS: toc:t
+
+* Física Aplicada - TA
+
+** Dados
+
+| CÓDIGO                | GTOPBFIAPL00 - FÍSICA APLICADA - T01 (ABERTA)      |
+| EIXO TECNOLÓGICO/ÁREA | ENGENHARIAS - CNPQ                                 |
+| CURSO                 | CURSO SUPERIOR DE TECNOLOGIA EM PROCESSOS QUÍMICOS |
+| SEMESTRE              | 2026.2                                             |
+| LOCAL                 | Sala 38 - TPQ 1N                                   |
+| CH                    | 60 / 60                                            |
+| HORÁRIO               | 2N123 (27/07/2026 - 15/12/2026)                    |
+| N ALUNOS              | 46 / 50                                            |
+
+- EMENTA 
+  - Medidas e conversões: instrumentos de medição, teoria do erro e análise estatística.
+  - Introdução à Álgebra Vetorial. Cinemática da Partícula. Dinâmica da Partícula. Trabalho e Energia. Lei da Conservação da Energia.
+  - Princípios de hidrostática: conceitos de pressão e densidade, Teorema de Pascal, Teorema de Stevin e Teorema de Arquimedes.
+  - Termologia: termometria e dilatação térmica. Calorimetria: calor sensível, calor latente e troca de calor. Leis da Termodinâmica. 
+
+
+** Questões da Aula 1
+
+
+** Atividades aula 1
+
+1. Construa uma tabela com um conjunto de, ao menos, 4 pontos,
+   relacionando dados de volume em mililitro (mL) e massa em grama (g)
+   para uma substâmcia hipotética de densidade \(5,0 g/mL\).
+2. Construa um gráfico de pontos para a tabela anterior, generalizando
+   os quatro pontos para uma reta.
+3. Faça um gráfico sobreposto ao anterior, mas para uma substância que
+   tenha o dobro da densidade da substância anterior.
+4. Construa um gráfico que relacione a força ( em \(N\)) com a aceleração
+   ( em \(m/s^2\)) para um objeto que tenha massa de \(15 kg\).
+

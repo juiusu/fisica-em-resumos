@@ -5,7 +5,7 @@
 *** Métodos
 
 É importante se atentar para a como estamos estudando e aprendendo, de
-moda a tornar o estudo mais eficiente. Abaixo estão lincados alguns
+modo a tornar o estudo mais eficiente. Abaixo estão lincados alguns
 artigos e vídeos sobre algumas técnicas simples para tornar o estudo mais eficiente.
 
 - **Método Feynman**
@@ -38,8 +38,6 @@ pequenos intervalos de descanso.
 🌐 [[https://brasilescola.uol.com.br/dicas-de-estudo/tecnica-pomodoro-que-e-e-como-funciona.htm][Técnica Pomodoro - Brasil Escola Uol]]
 
 🎥 [[https://youtu.be/YI9oxHGf6iE][Técnica Pomodoro - Dicas de estudo - Canal: Socratica Português]]
-
-
 
 
 

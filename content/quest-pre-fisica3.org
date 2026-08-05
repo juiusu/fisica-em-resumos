@@ -23,7 +23,6 @@ carrro em uma rodovia.
   \begin{equation}
   v = \frac{d}{t}
   \end{equation}
-
   
 ** Questão 2
 

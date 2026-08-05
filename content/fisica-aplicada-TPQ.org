@@ -1,0 +1,36 @@
+#+OPTIONS: toc:t
+
+* Física Aplicada - TPQ
+
+** Dados
+
+
+| CÓDIGO   | GTOPEFISAPL00 - MC-FÍSICA APLICADA - T1 (ABERTA) |
+| CURSO    | CURSO SUPERIOR DE TECNOLOGIA EM ALIMENTOS        |
+| SEMESTRE | 2026.2                                           |
+| LOCAL    | Sala 26 - TA1V                                   |
+| CH       | 60 / 60                                          |
+| HORÁRIO  | 4T123 (27/07/2026 - 15/12/2026)                  |
+| N ALUNOS | 47 / 55                                          |
+
+- EMENTA
+  - Medidas e conversões,
+  - Álgebra vetorial, Movimentos unidimensionais e bidimensionais,
+  - Fases da matéria,
+  - Propriedade térmica dos alimentos,
+  - Calorimetria nos alimentos, Propagação do calor nos alimentos,
+  - Níveis de energia dos alimentos,
+  - Óptica nos alimentos.
+
+
+** Atividades aula 1
+
+1. Construa uma tabela com um conjunto de, ao menos, 4 pontos,
+   relacionando dados de volume em mililitro (mL) e massa em grama (g)
+   para uma substâmcia hipotética de densidade \(5,0 g/mL\).
+2. Construa um gráfico de pontos para a tabela anterior, generalizando
+   os quatro pontos para uma reta.
+3. Faça um gráfico sobreposto ao anterior, mas para uma substância que
+   tenha o dobro da densidade da substância anterior.
+4. Construa um gráfico que relacione a força ( em \(N\)) com a aceleração
+   ( em \(m/s^2\)) para um objeto que tenha massa de \(15 kg\).

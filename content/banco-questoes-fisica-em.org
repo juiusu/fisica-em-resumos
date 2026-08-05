@@ -11,7 +11,6 @@ Para as questões abaixo, considere a aceleração da gravidade:
 
 \[g = 10 m/s^2\]
 
-
 ** Prensa hidráulica - princípio de Pascal
 
 #+BEGIN_EXPORT html
@@ -139,7 +138,6 @@ Em um sistema hidráulico, o êmbolo menor se desloca \( 12\,cm \) quando compri
 #+BEGIN_EXPORT html
 a) 2 cm    b) 3 cm    c) 4 cm    d) 5 cm    e) 6 cm
 #+END_EXPORT
-
 
 
 
@@ -346,7 +344,6 @@ Dado: \( 1\,g/cm^3 = 1000\,kg/m^3 \)
 a) 0,008 m³    b) 0,010 m³    c) 0,012 m³    d) 0,016 m³    e) 0,020 m³
 #+END_EXPORT
 
-
 ** Conceito de temperatura
 
 *** Questão 1
@@ -407,7 +404,6 @@ b) Suas moléculas estão paradas.
 c) Suas moléculas têm, em média, a mesma energia cinética.
 
 d) Eles têm a mesma massa e volume.
-
 
 ** Escalas de temperatura
 
@@ -791,7 +787,6 @@ a) V - V - F - V - F    b) F - V - V - F - F    c) V - F - V - V - V  
 #+END_EXPORT
 
 
-
 ** Carga elétrica
 
 *** Questão 1
@@ -1008,7 +1003,6 @@ Usando apenas ordem de grandeza para os valores necessários (exemplo \(9 \times
 :END:
 
 [Questão com imagem dos arquivos uea-sis3-2019-2-part1.png e uea-sis3-2019-2-part2.png - necessária conversão das imagens]
-
 
 ** Potencial elétrico
 
@@ -1411,7 +1405,6 @@ a) 1,6 Ω    b) 3,0 Ω    c) 6,0 Ω    d) 9,0 Ω    e) 18,0 Ω
 :END:
 
 Analise o comportamento da resistência equivalente quando resistores são associados em série versus em paralelo. Explique por que a resistência equivalente em série é sempre maior que qualquer resistor individual, enquanto em paralelo é sempre menor.
-
 
 ** Grandezas e unidades de medida
 
@@ -1923,3 +1916,10 @@ A força resultante pode ser definida como:
 a) A maior força atuando sobre um objeto    b) A soma aritmética de todas as forças    c) O resultado líquido de todas as forças atuantes sobre um objeto    d) A força de atrito entre superfícies    e) A força gravitacional sobre o objeto
 #+END_EXPORT
 
+** [[file:revisao-prova1-fis1.org][Questões de revisão - Prova 1 - 1º ano]]
+
+** [[file:revisao-prova1-fis2.org][Questões de revisão - Prova 1 - 2º ano]]
+
+**  [[file:revisao-prova1-fis3.org][Questões de revisão - Prova 1 - 3º ano]]
+
+** [[file:revisao-prova2-fis3.org][Questões de revisão - Prova 2 - 3º ano]]

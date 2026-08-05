@@ -4,7 +4,7 @@
 #+OPTIONS: toc:nil
 #+AUTHOR: Joilson Silva Porto
 #+EMAIL: joilson.porto@ifam.edu.br
-
+#+startup: overview
 
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
@@ -22,33 +22,30 @@ DemonDeLuxe (Dominique Toussaint), CC BY-SA 3.0 <http://creativecommons.org/lice
 </div>
 #+END_EXPORT
 
-
-
 * Introdução
-Nessa página serão resumidas as aulas de **física** dos Cursos Técnicos de Nível Médio em Informática, Administração e Agropecuária na Forma Integrada, do IFAM /Campus/ Eirunepé; ministradas no ano de 2026.
 
-O objetivo é construir um material de consulta aos estudantes ao longo do desenvolvimento das disciplinas. 
+Nessas páginas serão sistematizados resumos dos temas abordados em
+aula, nas disciplinas ministradas pelo Prof. Joilson - IFAM/CMC.
 
+O objetivo é construir um material de consulta aos estudantes ao longo
+do desenvolvimento das disciplinas, sem a pretenção de ser um material completo.
 
 Sugestões dos alunos serão sempre bem-vindas.
 
 * [[file:sugestoes-como-estudar.org][Sugestões sobre como estudar]]
 
 * [[file:pre-fisica.org][Pré-Física]]
-
-** [[file:revisao-prova1-fis1.org][Questões de revisão - Prova 1 - 1º ano]]
-
 * [[file:fisica-1.org][Física I]]
 
 * [[file:fisica-2.org][Física II]]
 
-** [[file:revisao-prova1-fis2.org][Questões de revisão - Prova 1 - 2º ano]]
-
 * [[file:fisica-3.org][Física III]]
 
-** [[file:revisao-prova1-fis3.org][Questões de revisão - Prova 1 - 3º ano]]
+* [[file:fisica-aplicada-TA.org][FÍSICA APLICADA: Curso Superior em Tecnologia de Alimentos]]
 
-** [[file:revisao-prova2-fis3.org][Questões de revisão - Prova 2 - 3º ano]]
+* [[file:fisica-aplicada-TPQ.org][FÍSICA APLICADA: Curso Superior de Tecnologia em Processos Químicos]]
+
+* 
 
 * Referências
 - HEWITT, Paul G. *Física Conceitual*. Bookman Editora, 2023.
@@ -69,6 +66,7 @@ Sugestões dos alunos serão sempre bem-vindas.
 [[file:./pictures/ifam-logo.png]]    Insituto Federal do Amazonas - /Campus/ Eirunepé
 
 ---------------------------------------------------------------------
+
 
 
 
