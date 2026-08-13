@@ -1,0 +1,291 @@
+#+OPTIONS: toc:t
+
+* Lista de revisão: transformações de unidades básicas
+
+** INSTRUÇÕES INICIAIS
+
+Leia cada situação com atenção.
+As perguntas são sobre coisas do dia a dia:
+- comprar tecido
+- medir água
+- pesar comida
+- gelo e mercúrio
+
+
+** Questão 1 (múltipla escolha)
+Você vai comprar uma fita para enfeitar uma caixa de presente.
+A fita é vendida por metro.
+Você precisa de 1,5 metro.
+
+Quantos centímetros de fita você deve comprar?
+
+a) 15 cm
+b) 150 cm
+c) 1.500 cm
+d) 0,15 cm
+
+** Questão 2 (aberta – passo a passo)
+Dona Maria pediu para você cortar três pedaços de barbante:
+
+- 0,4 metro para amarrar um saco
+- 0,60 metro para pendurar um quadro
+- 0,30 metro para fazer um laço
+
+Responda:
+
+a) Transforme cada medida para centímetros.
+   Escreva o cálculo:
+   0,4 × 100 = ______ cm
+   0,60 × 100 = ______ cm
+   0,30 × 100 = ______ cm
+
+b) Some os três resultados.
+   Total = ______ cm
+
+c) Esse total é maior ou menor que 1 metro e 30 centímetros?
+   Justifique com uma frase.
+
+** Questão 3 (múltipla escolha)
+A cozinha de sua casa tem 5 metros quadrados de piso.
+Você quer comprar cerâmica pequena.
+Cada cerâmica tem 1 cm².
+
+Quantas cerâmicas são necessárias para cobrir toda a cozinha?
+
+a) 500
+b) 5.000
+c) 50.000
+d) 500.000
+
+** Questão 4 (aberta – com cálculo explicado)
+Uma sala pequena tem 3 metros quadrados (3 m²).
+
+a) Transforme 3 m² em centímetros quadrados (cm²).
+   Lembre-se: 1 m² = 10.000 cm²
+   Cálculo: 3 × 10.000 = ______ cm²
+
+b) Se cada piso adesivo tem 50 cm², quantos pisos você vai comprar?
+   Cálculo: (resposta do item a) ÷ 50 = ______ pisos
+
+** Questão 5 (múltipla escolha)
+Uma caixa d'água tem 0,004 m³.
+Você quer saber esse volume em cm³.
+
+Qual é o valor?
+
+a) 400 cm³
+b) 4.000 cm³
+c) 40.000 cm³
+d) 400.000 cm³
+
+** Questão 6 (aberta – várias conversões)
+Responda com calma:
+
+a) Uma jarra tem 3 dm³ de suco.
+   Quantos litros de suco cabem na jarra?
+   (Dica: 1 dm³ = 1 litro)
+   Resposta: ______ litros
+
+b) Um copo tem 250 cm³ de água.
+   Quantos dm³ tem esse copo?
+   (Dica: divida por 1.000)
+   Cálculo: 250 ÷ 1.000 = ______ dm³
+
+c) Uma garrafa de 2 litros equivale a quantos cm³?
+   (Dica: 1 litro = 1.000 cm³)
+   Cálculo: 2 × 1.000 = ______ cm³
+
+** Questão 7 (múltipla escolha)
+Um pote de margarina tem capacidade de 500 cm³.
+Em decímetros cúbicos (dm³), essa capacidade é:
+
+a) 0,05 dm³
+b) 0,5 dm³
+c) 5 dm³
+d) 50 dm³
+
+** Questão 8 (aberta – piscina)
+Seu filho vai brincar em uma piscina pequena.
+A piscina tem capacidade de 600 litros.
+
+a) Quantos dm³ isso representa?
+   (Dica: 1 litro = 1 dm³)
+   Resposta: ______ dm³
+
+b) Quantos cm³ isso representa?
+   (Dica: 1 litro = 1.000 cm³)
+   Cálculo: 600 × 1.000 = ______ cm³
+
+** Questão 9 (múltipla escolha)
+Você tem dois alimentos:
+
+- Queijo A: 60 g em 15 cm³
+- Queijo B: 100 g em 25 cm³
+
+Calcule a densidade de cada um e responda:
+Qual queijo é mais denso?
+
+a) Queijo A, porque tem 4 g/cm³
+b) Queijo B, porque tem 4 g/cm³
+c) Os dois têm a mesma densidade (4 g/cm³)
+d) Queijo A, porque tem 3 g/cm³
+
+** Questão 10 (aberta)
+Um pedaço de carne tem massa de 500 g e volume de 400 cm³.
+
+a) Calcule a densidade da carne:
+   densidade = 500 ÷ 400 = ______ g/cm³
+
+b) Se a carne for colocada na água (densidade da água = 1 g/cm³),
+   ela vai afundar ou flutuar?
+   (Dica: se a densidade for maior que 1, afunda; se for menor, flutua)
+   Resposta: ________________________
+
+** Questão 11 (múltipla escolha)
+Você coloca gelo em um copo com água.
+O gelo fica boiando.
+
+Por que isso acontece?
+
+a) Porque o gelo é mais pesado que a água.
+b) Porque o gelo e a água têm o mesmo peso.
+c) Porque o gelo é menos denso que a água.
+d) Porque o gelo é mais denso que a água.
+
+** Questão 12 (aberta – bem explicada, passo a passo)
+Uma forma de gelo faz cubos com volume total de 200 cm³.
+
+a) Qual é a massa desses cubos de gelo?
+   Use: densidade do gelo = 0,92 g/cm³
+   massa = densidade × volume
+   Cálculo: 0,92 × 200 = ______ gramas
+
+b) Essa massa vai derreter e virar água.
+   A massa continua a mesma: ______ gramas.
+
+c) Qual será o volume da água derretida?
+   Use: densidade da água = 1,0 g/cm³
+   volume = massa ÷ densidade
+   Cálculo: (massa do item b) ÷ 1,0 = ______ cm³
+
+d) Compare o volume do gelo (200 cm³) com o volume da água derretida.
+   O volume aumentou, diminuiu ou ficou igual?
+   Resposta: ________________________
+
+** Questão 13 (múltipla escolha)
+Um termômetro antigo tem 4 cm³ de mercúrio líquido dentro dele.
+
+Qual é a massa desse mercúrio?
+(Use densidade = 13,6 g/cm³)
+
+a) 0,544 g
+b) 5,44 g
+c) 54,4 g
+d) 544 g
+
+** Questão 14 (aberta – com perguntas guiadas)
+Um cientista tem 71 gramas de mercúrio no estado sólido.
+
+a) Calcule o volume desse mercúrio sólido.
+   Use: densidade do sólido = 14,2 g/cm³
+   volume = massa ÷ densidade
+   Cálculo: 71 ÷ 14,2 = ______ cm³
+
+b) Se a mesma massa (71 g) virar mercúrio líquido,
+   qual será o volume?
+   Use: densidade do líquido = 13,6 g/cm³
+   Cálculo: 71 ÷ 13,6 = ______ cm³ (aproxime com uma casa decimal)
+
+c) O mercúrio sólido ocupa mais ou menos espaço que o mercúrio líquido?
+   (Compare os dois volumes que você calculou)
+   Resposta: ________________________
+
+d) Explique com suas palavras:
+   "Por que o mercúrio sólido afunda no mercúrio líquido?"
+   __________________________________________________________________
+   __________________________________________________________________
+
+** Questão 15 (múltipla escolha – raciocínio)
+Você coloca 1 litro de água no congelador.
+Depois de congelada, vira gelo.
+
+O que acontece com o volume?
+
+a) Aumenta, porque o gelo é menos denso.
+b) Diminui, porque o gelo é mais denso.
+c) Fica igual, porque a massa não muda.
+d) Não dá para saber.
+
+** Questão 16 (aberta – resumo da atividade)
+Imagine que você tem dois baldes.
+Cada balde tem capacidade para 2 litros.
+
+- Balde A: cheio de água (densidade = 1,0 g/cm³)
+- Balde B: cheio de mercúrio (densidade = 13,6 g/cm³)
+
+Responda com atenção:
+
+a) 2 litros equivalem a quantos cm³?
+   (Dica: 1 L = 1.000 cm³)
+   Cálculo: 2 × 1.000 = ______ cm³
+
+b) Qual é a massa da água no balde A?
+   massa = densidade × volume
+   massa = 1,0 × (resposta do item a) = ______ g
+
+c) Qual é a massa do mercúrio no balde B?
+   massa = 13,6 × (resposta do item a) = ______ g
+
+d) Qual dos dois baldes é mais pesado?
+   Justifique com os números.
+   __________________________________________________________________
+   __________________________________________________________________
+
+
+* GABARITO
+
+1) b) 150 cm (1,5 × 100 = 150)
+2a) 40 cm, 60 cm, 30 cm
+2b) 130 cm
+2c) É igual a 1,30 m (130 cm = 1,30 m)
+
+3) c) 50.000 (5 × 10.000 = 50.000)
+4a) 30.000 cm² (3 × 10.000)
+4b) 600 pisos (30.000 ÷ 50 = 600)
+
+5) b) 4.000 cm³ (0,004 × 1.000.000 = 4.000)
+6a) 3 litros
+6b) 0,25 dm³ (250 ÷ 1.000)
+6c) 2.000 cm³ (2 × 1.000)
+7) b) 0,5 dm³ (500 ÷ 1.000)
+8a) 600 dm³
+8b) 600.000 cm³ (600 × 1.000)
+
+9) c) Os dois têm a mesma densidade (4 g/cm³)
+   A: 60÷15=4; B: 100÷25=4
+10a) 1,25 g/cm³ (500÷400=1,25)
+10b) Afunda (1,25 > 1,0)
+
+11) c) Porque o gelo é menos denso que a água.
+12a) 184 g (0,92 × 200 = 184)
+12b) 184 g
+12c) 184 cm³ (184 ÷ 1,0 = 184)
+12d) Diminuiu (200 → 184)
+
+13) c) 54,4 g (4 × 13,6 = 54,4)
+14a) 5,0 cm³ (71 ÷ 14,2 = 5)
+14b) 5,2 cm³ (71 ÷ 13,6 ≈ 5,22 → 5,2)
+14c) Sólido ocupa menos espaço (5,0 < 5,2)
+14d) Porque o mercúrio sólido é mais denso que o líquido.
+
+15) a) Aumenta (o gelo expande porque é menos denso).
+16a) 2.000 cm³ (2 × 1.000)
+16b) 2.000 g (1,0 × 2.000) = 2 kg
+16c) 27.200 g (13,6 × 2.000) = 27,2 kg
+16d) Balde B (mercúrio), porque 27,2 kg é muito maior que 2 kg.
+
+
+
+
+
+

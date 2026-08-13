@@ -1,29 +1,34 @@
 #+OPTIONS: toc:t
+#+startup: overview
 
 * Física Aplicada - TPQ
 
 ** Dados
 
+| CÓDIGO                | GTOPBFIAPL00 - FÍSICA APLICADA - T01 (ABERTA)      |
+| EIXO TECNOLÓGICO/ÁREA | ENGENHARIAS - CNPQ                                 |
+| CURSO                 | CURSO SUPERIOR DE TECNOLOGIA EM PROCESSOS QUÍMICOS |
+| SEMESTRE              | 2026.2                                             |
+| LOCAL                 | Sala 38 - TPQ 1N                                   |
+| CH                    | 60 / 60                                            |
+| HORÁRIO               | 2N123 (27/07/2026 - 15/12/2026)                    |
+| N ALUNOS              | 46 / 50                                            |
 
-| CÓDIGO   | GTOPEFISAPL00 - MC-FÍSICA APLICADA - T1 (ABERTA) |
-| CURSO    | CURSO SUPERIOR DE TECNOLOGIA EM ALIMENTOS        |
-| SEMESTRE | 2026.2                                           |
-| LOCAL    | Sala 26 - TA1V                                   |
-| CH       | 60 / 60                                          |
-| HORÁRIO  | 4T123 (27/07/2026 - 15/12/2026)                  |
-| N ALUNOS | 47 / 55                                          |
+- EMENTA 
+  - Medidas e conversões: instrumentos de medição, teoria do erro e análise estatística.
+  - Introdução à Álgebra Vetorial. Cinemática da Partícula. Dinâmica da Partícula. Trabalho e Energia. Lei da Conservação da Energia.
+  - Princípios de hidrostática: conceitos de pressão e densidade, Teorema de Pascal, Teorema de Stevin e Teorema de Arquimedes.
+  - Termologia: termometria e dilatação térmica. Calorimetria: calor sensível, calor latente e troca de calor. Leis da Termodinâmica. 
 
-- EMENTA
-  - Medidas e conversões,
-  - Álgebra vetorial, Movimentos unidimensionais e bidimensionais,
-  - Fases da matéria,
-  - Propriedade térmica dos alimentos,
-  - Calorimetria nos alimentos, Propagação do calor nos alimentos,
-  - Níveis de energia dos alimentos,
-  - Óptica nos alimentos.
+** Revisões
+- [[file:sugestoes-como-estudar.org][Sugestões sobre como estudar]]
+- [[file:pre-fisica.org][Pré-física]]
+- [[file:area.org][Conceito de área]]
+- [[file:volume.org][Conceito de volume]]
+- [[file:densidade.org][Conceito de densidade]] 
 
+** Questões da Aula 1
 
-** Atividades aula 1
 
 1. Construa uma tabela com um conjunto de, ao menos, 4 pontos,
    relacionando dados de volume em mililitro (mL) e massa em grama (g)
@@ -34,3 +39,63 @@
    tenha o dobro da densidade da substância anterior.
 4. Construa um gráfico que relacione a força ( em \(N\)) com a aceleração
    ( em \(m/s^2\)) para um objeto que tenha massa de \(15 kg\).
+
+** Explorando a densidade de algumas substâncias
+
+*** Tabela de comparação entre valores de densidade de algumas substâncias
+Valores em gramas por centímetro cúbico (g/cm³) à temperatura ambiente (~25°C), salvo indicação contrária.
+
+#+caption: 
+| Substância      | Líquido (g/cm³)  | Sólido (g/cm³) | Observação no cotidiano                                        |
+|-----------------+------------------+----------------+----------------------------------------------------------------|
+| Água            | 1,00 (a 4°C)     | 0,92 (gelo)    | Gelo flutua na água. Cubos de gelo boiam no copo.              |
+| Mercúrio        | 13,6 (25°C)      | 14,2 (-39°C)   | Único metal líquido à temperatura ambiente. 1 L pesa 13,6 kg!  |
+| Óleo de cozinha | 0,92             | 0,91           | Flutua na água. Quando frita, fica por cima da água.           |
+| Álcool etílico  | 0,79             | 0,81           | Mais leve que a água. Em drinques, fica na parte de cima.      |
+| Leite integral  | 1,03             | ~1,05          | Mais denso que a água. O creme (gordura) sobe.                 |
+| Mel             | 1,42             | ~1,45          | Muito denso. Afunda na água. É pesado para o volume.           |
+| Gasolina        | 0,74             | 0,78           | Mais leve que a água. Vazamentos boiam.                        |
+| Sal (NaCl)      | —                | 2,16           | Só existe sólido. Afunda rapidamente na água.                  |
+| Manteiga        | 0,91 (derretida) | 0,86           | Sólida flutua na água (menos densa).                           |
+| Ferro           | 7,0 (1538°C)     | 7,87           | Muito denso. Panela de ferro é pesada.                         |
+| Chumbo          | 10,7 (327°C)     | 11,34          | Muito pesado. Bola de chumbo do tamanho de laranja pesa >5 kg. |
+| Ouro            | 17,3 (1064°C)    | 19,3           | Um dos metais mais densos. Pepita pequena já é pesada.         |
+| Plástico (PE)   | 0,79 (derretido) | 0,94           | Flutua na água. Garrafas PET boiam em rios.                    |
+| Glicerina       | 1,26             | 1,30           | Mais densa que a água. Usada em sabonetes e xampus.            |
+| Querosene       | 0,81             | 0,84           | Menos denso que a água. Usado em lampiões.                     |
+
+*** OBSERVAÇÕES IMPORTANTES
+
+- Regra geral
+  - A maioria das substâncias ~aumenta~ a densidade ao solidificar.
+  - Partículas se aproximam → volume diminui → densidade aumenta.
+  - Exemplo: ferro líquido (7,0) → ferro sólido (7,87)
+- Exceção: água
+  - Água sólida (gelo) é ~menos~ densa que a água líquida.
+  - Por isso o gelo flutua.
+  - Isso é essencial para a vida nos oceanos: o gelo forma uma camada na superfície e protege a água abaixo.
+- Óleos e gorduras
+  - São sempre menos densos que a água.
+  - Óleo, manteiga, azeite flutuam na água.
+  - Por isso vemos manchas de óleo boiando.
+- Mercúrio é extremamente denso
+  - 1 litro de mercúrio pesa 13,6 kg (água pesa 1 kg).
+  - Objetos de ferro (densidade 7,87) ~flutuam~ no mercúrio!
+- Temperatura e densidade
+  - Os valores são para ~temperatura ambiente~ (~25°C), salvo indicação.
+  - Em geral: ~quente = menos denso~ (expande); ~frio = mais denso~ (contrai).
+- 
+
+** Listas de exercícios
+
+- [[file:lista1-TOA.org][Primeira Lista de Exercícios]] - (lista de revisão)
+- [[file:lista2-TOA.org][Segunda Lista de Exercícios]] - (para entregar de forma física, em
+  dupla, para entregar no dia 24/08)
+- 
+- 
+
+** Links
+
+- [[https://www.geradorpapelmilimetrado.com.br/][Gerador de papel milimetrado]] 
+
+

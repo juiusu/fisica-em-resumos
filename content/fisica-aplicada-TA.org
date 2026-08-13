@@ -4,23 +4,31 @@
 
 ** Dados
 
-| CÓDIGO                | GTOPBFIAPL00 - FÍSICA APLICADA - T01 (ABERTA)      |
-| EIXO TECNOLÓGICO/ÁREA | ENGENHARIAS - CNPQ                                 |
-| CURSO                 | CURSO SUPERIOR DE TECNOLOGIA EM PROCESSOS QUÍMICOS |
-| SEMESTRE              | 2026.2                                             |
-| LOCAL                 | Sala 38 - TPQ 1N                                   |
-| CH                    | 60 / 60                                            |
-| HORÁRIO               | 2N123 (27/07/2026 - 15/12/2026)                    |
-| N ALUNOS              | 46 / 50                                            |
 
-- EMENTA 
-  - Medidas e conversões: instrumentos de medição, teoria do erro e análise estatística.
-  - Introdução à Álgebra Vetorial. Cinemática da Partícula. Dinâmica da Partícula. Trabalho e Energia. Lei da Conservação da Energia.
-  - Princípios de hidrostática: conceitos de pressão e densidade, Teorema de Pascal, Teorema de Stevin e Teorema de Arquimedes.
-  - Termologia: termometria e dilatação térmica. Calorimetria: calor sensível, calor latente e troca de calor. Leis da Termodinâmica. 
+| CÓDIGO   | GTOPEFISAPL00 - MC-FÍSICA APLICADA - T1 (ABERTA) |
+| CURSO    | CURSO SUPERIOR DE TECNOLOGIA EM ALIMENTOS        |
+| SEMESTRE | 2026.2                                           |
+| LOCAL    | Sala 26 - TA1V                                   |
+| CH       | 60 / 60                                          |
+| HORÁRIO  | 4T123 (27/07/2026 - 15/12/2026)                  |
+| N ALUNOS | 47 / 55                                          |
+
+- EMENTA
+  - Medidas e conversões,
+  - Álgebra vetorial, Movimentos unidimensionais e bidimensionais,
+  - Fases da matéria,
+  - Propriedade térmica dos alimentos,
+  - Calorimetria nos alimentos, Propagação do calor nos alimentos,
+  - Níveis de energia dos alimentos,
+  - Óptica nos alimentos.
 
 
-** Questões da Aula 1
+** Revisões
+
+- [[file:pre-fisica.org][Pré-física]]
+- [[file:area.org][Conceito de área]]
+- [[file:volume.org][Conceito de volume]]
+- [[file:densidade][Conceito de densidade]] 
 
 
 ** Atividades aula 1
@@ -34,4 +42,14 @@
    tenha o dobro da densidade da substância anterior.
 4. Construa um gráfico que relacione a força ( em \(N\)) com a aceleração
    ( em \(m/s^2\)) para um objeto que tenha massa de \(15 kg\).
+
+
+
+** Listas de exercícios
+
+- [[file:lista1-TOA.org][Primeira Lista de Exercícios]] - (lista de revisão)
+- [[file:lista2-TOA.org][Segunda Lista de Exercícios]] - (para entregar de forma física, em
+  dupla, para entregar no dia 26 de agosto)
+- 
+- 
 

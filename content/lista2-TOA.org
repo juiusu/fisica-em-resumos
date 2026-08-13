@@ -1,0 +1,307 @@
+#+OPTIONS: toc:1
+#+LANGUAGE: pt-BR
+
+* INSTRUÇÕES INICIAIS
+
+Nesta atividade, você vai construir e interpretar gráficos de massa por volume
+para três substâncias:
+
+- ~Água~ (líquido) – densidade = 1,00 g/cm³
+- ~Ferro~ (sólido) – densidade = 7,87 g/cm³
+- ~Mercúrio~ (líquido) – densidade = 13,60 g/cm³
+
+** Contextualização
+
+Imagine que você tem três cubos de ~mesmo volume~:
+- Um cubo de ~água~ (congelada, mas com o mesmo volume)
+- Um cubo de ~ferro~ (puro)
+- Um cubo de ~mercúrio~ (congelado)
+
+Mesmo tendo o ~mesmo tamanho~, eles têm ~massas muito diferentes~.
+
+Isso acontece porque cada substância tem uma ~densidade~ diferente:
+- Quanto ~mais densa~, ~mais massa~ ela tem em um mesmo volume.
+- Quanto ~menos densa~, ~menos massa~ ela tem em um mesmo volume.
+
+A ~densidade~ é uma propriedade ~característica~ de cada material.
+
+** Como a densidade aparece no gráfico?
+
+Em um gráfico de ~massa (eixo vertical)~ por ~volume (eixo horizontal)~:
+
+- A ~inclinação~ da reta representa a ~densidade~.
+
+** Dados importantes:
+
+| Substância | Densidade (g/cm³) |
+|------------|-------------------|
+| Água       | 1,00              |
+| Ferro      | 7,87              |
+| Mercúrio   | 13,60             |
+
+** Orientações sobre a entrega da atividade
+- A atividade deverá:
+  - ser realizada de forma manuscrita;
+  - estar devidamente identificada:
+    - nome dos integrantes, curso, semestre , disciplina;
+  - ser entregue até no dia 24 de agosto.
+- A atividade poderá:
+  - ser realizada de forma individual ou em dupla;
+  - conter apenas as respostas (sem necessidade de copiar os enunciados).
+- Não é necessário ter capa muito elaborada, apenas as devidas
+  identificações descritas acima.
+
+* PARTE 1 – COMPLETANDO A TABELA
+
+Use a fórmula:
+
+  \( d = \frac{m}{V}\)
+
+  onde
+
+- m é a massa da amostra;
+- V é o volume da amostra;
+- d é a densidade da subsância.
+
+Complete a tabela abaixo com os valores de massa para cada
+substância. (aproxime os valores calculados para valores com duas
+casas decimais)
+
+| Volume (cm³) | Água (massa em g) | Ferro (massa em g) | Mercúrio (massa em g) |
+|--------------+-------------------+--------------------+-----------------------|
+| 0,0          | 0,00              | 0,00               | 0,00                  |
+| 0,5          | _____             | _____              | _____                 |
+| 1,0          | _____             | _____              | _____                 |
+| 1,5          | _____             | _____              | _____                 |
+| 2,0          | _____             | _____              | _____                 |
+| 2,5          | _____             | _____              | _____                 |
+| 3,0          | _____             | _____              | _____                 |
+
+* PARTE 2 – CONSTRUINDO O GRÁFICO
+
+** Escalas sugeridas (apenas sugestão)
+
+| Eixo     | Valores    | Escala recomendada |
+|----------+------------+--------------------|
+| Volume   | 0 a 3,5    | 1 cm = 0,5 cm³     |
+| Massa    | 0 a 42     | 1 cm = 5 g         |
+
+** Como marcar os valores na escala (apenas sugestão):
+
+| Valor | Posição no papel |
+|-------|------------------|
+| 0,0   | Início do eixo   |
+| 0,5   | 1 cm             |
+| 1,0   | 2 cm             |
+| 1,5   | 3 cm             |
+| 2,0   | 4 cm             |
+| 2,5   | 5 cm             |
+| 3,0   | 6 cm             |
+
+** Instruções para construção
+
+- Use papel quadriculado (milimetrado).
+- Desenhe os eixos:
+  - Eixo ~horizontal~ (x): Volume (cm³)
+  - Eixo ~vertical~ (y): Massa (g) 
+- Marque os pontos de ~cada~ substância no ~mesmo~ gráfico.
+- Use cores diferentes para cada substância, exemplo:
+  - ~Azul~ para a ÁGUA
+  - ~Preta~ para o FERRO
+  - ~Vermelho~ para o MERCÚRIO
+- Trace uma reta ligando os pontos de cada substância.
+- Coloque um ~título~ no gráfico e uma ~legenda~ com as cores.
+  - Título: uma identificação do que se trata o gráfico;
+  - Legenda: Uma descrição resumida.
+
+* PARTE 3 – QUESTÕES DE INTERPRETAÇÃO (ESTUDO DIRIGIDO)
+
+** BLOCO A – LEITURA E IDENTIFICAÇÃO NO GRÁFICO
+
+*** Questão 1 (identificação)
+
+Observando as três retas que você desenhou, identifique:
+
+a) Qual é a reta ~mais inclinada~? ___________________
+   Que substância ela representa? ___________________
+
+b) Qual é a reta ~menos inclinada~? ___________________
+   Que substância ela representa? ___________________
+
+c) Qual é a reta com inclinação ~intermediária~? ___________________
+   Que substância ela representa? ___________________
+
+*** Questão 2 (ordenação)
+
+Ordene as três substâncias em ordem ~crescente~ de densidade
+(da menos densa para a mais densa).
+
+#+BEGIN_EXAMPLE
+Resposta: _____ < _____ < _____
+#+END_EXAMPLE
+
+*** Questão 3 (leitura de valores)
+
+Use o gráfico que você construiu (ou a tabela) para responder:
+
+a) Para o volume de 1,5 cm³, qual é a massa do ferro? _____ g
+
+b) Para o volume de 2,0 cm³, qual é a massa da água? _____ g
+
+c) Para o volume de 2,5 cm³, qual é a massa do mercúrio? _____ g
+
+** BLOCO B – RELAÇÃO ENTRE INCLINAÇÃO E DENSIDADE
+
+*** Questão 4 (reflexão sobre a inclinação)
+
+Observe as três retas que você desenhou e reflita:
+
+a) O que acontece com a ~inclinação~ da reta à medida que a ~densidade~
+   ~aumenta~?
+
+b) Se uma substância tem densidade ~menor~, sua reta será ~mais~ ou
+   ~menos~ inclinada?
+
+c) Qual é a relação matemática entre a inclinação da reta e a densidade?
+   (Dica: lembre-se da fórmula densidade = massa ÷ volume)
+
+#+BEGIN_EXAMPLE
+Respostas:
+a) _________________________________________________________________
+b) _________________________________________________________________
+c) _________________________________________________________________
+#+END_EXAMPLE
+
+
+*** Questão 5 (comparação de densidades)
+
+Compare a água e o ferro:
+
+a) Quantas vezes o ferro é ~mais denso~ que a água?
+   (Dica: divida a densidade do ferro pela densidade da água)
+
+   Cálculo: 7,87 ÷ 1,00 = _____ vezes
+
+b) Como essa diferença aparece no gráfico que você construiu?
+
+#+BEGIN_EXAMPLE
+Respostas:
+a) _________________________________________________________________
+b) _________________________________________________________________
+#+END_EXAMPLE
+
+** BLOCO C – COMPARAÇÃO ENTRE SUBSTÂNCIAS (MESMO VOLUME)
+
+*** Questão 6 (análise comparativa)
+
+Considere três cubos de ~mesmo volume~: um de água, um de ferro e um de
+mercúrio. Todos com volume de 2,0 cm³.
+
+a) Use o gráfico (ou a tabela) para determinar a massa de cada um:
+
+   Massa da água (2,0 cm³) = _____ g
+   Massa do ferro (2,0 cm³) = _____ g
+   Massa do mercúrio (2,0 cm³) = _____ g
+
+b) Qual dos três cubos tem ~maior massa~? ___________________
+
+c) Qual dos três cubos tem ~menor massa~? ___________________
+
+d) O que isso significa em termos de "peso" para o mesmo volume?
+
+#+BEGIN_EXAMPLE
+Respostas:
+a) _________________________________________________________________
+b) _________________________________________________________________
+c) _________________________________________________________________
+d) _________________________________________________________________
+#+END_EXAMPLE
+
+*** Questão 7 (comparação de volumes para mesma massa)
+
+Agora, considere que você tem ~100 g~ de cada substância.
+
+a) Use a fórmula (volume = massa ÷ densidade) para calcular o volume
+   ocupado por cada uma:
+
+   Volume da água (100 g) = 100 ÷ 1,00 = _____ cm³
+   Volume do ferro (100 g) = 100 ÷ 7,87 = _____ cm³
+   Volume do mercúrio (100 g) = 100 ÷ 13,60 = _____ cm³
+
+b) Qual das três substâncias ocupa o ~maior volume~ para a mesma massa?
+
+c) Qual ocupa o ~menor volume~?
+
+d) Relacione essa observação com a densidade de cada substância.
+
+#+BEGIN_EXAMPLE
+Respostas:
+a) _________________________________________________________________
+b) _________________________________________________________________
+c) _________________________________________________________________
+d) _________________________________________________________________
+#+END_EXAMPLE
+
+** BLOCO D – FENÔMENO DE FLUTUAÇÃO (líquidos não se misturam)
+
+*** Questão 8 (organização de líquidos em um recipiente)
+
+Considere que você coloca água, mercúrio e um bloco de ferro em um
+mesmo recipiente. A água e o mercúrio são líquidos e ~não se misturam~.
+O ferro é um sólido.
+
+Com base nas densidades, responda:
+
+a) Qual líquido ficará ~no fundo~ do recipiente? Por quê?
+
+b) Qual líquido ficará ~em cima~ do outro? Por quê?
+
+c) O bloco de ferro (~sólido~) será colocado no recipiente.
+   Ele vai ~afundar~ ou ~flutuar~?
+
+   - Em relação à água: ___________________
+   - Em relação ao mercúrio: ___________________
+
+   Justifique sua resposta com base nas densidades.
+
+#+BEGIN_EXAMPLE
+Respostas:
+a) _________________________________________________________________
+b) _________________________________________________________________
+c) _________________________________________________________________
+#+END_EXAMPLE
+
+
+** BLOCO E – SÍNTESE E GENERALIZAÇÃO
+
+*** Questão 9 (síntese do conceito)
+
+Escreva um pequeno texto (~8 a 10 linhas~) explicando:
+
+- O que é densidade?
+- Como ela é representada em um gráfico de massa por volume?
+- Como a densidade explica a organização de líquidos em um recipiente?
+- Como a densidade explica por que alguns objetos flutuam e outros afundam?
+
+Use as palavras:
+- densidade
+- inclinação
+- massa
+- volume
+- flutuação
+- mais denso / menos denso
+
+#+BEGIN_EXAMPLE
+Resposta:
+_________________________________________________________________
+_________________________________________________________________
+_________________________________________________________________
+_________________________________________________________________
+_________________________________________________________________
+_________________________________________________________________
+_________________________________________________________________
+_________________________________________________________________
+_________________________________________________________________
+_________________________________________________________________
+#+END_EXAMPLE
+

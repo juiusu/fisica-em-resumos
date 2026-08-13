@@ -1,0 +1,78 @@
+* TABELA DE VALORES ESPERADOS (para conferência após preencher)
+
+| Volume (cm³) | Água (g) | Madeira (g) | Mercúrio (g) |
+|--------------+----------+-------------+--------------|
+| 0            | 0        | 0           | 0            |
+| 2            | 2,0      | 1,1         | 27,2         |
+| 4            | 4,0      | 2,2         | 54,4         |
+| 6            | 6,0      | 3,3         | 81,6         |
+| 8            | 8,0      | 4,4         | 108,8        |
+| 10           | 10,0     | 5,5         | 136,0        |
+
+* GABARITO (somente para o professor)
+
+** Questão 1
+- [x] c) Mercúrio (vermelho)
+
+** Questão 2
+- [x] b) Madeira (marrom)
+
+** Questão 3
+Madeira (0,55) < Água (1,0) < Mercúrio (13,6)
+
+** Questão 4
+- [x] b) Madeira
+
+** Questão 5
+a) 3,3 g
+b) 10,0 g
+c) 54,4 g
+
+** Questão 6
+a) A água tem maior densidade (1,0 > 0,55).
+b) A reta da água é ~mais inclinada~ que a reta da madeira no gráfico.
+
+** Questão 7
+a) Fundo: Mercúrio (13,6 – é o mais denso)
+b) Meio: Água (1,0 – densidade intermediária)
+c) Cima: Madeira (0,55 – é a menos densa)
+
+** Questão 8
+a) A distância entre a madeira e a água é ~grande~, porque a
+   diferença de densidade é grande (1,0 - 0,55 = 0,45).
+
+b) A distância entre a água e o mercúrio é ~muito grande~, porque a
+   diferença de densidade é enorme (13,6 - 1,0 = 12,6).
+
+** Questão 9
+a) 9 cm³ × 0,55 = 4,95 g (aproximadamente 5,0 g)
+b) 120 ÷ 13,6 ≈ 8,8 cm³ (aproximadamente 9 cm³)
+
+** Questão 10
+a) A madeira ~flutua~ na água, porque a densidade da madeira (0,55)
+   é ~menor~ que a da água (1,0).
+
+b) O gráfico mostra que a reta da madeira é ~menos inclinada~ que a
+   reta da água, o que significa que a madeira é ~menos densa~.
+   Por isso, ela flutua.
+
+c) A madeira ~flutuaria~ no mercúrio também, porque 0,55 < 13,6.
+   Ela flutuaria ~ainda mais~, pois a diferença de densidade é
+   muito maior.
+
+* RESUMO – O QUE APRENDEMOS
+
+- A ~inclinação~ da reta em um gráfico massa × volume representa a ~densidade~.
+- Quanto ~mais inclinada~ a reta, ~maior~ a densidade.
+- Quanto ~menos inclinada~ a reta, ~menor~ a densidade.
+
+- Substâncias com densidades diferentes se organizam por ordem de densidade:
+  - A ~mais densa~ fica no fundo.
+  - A ~menos densa~ fica em cima.
+
+- Ordem de densidade (da menor para a maior):
+  ~Madeira (0,55) < Água (1,00) < Mercúrio (13,6)~
+
+- O gráfico que você construiu permite ~comparar~ substâncias e
+  ~prever~ comportamentos sem precisar fazer experimentos.
+
