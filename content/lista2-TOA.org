@@ -59,9 +59,9 @@ Use a fórmula:
 
   onde
 
-- m é a massa da amostra;
-- V é o volume da amostra;
-- d é a densidade da subsância.
+- \(m\) é a massa da amostra;
+- \(V\) é o volume da amostra;
+- \(d\) é a densidade da subsância.
 
 Complete a tabela abaixo com os valores de massa para cada
 substância. (aproxime os valores calculados para valores com duas
