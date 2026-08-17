@@ -1,4 +1,4 @@
-
+#+options: toc:2
 
 * Pré-física
 
@@ -278,7 +278,7 @@ Observação: os prefixos mais comuns no dia a dia são: quilo (k), mega (M), gi
 
 [[file:quest-pre-fisica6.org][Questões de revisão: potência de 10 e prefixos do SI]]
 
-** Exemplo final
+** Exemplo final: Compreendendo a segunda lei de Newton a partir das relações de proporcionalidade
 
 Uma das equações mais importnates para a mecânica é a equação que
 relaciona a massa, aceleração e força, que resulta da Segunda Lei de

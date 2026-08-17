@@ -1,4 +1,4 @@
-#+OPTIONS: toc:t
+#+OPTIONS: toc:2
 
 
 #+BEGIN_EXPORT html
@@ -297,7 +297,30 @@ iremos considerá-las sinônimos.
 
 * Eletrodinâmica
 
-Aqui começaremos a considerar as cargtas elétricas em movimento. 
+Aqui começaremos a considerar as cargtas elétricas em movimento.
+
+Como apliação direta dessa área da física temos os circuitos
+elétricos.
+
+Um circuito é um caminho fechado com condutores elétricos, com
+ligações entre dispositivos elétricos. Como exemplo básico, a figura
+abaixo ilustra um circuito formado por fios, uma bateria (fonte de
+tensão elétrica) e uma lâmpada incandesente (converte energia em
+calor, e parte desse calor é irradiado na forma de luz)
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Circuito Simples com bateria de 9v e lâmpada incandescente.
+  </p>
+  <img src="./pictures/eletronic-circuits-tinkercad-1.png"
+       alt="bateria e lâmpada no tinkercad"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: imagem criada pelo autor no  <a href="https://www.tinkercad.com/" target="_blank"> Autodesk Tinkercad</a> 
+  </p>
+</div>
+#+END_EXPORT
 
 
 #+BEGIN_EXPORT html
@@ -368,6 +391,7 @@ a uma tomada, com alternações entre 50 e 60 Hz.
 #+END_EXPORT
 
 ** Corrente, tensão e potência (Ampère, Volt e Watt)
+*** Cálculo simples de potência
 
 | unidade | símbolo | "definição"            | grandeza          | símbolo | "definição"     |
 |---------+---------+------------------------+-------------------+---------+-----------------|
@@ -386,6 +410,37 @@ tensão em um circuito, ou dispositvo eletrônico, por :
 
 Demonstração: \( U \cdot I = \frac{E}{Q}\frac{Q}{t} = \frac{E}{t} =
 P \)
+
+#+BEGIN_EXPORT html
+<div style="margin-top:100px;"></div>
+#+END_EXPORT
+
+
+*** Exemplo
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Medições de tensão elátrica (voltagem) e corrente elétrica (amperagem) em um circuito simples.
+  </p>
+  <img src="./pictures/eletronic-circuits-tinkercad-2.png"
+       alt="voltagem e amperagem em circuito simples"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: imagem criada pelo autor no  <a href="https://www.tinkercad.com/" target="_blank"> Autodesk Tinkercad</a> 
+  </p>
+</div>
+#+END_EXPORT
+
+Para o caso ilustrado na imagem acima, temos:
+
+\( P = U \cdot I = (8,73 v)\cdot (0,182 A) = 1,59 W \)
+
+Lembre-se que potência mede energia por tempo. Assim, a energia
+fornecida pela fonte é integralmente consumida pela lâmpada,
+considerando fios ideais. Assim, o cálculo é o mesmo para a potência
+nos dois dispositivos. Isso mudaria caso o circuito envolva mais de
+dois componentes.
 
 #+BEGIN_EXPORT html
 <div style="margin-top:100px;"></div>

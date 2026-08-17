@@ -1,4 +1,4 @@
-#+OPTIONS: toc:t
+#+OPTIONS: toc:2
 #+startup: overview
 
 * Física Aplicada - TPQ
@@ -40,9 +40,12 @@
 4. Construa um gráfico que relacione a força ( em \(N\)) com a aceleração
    ( em \(m/s^2\)) para um objeto que tenha massa de \(15 kg\).
 
-** Explorando a densidade de algumas substâncias
 
-*** Tabela de comparação entre valores de densidade de algumas substâncias
+** Medições e Conversões 
+*** Parte da ementa que será trabalhada nesse tópico
+Medidas e conversões: instrumentos de medição, teoria do erro e análise estatística.
+*** Explorando a densidade de algumas substâncias
+**** Tabela de comparação entre valores de densidade de algumas substâncias
 Valores em gramas por centímetro cúbico (g/cm³) à temperatura ambiente (~25°C), salvo indicação contrária.
 
 #+caption: 
@@ -64,7 +67,7 @@ Valores em gramas por centímetro cúbico (g/cm³) à temperatura ambiente (~25�
 | Glicerina       | 1,26             | 1,30           | Mais densa que a água. Usada em sabonetes e xampus.            |
 | Querosene       | 0,81             | 0,84           | Menos denso que a água. Usado em lampiões.                     |
 
-*** OBSERVAÇÕES IMPORTANTES
+**** OBSERVAÇÕES IMPORTANTES
 
 - Regra geral
   - A maioria das substâncias ~aumenta~ a densidade ao solidificar.
@@ -86,6 +89,134 @@ Valores em gramas por centímetro cúbico (g/cm³) à temperatura ambiente (~25�
   - Em geral: ~quente = menos denso~ (expande); ~frio = mais denso~ (contrai).
 - 
 
+*** Noções sobre Teoria do Erro
+
+**** Algarismos significativos
+
+Matematicamente temos que
+
+\( 1,900 = 1,90 = 1,9 \)
+
+porém, no contexto das medidas, usamos a quantidade de casas após a
+virgula para indicar a precisão da medida (ou do resultado de um
+cálculo que se utiliza de medições)
+
+Exemplo:
+
+Um valor de comprimento expresso em:
+
+a) 
+
+\( L = 1,900\)
+
+indica que a precisão do instrumento é em milímetroe (mm);
+
+b)
+
+\( L = 1,90 \)
+
+indica que a precisão é em centímetros (cm);
+
+c)
+
+\( L = 1,9 \)
+
+indica que a precisão é em decímetros (dm).
+
+**** Arredondamento numérico
+
+Nesse contexto, podemos ter que arredondar valores após cálculos.
+Como exemplo, imagine que, após um cálculo, obtemos um valor com 5
+casas decimais, mas queremos arredondar para duas. A regra é olhar
+para o número que será desprezado, verificando se
+
+
+- é menor que 5
+
+- é maior ou igual a 5
+
+Exemplos:
+
+- \( 1,78901 \rightarrow 1,79\)
+
+- \( 1,78321 \rightarrow 1,78\)
+
+- \( 1,78531 \rightarrow 1,79\)
+
+
+Uma observação importante: lembre-se que no ingluês, a função do ponto
+e da virgula em um número é diferente do português.
+
+Exemplo:
+
+Dois mil dólares: R$ \(2,000.00\)
+
+Dois mil reais:   U$ \(2.000,00\)
+
+
+**** Teoria do erro
+
+- O que é medir?
+  - É comparar uma quantidade com uma unidade padrão. Nenhuma medida é perfeita; toda medida tem um erro (incerteza) associado
+- Os três tipos de erros básicos:
+  - Erro de Resolução (limite do instrumento): É o menor valor que o instrumento consegue mostrar.
+
+    - Exemplo: Nossa régua media só até 1 mm; não dava para ver 0,5 mm. Por isso, já sabíamos que ali tinha uma incerteza.
+
+  - Erro Sistemático (o "vício"): É o erro que acontece sempre no mesmo sentido (para mais ou para menos) se não tomarmos cuidado.
+
+    - Exemplo: A paralaxe (olhar a régua de lado) ou o atrito do ar com o pêndulo. Esse erro prejudica a exatidão (deixa o resultado longe do valor verdadeiro).
+
+  - Erro Aleatório (o "acaso"): É aquele erro que varia para mais ou para menos, sem regra fixa.
+
+    - Exemplo: O tempo de reação do nosso dedo ao apertar o cronômetro. Cada um apertou num tempo diferente. Esse erro prejudica a precisão (deixa os resultados espalhados).
+- Como diminuir os erros?
+  - Depende do contexto das medições;
+  - Como fizemos isso nas medições de oscilação de um pêndulo simples?
+
+**** Atividade prática
+
+
+***** Parte I - Medições das dimensões de um quadro
+
+- Obter o valor das dimensões e área do quadro da sala.
+- Valores e cálculo sem utilizar o conceito de algarismos significativos
+- Valores e cálculo utilizando o conceito de algarismos significativos
+
+***** Parte II - Medidas simples do perído oscilações de um pêndulo
+
+- Medições de uma única oscilação por vez
+- Medir 10 vezes
+- Comparar valores com os grupos dos colegas
+
+***** Parte III - Medicas mais elaboradas do período de oscilações de um pêndulo
+
+- Medição de 10 oscilações para reduzir o erro
+- Conjunto de 10 valores
+- calcular média
+- calcular desvio padrão
+- comparar resultados com os dos colegas
+- revisar conceitos e discutir resultados
+** Tópicos em mecânica
+*** Parte da ementa que será trabalhada nesse tópico
+- Introdução à Álgebra Vetorial
+- Cinemática da Partícula
+- Dinâmica da Partícula
+- Trabalho e Energia
+- Lei da Conservação da Energia.
+** Tópicos em mecânmica dos fluidos
+*** Parte da ementa que será trabalhada nesse tópico
+- Princípios de hidrostática:
+  - conceitos de pressão e densidade
+  - Teorema de Pascal
+  - Teorema de Stevin
+  - Teorema de Arquimedes.
+** Tópicos em termodinâmica
+*** Parte da ementa que será trabalhada nesse tópico
+- Termologia
+- dilatação térmica
+- Calorimetria: calor sensível, calor latente e troca de calor
+- Leis da Termodinâmica. 
 ** Listas de exercícios
 
 - [[file:lista1-TOA.org][Primeira Lista de Exercícios]] - (lista de revisão)
