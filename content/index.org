@@ -1,3 +1,4 @@
+
 #+TITLE: Resumos das Aulas de Física
 #+DATE: 2025
 #+OPTIONS: toc:nil

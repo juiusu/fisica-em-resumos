@@ -40,7 +40,6 @@
 4. Construa um gráfico que relacione a força ( em \(N\)) com a aceleração
    ( em \(m/s^2\)) para um objeto que tenha massa de \(15 kg\).
 
-
 ** Medições e Conversões 
 *** Parte da ementa que será trabalhada nesse tópico
 Medidas e conversões: instrumentos de medição, teoria do erro e análise estatística.
@@ -107,19 +106,19 @@ Um valor de comprimento expresso em:
 
 a) 
 
-\( L = 1,900\)
+\( L = 1,900 \, m\)
 
 indica que a precisão do instrumento é em milímetroe (mm);
 
 b)
 
-\( L = 1,90 \)
+\( L = 1,90 \, m\)
 
 indica que a precisão é em centímetros (cm);
 
 c)
 
-\( L = 1,9 \)
+\( L = 1,9 \, m\)
 
 indica que a precisão é em decímetros (dm).
 
@@ -153,7 +152,6 @@ Dois mil dólares: R$ \(2,000.00\)
 
 Dois mil reais:   U$ \(2.000,00\)
 
-
 **** Teoria do erro
 
 - O que é medir?
@@ -162,17 +160,31 @@ Dois mil reais:   U$ \(2.000,00\)
   - Erro de Resolução (limite do instrumento): É o menor valor que o instrumento consegue mostrar.
 
     - Exemplo: Nossa régua media só até 1 mm; não dava para ver 0,5 mm. Por isso, já sabíamos que ali tinha uma incerteza.
-
   - Erro Sistemático (o "vício"): É o erro que acontece sempre no mesmo sentido (para mais ou para menos) se não tomarmos cuidado.
 
     - Exemplo: A paralaxe (olhar a régua de lado) ou o atrito do ar com o pêndulo. Esse erro prejudica a exatidão (deixa o resultado longe do valor verdadeiro).
-
   - Erro Aleatório (o "acaso"): É aquele erro que varia para mais ou para menos, sem regra fixa.
 
     - Exemplo: O tempo de reação do nosso dedo ao apertar o cronômetro. Cada um apertou num tempo diferente. Esse erro prejudica a precisão (deixa os resultados espalhados).
 - Como diminuir os erros?
   - Depende do contexto das medições;
   - Como fizemos isso nas medições de oscilação de um pêndulo simples?
+- Definições matemáticas
+  - Média aritmética
+
+   \(\bar{T} = \frac{\sum_{i=1}^n T_i }{n} \)
+   
+  - Desvio:
+
+    \( \sigma_i = |T_i-\bar{T}| \)
+
+  - Desvio médio
+
+    \( DM = \sum_{i=1}^n \sigma_i
+
+  - Desvio padrão
+
+     \( DP = \sum_{i=1}^n (T_i - \bar{T}\)
 
 **** Atividade prática
 
@@ -194,7 +206,8 @@ Dois mil reais:   U$ \(2.000,00\)
 - Medição de 10 oscilações para reduzir o erro
 - Conjunto de 10 valores
 - calcular média
-- calcular desvio padrão
+- calcular o desvio médio
+- calcular o desvio padrão
 - comparar resultados com os dos colegas
 - revisar conceitos e discutir resultados
 ** Tópicos em mecânica
