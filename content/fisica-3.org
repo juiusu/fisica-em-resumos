@@ -686,6 +686,10 @@ Par um caso geral, com n resistores em paralelo, teremos:
 <hr style=\"margin: 2em 0; border: none; border-top: 1px solid #ccc;\">
 #+END_EXPORT
 
+*** Ligações mistas de resistores
+
+
+
 ** Outros componentes eletrônicos
 
 *** Capacitores

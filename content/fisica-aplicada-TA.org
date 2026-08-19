@@ -96,6 +96,177 @@ Valores em gramas por centímetro cúbico (g/cm³) à temperatura ambiente (~25�
 
 
 
+** ** Medições e Conversões 
+*** Parte da ementa que será trabalhada nesse tópico
+Medidas e conversões: instrumentos de medição, teoria do erro e análise estatística.
+*** Explorando a densidade de algumas substâncias
+**** Tabela de comparação entre valores de densidade de algumas substâncias
+Valores em gramas por centímetro cúbico (g/cm³) à temperatura ambiente (~25°C), salvo indicação contrária.
+
+#+caption: 
+| Substância      | Líquido (g/cm³)  | Sólido (g/cm³) | Observação no cotidiano                                        |
+|-----------------+------------------+----------------+----------------------------------------------------------------|
+| Água            | 1,00 (a 4°C)     | 0,92 (gelo)    | Gelo flutua na água. Cubos de gelo boiam no copo.              |
+| Mercúrio        | 13,6 (25°C)      | 14,2 (-39°C)   | Único metal líquido à temperatura ambiente. 1 L pesa 13,6 kg!  |
+| Óleo de cozinha | 0,92             | 0,91           | Flutua na água. Quando frita, fica por cima da água.           |
+| Álcool etílico  | 0,79             | 0,81           | Mais leve que a água. Em drinques, fica na parte de cima.      |
+| Leite integral  | 1,03             | ~1,05          | Mais denso que a água. O creme (gordura) sobe.                 |
+| Mel             | 1,42             | ~1,45          | Muito denso. Afunda na água. É pesado para o volume.           |
+| Gasolina        | 0,74             | 0,78           | Mais leve que a água. Vazamentos boiam.                        |
+| Sal (NaCl)      | —                | 2,16           | Só existe sólido. Afunda rapidamente na água.                  |
+| Manteiga        | 0,91 (derretida) | 0,86           | Sólida flutua na água (menos densa).                           |
+| Ferro           | 7,0 (1538°C)     | 7,87           | Muito denso. Panela de ferro é pesada.                         |
+| Chumbo          | 10,7 (327°C)     | 11,34          | Muito pesado. Bola de chumbo do tamanho de laranja pesa >5 kg. |
+| Ouro            | 17,3 (1064°C)    | 19,3           | Um dos metais mais densos. Pepita pequena já é pesada.         |
+| Plástico (PE)   | 0,79 (derretido) | 0,94           | Flutua na água. Garrafas PET boiam em rios.                    |
+| Glicerina       | 1,26             | 1,30           | Mais densa que a água. Usada em sabonetes e xampus.            |
+| Querosene       | 0,81             | 0,84           | Menos denso que a água. Usado em lampiões.                     |
+
+**** OBSERVAÇÕES IMPORTANTES
+
+- Regra geral
+  - A maioria das substâncias ~aumenta~ a densidade ao solidificar.
+  - Partículas se aproximam → volume diminui → densidade aumenta.
+  - Exemplo: ferro líquido (7,0) → ferro sólido (7,87)
+- Exceção: água
+  - Água sólida (gelo) é ~menos~ densa que a água líquida.
+  - Por isso o gelo flutua.
+  - Isso é essencial para a vida nos oceanos: o gelo forma uma camada na superfície e protege a água abaixo.
+- Óleos e gorduras
+  - São sempre menos densos que a água.
+  - Óleo, manteiga, azeite flutuam na água.
+  - Por isso vemos manchas de óleo boiando.
+- Mercúrio é extremamente denso
+  - 1 litro de mercúrio pesa 13,6 kg (água pesa 1 kg).
+  - Objetos de ferro (densidade 7,87) ~flutuam~ no mercúrio!
+- Temperatura e densidade
+  - Os valores são para ~temperatura ambiente~ (~25°C), salvo indicação.
+  - Em geral: ~quente = menos denso~ (expande); ~frio = mais denso~ (contrai).
+- 
+
+*** Noções sobre Teoria do Erro
+
+**** Algarismos significativos
+
+Matematicamente temos que
+
+\( 1,900 = 1,90 = 1,9 \)
+
+porém, no contexto das medidas, usamos a quantidade de casas após a
+virgula para indicar a precisão da medida (ou do resultado de um
+cálculo que se utiliza de medições)
+
+Exemplo:
+
+Um valor de comprimento expresso em:
+
+a) 
+
+\( L = 1,900 \, m\)
+
+indica que a precisão do instrumento é em milímetroe (mm);
+
+b)
+
+\( L = 1,90 \, m\)
+
+indica que a precisão é em centímetros (cm);
+
+c)
+
+\( L = 1,9 \, m\)
+
+indica que a precisão é em decímetros (dm).
+
+**** Arredondamento numérico
+
+Nesse contexto, podemos ter que arredondar valores após cálculos.
+Como exemplo, imagine que, após um cálculo, obtemos um valor com 5
+casas decimais, mas queremos arredondar para duas. A regra é olhar
+para o número que será desprezado, verificando se
+
+
+- é menor que 5
+
+- é maior ou igual a 5
+
+Exemplos:
+
+- \( 1,78901 \rightarrow 1,79\)
+
+- \( 1,78321 \rightarrow 1,78\)
+
+- \( 1,78531 \rightarrow 1,79\)
+
+
+Uma observação importante: lembre-se que no ingluês, a função do ponto
+e da virgula em um número é diferente do português.
+
+Exemplo:
+
+Dois mil dólares: R$ \(2,000.00\)
+
+Dois mil reais:   U$ \(2.000,00\)
+
+**** Teoria do erro
+
+- O que é medir?
+  - É comparar uma quantidade com uma unidade padrão. Nenhuma medida é perfeita; toda medida tem um erro (incerteza) associado
+- Os três tipos de erros básicos:
+  - Erro de Resolução (limite do instrumento): É o menor valor que o instrumento consegue mostrar.
+
+    - Exemplo: Nossa régua media só até 1 mm; não dava para ver 0,5 mm. Por isso, já sabíamos que ali tinha uma incerteza.
+  - Erro Sistemático (o "vício"): É o erro que acontece sempre no mesmo sentido (para mais ou para menos) se não tomarmos cuidado.
+
+    - Exemplo: A paralaxe (olhar a régua de lado) ou o atrito do ar com o pêndulo. Esse erro prejudica a exatidão (deixa o resultado longe do valor verdadeiro).
+  - Erro Aleatório (o "acaso"): É aquele erro que varia para mais ou para menos, sem regra fixa.
+
+    - Exemplo: O tempo de reação do nosso dedo ao apertar o cronômetro. Cada um apertou num tempo diferente. Esse erro prejudica a precisão (deixa os resultados espalhados).
+- Como diminuir os erros?
+  - Depende do contexto das medições;
+  - Como fizemos isso nas medições de oscilação de um pêndulo simples?
+- Definições matemáticas
+  - Média aritmética
+
+   \(\bar{T} = \frac{\sum_{i=1}^n T_i }{n} \)
+   
+  - Desvio:
+
+    \( \sigma_i = |T_i-\bar{T}| \)
+
+  - Desvio médio
+
+    \( DM = \sum_{i=1}^n \sigma_i
+
+  - Desvio padrão
+
+     \( DP = \sum_{i=1}^n (T_i - \bar{T}\)
+
+**** Atividade prática
+
+
+***** Parte I - Medições das dimensões de um quadro
+
+- Obter o valor das dimensões e área do quadro da sala.
+- Valores e cálculo sem utilizar o conceito de algarismos significativos
+- Valores e cálculo utilizando o conceito de algarismos significativos
+
+***** Parte II - Medidas simples do perído oscilações de um pêndulo
+
+- Medições de uma única oscilação por vez
+- Medir 10 vezes
+- Comparar valores com os grupos dos colegas
+
+***** Parte III - Medicas mais elaboradas do período de oscilações de um pêndulo
+
+- Medição de 10 oscilações para reduzir o erro
+- Conjunto de 10 valores
+- calcular média
+- calcular o desvio médio
+- calcular o desvio padrão
+- comparar resultados com os dos colegas
+- revisar conceitos e discutir resultados
+
 ** Listas de exercícios
 
 - [[file:lista1-TOA.org][Primeira Lista de Exercícios]] - (lista de revisão)
