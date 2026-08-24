@@ -690,6 +690,92 @@ Par um caso geral, com n resistores em paralelo, teremos:
 
 
 
+** Capacitores
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Simulação com capacitor de placas paralelas.
+  </p>
+  <img src="./pictures/capacitores_phpet.png"
+       alt="capacitor no phpet."
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: imagem criada pelo autor usando a plataforma  <a href="https://phet.colorado.edu/" target="_blank"> PHET Interactive Simulations</a> 
+  </p>
+</div>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Descarga de associação de resistores (em série e em paralelo).
+  </p>
+  <img src="./pictures/capacitores_serie-paralelo-tinkercad.png"
+       alt="descarga de capacitores - tinkercad."
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+        Fonte: imagem criada pelo autor usando a plataforma  <a href="https://www.tinkercad.com/" target="_blank"> Autodesk Tinkercad</a> 
+  </p>
+</div>
+#+END_EXPORT
+
+*** Definição de Capacitância
+   A capacitância é a razão entre a carga armazenada em uma das placas e a diferença de potencial (tensão) entre elas.
+
+   - Expressão geral:
+
+      \( C = \frac{Q}{V} \)
+
+      
+   - Unidade no SI:
+
+     Farad (F) = Coulomb / Volt (C/V)
+
+*** Energia Armazenada em um Capacitor
+   A energia (potencial eletrostática) armazenada no campo elétrico do
+   capacitor é dada pela relação entre carga e tensão.
+
+   - Fórmulas equivalentes:
+
+     \( U = \frac{1}{2} Q V \)
+     
+     \( U = \frac{1}{2} C V^2 \)
+
+     
+     \( U = \frac{Q^2}{2C} \)
+
+     
+
+*** Associação de capacitores em Paralelo
+    - A tensão é a mesma em todos os capacitores.
+    - A capacitância equivalente é a soma das capacitâncias individuais.
+    - Expressão:
+
+      \( C_P = C_1 + C_2\)
+
+
+    ou
+
+
+    
+    \( C_P = C_1 + C_2 + C_3 + \dots + C_n \)
+
+*** Associação de capacitores em Série
+    - A carga é a mesma em todos os capacitores.
+      
+    - O inverso da capacitância equivalente é a soma dos inversos das
+      capacitâncias individuais.
+      
+    - Expressão:
+
+\( \frac{1}{C_S} = \frac{1}{C_1} + \frac{1}{C_2} \)
+
+ou
+
+      \( \frac{1}{C_{S}} = \frac{1}{C_1} + \frac{1}{C_2} + \frac{1}{C_3} + \dots + \frac{1}{C_n} \)
+   
 ** Outros componentes eletrônicos
 
 *** Capacitores

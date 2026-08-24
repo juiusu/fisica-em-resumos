@@ -1,8 +1,8 @@
 #+OPTIONS: toc:2
+#+startup: overview
+#+title: Física Aplicada - TA
 
-* Física Aplicada - TA
-
-** Dados
+* DADOS
 
 
 | CÓDIGO   | GTOPEFISAPL00 - MC-FÍSICA APLICADA - T1 (ABERTA) |
@@ -11,7 +11,7 @@
 | LOCAL    | Sala 26 - TA1V                                   |
 | CH       | 60 / 60                                          |
 | HORÁRIO  | 4T123 (27/07/2026 - 15/12/2026)                  |
-| N ALUNOS | 47 / 55                                          |
+
 
 - EMENTA
   - Medidas e conversões,
@@ -23,20 +23,18 @@
   - Óptica nos alimentos.
 
 
-** Revisões
+* REVISÕES
 
 - [[file:pre-fisica.org][Pré-física]]
 - [[file:area.org][Conceito de área]]
 - [[file:volume.org][Conceito de volume]]
 - [[file:densidade][Conceito de densidade]] 
 
+* MEDIÇÕES E CONVERSÕES 
+** Tópicos da ementa
+Medidas e conversões: instrumentos de medição, teoria do erro e análise estatística.
 
-
-** Unidade 1
-
-
-**** Explorando a densidade de algumas substâncias
-
+** Explorando a densidade de algumas substâncias
 *** Tabela de comparação entre valores de densidade de algumas substâncias
 Valores em gramas por centímetro cúbico (g/cm³) à temperatura ambiente (~25°C), salvo indicação contrária.
 
@@ -59,9 +57,9 @@ Valores em gramas por centímetro cúbico (g/cm³) à temperatura ambiente (~25�
 | Glicerina       | 1,26             | 1,30           | Mais densa que a água. Usada em sabonetes e xampus.            |
 | Querosene       | 0,81             | 0,84           | Menos denso que a água. Usado em lampiões.                     |
 
-*** OBSERVAÇÕES IMPORTANTES
+*** Observações Importantes
 
-- Regra geral
+- REGRA GERAL
   - A maioria das substâncias ~aumenta~ a densidade ao solidificar.
   - Partículas se aproximam → volume diminui → densidade aumenta.
   - Exemplo: ferro líquido (7,0) → ferro sólido (7,87)
@@ -79,74 +77,10 @@ Valores em gramas por centímetro cúbico (g/cm³) à temperatura ambiente (~25�
 - Temperatura e densidade
   - Os valores são para ~temperatura ambiente~ (~25°C), salvo indicação.
   - Em geral: ~quente = menos denso~ (expande); ~frio = mais denso~ (contrai).
-- 
 
+** Noções sobre Teoria do Erro
 
-** Atividades aula 1
-
-1. Construa uma tabela com um conjunto de, ao menos, 4 pontos,
-   relacionando dados de volume em mililitro (mL) e massa em grama (g)
-   para uma substâmcia hipotética de densidade \(5,0 g/mL\).
-2. Construa um gráfico de pontos para a tabela anterior, generalizando
-   os quatro pontos para uma reta.
-3. Faça um gráfico sobreposto ao anterior, mas para uma substância que
-   tenha o dobro da densidade da substância anterior.
-4. Construa um gráfico que relacione a força ( em \(N\)) com a aceleração
-   ( em \(m/s^2\)) para um objeto que tenha massa de \(15 kg\).
-
-
-
-** ** Medições e Conversões 
-*** Parte da ementa que será trabalhada nesse tópico
-Medidas e conversões: instrumentos de medição, teoria do erro e análise estatística.
-*** Explorando a densidade de algumas substâncias
-**** Tabela de comparação entre valores de densidade de algumas substâncias
-Valores em gramas por centímetro cúbico (g/cm³) à temperatura ambiente (~25°C), salvo indicação contrária.
-
-#+caption: 
-| Substância      | Líquido (g/cm³)  | Sólido (g/cm³) | Observação no cotidiano                                        |
-|-----------------+------------------+----------------+----------------------------------------------------------------|
-| Água            | 1,00 (a 4°C)     | 0,92 (gelo)    | Gelo flutua na água. Cubos de gelo boiam no copo.              |
-| Mercúrio        | 13,6 (25°C)      | 14,2 (-39°C)   | Único metal líquido à temperatura ambiente. 1 L pesa 13,6 kg!  |
-| Óleo de cozinha | 0,92             | 0,91           | Flutua na água. Quando frita, fica por cima da água.           |
-| Álcool etílico  | 0,79             | 0,81           | Mais leve que a água. Em drinques, fica na parte de cima.      |
-| Leite integral  | 1,03             | ~1,05          | Mais denso que a água. O creme (gordura) sobe.                 |
-| Mel             | 1,42             | ~1,45          | Muito denso. Afunda na água. É pesado para o volume.           |
-| Gasolina        | 0,74             | 0,78           | Mais leve que a água. Vazamentos boiam.                        |
-| Sal (NaCl)      | —                | 2,16           | Só existe sólido. Afunda rapidamente na água.                  |
-| Manteiga        | 0,91 (derretida) | 0,86           | Sólida flutua na água (menos densa).                           |
-| Ferro           | 7,0 (1538°C)     | 7,87           | Muito denso. Panela de ferro é pesada.                         |
-| Chumbo          | 10,7 (327°C)     | 11,34          | Muito pesado. Bola de chumbo do tamanho de laranja pesa >5 kg. |
-| Ouro            | 17,3 (1064°C)    | 19,3           | Um dos metais mais densos. Pepita pequena já é pesada.         |
-| Plástico (PE)   | 0,79 (derretido) | 0,94           | Flutua na água. Garrafas PET boiam em rios.                    |
-| Glicerina       | 1,26             | 1,30           | Mais densa que a água. Usada em sabonetes e xampus.            |
-| Querosene       | 0,81             | 0,84           | Menos denso que a água. Usado em lampiões.                     |
-
-**** OBSERVAÇÕES IMPORTANTES
-
-- Regra geral
-  - A maioria das substâncias ~aumenta~ a densidade ao solidificar.
-  - Partículas se aproximam → volume diminui → densidade aumenta.
-  - Exemplo: ferro líquido (7,0) → ferro sólido (7,87)
-- Exceção: água
-  - Água sólida (gelo) é ~menos~ densa que a água líquida.
-  - Por isso o gelo flutua.
-  - Isso é essencial para a vida nos oceanos: o gelo forma uma camada na superfície e protege a água abaixo.
-- Óleos e gorduras
-  - São sempre menos densos que a água.
-  - Óleo, manteiga, azeite flutuam na água.
-  - Por isso vemos manchas de óleo boiando.
-- Mercúrio é extremamente denso
-  - 1 litro de mercúrio pesa 13,6 kg (água pesa 1 kg).
-  - Objetos de ferro (densidade 7,87) ~flutuam~ no mercúrio!
-- Temperatura e densidade
-  - Os valores são para ~temperatura ambiente~ (~25°C), salvo indicação.
-  - Em geral: ~quente = menos denso~ (expande); ~frio = mais denso~ (contrai).
-- 
-
-*** Noções sobre Teoria do Erro
-
-**** Algarismos significativos
+*** Algarismos significativos
 
 Matematicamente temos que
 
@@ -178,7 +112,7 @@ c)
 
 indica que a precisão é em decímetros (dm).
 
-**** Arredondamento numérico
+*** Arredondamento numérico
 
 Nesse contexto, podemos ter que arredondar valores após cálculos.
 Como exemplo, imagine que, após um cálculo, obtemos um valor com 5
@@ -199,7 +133,7 @@ Exemplos:
 - \( 1,78531 \rightarrow 1,79\)
 
 
-Uma observação importante: lembre-se que no ingluês, a função do ponto
+Uma observação importante: lembre-se que no inglês, a função do ponto
 e da virgula em um número é diferente do português.
 
 Exemplo:
@@ -208,70 +142,100 @@ Dois mil dólares: R$ \(2,000.00\)
 
 Dois mil reais:   U$ \(2.000,00\)
 
-**** Teoria do erro
+*** Teoria do erro
 
 - O que é medir?
-  - É comparar uma quantidade com uma unidade padrão. Nenhuma medida é perfeita; toda medida tem um erro (incerteza) associado
+  
+  - É comparar uma quantidade com uma unidade padrão. Nenhuma medida é
+    perfeita; toda medida tem um erro (incerteza) associado.
+    
 - Os três tipos de erros básicos:
+  
   - Erro de Resolução (limite do instrumento): É o menor valor que o instrumento consegue mostrar.
 
-    - Exemplo: Nossa régua media só até 1 mm; não dava para ver 0,5 mm. Por isso, já sabíamos que ali tinha uma incerteza.
+    - Exemplo: Nossa régua media só até 1 mm; não dava para ver 0,5
+      mm. Por isso, já sabíamos que ali tinha uma incerteza.
+      
   - Erro Sistemático (o "vício"): É o erro que acontece sempre no mesmo sentido (para mais ou para menos) se não tomarmos cuidado.
 
-    - Exemplo: A paralaxe (olhar a régua de lado) ou o atrito do ar com o pêndulo. Esse erro prejudica a exatidão (deixa o resultado longe do valor verdadeiro).
+    - Exemplo: A paralaxe (olhar a régua de lado) ou o atrito do ar
+      com o pêndulo. Esse erro prejudica a exatidão (deixa o resultado
+      longe do valor verdadeiro).
+      
   - Erro Aleatório (o "acaso"): É aquele erro que varia para mais ou para menos, sem regra fixa.
 
-    - Exemplo: O tempo de reação do nosso dedo ao apertar o cronômetro. Cada um apertou num tempo diferente. Esse erro prejudica a precisão (deixa os resultados espalhados).
+    - Exemplo: O tempo de reação do nosso dedo ao apertar o
+      cronômetro. Cada um apertou num tempo diferente. Esse erro
+      prejudica a precisão (deixa os resultados espalhados).
+      
 - Como diminuir os erros?
   - Depende do contexto das medições;
+    
   - Como fizemos isso nas medições de oscilação de um pêndulo simples?
+    
 - Definições matemáticas
+  
   - Média aritmética
 
-   \(\bar{T} = \frac{\sum_{i=1}^n T_i }{n} \)
+   \(\bar{T} = \frac{1 }{N}\cdot\sum_{i=1}^N T_i \)
    
   - Desvio:
 
-    \( \sigma_i = |T_i-\bar{T}| \)
+    \(  D = |T_i-\bar{T}|  \)
 
   - Desvio médio
 
-    \( DM = \sum_{i=1}^n \sigma_i
+    \(  DM = \frac{1}{N} \cdot \sum_{i=1}^N |T_i-\bar{T}| \)
 
   - Desvio padrão
 
-     \( DP = \sum_{i=1}^n (T_i - \bar{T}\)
+   \(  DP = \frac{1}{N} \cdot \sqrt{ \sum_{i=1}^N (T_i - \bar{T})^2} \)
 
-**** Atividade prática
+*** Atividade prática
 
 
-***** Parte I - Medições das dimensões de um quadro
+**** Parte I - Medições das dimensões de um quadro
 
-- Obter o valor das dimensões e área do quadro da sala.
-- Valores e cálculo sem utilizar o conceito de algarismos significativos
-- Valores e cálculo utilizando o conceito de algarismos significativos
+- Obter o valor das dimensões e área do quadro da sala;
+  
+- Valores e cálculo sem utilizar o conceito de algarismos
+  significativos;
+  
+- Valores e cálculo utilizando o conceito de algarismos significativos.
 
-***** Parte II - Medidas simples do perído oscilações de um pêndulo
+**** Parte II - Medidas simples do perído oscilações de um pêndulo
 
-- Medições de uma única oscilação por vez
-- Medir 10 vezes
-- Comparar valores com os grupos dos colegas
+- Medições de uma única oscilação por vez;
+  
+- Medir 10 vezes;
+  
+- Comparar valores com os grupos dos colegas;
 
-***** Parte III - Medicas mais elaboradas do período de oscilações de um pêndulo
+- Discussões sobre erros: evitáveis e não evitáveis.
 
-- Medição de 10 oscilações para reduzir o erro
-- Conjunto de 10 valores
-- calcular média
-- calcular o desvio médio
-- calcular o desvio padrão
-- comparar resultados com os dos colegas
-- revisar conceitos e discutir resultados
+**** Parte III - Medicas mais elaboradas do período de oscilações de um pêndulo
 
-** Listas de exercícios
+- Medição de 10 oscilações para reduzir o erro;
+  
+- Conjunto de 10 valores;
+  
+- calcular média;
+  
+- calcular o desvio médio;
+  
+- calcular o desvio padrão;
+  
+- comparar resultados com os dos colegas;
+  
+- revisar conceitos e discutir resultados.
+
+
+* Listas de exercícios
 
 - [[file:lista1-TOA.org][Primeira Lista de Exercícios]] - (lista de revisão)
+  
 - [[file:lista2-TOA.org][Segunda Lista de Exercícios]] - (para entregar de forma física, em
   dupla, para entregar no dia 26 de agosto)
-- 
+  
 - 
 

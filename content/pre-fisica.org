@@ -1,4 +1,5 @@
 #+options: toc:2
+#+startup: overview
 
 * Pré-física
 
@@ -22,7 +23,31 @@ Na tabela abaixo estão algumas grandezas físicas com correspondentes unidades 
 [[file:quest-pre-fisica1.org][Questões de Revisão: Grandezas e Unidades de Medida]] 
 
 ** Equações
+*** Introdução
+De forma simplificada, uma equação é uma relaçã de igualdade:
 
+- Entre números
+
+\(  2 + 2 = 4 \)
+
+
+- Entre números e incôgnita
+
+\(  2 + x = 4 \)
+
+nesse caso o x tem apenas um valor possível;
+
+- Entre números e variáveis
+
+  \( x + y = 4 \)
+
+  ou ainda
+
+  \( x + y  = W \)
+
+onde, nos dois últimos exemplos, temos um conjunto de valores que
+satisfazem cada equação.
+*** Equações e grandezas
 As equações na física são relações matemáticas entre
 grandezas. Considere os seguintes dados de uma substância hipotética:
 
@@ -49,7 +74,23 @@ Onde:
 Com dois valores conhecidos, podemos calcular o terceiro.
 
 [[file:quest-pre-fisica2.org][Questões de revisão: equações]]
+*** Equações e unidades de medida
+As equações devem ser conpatíveis com as respectivas unidades de
+medida, de modo que as unidades em um lado da equaçáo devem ser
+correspondentes à do outro. E, ainda, nnão faz sentido somar números
+em unidades diferentesl.
 
+Exemplos
+
+Não faz sentido somar 2 bananas com 2 tijolos (o resultado seria 4 o
+quê?); e, se somarmos
+
+\( 2 bananas + x = 4 bananas\)
+
+x só pode ser um nómero de bananas também.
+
+Essa ideia simples é útil, por exemplo, para fazer uma análise sobre
+qual á a unidade de medida de uma grandeza em uma equação.
 ** Gráficos
 Gráficos são ferramentas visuais importantes para representar dados e relações entre grandezas físicas. Eles ajudam a identificar padrões e tendências.
 
