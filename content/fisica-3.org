@@ -1,5 +1,5 @@
 #+OPTIONS: toc:2
-
+#+startup:overview
 
 #+BEGIN_EXPORT html
 <div style="margin-top:200px;"></div>
@@ -777,8 +777,6 @@ ou
       \( \frac{1}{C_{S}} = \frac{1}{C_1} + \frac{1}{C_2} + \frac{1}{C_3} + \dots + \frac{1}{C_n} \)
    
 ** Outros componentes eletrônicos
-
-*** Capacitores
 
 *** Diodos
 

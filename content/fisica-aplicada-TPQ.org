@@ -849,8 +849,6 @@ calculada por
 [[https://phet.colorado.edu/pt_BR/simulations/energy-skate-park][Simulação Energia na pista de skate]] 
 
 
-
-
 * TÓPICOS EM MECÂNMICA DOS FLUIDOS
 ** Parte da ementa que será trabalhada nesse tópico
 - Princípios de hidrostática:
