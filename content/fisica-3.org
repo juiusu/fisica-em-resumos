@@ -599,6 +599,8 @@ Resistência é uma propriedade dos condutores de resistir a passagem da corrent
 #+END_EXPORT
 
 
+
+
 *** Resistência equivalente a resistores em série
 
 #+BEGIN_EXPORT html
@@ -690,6 +692,10 @@ Par um caso geral, com n resistores em paralelo, teremos:
 
 
 
+*** Resistividade
+
+[[https://phet.colorado.edu/pt_BR/simulations/resistance-in-a-wire][Simulação Resistência em um Fio - phet.colorado.edu]] 
+
 ** Capacitores
 
 #+BEGIN_EXPORT html
@@ -780,20 +786,201 @@ ou
 
 *** Diodos
 
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    <a href="https://pt.wikipedia.org/wiki/Diodo_semicondutor" target="_blank">Diodo Semicondutor</a> – Pinagem.
+  </p>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Diode_pinout_pt.svg"
+       alt="Diagrama de pinagem de um diodo semicondutor"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://pt.wikipedia.org/wiki/Diodo_semicondutor#/media/Ficheiro:Diode_pinout_pt.svg">Wikimedia Commons</a>,
+    CC BY-SA 3.0, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+*** Diodo Emissor de Luz (LED)
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    <a href="https://pt.wikipedia.org/wiki/Diodo_emissor_de_luz" target="_blank">Diodo Emissor de Luz (LED)</a> – Fotografia.
+  </p>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Verschiedene_LEDs.jpg"
+       alt="Vários LEDs de diferentes cores"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://pt.wikipedia.org/wiki/Diodo_emissor_de_luz#/media/Ficheiro:Verschiedene_LEDs.jpg">Wikimedia Commons</a>,
+    CC BY-SA 3.0, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    <a href="https://pt.wikipedia.org/wiki/Diodo_emissor_de_luz" target="_blank">Diodo Emissor de Luz (LED)</a> – Símbolo esquemático.
+  </p>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Simbolo_LED.svg"
+       alt="Símbolo esquemático do LED"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://pt.wikipedia.org/wiki/Diodo_emissor_de_luz#/media/Ficheiro:Simbolo_LED.svg">Wikimedia Commons</a>,
+    CC BY-SA 3.0, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
 *** Transistores
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    <a href="https://en.wikipedia.org/wiki/Transistor" target="_blank">Transistor</a> – Encapsulamentos.
+  </p>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Transbauformen.jpg"
+       alt="Diferentes encapsulamentos de transistores"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://en.wikipedia.org/wiki/Transistor#/media/File:Transbauformen.jpg">Wikimedia Commons</a>,
+    CC BY-SA 3.0, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    <a href="https://en.wikipedia.org/wiki/Transistor" target="_blank">Transistor</a> – Símbolo NPN.
+  </p>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Transistor_symbol_npn_no_circle.svg"
+       alt="Símbolo esquemático do transistor NPN"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://en.wikipedia.org/wiki/Transistor#/media/File:Transistor_symbol_npn_no_circle.svg">Wikimedia Commons</a>,
+    CC BY-SA 3.0, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    <a href="https://en.wikipedia.org/wiki/Transistor" target="_blank">Transistor</a> – Símbolo PNP.
+  </p>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Transistor_symbol_pnp_no_circle.svg"
+       alt="Símbolo esquemático do transistor PNP"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://en.wikipedia.org/wiki/Transistor#/media/File:Transistor_symbol_pnp_no_circle.svg">Wikimedia Commons</a>,
+    CC BY-SA 3.0, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+*** Indutores
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    <a href="https://en.wikipedia.org/wiki/Inductor" target="_blank">Indutor</a> – Diversos tipos de indutores.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Electronic_component_inductors.jpg"
+       alt="Diversos indutores eletrônicos"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://en.wikipedia.org/wiki/File:Electronic_component_inductors.jpg">Wikimedia Commons</a>,
+    GFDL, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    <a href="https://en.wikipedia.org/wiki/Inductor" target="_blank">Indutor</a> – Símbolo esquemático.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Inductor.svg"
+       alt="Símbolo esquemático do indutor"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Inductor.svg">Wikimedia Commons</a>,
+    Domínio público, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+** Eletrônica digital
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+   Simulação de controle de LED com arduino.
+  </p>
+  <img src="./pictures/elet-digital-ex2.png"
+       alt="Simulação de controle de LED com arduino"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: imagem criada pelo autor usando a plataforma  <a href="https://www.tinkercad.com/" target="_blank"> Autodesk Tinkercad</a> 
+  </p>
+</div>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+   Programação de controle de LED com arduino.
+  </p>
+  <img src="./pictures/elet-digital-ex1.png"
+       alt="Programação de controle de LED com arduino"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: imagem criada pelo autor usando a plataforma  <a href="https://www.tinkercad.com/" target="_blank"> Autodesk Tinkercad</a> 
+  </p>
+</div>
+#+END_EXPORT
+
 
 
 
 
 * Magetismo
 
-** Ímãns
+** Ímãns e campo magnético
 
-** Campo magnético
+[[https://phet.colorado.edu/pt_BR/simulations/magnet-and-compass][Simulação: Ímã e Bússola - https://phet.colorado.edu]] 
 
 ** Carga magnética
 
 ** Magnetismo e corrente elétrica
+
+[[https://phet.colorado.edu/pt_BR/simulations/magnets-and-electromagnets][Simulação: Ímãs e Eletroímãs - https://phet.colorado.edu]] 
 
 ** Força magnética
 
@@ -801,9 +988,14 @@ ou
 
 ** Indução magnética
 
-** Geração de corrente induzida
+[[https://phet.colorado.edu/pt_BR/simulations/faradays-electromagnetic-lab][Simulação Laboratório Eletromagnético de Faraday - phet.colorado.edu]] 
 
-** Geradores
+
+[[https://phet.colorado.edu/pt_BR/simulations/faradays-law][Simulação: Lei de Faraday - https://phet.colorado.edu]] 
+
+** Gerador
+
+[[https://phet.colorado.edu/pt_BR/simulations/generator][Simulação: gerador - https://phet.colorado.edu]] 
 
 ** Transformadores
 
