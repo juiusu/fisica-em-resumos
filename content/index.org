@@ -41,7 +41,7 @@ Sugestões dos alunos serão sempre bem-vindas.
 
 * [[file:fisica-3.org][Física III]]
 
-* [[file:fisica-aplicada-TA.org][FÍSICA APLICADA: curso superior em tecnologia de alimentos]]
+* [[file:fisica-aplicada-TA.org][FÍSICA APLICADA: Curso Superior em Tecnologia de Alimentos]]
 
 * [[file:fisica-aplicada-TPQ.org][FÍSICA APLICADA: Curso Superior de Tecnologia em Processos Químicos]]
 * 

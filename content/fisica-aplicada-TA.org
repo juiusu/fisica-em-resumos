@@ -903,5 +903,6 @@ calculada por
 - [[file:lista2-TOA.org][Segunda Lista de Exercícios]] - (para entregar de forma física, em
   dupla, para entregar no dia 26 de agosto)
   
-- 
+- [[file:lista3-TPQ.org][Terceira Lista - Cinemática]] - (para entregar via SIGAA, manuscrita e
+  digitalizada, até o dia 13/09) 
 
