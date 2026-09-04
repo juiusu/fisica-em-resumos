@@ -1,5 +1,7 @@
 #+OPTIONS: toc:2
 #+startup:overview
+#+title: Física III
+
 
 #+BEGIN_EXPORT html
 <div style="margin-top:200px;"></div>
@@ -295,7 +297,7 @@ iremos considerá-las sinônimos.
 
 * Eletrodinâmica
 
-Aqui começaremos a considerar as cargtas elétricas em movimento.
+Aqui começaremos a considerar as cargas elétricas em movimento.
 
 Como apliação direta dessa área da física temos os circuitos
 elétricos.
@@ -563,6 +565,10 @@ Resistência é uma propriedade dos condutores de resistir a passagem da corrent
 
   - geralmente essa variação se deve ao aumento da temperatura.
 
+- Definção de resistência
+
+  \( R = \frac{U}{I} \)
+
 
 #+BEGIN_EXPORT html
 <div style="margin-top:100px;"></div>
@@ -696,6 +702,30 @@ Par um caso geral, com n resistores em paralelo, teremos:
 
 [[https://phet.colorado.edu/pt_BR/simulations/resistance-in-a-wire][Simulação Resistência em um Fio - phet.colorado.edu]] 
 
+
+\( R = \rho \frac{L}{A} \)
+
+onde
+
+- \(\rho \) é a resistividade e caracteriza o material condutor
+- \(L\) é o comprimento do condutor
+- \(A\) é a área do condutor
+
+#+NAME: tab-resistividade-metais
+#+CAPTION: Resistividade elétrica de metais comuns a 20 °C
+| Metal          | Resistividade (Ω·m) |
+|----------------+---------------------|
+| Prata          | 1.59 × 10⁻⁸         |
+| Cobre          | 1.70 × 10⁻⁸         |
+| Ouro           | 2.44 × 10⁻⁸         |
+| Alumínio       | 2.82 × 10⁻⁸         |
+| Tungstênio     | 5.60 × 10⁻⁸         |
+| Ferro          | 9.71 × 10⁻⁸         |
+| Platina        | 10.6 × 10⁻⁸         |
+| Chumbo         | 22.0 × 10⁻⁸         |
+| Mercúrio       | 96.0 × 10⁻⁸         |
+#+TBLFM: 
+
 ** Capacitores
 
 #+BEGIN_EXPORT html
@@ -722,7 +752,7 @@ Par um caso geral, com n resistores em paralelo, teremos:
        alt="descarga de capacitores - tinkercad."
        style="width:100%; height:auto;">
   <p style="font-size:0.75em; color:gray;">
-        Fonte: imagem criada pelo autor usando a plataforma  <a href="https://www.tinkercad.com/" target="_blank"> Autodesk Tinkercad</a> 
+        Fonte: imagem criada pelo autor usando a plataforma  <a href="https://www.tinkercad.com/things/9Wpnye1Nvbo-itores-em-serie-e-paralelo" target="_blank"> Projeto no Autodesk Tinkercad</a> 
   </p>
 </div>
 #+END_EXPORT
