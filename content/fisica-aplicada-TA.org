@@ -439,6 +439,26 @@ Aceleração de \(10\,m/s^2\), para baixo. Ou seja, uma acrésimo de
 
 
 
+*** Exemplo Movimento Uniformimente Variado (MUV)
+
+Se a aceleração for constante, a variação do movimento (velocidade) é
+uniforme. Essa é uma classe de problemas que chamamos de Movimento
+Uniformemente Variado MUV.
+
+Para esses problemas, podemos obter duas equações horárias (ou seja,
+funções do tempo)
+
+- Uma para a velocidade (que resulta em uma função do
+primeiro grau):
+
+\( v = v_0 + a\cdot t\)
+
+- Outra para a posição (que resulta em uma função do segundo grau):
+
+\( s = s_0 + v_0\cdot t +\frac{a}{2} \cdto t^2 \)
+
+
+
 ** Leis de Newton
 
 *** Introdução
