@@ -1,0 +1,118 @@
+#+options: toc:1
+#+language: pt-BR
+#+title: Lista de questões sobre cinemática - Física - TPQ - 2026
+#+AUTHOR: Professor Joilson Silva Porto
+#+LATEX_CLASS: article
+
+#+LaTeX: \newpage
+
+* Questões conceituais sobre as Leis de Newton do movimento.
+
+1. Ao frear bruscamente um ônibus, os passageiros são lançados para
+   frente. Explique esse fenômeno usando o conceito de inércia?
+2. Por que o cinto de segurança é importante à luz da Primeira Lei de Newton? Relacione sua resposta à variação brusca do estado de movimento do veículo.
+3. No espaço, uma sonda pode continuar viajando por muito tempo com os motores desligados. Explique por que isso não contradiz a Primeira Lei de Newton e por que não é necessária uma força contínua para manter o movimento.
+4. A Primeira Lei de Newton é válida em qualquer referencial? Explique o conceito de referencial inercial e dê um exemplo de referencial não inercial em que a Lei da Inércia parece falhar.
+5. Muitas pessoas acreditam que um objeto só continua se movendo se houver uma força constante agindo sobre ele. Explique por que essa crença é comum no dia a dia e como a Primeira Lei de Newton a corrige.
+6. Se a força resultante sobre um corpo é nula, ele necessariamente está em repouso? Justifique.
+7. Se um corpo está em repouso instantâneo, a força resultante sobre ele é necessariamente nula? Explique.
+8. Se a força resultante sobre um corpo dobra, o que acontece com sua aceleração? E se a massa dobra, mantendo-se a mesma força? Justifique conceitualmente.
+9. Um corpo pode ter velocidade constante e, ainda assim, estar sob ação de forças? Explique.
+10. Um corpo pode ter velocidade variável e força resultante nula? Explique
+11. Por que um movimento circular uniforme exige uma força resultante não nula, mesmo que o módulo da velocidade permaneça constante?
+12. Dê três exemplos de pares de força ação-reação. Ou seja, pares de
+    força que tratam a terceira lei de Newton.
+13. As forças de ação e reação atuam sempre no mesmo corpo? Explique, dando um exemplo em que fique claro em quais corpos cada força atua.
+14. Ao caminhar, uma pessoa empurra o chão para trás e o chão empurra a pessoa para frente. Explique esse processo com base na Terceira Lei de Newton e relacione-o com o movimento da pessoa.
+15. Por que a Terceira Lei de Newton não permite afirmar que “ação e reação se cancelam” quando analisamos o movimento de um único corpo? Dê um exemplo que mostre a importância de definir corretamente o sistema ou corpo em estudo.
+
+* Aplicações das leis de Newton
+
+** Questão 1: Força gerando aceleração (sem atrito)
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Figura: Força gerando aceleração
+  </p>
+  <img src="pictures/foca-aceleracao-massa.png"
+       alt="Simulação de força gerando aceleração em dois objetos, sem atrito"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://phet.colorado.edu/pt_BR/simulations/forces-and-motion-basics" target="_blank">PhET Interactive Simulations: Forces And Motion Basics</a>,
+    University of Colorado Boulder, CC BY 4.0
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+A figura mostra um presente sendo empurrado sobre uma superfície
+horizontal sem atrito por uma força horizontal de \(100 \, N\), em uma
+caixa de massa \(50\,kg\) e um presente de massa desconhecida. A
+aceleração adiquirida pelo sistema é de \(1,00 \, m/s^2\). 
+
+** Questão 2: Força gerando aceleração, mas em superfície com atrito.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Figura: Força gerando aceleração, mas em superfície com atrito.
+  </p>
+  <img src="pictures/foca-aceleracao-massa-atrito.png"
+       alt="Simulação de força gerando aceleração em dois objetos, com atrito"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://phet.colorado.edu/pt_BR/simulations/forces-and-motion-basics" target="_blank">PhET Interactive Simulations:  Forces And Motion Basics</a>,
+    University of Colorado Boulder, CC BY 4.0
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+A situação agora apresenta uma força de atrito significativa de
+\(100N\) enquanto a força aplicada é de \(150\,N\) a massa da caixa é
+de \( 50 \, kg\) e a aceleração é de \( 0,5 m/s^2\). Verifique se o
+valor da massa do presente é a mesma ou diferente da questão
+anterior. Justtifique a partir da segunda lei de Newton.
+
+** Questão 3: Força aplicada e variação da velocidade
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Figura: Massa e velocidade
+  </p>
+  <img src="pictures/foca-massa-velocidade.png"
+       alt="Simulação relacionando massa e velocidade"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://phet.colorado.edu/pt_BR/simulations/forces-and-motion-basics" target="_blank">PhET Interactive Simulations:  Forces And Motion Basics</a>,
+    University of Colorado Boulder, CC BY 4.0
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+Considerando que a velocidade variou de zero a \(10m/s\) em
+\(2,00\,s\) quando uma força aplicada de \(50 \, N\), e desprezando o
+atrtio. Calcule o valor da massa do presentte.
+
+** Questão 4: Cinemática a parir da força
+
+Um objeto de \(10\,kg\) move-se inicialmente com velocidade de \(5{,}0\,m/s\) sobre uma superfície horizontal sem atrito. A partir de certo instante, uma força resultante constante de \(100\,N\) atua sobre ele no mesmo sentido do movimento durante \(10\,s\). Após esse intervalo, a força de \(100\,N\) deixa de atuar e, se houver atrito, ele passa a agir conforme indicado nos itens.
+
+- *A)* Calcule a velocidade final do objeto após os \(10\,s\) de aplicação da força.
+
+- *B)* Calcule a posição final do objeto após os \(10\,s\), considerando que o movimento é no sentido positivo e que a posição no momento da aplicação da força é de \(10\,m\) em relação ao referencial.
+
+- *C)* Se, após os \(10\,s\) da aplicação da força, surgir uma força de atrito cinético de \(25\,N\) oposta ao movimento (a força aplicada é zero após os \(10\,s\)), em quanto tempo o objeto é parado?
+
+- *D)* Qual é a posição final da situação descrita no item anterior?
+
+
+
+

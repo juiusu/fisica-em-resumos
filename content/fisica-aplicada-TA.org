@@ -924,7 +924,8 @@ presente?
 </div>
 #+END_EXPORT
 
-
+Agora temos uma siuação onde a força de atrito é significativa. Qual é
+o valor da massa do presene nesse caso?
 
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
@@ -1049,5 +1050,7 @@ Exemplos: elétrons em aceleradores, partículas cósmicas, GPS (correções rel
   dupla, para entregar no dia 26 de agosto)
   
 - [[file:lista3-TPQ.org][Terceira Lista - Cinemática]] - (para entregar via SIGAA, manuscrita e
-  digitalizada, até o dia 13/09) 
+  digitalizada, até o dia 13/09)
+
+- [[file:lista4_tpq-ta.org][Quarta lista - Leis de Newton]] 
 
