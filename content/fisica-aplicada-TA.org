@@ -268,7 +268,6 @@ de fluidos, mecânica de motores etc.
 <hr style=\"margin: 2em 0; border: none; border-top: 1px solid #ccc;\">
 #+END_EXPORT
 
-
 ** Cinemática
 
 
@@ -455,8 +454,7 @@ primeiro grau):
 
 - Outra para a posição (que resulta em uma função do segundo grau):
 
-\( s = s_0 + v_0\cdot t +\frac{a}{2} \cdto t^2 \)
-
+\( s = s_0 + v_0 \cdot t +\frac{a}{2} \cdot t^2 \)
 
 
 ** Leis de Newton
@@ -790,9 +788,6 @@ Para cada força de ação existe sempre uma força de reação, de mesmo
 módulo e orientação oposta, 
 #+end_quote
 
-
-
-
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
@@ -810,7 +805,6 @@ módulo e orientação oposta,
 #+BEGIN_EXPORT html
 <div style="margin-top:100px;"></div>
 #+END_EXPORT
-
 
 #+BEGIN_EXPORT html
 <div style="margin-top:100px;"></div>
@@ -836,6 +830,124 @@ módulo e orientação oposta,
 #+BEGIN_EXPORT html
 <div style="margin-top:100px;"></div>
 #+END_EXPORT
+
+**** Força Normal
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    <a href="https://pt.wikipedia.org/wiki/For%C3%A7a_normal" target="_blank">Força Normal</a> – Diagrama de forças em plano inclinado.
+  </p>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Incline.svg"
+       alt="Diagrama de forças em um plano inclinado mostrando a força normal"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Incline.svg">Wikimedia Commons</a>,
+    CC BY-SA 4.0, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+*** A unidade de medida Newton
+
+As unidades básicas da mecânica são o metro (m)  o segundo (s) e o
+kilograma (kg). Essas unidades são definidas em terms de algo
+literalmente físico, ou seja, definidas em contexto de laboratório.
+
+Na prática, atualmente, o segundo é realizado por relógios atômicos de césio; o metro por lasers e interferometria; e o quilograma por balanças de Kibble (watt balance) associadas a padrões elétricos quânticos.
+
+As demais unidades que veremos no contexto da mecânica como a unidade
+de força, o Newton (N) , e a unidade de energia, o Joule (J), são
+unidades derivadas das unidades básicas.
+
+Para entender a definição do Newton, imagine uma força que consiga
+acelerar em \( 1m/s^2\) uma massa de \( 1k\,g \) teremos
+
+\( F = m  \cdot a = 1kg \cdot 1 m/s^2 \)
+
+e a isso chamamos de 1N. Ou seja
+
+\( 1N = 1kg \cdot 1 m/s^2 \) .
+
+ou, simplesmente
+
+\( N = kg \cdot m/s^2 \)
+
+Assim, se uma força acelerar em \( 2m/s^2 \) uma massa de \(
+1kg\). Temos \( 2N \), pois, para gerar o dobro de aceleração teremos
+que ter o dobro de força.
+Ou, se conseguirmos a mesma aceleração de \( 1m/s^2\) mas para uma
+massa de, digamos \( 3 kg\) teremos 3N, pela mesma lógica.
+
+*** Algumas aplicações
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Figura: Força gerando aceleração
+  </p>
+  <img src="pictures/foca-aceleracao-massa.png"
+       alt="Simulação de força gerando aceleração em dois objetos, sem atrito"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://phet.colorado.edu/pt_BR/simulations/forces-and-motion-basics" target="_blank">PhET Interactive Simulations: Forces And Motion Basics</a>,
+    University of Colorado Boulder, CC BY 4.0
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+A situação ilustrada acima mostra dois objetos sendo empurrados por
+uma força, desprezando-se o atrito. Qual é o valor da massa do
+presente? 
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Figura: Força gerando aceleração, mas em superfície com atrito.
+  </p>
+  <img src="pictures/foca-aceleracao-massa-atrito.png"
+       alt="Simulação de força gerando aceleração em dois objetos, com atrito"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://phet.colorado.edu/pt_BR/simulations/forces-and-motion-basics" target="_blank">PhET Interactive Simulations:  Forces And Motion Basics</a>,
+    University of Colorado Boulder, CC BY 4.0
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Figura: Massa e velocidade
+  </p>
+  <img src="pictures/foca-massa-velocidade.png"
+       alt="Simulação relacionando massa e velocidade"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://phet.colorado.edu/pt_BR/simulations/forces-and-motion-basics" target="_blank">PhET Interactive Simulations:  Forces And Motion Basics</a>,
+    University of Colorado Boulder, CC BY 4.0
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+Imagine agora que a velocidade aumenta de zero a \(10\,m/s\) em
+\(5\,s\). Qual é o valor da massa?
+
+
+
 
 
 ** Leis de Conservação: Energia, momento linear e momento angular
@@ -882,6 +994,39 @@ calculada por
 
 [[https://phet.colorado.edu/pt_BR/simulations/energy-skate-park][Simulação Energia na pista de skate]] 
 
+** Limites de aplicação
+
+As teorias das ciências naturais podem ser compreendidas como modelos
+aproximados da realidade. Elas descrevem a realidade em certos
+contextos com boa aproximação, porém, quando aproximamos aos seus
+limites de validade elas começam a gerar erros significativos na
+descrição dos fenômenos. Os limites da Mecânica Newtoniana levaram a
+duas novas teorias importantes para a física moderna.
+
+*** Limite de altas velocidades: Mecânica Relativística 
+
+Quando temos velocidades próximas a da luz a mecânica newtoniana
+apresenta erros siginificativos e a teoria que evoluiu desse para explicar esse contexto é a Teoria da Relatividade Restrita de Einstein
+
+Exemplos: elétrons em aceleradores, partículas cósmicas, GPS (correções relativísticas), astronomia de alta precisão.
+
+*** Limite microscópico: Mecânica Quântica
+
+   Já quando lidamos com coisas muito pequenas, como sistemas atômicos
+   ou subatômicos temos a Mecânica Quântica, onde outros formalismos
+   generalizam a mecânica newtoniana.
+
+   Exemplos: elétron no átomo, fótons, efeito túnel, semicondutores,
+   nanoestruturas, supercondutividade e superfluidez.
+
+*** Gravidade forte: Relatividade Geral
+
+   A Mecânica Clássica usa a gravitação newtoniana, válida quando o
+   campo gravitacional é fraco. Em campos intensos ou em altas
+   precisões, é preciso usar a Relatividade Geral.
+
+   Exemplos: buracos negros, estrelas de nêutrons, ondas gravitacionais, cosmologia, precessão anômala de Mercúrio, GPS.
+   
 * TÓPICOS EM TERMODINÂMICA - PARTE 1
 ** Tópicos da ementa abordados nessa seção
   - Fases da matéria,
