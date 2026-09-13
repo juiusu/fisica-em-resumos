@@ -6,6 +6,14 @@
 
 #+LaTeX: \newpage
 
+* Instruções Gerais
+- A atividade deverá ser realizada de forma manuscrita, digitalizada,
+  e enviada via plataforma SIGAA;
+- O prazo esta estabelecido no ambiente virtual da turma na mesma plataforma;
+- Não é necessário copiar os enunciados das questões, apenas elaborar
+  as respostas de forma organizada;
+- Não é necessário capa, apenas a identificação com nome completo e turma.
+
 * Questões conceituais sobre as Leis de Newton do movimento.
 
 1. Ao frear bruscamente um ônibus, os passageiros são lançados para

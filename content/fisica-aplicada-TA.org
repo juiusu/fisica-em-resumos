@@ -456,7 +456,6 @@ primeiro grau):
 
 \( s = s_0 + v_0 \cdot t +\frac{a}{2} \cdot t^2 \)
 
-
 ** Leis de Newton
 
 *** Introdução
@@ -950,7 +949,6 @@ Imagine agora que a velocidade aumenta de zero a \(10\,m/s\) em
 
 
 
-
 ** Leis de Conservação: Energia, momento linear e momento angular
 
 #+BEGIN_EXPORT html
@@ -1052,5 +1050,6 @@ Exemplos: elétrons em aceleradores, partículas cósmicas, GPS (correções rel
 - [[file:lista3-TPQ.org][Terceira Lista - Cinemática]] - (para entregar via SIGAA, manuscrita e
   digitalizada, até o dia 13/09)
 
-- [[file:lista4_tpq-ta.org][Quarta lista - Leis de Newton]] 
+- [[file:lista4_tpq-ta.org][Quarta lista - Leis de Newton]] - (para enregar via SIGAA, manuscrito
+  e digitalizado, até o dia 20/09)
 

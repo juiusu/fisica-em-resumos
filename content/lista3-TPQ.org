@@ -72,17 +72,22 @@ Se a aranhinha mantiver a mesma velocidade média calculada anteriormente, qual 
 O movimento ocorre conforme a posição muda ao longo do tempo.
 
 *** A) Cálculo de Deslocamento
-O deslocamento escalar é a variação da posição (\(\Delta S = S_{\text{final}} - S_{\text{inicial}}\)). Calcule o deslocamento total do carro entre:
+O deslocamento escalar é a variação da posição (\(\Delta S =
+S_{\text{final}} - S_{\text{inicial}}\)). Calcule o deslocamento total
+d baratinha entre:
 - O intervalo de \(t_1\) a \(t_4\). (Lembre-se: \(\Delta S = S_4 - S_1\)).
 
 *** B) Análise do Sentido
-Compare o valor calculado acima com a seta que indica o sentido positivo da trajetória (seta "+", para a direita). O deslocamento calculado é positivo ou negativo? O que este sinal revela sobre o sentido do movimento do carro?
+Compare o valor calculado acima com a seta que indica o sentido
+positivo da trajetória (seta "+", para a direita). O deslocamento
+calculado é positivo ou negativo? O que este sinal revela sobre o
+sentido do movimento da baratinha?
 
 ** 2) Velocidade Escalar Média (\(v_m\))
 A velocidade média nos diz quão rapidamente a posição muda em um intervalo de tempo.
 
 *** A) Cálculo da Velocidade Média
-Utilize a fórmula \(V = \frac{\Delta S}{\Delta t}\) para calcular a velocidade média do carro durante todo o movimento:
+Utilize a fórmula \(V = \frac{\Delta S}{\Delta t}\) para calcular a velocidade média do baratinha durante todo o movimento:
 - Trecho Total (de \(t_1\) a \(t_4\)): \(V = \dots\)
 
 ** 3) Síntese

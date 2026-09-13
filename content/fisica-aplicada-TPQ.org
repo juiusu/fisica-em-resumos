@@ -1030,7 +1030,8 @@ Exemplos: elétrons em aceleradores, partículas cósmicas, GPS (correções rel
   dupla, para entregar no dia 24/08)
 - [[file:lista3-TPQ.org][Terceira Lista - Cinemática]] - (para entregar via SIGAA, manuscrita e
   digitalizada, até o dia 13/09) 
-- [[file:lista4_tpq-ta.org][Quarta lista - Leis de Newton]] 
+- [[file:lista4_tpq-ta.org][Quarta lista - Leis de Newton]] - (para enregar via SIGAA, manuscrito
+  e digitalizado, até o dia 20/09)
 
 
 * Links
