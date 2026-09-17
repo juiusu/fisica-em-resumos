@@ -1,6 +1,6 @@
 #+options: toc:1
 #+language: pt-BR
-#+title: Lista de questões sobre cinemática - Física - TPQ - 2026
+#+title: Lista de questões sobre Leis de Newton - Física - TPQ - 2026
 #+AUTHOR: Professor Joilson Silva Porto
 #+LATEX_CLASS: article
 
