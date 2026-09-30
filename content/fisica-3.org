@@ -1000,19 +1000,160 @@ ou
 
 
 
-* Magetismo
+* Noções sobre força magnética
+
+Todos nós já tivemos alguma experiência com imãs, e já experimentamos
+a atração magnética de alguma forma. Sabemos que dois imãs podem se
+repelir, ou se atrair, a depender das respectivas direções dos seus
+polos. Assim, há uma semelhança ao que acontece com a força elétrica:
+os opostos se atraem, e os semelhantes se repelem (pólos magnéticos,
+ou cargas elétricas, em cada caso).
+
+Outra semelhança é o comportamento quanto a carga e distância. E,
+nesse caso, três forças fundamentais tem o memso comportamento:
+
+I. A força gravitacional, que é
+
+I.a) Proporcional ao produto das massas
+
+\( F \~ M_1 M_2 \)
+
+I.b) Inversamente proporcional ao quadrado da distância
+
+\( F \~ \frac{1}{d^2} \)
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Força entre duas massas à 3,0 km de distância
+  </p>
+  <img src="./public/grav-newton-3km.png"
+       alt="ALT_TEXT"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor a partir da simulação: https://phet.colorado.edu/pt_BR/simulations/gravity-force-lab-basics .
+  </p>
+</div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Força entre duas massas à 6,0 km de distância
+  </p>
+  <img src="./public/grav-newton-6km.png"
+       alt="ALT_TEXT"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor a partir da simulação: https://phet.colorado.edu/pt_BR/simulations/gravity-force-lab-basics .
+  </p>
+</div>
+#+END_EXPORT
+
+[[file:public/grav-newton-6km.png]]
+
+II. A força eletrostática é:
+
+II-a) Proporcional ao produto das cargas
+
+\( F \~ Q_1 Q_2 \)
+
+II-b) Inversamente proporcional ao quadrado da distância
+
+\( F \~ \frac{1}{d^2} \)
+
+
+
+Figura
+Título: Força elétrica entre dois objetos a 4cm de distância
+File:./public/coulomb-law-4cm.png
+Fonte: https://phet.colorado.edu/pt_BR/simulations/coulombs-law
+
+Figura
+Título: Força elétrica entre dois objetos a 2cm de distância
+File:./public/coulomb-law-2cm.png
+Fonte: https://phet.colorado.edu/pt_BR/simulations/coulombs-law
+
+III. Força magnética é:
+
+II.a) Proporcional ao produto das cargas magnéticas
+
+\( F \~ m_1 m_2 \)
+
+I.b) Inversamente proporcional ao quadrado da distância
+
+\( F \~ \frac{1}{d^2} \)
+
+
+
+
+Mas aqui o que seria essa carga magnética? Ao começar a investigar
+isso, podemos, também, perceber uma diferênça entre essa última força
+e as anteriores, e essa última.
+
+Se você quebrar um íman ao meio, tentando separar o polo sul do polo
+norte, você terá dois imans, mas cada um com seu polo sul e polo
+norte.
+
+Esse comportamento pode ser expresso pela seguinte afirmação
+
+#+begin_quote
+Não existe monopolo magnético!
+#+end_quote
+
 
 ** Ímãns e campo magnético
 
+
+Titulo: Atração entre búsola e íman
+[[file:public/iman-busola.png]] 
+Fonte:
 [[https://phet.colorado.edu/pt_BR/simulations/magnet-and-compass][Simulação: Ímã e Bússola - https://phet.colorado.edu]] 
 
-** Carga magnética
+Título: Atração entre búsola e terra
+file:./public/terra-busola.png
+Fonte:
+[[https://phet.colorado.edu/pt_BR/simulations/magnet-and-compass][Simulação: Ímã e Bússola - https://phet.colorado.edu]]
+
 
 ** Magnetismo e corrente elétrica
 
 [[https://phet.colorado.edu/pt_BR/simulations/magnets-and-electromagnets][Simulação: Ímãs e Eletroímãs - https://phet.colorado.edu]] 
 
-** Força magnética
+** Motor elétrico
+
+Figura:
+https://pt.wikipedia.org/wiki/Ficheiro:RadialReciprocatingElectricMotor.gif
+
+** Indução Magnética
+
+Figura:
+
+Fonte:
+https://phet.colorado.edu/pt_BR/simulations/faradays-electromagnetic-lab
+
+** Gerador elétrico
+
+
+
+** Materiais magnéticos
+
+- Neodímio-Ferro-Boro (NdFeB)
+- Samráio-Cobalto (SmCo)
+
+** Resumo
+- Comparação entre forças: gravitacional, elétrica, magnética
+- Campo magnético
+- Origem do magnetismo
+  - Movimento da carga elétrica gerando magnetismo
+    - Lei de Biot-Savart
+    - Lei de Ampère
+  - Magnetismo intríseco das partículas elementares: SPIN
+- Magnetismo gerando corrente elétrica
+  - Lei da indução de Faraday
+- Motor Elétrico
+- Gerador Elétrico
 
 * Eletromagnetismo
 
@@ -1056,3 +1197,5 @@ ou
 ** [[file:atividade-fis3-u3.org][Atividade avaliativa 1 - unidade 3]] 
 
 ** [[file:atividade-fis3-u3-a2.org][Atividade avaliativa 2 - unidade 3]]
+
+** [[file:lista-magnetismo-1.org]]

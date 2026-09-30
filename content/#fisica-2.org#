@@ -1,0 +1,1082 @@
+#+OPTIONS: toc:2
+
+
+* Mecânica dos Fluidos
+
+** Pressão Hidrostática
+
+*** Conceitos iniciais
+
+Relembre os conceitos de [[file:area.org][Área]] ,  [[file:volume.org][volume]] e  [[file:densidade.org][densidade]] .
+
+*** Conceito de pressão
+
+É a força distribuida pela àrea sob a qual está aplicada:
+
+\[ p = \frac{F}{A} \]
+
+Explicação mais detalhada sobre [[file:conceito-de-pressao.org][conceito de pressão]] 
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+ FÍGURA : Pressão = força por área
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Pressure_force_area.svg/500px-Pressure_force_area.svg.png"
+       alt=alt="Pressure"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Pressure_force_area.svg">Klaus-Dieter Keller</a>, Public domain, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+ FÍGURA : Exemplo de como um mesmo objeto (mesma força peso) pode exercer diferentes valores de pressão.
+  </p>
+  <img src="https://commons.wikimedia.org/wiki/File:Pressure_schematic.svg"
+       alt="Pressure schematic" 
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a title="すじにくシチュー, CC0, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Pressure_schematic.svg"><img width="960"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Pressure_schematic.svg/960px-Pressure_schematic.svg.png"></a>, CC0, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+*** Pressão em um líquido
+
+A pressão hidrostática é causada pelo peso de um fluido em eterminado
+ ponto do fluido. Por exemplo, a pressão que você sente ao mergulhar
+ em um lago. Quanto maior a profundidade, maior a
+ pressão sob sua cabeça.
+
+Essa pressão depende da densidade do fluido \( d\) , da aceleração da
+gravidade \(g = 10 m/s^2\)  e da profundidade \(h\) onde se quer saber a
+pressão \( p\) .
+
+
+#+CAPTION: A pressão em um fluido se deve ao peso desse fluido, e depende da profundidade.
+#+ATTR_HTML: :width 400 :style text-align:center; display:block; margin:auto;
+[[https://upload.wikimedia.org/wikipedia/commons/e/e7/Hydrostatic-pressure.svg]]
+
+
+
+ 
+Para calcular essa pressão, basta considerar um certo volume de fluido
+e dividir pela área desse volume. Por exemplo, seguindo os seguintes passos:
+
+1. Peso de um volume fluido:
+   \[F_P = m\, g\]
+2. Peso de um volume, em termos da densidade e do volume, considerando
+  a massa \(m=d\,V\):
+   \[F_P = d\,\,V\,g\]
+3. Peso do volume considerando área da base vezes altura \( V = A\,h\):
+   \[p = \frac{F_P}{A}=\frac{d\,A\,h\,g\,}{A}\]
+Dessa forma, obtemos uma expressão matemática que relaciona a pressão, com a densidade do fluido e a profundidade onde se quer calcular:
+
+\[ 
+p = d g h
+\]
+
+
+*** Pressão atmosférica
+
+Apressão atmosférica é um tipo de pressão hidrostática, porém,
+considerando que estamos envolvidos por um fluido que são os diversos
+gases que compõe a atmosfera. A pressão atmosférica é causada pelo
+peso da camada de atmosfera sob nossas cabeças. Assim, ela diminui
+conforme a altitude aumenta.
+
+Poderíamos utilizar a equação acima para calcular, também, a pressão
+atmosférica. Porém, nesse caso, temos uma complicação, pois a
+densidade não é constante (os gases ficam rarefeitos com a altitude, e
+assim, a a densidade reduz).
+
+Uma unidade de medida utilizada como padrão para comparação com a
+pressão atmosférica é o \(atm\) que é, por definição, a pressão
+atmosférica a nível do mar. Sua relação com a unidade pascal é:
+
+\begin{equation}
+1,000 \, atm = 101,3\, kPa
+\end{equation}
+
+
+[[file:quest-fisca2-1.org][Questões de revisão: Fluidos]]
+
+** Prensa Hidráulica
+
+Como conseguimos levantar um carro com o pé utilizando um [[https://pt.wikipedia.org/wiki/Macaco_(ferramenta)][Macaco]]
+Hidrálico ?
+
+vamos analisar um exemplo mais simplificado de uma prensa hidráulica.
+
+#+CAPTION: Ao aplicarmos uma força \(F_1\) no lado esquerdo dessa prensa hidráulica, resultará em uma força maior \(F_2\) no lado direito.
+#+ATTR_HTML: :width 600 :style text-align:center; display:block; margin:auto;
+[[https://upload.wikimedia.org/wikipedia/commons/9/99/Working_principle_of_a_hydraulic_jack.svg]]
+
+
+A força e àrea (do pistão móvel) em cada lado, são inversamente proporcionais, em uma prensa hidráulica.
+
+A explicação pode ser dada pelo Princípio de Pascal:
+
+#+BEGIN_QUOTE
+A pressão aplicada em um fluido em equilíbrio estático se distruibui
+igualmente para todas as partes desse fluido.
+#+END_QUOTE
+
+Assim:
+
+\[
+ p_1 = p_2
+\]
+
+ 
+\[ \frac{F_1}{A_1} = \frac{F_2}{A_2} \]
+
+
+Qual o custo de apliar a força, já que a energia se conserva?
+
+#+BEGIN_EXPORT html
+<a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Hydraulic_transmission_between_two_syringes.svg"><img width="512" alt="Hydraulic transmission between two syringes" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hydraulic_transmission_between_two_syringes.svg/512px-Hydraulic_transmission_between_two_syringes.svg.png?20180522114120"></a>
+#+END_EXPORT
+
+
+** Empuxo
+
+
+
+Como um objeto pode ficar submerso em um fluido, um bloco de madeira
+flutuando em água, por exemplo, se a força peso o empurra para baixo?
+
+O empuxo é essa força que equilibra a força da gravidade quando o
+objeto está submerso. E ela existe devido a diferença de pressão
+hidrostática entre as superfícies do objeto submerso.
+
+
+#+CAPTION: Força de Empuxo \(F_A\) e Força peso \(F_E\)
+#+ATTR_HTML: :width 512 :style text-align:center; display:block; margin:auto;
+[[https://upload.wikimedia.org/wikipedia/commons/1/10/Floating-and-sinking-2.svg]]
+
+
+Princípio de Arquimedes para calcular o Empuxo:
+
+ #+begin_quote
+Um corpo imerso sofre a ação de uma força de empuxo dirigida para cima
+e igual ao peso do fluido que ele desloca.
+#+end_quote
+
+#+CAPTION: Pelo princípio de Arquimedes, o objeto sofre uma força de empuxo igual ao peso do fluido deslocado.
+#+ATTR_HTML: :width 512 :style text-align:center; display:block; margin:auto;
+https://upload.wikimedia.org/wikipedia/commons/7/72/Archimedes-principle.svg
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Center_of_buoyancy.svg"
+       alt="Empuxo em Barco"
+       style="max-width:256px; width:100%; height:auto;">
+  <p><em> Barco flutuando em um rio: O peso do barco na figura (a) é sustentada pela força de empuxo representada na figura (b).</em></p>
+</div>
+#+END_EXPORT
+
+
+** Pressão Hidrodinâmica
+
+
+** Aerodinâmica
+
+* Termodinâmica
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Ilustração de um  <a href=" https://pt.wikipedia.org/wiki/Motor_de_combust%C3%A3o_interna" target="_blank"> motor de combustão térmica</a>.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Cshaft.gif"
+       alt="<a href="https://commons.wikimedia.org/wiki/File:Cshaft.gif"
+       style="width:60%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+Fonte:  NASA</a>,
+Public domain, via Wikimedia Commons
+</p>
+</div>
+#+END_EXPORT
+
+
+** Conceito de temperatura
+
+A temperatura está relacionada a agitação a nível molecular. Ou seja,
+ela representa a energia do movimento das partículas (moléculas, ou
+átomos). Quanto maior a temperatura, maior será essa agitação.
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Representação da temperatura de um <a href="https://pt.wikipedia.org/wiki/G%C3%A1s_ideal" target="_blank"> Gás ideal </a>.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Translational_motion.gif"
+       alt="<a href="https://commons.wikimedia.org/wiki/File:Cshaft.gif"
+       style="width:60%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+Fonte:  <a href="https://commons.wikimedia.org/wiki/File:Translational_motion.gif">A. Greg (Greg L at English Wikipedia)</a>, Public domain, via Wikimedia Commons
+</p>
+</div>
+#+END_EXPORT
+
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Representação da vibração dos átomos em uma molécula devido à temperatura, nesse exemmplo a proteína <a href="https://pt.wikipedia.org/wiki/Temperatura" target="_blank"> alfa-hélice </a>.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Thermally_Agitated_Molecule.gif"
+       alt="<a href=" "
+       style="width:60%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+Fonte: 
+<a href="https://commons.wikimedia.org/wiki/File:Thermally_Agitated_Molecule.gif">http:/</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
+</p>
+</div>
+#+END_EXPORT
+
+
+
+
+
+
+** Escalas termométricas
+
+Principais escalas de temperatura: 
+
+| Escala     | Fusão da água | Ebulição da água |
+|------------+---------------+------------------|
+| Celsius    | \(0 ^0 C\)    | \(100 ^0 C\)     |
+| Fahrenheit | \(32 ^0  F\)  | \( 212 ^0 F\)    |
+| Kelvin     | \( 273 K\)    | \( 373 K\)       |
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Comparação entre as principais escalas de temperatura
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Escalas_de_Temperatura.jpg"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    "<a rel="noopener noreferrer" href="https://commons.wikimedia.org/w/index.php?curid=92805740">Escalas de Temperatura</a>" 
+    by <a rel="noopener noreferrer" href="https://commons.wikimedia.org/wiki/User:Mjmauler">Mjmauler</a> 
+    is licensed under 
+    <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse">
+      CC BY-SA 4.0 
+      <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" />
+      <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" />
+      <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-right: 0.125em; display: inline;" />
+    </a>.
+  </p>
+</div>
+#+END_EXPORT
+
+- Conversão de Celsius para Fahrenheit (e virce-versa)
+
+\[ T_C = \frac{5}{9}\left( T_F - 32 \right)\]
+
+- Conversão de celsius para Kelvin
+
+\[ T_k = T_C + 273\]
+
+
+
+
+** Dilatação Térmica
+
+*** Dilatação Linear
+
+
+#+CAPTION: Ilustração da dilatação térmica de um corpo
+#+BEGIN_EXPORT html
+<div style="text-align:center;">
+  <a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons"
+     href="https://commons.wikimedia.org/wiki/File:Thermal-expansion.svg"
+     target="_blank">
+    <img width="400" alt="Thermal expansion"
+         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Thermal-expansion.svg/256px-Thermal-expansion.svg.png?20200707221506">
+  </a>
+  <p style="font-style:italic; font-size:0.9em;">
+    Fonte: MikeRun, CC BY-SA 4.0, via <a href="https://commons.wikimedia.org/wiki/File:Thermal-expansion.svg" target="_blank">Wikimedia Commons</a>
+  </p>
+</div>
+#+END_EXPORT
+
+A dilatação \(\Delta l\) é proporcional à variação de temperatura
+\(\Delta T\) e ao comprimento inicial \(l_0\):
+
+\[ \Delta l = \alpha \Delta T \ l_0 \] 
+
+Onde \( \alpha \) é o coreficiente de dilatação linear que
+característico de cada substância.
+
+#+CAPTION: Coeficientes de dilatação linear de alguns materiais
+#+ATTR_HTML: :style text-align:center; margin:auto;
+| Material                | Coeficiente de Dilatação Linear (×10⁻⁶ °C⁻¹) |
+|------------------------+----------------------------------------------|
+| Alumínio               | 22                                           |
+| Aço (comum)            | 12                                           |
+| Cobre                  | 17                                           |
+| Latão                  | 19                                           |
+| Vidro comum            | 9                                            |
+| Vidro pirex (borossilicato) | 3,3                                    |
+| Concreto               | 10                                           |
+| Chumbo                 | 29                                           |
+| Madeira (média)        | ~3 a 5 (varia com a direção das fibras)     |
+| Plástico (PVC)         | ~50 a 80                                     |
+| Silício                | 2,6                                          |
+
+
+*** Dilatação superficial
+
+#+CAPTION: Ilustração da dilatação superficial de um corpo
+#+BEGIN_EXPORT html
+<div style="text-align:center;">
+  <a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons"
+     href="https://commons.wikimedia.org/wiki/File:Thermal-expansion-aera.svg"
+     target="_blank">
+    <img width="512" alt="Thermal expansion area"
+         src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Thermal-expansion-aera.svg/512px-Thermal-expansion-aera.svg.png?20200707221450">
+  </a>
+  <p style="font-style:italic; font-size:0.9em;">
+    Fonte: MikeRun, CC BY-SA 4.0, via <a href="https://commons.wikimedia.org/wiki/File:Thermal-expansion-aera.svg" target="_blank">Wikimedia Commons</a>
+  </p>
+</div>
+#+END_EXPORT
+
+
+*** Dilatação volumétrica
+
+#+CAPTION: Ilustração da dilatação volumétrica de um corpo
+#+BEGIN_EXPORT html
+<div style="text-align:center;">
+  <a title="MikeRun, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons"
+     href="https://commons.wikimedia.org/wiki/File:Thermal-expansion-volume.svg"
+     target="_blank">
+    <img width="512" alt="Thermal expansion volume"
+         src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Thermal-expansion-volume.svg/512px-Thermal-expansion-volume.svg.png?20200707221144">
+  </a>
+  <p style="font-style:italic; font-size:0.9em;">
+    Fonte: MikeRun, CC BY-SA 4.0, via <a href="https://commons.wikimedia.org/wiki/File:Thermal-expansion-volume.svg" target="_blank">Wikimedia Commons</a>
+  </p>
+</div>
+#+END_EXPORT
+
+** Propagação de calor
+
+*** Condução
+
+Calor é conduzido ponto a ponto, onde a energia sendo transferida por
+colisões a nível molecular. 
+
+
+#+CAPTION: Calor sendo transferido por condução.
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <a href="https://upload.wikimedia.org/wikipedia/commons/2/2d/Heat-conduction.svg" target="_blank">
+    <img width="512" alt="Ilustração da condução de calor" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Heat-conduction.svg" style="width:100%; height:auto;">
+  </a>
+  <p style="font-style:italic; font-size:0.9em;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Heat-conduction.svg">MikeRun</a>, 
+    <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+*** Convecção
+
+Em fluidos, a diferença de temperatura causa regiões com diferentes
+densidades, deviso a expansão térmica. 
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Representação da convecção, onde o fluido aquecido sobe, enquanto o fluido frio desce.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Convection.gif"
+       alt="<a href=" "
+       style="width:60%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+
+
+ Fonte: 
+
+ <a href="https://commons.wikimedia.org/wiki/File:Convection.gif">User:Oni Lukos</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
+</p>
+</div>
+#+END_EXPORT
+
+
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Um dissipador de calor proporcciona uma grande área de ruperfície para convecção, ótimizando a transferência de calor.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Radiator_FxJ_v2.JPG"
+       alt="<a href=" "
+       style="width:60%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+
+ Fonte: <a href="https://commons.wikimedia.org/wiki/File:Radiator_FxJ_v2.JPG">FxJ</a>, Public domain, via Wikimedia Commons
+</p>
+</div>
+#+END_EXPORT
+
+
+*** Irradiação
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Emissão de infra vermelho por um cachorro. 
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Infrared_dog.jpg"
+       alt="infrared_dog.jpg"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Infrared_dog.jpg">NASA/IPAC</a>, Public domain, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+   O <a href="https://pt.wikipedia.org/wiki/Espectro_eletromagn%C3%A9tico" target="_blank"> espectro eletromagnético </a> em função da temperatura de emissão (entre outras informaçẽs).
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Espectro_EM_pt.svg"
+       alt="Espectro_EM_pt.svg"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Espectro_EM_pt.svg">Khemis</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
+
+
+** Conceito de calor
+
+** Calor específico e  Calor latente
+
+#+BEGIN_EXPORT html
+<a title="Przygocki, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Agua_temperatura_por_calor.svg"><img width="512" alt="Graph of temperature of phases of water heated from −100 °C to 200 °C – the dashed line example shows that melting and heating 1 kg of ice at −50 °C to water at 40 °C needs 600 kJ" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Agua_temperatura_por_calor.svg/512px-Agua_temperatura_por_calor.svg.png?20220221221432"></a>
+#+END_EXPORT
+
+
+
+** A primeira Lei da Termodinâmica
+
+#+BEGIN_EXPORT html
+<div style="margin-top:200px;"></div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<hr style=\"margin: 2em 0; border: none; border-top: 3px solid #ccc;\">
+#+END_EXPORT
+
+
+* Ondas
+
+
+
+#+BEGIN_EXPORT html
+<div style="margin-top:200px;"></div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<hr style=\"margin: 2em 0; border: none; border-top: 3px solid #ccc;\">
+#+END_EXPORT
+
+
+** Introdução
+
+Ondas estão presentes de diversas formas na natureza:
+
+
+Som, luz, ondas de rádio, ondas sísmicas, ultrassom etc
+
+** Caracterização enquanto natureza da onda
+
+- ondas mecânicas
+
+  - Necessitam de um meio material para se propagar
+
+  - Exemplos
+
+    - som
+
+    - ondas na superfície da água
+
+    - ondas sísmicas
+
+
+- Ondas de campo
+
+  - Não necessitam de um meio material para se propagar
+
+  - Exemplos
+
+    - Ondas eletromagnéticas
+
+      - rádio, micro ondas, infra vermelho, luz, ultra violeta, raios
+        x, raios gamma
+
+    - Ondas gravitacionais
+
+
+
+#+BEGIN_EXPORT html
+<div style="margin-top:200px;"></div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<hr style=\"margin: 2em 0; border: none; border-top: 3px solid #ccc;\">
+#+END_EXPORT
+
+
+
+** Movimento periódico
+
+um movimento que se repete, 
+
+- Caracterizado por
+
+  - período \(T\);
+
+  - frequência \(f\);
+
+Exemplos: movimento circular uniforme, pêndulo simples
+  
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+O movimento de um satélite em órbita pode ser um exemplo de movimento circular uniforme.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Uniform-circular-motion-frames.svg"
+       alt="satélite em órbita circular"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Uniform-circular-motion-frames.svg">MikeRun</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Um pêndulo simples é um exemplo de movimento periódico.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Pendulum-no-text.gif"
+       alt="animação pêndulo simples"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Pendulum-no-text.gif">Stündle (modification Ideophagous)</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="margin-top:200px;"></div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<hr style=\"margin: 2em 0; border: none; border-top: 3px solid #ccc;\">
+#+END_EXPORT
+
+
+
+** Conceito de onda
+
+
+Uma onda é um movimento periódico que se propaga.
+
+Exemplo: onda em uma corda
+
+- caracterizado por:
+
+  - Período \(T\)
+
+  - Frequência \(f\)
+
+  - Amplitude \(A\)
+
+  - Comprimento de onda \(\lambda\)
+
+  - Velocidade \( v\)
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Comparação entre uma onda numa corda e um movimento periódico.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Simple_harmonic_motion_animation.gif"
+       alt="Composição de MHS e onda"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Simple_harmonic_motion_animation.gif">User:Evil_saltine</a>, Public domain, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="margin-top:200px;"></div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<hr style=\"margin: 2em 0; border: none; border-top: 3px solid #ccc;\">
+#+END_EXPORT
+
+- Perído e frequência 
+
+\[ T  = \frac{1}{f}\]
+
+- Velocidade
+
+\[ v  = \frac{\lambda}{T}\]
+
+
+\[ v = \lambda f\]
+
+
+#+BEGIN_EXPORT html
+<div style="margin-top:200px;"></div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<hr style=\"margin: 2em 0; border: none; border-top: 3px solid #ccc;\">
+#+END_EXPORT
+
+
+- exemplos:
+
+  - Velocidade do som no ar (aproximado)
+
+    \[v_{som} = 340 m/s\]
+
+  - Velocidade da luz no vácuo
+
+    \[ v_{luz} = 3 \times 10^\{8} \]
+
+  - Frequência da nota lá padrão
+
+    \[f = 440 Hz\]
+
+  - Comprimento de onda da cor vermelha (aproximado)
+
+    \[ \lambda = 700 nm = 700 \times 700 \times 10^{-9} m \]
+
+  - Ultrassom (aproximadamente)
+
+    - \[f = 5 MHz = 5 \times 10^{6} Hz\]
+    
+
+
+#+BEGIN_EXPORT html
+<div style="margin-top:200px;"></div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<hr style=\"margin: 2em 0; border: none; border-top: 3px solid #ccc;\">
+#+END_EXPORT
+
+
+** Caracterização quanto a propagação
+
+*** Ondas longitudinais
+- Definição: Direção de propagação paralela à direção de oscilação
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Ondas longitudinais (mesma direção de direção e propagação) em uma mola.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/WelleLong.jpg"
+       alt="longitudinal wave"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:WelleLong.jpg">OpenStax College</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
+- Exemplos:
+
+  - Ondas sonoras
+
+
+
+
+*** Ondas transversais
+
+- Definição: Direção de propagação perpendicular à direção de oscilação
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Ondas transversaç (direções de propagação e oscilação perpendiculares) em uma mola.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/WelleTrans.jpg"
+       alt="transverse wave"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:WelleTrans.jpg">OpenStax College</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
+
+- Exemplos:
+
+  - Ondas em uma corda
+
+  - Ondas eletromagnéticas
+
+
+#+BEGIN_EXPORT html
+<div style="margin-top:200px;"></div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<hr style=\"margin: 2em 0; border: none; border-top: 3px solid #ccc;\">
+#+END_EXPORT
+
+
+
+** Fenômenos relacionados à propagação
+
+- reflexão
+  - eco (som)
+  - reverberação (som)
+  - reflexo (luz - espelho)
+- transmissão
+  - refração (luz)
+- interferência
+  - Padrão de intererência (luz, som)
+  - ondas estacionárias (corda)
+- absorção
+- difração
+- dispersão
+- polarização
+
+*** Reflexão 1D
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Reflexões possíveis de uma onda em uma corda: extremidade livre e extremidade fixa.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/WaveReflect.gif"
+       alt="wave-reflection"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:WaveReflect.gif">And1mu</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+*** Refleção 2D
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Reflexão de uma onda, com representação dos ângulos de incidência e reflexão.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Reflection-animation.gif"
+       alt="wave-reflection-2d"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Reflection-animation.gif">MikeRun</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+*** transmissão 1D
+
+
+*** Transmissão (refração) 2D
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Transmição com refração: meio menos denso para meio mais denso.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Refraction_animation.gif"
+       alt="refraction-2d"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte:<a href="https://commons.wikimedia.org/wiki/File:Refraction_animation.gif">Ulflund</a>, CC0, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+*** Reflexão e transmissão 1D
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Reflexões e transmissão: meio menos denso para meio mais denso.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Partial_transmittance.gif"
+       alt="partial-transmitance"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte:<a href="https://commons.wikimedia.org/wiki/File:Partial_transmittance.gif">Oleg Alexandrov</a>, Public domain, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+*** Reflexão e refração 2D
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Reflexões e transmissão (com refração): meio menos denso para meio mais denso, com represetnações dos ângulos de incidência e refração.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Refraction-animation.gif"
+       alt="refraction-animation"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Refraction-animation.gif">MikeRun</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+*** Interferência 1 D
+
+
+*** Interferência 2 D
+
+** Caracterização de ondas
+
+*** Ondas estacionárias
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Ondas estacionárias em uma corda.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Standing_waves_on_a_string.gif"
+       alt="Ondas estacionárias"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Standing_waves_on_a_string.gif">Adjwilley</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+*** Ondas unidimensionais
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Standing_wave.gif"
+       alt="Condas estacionárias e unidimensionais"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Standing_wave.gif">Lucas Vieira</a>, Public domain, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+*** Ondas bidimensionais
+
+- Superfícia da água
+
+- na pele de um tambor
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Onda superficial em uma
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/2006-01-14_Surface_waves.jpg"
+       alt="onda superficial"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:2006-01-14_Surface_waves.jpg">Roger McLassus</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Ondas bidimensionais estacionárias, por exemplo, na pele de um tambor - modo fundamental de vibração.
+  </p>
+  <img src=" "
+       alt="onda estacionária bidimensional modo fundamental"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Drum_vibration_mode01.gif">Oleg Alexandrov</a>, Public domain, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Ondas bidimensionais estacionárias, por exemplo, na pele de um tambor - segundo modo de vibração.
+  </p>
+  <img src="https://commons.wikimedia.org/wiki/File:Drum_vibration_mode21.gif"
+       alt="onda estacionária bidimensional - segundo modo"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Drum_vibration_mode21.gif">Oleg Alexandrov</a>, Public domain, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+*** Ondas tridimensionais
+
+
+- Ondas eletromagnéticas (luz, rádio, ifravermelho)
+
+- Ondas sonoras
+
+
+
+* Mais sobre frequência e amplitude
+
+| grandeza      | som                  | luz                    |
+|---------------+----------------------+------------------------|
+| Amplitude     | Volume (intensidade) | brilho (intensidade)   |
+| Frequência    | nota músical         | cor                    |
+| Forma da onda | timbre               | coerência/espectro     |
+| polarização   | -                    | Orientação da vibração |
+
+- ondas eletromagnéticas como a luz são ondas transverdais, e por isso
+  podem haver polarização
+
+- a luz pode ser
+
+  - monocromática,  coerente e pura (como lazer)
+
+  - espectral, com mistrua de várias frequências (como a luz branca)
+
+
+* Intensidade Sonora e Escala em Decibéis
+
+** Conceitos principais
+
+- A unidade decibel (**dB**) é usada para medir **nível de intensidade sonora**.
+- O ouvido humano percebe o som de forma **logarítmica**, e não linear.
+- A fórmula usada é:
+
+  
+  \[
+  L = 10 \cdot \log_{10}\left(\frac{I}{I_0}\right)
+  \]
+  
+  Onde:
+  - \( L \): nível sonoro em decibéis
+  - \( I \): intensidade do som
+  - \( I_0 = 10^{-12} \, \text{W/m}^2 \): intensidade mínima audível
+
+** Exemplos práticos
+
+| Nível (dB) | Exemplo de som         | Observação              |
+|------------+-------------------------+--------------------------|
+| 0 dB       | Limite da audição       | Som quase inaudível     |
+| 30 dB      | Sussurro                | Som muito fraco         |
+| 60 dB      | Conversa normal         | Nível confortável       |
+| 90 dB      | Trânsito pesado         | Muito alto              |
+| 120 dB     | Show ou trovão perto    | Limite da dor           |
+
+- Cada **+10 dB** representa um som **10 vezes mais intenso**.
+- A sensação de volume **dobra a cada +10 dB** aproximadamente.
+
+
+
+
+
+* Audibilidade
+
+* Óptica
+
+* Exercícios e Problemas
+
+** Unidade 1
+
+** [[file:quest-fis2-u2.org][Unidade 2]] 
+
+
+https://phet.colorado.edu/sims/html/sound-waves/latest/sound-waves_all.html?locale=pt_BR
+
+https://phet.colorado.edu/pt_BR/simulations/fourier-making-waves
+https://phet.colorado.edu/pt_BR/simulations/wave-on-a-string
+
+https://phet.colorado.edu/pt_BR/simulations/wave-interference
+
+
+** [[file:quest-fis2-u3.org][Unidade 3]] 
+
+
+

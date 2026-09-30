@@ -1,0 +1,38 @@
+#+options: toc:1
+#+language: pt-BR
+#+title: Lista de Exercícios: Estudo Dirigido - Energia Mecânica - Física - TPQ - 2026
+#+AUTHOR: Professor Joilson Silva Porto
+#+LATEX_CLASS: article
+
+* Instruções Gerais
+
+Estudo Dirigido com Noções iniciais sobre o conceito de energia. As questões abaixo tem como objetivo introduzir o tópico de magnetismo. Duas simulações podem ser usadas como material complementar:
+
+Instruções: Leia atentamente cada enunciado AS AFIRMAÇÕES corretas em cada questão.
+
+Simulações utilizadas:
+- [[https://phet.colorado.edu/sims/html/energy-skate-park/latest/energy-skate-park_all.html?locale=pt_BR][Energia na Pista de Skate - PHPET]]
+- 
+* Simualação Energia na Pista de Skate
+** Noções de velocidade
+
+A figura acima ilustra dois momentos em uma pista de skate,
+inicialmente em uma altura de 4,0 m e velocidade zero, e após, uma
+altura zero e velocidade 8,8 m/s.
+
+** Noções sobre Energia Cinética
+
+A Energia Cinética é uma energia associada ao movimento de um corpo,
+de modo que, quanto maior a velocidade, maior a sua energia. Além da
+velocidade, a energia depende também da massa do corpo. 
+
+[ ] O ponto com altura 4m é onde a energia cinética é máxima 
+
+[ ] O ponto com altura zero é onde a energia cinética é mínima.
+
+** Noçṍes sobre energia potencial gravitacional
+
+A energia potencial gravitacional é uma energia associada a altura em
+quem um corpo se encontra, de modo que a energia de 
+
+** Noções sobre Atrito e Energia Térmica

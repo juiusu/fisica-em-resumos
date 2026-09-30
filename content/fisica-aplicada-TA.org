@@ -948,8 +948,7 @@ Imagine agora que a velocidade aumenta de zero a \(10\,m/s\) em
 
 
 
-
-** Leis de Conservação: Energia, momento linear e momento angular
+** Energia Mecânica
 
 #+BEGIN_EXPORT html
 <div style="margin-top:100px;"></div>
@@ -959,6 +958,8 @@ Imagine agora que a velocidade aumenta de zero a \(10\,m/s\) em
 <hr style=\"margin: 2em 0; border: none; border-top: 1px solid #ccc;\">
 #+END_EXPORT
 
+
+[[https://phet.colorado.edu/pt_BR/simulations/energy-skate-park][Simulação Energia na pista de skate]] 
 
 *** Principio da conservação da energia
 
@@ -970,7 +971,8 @@ nem destruir energia, apenas transformar de um tipo em outra.
 A energia associada ao movimento de um objeto de massa \(m\) com
 velocidade \(v\) é calculada pela expressão
 
-\( E_c = \frac{m v^2\}{2} \)
+
+\( E_c = \frac{m v^2}{2} \)
 
 *** Energia potencial gravitacional
 
@@ -989,9 +991,15 @@ calculada por
 
 \[W = F d\]
 
-*** Conservação da energia mecânica
 
-[[https://phet.colorado.edu/pt_BR/simulations/energy-skate-park][Simulação Energia na pista de skate]] 
+*** Dissipação de energia mecânica (atrito)
+
+O trabalho exercido pela força de atrito pode ser calculado pela mesma
+equação anterior, mas, nesse caso, a força tem direção oposta ao
+deslocamento, e, por isso, o sinal negativo, indicando uma diminuição
+na energia mecânica total.
+
+\[W = - F d\]
 
 ** Limites de aplicação
 
@@ -1030,8 +1038,98 @@ Exemplos: elétrons em aceleradores, partículas cósmicas, GPS (correções rel
 ** Tópicos da ementa abordados nessa seção
   - Fases da matéria,
   - Propriedade térmica dos alimentos,
+** Conceito de temperatura
 
-* TÓPICOS EM TTERMODINÂMICA - PARTE 2
+A temperatura está relacionada a agitação a nível molecular. Ou seja,
+ela representa a energia do movimento das partículas (moléculas, ou
+átomos). Quanto maior a temperatura, maior será essa agitação.
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Representação da temperatura de um <a href="https://pt.wikipedia.org/wiki/G%C3%A1s_ideal" target="_blank"> Gás ideal </a>.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Translational_motion.gif"
+       alt="<a href="https://commons.wikimedia.org/wiki/File:Cshaft.gif"
+       style="width:60%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+Fonte:  <a href="https://commons.wikimedia.org/wiki/File:Translational_motion.gif">A. Greg (Greg L at English Wikipedia)</a>, Public domain, via Wikimedia Commons
+</p>
+</div>
+#+END_EXPORT
+
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Representação da vibração dos átomos em uma molécula devido à temperatura, nesse exemmplo a proteína <a href="https://pt.wikipedia.org/wiki/Temperatura" target="_blank"> alfa-hélice </a>.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Thermally_Agitated_Molecule.gif"
+       alt="<a href=" "
+       style="width:60%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+Fonte: 
+<a href="https://commons.wikimedia.org/wiki/File:Thermally_Agitated_Molecule.gif">http:/</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
+</p>
+</div>
+#+END_EXPORT
+
+
+
+
+
+** Escalas termométricas
+
+Principais escalas de temperatura: 
+
+| Escala     | Fusão da água | Ebulição da água |
+|------------+---------------+------------------|
+| Celsius    | \(0 ^0 C\)    | \(100 ^0 C\)     |
+| Fahrenheit | \(32 ^0  F\)  | \( 212 ^0 F\)    |
+| Kelvin     | \( 273 K\)    | \( 373 K\)       |
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Comparação entre as principais escalas de temperatura
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Escalas_de_Temperatura.jpg"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    "<a rel="noopener noreferrer" href="https://commons.wikimedia.org/w/index.php?curid=92805740">Escalas de Temperatura</a>" 
+    by <a rel="noopener noreferrer" href="https://commons.wikimedia.org/wiki/User:Mjmauler">Mjmauler</a> 
+    is licensed under 
+    <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse">
+      CC BY-SA 4.0 
+      <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" />
+      <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" />
+      <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-right: 0.125em; display: inline;" />
+    </a>.
+  </p>
+</div>
+#+END_EXPORT
+
+- Conversão de Celsius para Fahrenheit (e virce-versa)
+
+\[ T_C = \frac{5}{9}\left( T_F - 32 \right)\]
+
+- Conversão de celsius para Kelvin
+
+\[ T_k = T_C + 273\]
+
+
+
+
+
+
+
+** Mudanças de Fase
+
+* TÓPICOS EM TERMODINÂMICA - PARTE 2
 ** Tópicos da ementa abordados nessa seção
   - Calorimetria nos alimentos, Propagação do calor nos alimentos,
   - Níveis de energia dos alimentos,

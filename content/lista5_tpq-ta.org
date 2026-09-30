@@ -1,0 +1,138 @@
+#+options: toc:1
+#+language: pt-BR
+#+title: Estudo Dirigido - Introdução à Energia Mecânica
+#+AUTHOR: Professor Joilson Silva Porto
+#+LATEX_CLASS: article
+
+
+
+* Instruções gerais
+
+Estudo Dirigido com noções iniciais sobre o conceito de energia. As
+questões abaixo têm como objetivo introduzir o tópico de energia
+mecânica. Uma simulação será usada como material complementar:
+
+    [[https://phet.colorado.edu/pt_BR/simulations/energy-skate-park][Energia na Pista de Skate - phet.colorado.edu]]
+
+Instruções: Leia atentamente cada enunciado e assinale V (verdadeiro)
+ou F (falso) para cada afirmação em cada questão.
+
+* 1. Conceito de energia cinética 
+A energia cinética é a energia associada ao movimento de um corpo. Ela
+depende da massa e da velocidade: quanto maior a massa e maior a
+velocidade, maior será a energia cinética. Matematicamente, podemos
+escrever
+
+\( E_c = \frac{m}{2} v^2  \)
+
+em que \(m\) é a massa em \(kg\) , \(v\) é a velocidade em \(m/s\) e \(E_c
+\) energia cinética em joules (J). Como a velocidade aparece elevada ao
+quadrado, pequenas variações na velocidade podem provocar grandes
+variações na energia cinética.
+
+Analise QUAIS das afirmações abaixo estão corretas.
+
+- [ ] A energia cinética de um corpo depende de sua massa e de sua velocidade.
+- [ ] Se a velocidade de um corpo dobra, sua energia cinética também dobra.
+- [ ] Um corpo em repouso possui energia cinética nula.
+- [ ] A energia cinética é uma grandeza vetorial, pois depende da
+  direção do movimento.
+- [ ] A unidade de energia cinética no Sistema Internacional (SI) é o joule (J).
+
+* 2. Conceito de Energia Potencial Gravitacional
+
+
+A energia potencial gravitacional é a energia armazenada em um corpo
+devido à sua posição em relação a um referencial, geralmente o solo. Ela
+depende da massa do corpo, da aceleração da gravidade e da altura em que
+o corpo se encontra. Matematicamente,
+
+\( E_p​=mgh \)
+
+Em que \(m\) é a massa em \(kg\), \(g\) é a aceleração da gravidade
+(aproximadamente \(9,8 m/s^2\) na superfície da Terra, \(h\) é a
+altura em metros e \(E_p\) é a energia potencial gravitacional em
+joules (J). Quanto maior a altura ou a massa, maior será essa energia.
+
+Analise QUAIS das afirmações abaixo estão corretas.
+
+- [ ] A energia potencial gravitacional depende da altura do corpo em relação a um referencial escolhido.
+- [ ] Quanto maior a massa do corpo, maior sua energia potencial gravitacional, para uma mesma altura.
+- [ ] A energia potencial gravitacional depende da velocidade do corpo.
+- [ ] Um corpo apoiado no solo tem energia potencial gravitacional nula em relação ao solo.
+- [ ] A energia potencial gravitacional pode ser negativa, dependendo do referencial adotado.
+- [ ] A energia potencial gravitacional não depende da posição.
+
+* 3. Conceito de trabalho de uma força
+
+O trabalho de uma força está relacionado à transferência de energia
+quando uma força provoca deslocamento. Se a força é constante e tem a
+mesma direção do deslocamento, o trabalho é dado por
+
+\( W = F \cdot d \)
+
+Onde \(W\) é a energia fornecida na forma de trabalho, \(F\) é a força
+aplicada e \(d\) é a distância percorrida, enquanto se aplica a força.
+A unidade de trabalho no SI é o joule (J).
+
+Analise QUAIS das afirmações abaixo estão corretas.
+
+- [ ] O trabalho de uma força está relacionado à transferência de energia quando há deslocamento.
+- [ ] A unidade de trabalho no SI é o watt (W).
+- [ ] Se não há deslocamento, o trabalho da força é nulo.
+- [ ] Ao fornecer energia na forma de trabalho, ao aplicar uma força a
+  um corpo,essa energia poderá ser convertida em energia cinética, ao
+  colocar o corpo em movimento.
+  
+* 4. Trabalho de uma força de atrito
+
+A força de atrito atua geralmente contra o movimento, ou seja, em
+sentido oposto ao deslocamento. Por isso, o trabalho da força de atrito
+costuma ser negativo:
+
+\( W_{at} = −F_{at}\cdot d \).
+
+em que \(F_{at}\) é a força de atrito dinâmico (quando há movimento).
+
+Esse trabalho negativo reduz a energia cinética do corpo e
+dissipa energia na forma de calor. Assim, a presença de atrito faz com
+que parte da energia mecânica seja transformada em energia térmica.
+
+Analise QUAIS das afirmações abaixo estão corretas.
+
+- [ ] A força de atrito geralmente realiza trabalho negativo, pois se opõe ao movimento.
+- [ ] O trabalho da força de atrito depende da distância percorrida pelo corpo.
+- [ ] A força de atrito sempre aumenta a energia cinética do corpo.
+- [ ] O trabalho da força de atrito dissipa energia na forma de calor.
+- [ ] Se não houver atrito, a energia mecânica se conserva.
+
+* 5. Aplicação: Energia em uma Pista de Skate
+
+Em uma pista de skate, a energia mecânica total do skatista é a soma da
+energia cinética com a energia potencial gravitacional:
+
+\( E_M = E_c + E_p \)
+
+Quando não há atrito, a energia mecânica total se conserva. Isso
+significa que a energia potencial gravitacional no ponto mais alto pode
+se converter em energia cinética no ponto mais baixo, e vice-versa. Se
+houver atrito, parte da energia mecânica é dissipada, geralmente na
+forma de calor, e a energia mecânica total diminui.
+
+file:./picture/simulacao-PHPET-pista-de-skate.png 
+
+Na figura temos duas imagens representando dois momentos de um
+skatista em uma pista de skate (em U) . Na primeira, ele está em uma
+altura de \(4,00 \,m\) e com velocidade zero. Na segunda ele a uma
+altura zero e com velocidade \(8,8 m/s. \)
+
+Analise QUAIS das afirmações abaixo estão corretas.
+
+
+- [ ] No primeiro momento, o skatista possui apenas energia potencial gravitacional.
+- [ ] No segundo momento, o skatista possui apenas energia cinética.
+- [ ] Se não houver atrito, a energia mecânica total do skatista se conserva entre os dois momentos.
+- [ ] A energia potencial gravitacional no primeiro momento é aproximadamente igual à energia cinética no segundo momento.
+- [ ] Se houver atrito na pista, a energia mecânica total do skatista aumentará.
+- [ ] Mesmo desprezando o atrito e a resistência do ar, ao passar para o outro lado da pista, o skatista não atingirá a altura de 4,0 m.
+

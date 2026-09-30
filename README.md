@@ -1,15 +1,110 @@
 # Resumos de Física - Ensino Médio
 
+[Página](https://juiusu.github.io/fisica-em-resumos/) com resumos das aulas e
+materiais de consulta para as disciplinas Física I, II e III ministradas para as
+turmas dos Cursos Técnicos de Nível Médio em Informática, Administração e
+Agropecuária, na Forma Integrada, do IFAM _Campus_ Eirunepé.
 
+- **Professor:** Joilson Silva Porto
+- **Ano letivo:** 2026
+- **Repositório:** <https://github.com/juiusu/fisica-em-resumos>
 
-[Página](https://juiusu.github.io/fisica-em-resumos/) com resumos das aulas e materiais de consulta para as disciplinas Física I, II e II ministradas para as turmas dos Cursos Técnicos de Nível Médio em Informática, Administração e Agropecuárioa, na Forma Integrada, do IFAM _Campus_ Eirunepé
+## Estrutura do projeto
 
-Professor: Joilson Silva Porto
-Ano letivo: 2026
+| Caminho | Descrição |
+| --- | --- |
+| `content/` | Fontes `.org` (é aqui que se edita o conteúdo) |
+| `content/pictures/`, `content/graphics/` | Imagens e scripts de gráficos (Python) |
+| `public/` | HTML **gerado** pelo build — não editar à mão |
+| `build-site.el` | Configuração de exportação (`org-publish-project-alist`) |
+| `build.sh` | Atalho: `emacs -Q --script build-site.el` |
+| `.packages/` | Dependências Emacs instaladas localmente |
+| `.opencode/` | Configuração do assistente OpenCode (agentes, comandos, plugin) |
+| `CHANGELOG.org` | Registro automático das alterações |
 
+## Como gerar o site
 
-## REFERÊNCIAS
+```sh
+chmod +x build.sh     # apenas na primeira vez
+./build.sh            # gera public/ a partir de content/*.org
+```
 
-[https://github.com/SystemCrafters/org-website-example/ ](https://github.com/SystemCrafters/org-website-example/)
+Pré-visualização local, dentro do Emacs: instale `simple-httpd` e rode
+`M-x httpd-serve-directory` apontando para `public/`.
 
-Check out the [ Publishing Websites with Org Mode](https://systemcrafters.net/publishing-websites-with-org-mode/ ) series to learn how this was created!
+## Tecnologias e ferramentas
+
+- **GNU Emacs + Org Mode** (`ox-publish`) — escrita e exportação do conteúdo.
+- **htmlize** (pacote Emacs) — realce de sintaxe na exportação HTML.
+- **simple-httpd** — servidor local para pré-visualização.
+- **Python** com **matplotlib** e **numpy** — geração dos gráficos em `content/graphics/`.
+- **simple.css** (via CDN) — folha de estilo do site.
+- **Git e GitHub** — versionamento e publicação.
+- **GitHub Actions + GitHub Pages** — build e deploy automáticos (branch `gh-pages`).
+- **OpenCode** — assistente de desenvolvimento por IA usado no repositório (ver abaixo).
+
+## Fontes de imagens e simulações
+
+As imagens são obtidas, em sua maioria, de acervos livres e referenciadas com a
+respectiva autoria e licença:
+
+- **Wikimedia Commons** — <https://commons.wikimedia.org>
+- **Creative Commons** (licenças CC0, CC BY, CC BY-SA) — <https://creativecommons.org>
+- **Openverse** — <https://openverse.org>
+- **Pixabay** — <https://pixabay.com>
+- **PhET Interactive Simulations** (University of Colorado Boulder) — simulações de Física: <https://phet.colorado.edu>
+- **Autodesk Tinkercad** — simulação de circuitos eletrônicos: <https://www.tinkercad.com>
+
+O inventário completo das imagens usadas fica em
+[`content/banco-de-imagens-completo.org`](content/banco-de-imagens-completo.org).
+
+## Referências bibliográficas
+
+- HEWITT, Paul G. *Física Conceitual*. Bookman Editora, 2023.
+- ALVARENGA, Beatriz; MÁXIMO, Antônio. *Física Ensino Médio*. São Paulo: Editora Scipione, 2006.
+
+Outras referências citadas ao longo do conteúdo incluem: gov.br/MEC-ENEM,
+Nexo Jornal, Brasil Escola, PUC Minas, YouTube, Google Forms/Docs e o gerador de
+papel milimetrado.
+
+## Publicação
+
+O workflow [`.github/workflows/publish.yml`](.github/workflows/publish.yml) roda
+`./build.sh` a cada push na branch `master` e publica `public/` na branch
+`gh-pages`, usando:
+
+- `actions/checkout@v1`
+- `JamesIves/github-pages-deploy-action@4.1.4`
+
+## Assistente OpenCode
+
+Este projeto é desenvolvido com apoio do **OpenCode**, um agente de programação
+para terminal.
+
+- **OpenCode:** <https://opencode.ai>
+- **Modelo de IA:** `deepseek/deepseek-flash`
+
+Configuração e extensões do assistente no repositório:
+
+- [`opencode.json`](opencode.json) — instruções (`AGENTS.md`) e permissões
+  (bloqueia edição de `public/` e `.packages/`; permite `git`, `./build.sh` e
+  `emacs`; nega `rm -rf`).
+- [`.opencode/agent/revisor-fisica.md`](.opencode/agent/revisor-fisica.md) —
+  subagente que revisa conteúdo de Física (notação, unidades, português) sem editar arquivos.
+- [`.opencode/command/build.md`](.opencode/command/build.md) — comando `/build`.
+- [`.opencode/command/registrar-alteracao.md`](.opencode/command/registrar-alteracao.md)
+  — comando `/registrar-alteracao`.
+- [`.opencode/plugin/changelog.ts`](.opencode/plugin/changelog.ts) — registra
+  automaticamente cada arquivo editado em `CHANGELOG.org`.
+- [`AGENTS.md`](AGENTS.md) — guia para agentes que trabalham no repositório.
+
+## Licença e créditos
+
+O projeto é baseado no exemplo **org-website-example** do System Crafters, sob
+licença MIT (Copyright © 2021 System Crafters) — ver [`LICENSE`](LICENSE).
+
+- <https://github.com/SystemCrafters/org-website-example/>
+- Série [Publishing Websites with Org Mode](https://systemcrafters.net/publishing-websites-with-org-mode/)
+
+As imagens mantêm as licenças de suas respectivas fontes, indicadas junto a cada
+figura.

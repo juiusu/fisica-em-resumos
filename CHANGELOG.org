@@ -1,0 +1,13 @@
+#+title: Registro de alterações
+
+Histórico das mudanças feitas no projeto. As entradas automáticas são
+geradas pelo plugin `.opencode/plugin/changelog.ts`; resumos manuais podem
+ser adicionados com o comando =/registrar-alteracao=.
+
+* 2026-09-24
+- Configuração inicial do opencode: `opencode.json`, `AGENTS.md`, plugin de
+  changelog e comandos.
+
+* 2026-09-29
+- editado: README.org (20:43)
+- editado: README.md (20:43)

@@ -933,7 +933,7 @@ Imagine agora que a velocidade aumenta de zero a \(10\,m/s\) em
 
 
 
-** Leis de Conservação: Energia, momento linear e momento angular
+** Energia Mecânica
 
 #+BEGIN_EXPORT html
 <div style="margin-top:100px;"></div>
@@ -943,6 +943,8 @@ Imagine agora que a velocidade aumenta de zero a \(10\,m/s\) em
 <hr style=\"margin: 2em 0; border: none; border-top: 1px solid #ccc;\">
 #+END_EXPORT
 
+
+[[https://phet.colorado.edu/pt_BR/simulations/energy-skate-park][Simulação Energia na pista de skate]] 
 
 *** Principio da conservação da energia
 
@@ -954,7 +956,8 @@ nem destruir energia, apenas transformar de um tipo em outra.
 A energia associada ao movimento de um objeto de massa \(m\) com
 velocidade \(v\) é calculada pela expressão
 
-\( E_c = \frac{m v^2\}{2} \)
+
+\( E_c = \frac{m v^2}{2} \)
 
 *** Energia potencial gravitacional
 
@@ -973,9 +976,14 @@ calculada por
 
 \[W = F d\]
 
-*** Conservação da energia mecânica
+*** Dissipação de energia mecânica (atrito)
 
-[[https://phet.colorado.edu/pt_BR/simulations/energy-skate-park][Simulação Energia na pista de skate]] 
+O trabalho exercido pela força de atrito pode ser calculado pela mesma
+equação anterior, mas, nesse caso, a força tem direção oposta ao
+deslocamento, e, por isso, o sinal negativo, indicando uma diminuição
+na energia mecânica total.
+
+\[W = - F d\]
 
 ** Limites de aplicação
 
@@ -1032,6 +1040,7 @@ Exemplos: elétrons em aceleradores, partículas cósmicas, GPS (correções rel
   digitalizada, até o dia 13/09) 
 - [[file:lista4_tpq-ta.org][Quarta lista - Leis de Newton]] - (para enregar via SIGAA, manuscrito
   e digitalizado, até o dia 20/09)
+- [[file:lista5_tpq-ta.org][Quinta lista - Estudo Dirigido: energia Mecânica]]
 
 
 * Links

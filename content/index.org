@@ -42,7 +42,7 @@ Sugestões dos alunos serão sempre bem-vindas.
 
 * [[file:fisica-aplicada-TA.org][FÍSICA APLICADA: Curso Superior em Tecnologia de Alimentos]]
 
-* [[file:fisica-aplicada-TPQ.org][FÍSICA APLICADA: Curso Superior de Tecnologia em Processos Químicos]]
+* [[file:fisica-aplicada-TPQ.org][FÍSICA APLICADA: Curso Superior em Tecnologia de Processos Químicos]]
 * 
 
 * Referências
