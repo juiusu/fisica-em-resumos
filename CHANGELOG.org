@@ -9,5 +9,6 @@ ser adicionados com o comando =/registrar-alteracao=.
   changelog e comandos.
 
 * 2026-09-29
+- editado: AGENTS.md (21:20)
 - editado: README.org (20:43)
 - editado: README.md (20:43)

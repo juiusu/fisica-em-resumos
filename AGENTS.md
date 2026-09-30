@@ -4,7 +4,7 @@ Guia para agentes que trabalham neste repositório.
 
 ## Visão geral
 
-Site de resumos de Física para o Ensino Médio (IFAM *Campus* Eirunepé).
+Site de resumos de Física para o Ensino Médio (IFAM *Campus* Manaus Centro).
 O conteúdo é escrito em **Org Mode** e publicado como HTML estático.
 
 Fluxo: `content/*.org` → `build-site.el` (Emacs + `org-publish`) → `public/`.

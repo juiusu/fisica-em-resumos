@@ -1,9 +1,10 @@
 # Resumos de Física - Ensino Médio
 
 [Página](https://juiusu.github.io/fisica-em-resumos/) com resumos das aulas e
-materiais de consulta para as disciplinas Física I, II e III ministradas para as
-turmas dos Cursos Técnicos de Nível Médio em Informática, Administração e
-Agropecuária, na Forma Integrada, do IFAM _Campus_ Eirunepé.
+materiais de consulta para as disciplinas dos Cursos Técnicos na Forma Integrada
+(Física I, II e III) e de Física Aplicada para os Cursos de Graduação em
+Tecnologia de Alimentos e Tecnologia de Processos Químicos, do IFAM _Campus_
+Manaus Centro.
 
 - **Professor:** Joilson Silva Porto
 - **Ano letivo:** 2026
