@@ -1009,30 +1009,31 @@ polos. Assim, há uma semelhança ao que acontece com a força elétrica:
 os opostos se atraem, e os semelhantes se repelem (pólos magnéticos,
 ou cargas elétricas, em cada caso).
 
-Outra semelhança é o comportamento quanto a carga e distância. E,
-nesse caso, três forças fundamentais tem o memso comportamento:
+Outra semelhança é o comportamento quanto à carga e à distância. Nesse
+caso, três forças fundamentais têm o mesmo comportamento:
 
-I. A força gravitacional, que é
+I. A força gravitacional é
 
-I.a) Proporcional ao produto das massas
+I.a) proporcional ao produto das massas
 
-\( F \~ M_1 M_2 \)
+\( F \propto M_1 M_2 \)
 
-I.b) Inversamente proporcional ao quadrado da distância
+I.b) inversamente proporcional ao quadrado da distância
 
-\( F \~ \frac{1}{d^2} \)
+\( F \propto \frac{1}{d^2} \)
 
 
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
-    Força entre duas massas à 3,0 km de distância
+    Força gravitacional entre duas massas à 3,0 km de distância.
   </p>
-  <img src="./public/grav-newton-3km.png"
-       alt="ALT_TEXT"
+  <img src="./pictures/grav-newton-3km.png"
+       alt="Força gravitacional entre duas massas a 3,0 km de distância"
        style="width:100%; height:auto;">
   <p style="font-size:0.75em; color:gray;">
-    Fonte: criado pelo autor a partir da simulação: https://phet.colorado.edu/pt_BR/simulations/gravity-force-lab-basics .
+    Fonte: criado pelo autor a partir da simulação
+    <a href="https://phet.colorado.edu/pt_BR/simulations/gravity-force-lab-basics" target="_blank">Gravity Force Lab: Basics - PhET</a>.
   </p>
 </div>
 #+END_EXPORT
@@ -1040,61 +1041,82 @@ I.b) Inversamente proporcional ao quadrado da distância
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
-    Força entre duas massas à 6,0 km de distância
+    Força gravitacional entre duas massas à 6,0 km de distância.
   </p>
-  <img src="./public/grav-newton-6km.png"
-       alt="ALT_TEXT"
+  <img src="./pictures/grav-newton-6km.png"
+       alt="Força gravitacional entre duas massas a 6,0 km de distância"
        style="width:100%; height:auto;">
   <p style="font-size:0.75em; color:gray;">
-    Fonte: criado pelo autor a partir da simulação: https://phet.colorado.edu/pt_BR/simulations/gravity-force-lab-basics .
+    Fonte: criado pelo autor a partir da simulação
+    <a href="https://phet.colorado.edu/pt_BR/simulations/gravity-force-lab-basics" target="_blank">Gravity Force Lab: Basics - PhET</a>.
   </p>
 </div>
 #+END_EXPORT
 
-[[file:public/grav-newton-6km.png]]
+Ao dobrar a distância (de 3,0 km para 6,0 km), a força fica quatro
+vezes menor, o que confirma a dependência com o inverso do quadrado da
+distância.
 
-II. A força eletrostática é:
+II. A força eletrostática é
 
-II-a) Proporcional ao produto das cargas
+II.a) proporcional ao produto das cargas
 
-\( F \~ Q_1 Q_2 \)
+\( F \propto Q_1 Q_2 \)
 
-II-b) Inversamente proporcional ao quadrado da distância
+II.b) inversamente proporcional ao quadrado da distância
 
-\( F \~ \frac{1}{d^2} \)
-
-
-
-Figura
-Título: Força elétrica entre dois objetos a 4cm de distância
-File:./public/coulomb-law-4cm.png
-Fonte: https://phet.colorado.edu/pt_BR/simulations/coulombs-law
-
-Figura
-Título: Força elétrica entre dois objetos a 2cm de distância
-File:./public/coulomb-law-2cm.png
-Fonte: https://phet.colorado.edu/pt_BR/simulations/coulombs-law
-
-III. Força magnética é:
-
-II.a) Proporcional ao produto das cargas magnéticas
-
-\( F \~ m_1 m_2 \)
-
-I.b) Inversamente proporcional ao quadrado da distância
-
-\( F \~ \frac{1}{d^2} \)
+\( F \propto \frac{1}{d^2} \)
 
 
 
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Força elétrica entre dois objetos à 4 cm de distância.
+  </p>
+  <img src="./pictures/coulomb-law-4cm.png"
+       alt="Força elétrica entre duas cargas a 4 cm de distância"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor a partir da simulação
+    <a href="https://phet.colorado.edu/pt_BR/simulations/coulombs-law" target="_blank">Lei de Coulomb - PhET</a>.
+  </p>
+</div>
+#+END_EXPORT
 
-Mas aqui o que seria essa carga magnética? Ao começar a investigar
-isso, podemos, também, perceber uma diferênça entre essa última força
-e as anteriores, e essa última.
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Força elétrica entre dois objetos à 2 cm de distância.
+  </p>
+  <img src="./pictures/coulomb-law-2cm.png"
+       alt="Força elétrica entre duas cargas a 2 cm de distância"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor a partir da simulação
+    <a href="https://phet.colorado.edu/pt_BR/simulations/coulombs-law" target="_blank">Lei de Coulomb - PhET</a>.
+  </p>
+</div>
+#+END_EXPORT
 
-Se você quebrar um íman ao meio, tentando separar o polo sul do polo
-norte, você terá dois imans, mas cada um com seu polo sul e polo
-norte.
+III. A força magnética é
+
+III.a) proporcional ao produto das "cargas magnéticas"
+
+\( F \propto m_1 m_2 \)
+
+III.b) inversamente proporcional ao quadrado da distância
+
+\( F \propto \frac{1}{d^2} \)
+
+
+Mas, aqui, o que seria essa carga magnética? Ao começar a investigar
+isso, podemos também perceber uma diferença entre essa força e as
+anteriores.
+
+Se você quebrar um ímã ao meio, tentando separar o polo sul do polo
+norte, você terá dois ímãs, mas cada um deles com seu polo sul e seu
+polo norte.
 
 Esse comportamento pode ser expresso pela seguinte afirmação
 
@@ -1102,75 +1124,326 @@ Esse comportamento pode ser expresso pela seguinte afirmação
 Não existe monopolo magnético!
 #+end_quote
 
+Ou seja, de forma mais simplista
+#+begin_quote
+Não é possível ter uma carga magnética (como um ímã) com apenas um
+polo (sul ou norte).
+#+end_quote
 
-** Ímãns e campo magnético
+** Ímãs e campo magnético
 
+Um ímã é um corpo que possui dois polos, norte e sul, e que exerce
+força magnética sobre outros ímãs ou sobre materiais ferromagnéticos,
+como o ferro, o níquel e o cobalto. Uma bússola nada mais é do que uma
+pequena agulha imantada que se orienta na presença de um campo
+magnético.
 
-Titulo: Atração entre búsola e íman
-[[file:public/iman-busola.png]] 
-Fonte:
-[[https://phet.colorado.edu/pt_BR/simulations/magnet-and-compass][Simulação: Ímã e Bússola - https://phet.colorado.edu]] 
+#+begin_quote
+O campo magnético (\( \vec{B} \)) é a região do espaço ao redor de um
+ímã (ou de uma corrente elétrica) onde ele pode exercer força
+magnética. Sua unidade de medida no SI é o tesla (\(T\)).
+#+end_quote
 
-Título: Atração entre búsola e terra
-file:./public/terra-busola.png
-Fonte:
-[[https://phet.colorado.edu/pt_BR/simulations/magnet-and-compass][Simulação: Ímã e Bússola - https://phet.colorado.edu]]
+As linhas de campo magnético saem do polo norte e entram no polo sul,
+por fora do ímã, formando sempre linhas fechadas. Isso é consequência
+de não existir monopolo magnético.
 
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Bússola próxima a um ímã permanente.
+  </p>
+  <img src="./pictures/iman-busola.png"
+       alt="Bússola próxima a um ímã permanente"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor a partir da simulação
+    <a href="https://phet.colorado.edu/pt_BR/simulations/magnet-and-compass" target="_blank">Ímã e Bússola - PhET</a>.
+  </p>
+</div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Bússola orientada pelo campo magnético da Terra.
+  </p>
+  <img src="./pictures/terra-busola.png"
+       alt="Bússola orientada pelo campo magnético da Terra"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor a partir da simulação
+    <a href="https://phet.colorado.edu/pt_BR/simulations/magnet-and-compass" target="_blank">Ímã e Bússola - PhET</a>.
+  </p>
+</div>
+#+END_EXPORT
+
+O campo magnético da Terra (campo geomagnético) é o que orienta a
+agulha da bússola. O polo norte geográfico está próximo do polo sul
+magnético da Terra, e é por isso que o polo norte da agulha aponta
+nessa direção.
 
 ** Magnetismo e corrente elétrica
 
-[[https://phet.colorado.edu/pt_BR/simulations/magnets-and-electromagnets][Simulação: Ímãs e Eletroímãs - https://phet.colorado.edu]] 
+Em 1820, o físico dinamarquês Hans Christian Oersted observou que a
+agulha de uma bússola era desviada quando colocada próxima a um fio
+percorrido por corrente elétrica. Esse experimento mostrou que cargas
+elétricas em movimento geram campo magnético.
+
+#+begin_quote
+Toda corrente elétrica produz um campo magnético ao seu redor!
+#+end_quote
+
+Essa descoberta unificou a eletricidade e o magnetismo, dando origem ao
+eletromagnetismo. Um fio enrolado em forma de hélice (bobina ou
+solenoide) produz, no seu interior, um campo magnético semelhante ao de
+um ímã em barra.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Corrente elétrica gerando campo magnético.
+  </p>
+  <img src="./pictures/corrente-magnetica.png"
+       alt="Corrente elétrica gerando campo magnético"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor a partir da simulação
+    <a href="https://phet.colorado.edu/pt_BR/simulations/magnets-and-electromagnets" target="_blank">Ímãs e Eletroímãs - PhET</a>.
+  </p>
+</div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Bobina ligada a uma pilha e seu campo magnético.
+  </p>
+  <img src="./pictures/bobina-pilha.png"
+       alt="Bobina ligada a uma pilha"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor a partir da simulação
+    <a href="https://phet.colorado.edu/pt_BR/simulations/magnets-and-electromagnets" target="_blank">Ímãs e Eletroímãs - PhET</a>.
+  </p>
+</div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Campo magnético no interior de uma bobina com 2 voltas.
+  </p>
+  <img src="./pictures/bobina-2-voltas.png"
+       alt="Bobina com 2 voltas"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor a partir da simulação
+    <a href="https://phet.colorado.edu/pt_BR/simulations/magnets-and-electromagnets" target="_blank">Ímãs e Eletroímãs - PhET</a>.
+  </p>
+</div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Campo magnético no interior de uma bobina com 4 voltas.
+  </p>
+  <img src="./pictures/bobina-4-voltas.png"
+       alt="Bobina com 4 voltas"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor a partir da simulação
+    <a href="https://phet.colorado.edu/pt_BR/simulations/magnets-and-electromagnets" target="_blank">Ímãs e Eletroímãs - PhET</a>.
+  </p>
+</div>
+#+END_EXPORT
+
+Comparando as duas últimas figuras (mesma corrente e mesmo núcleo),
+vemos que, dobrando o número de voltas, o campo magnético no interior
+da bobina também dobra. Assim, o campo é proporcional ao número de
+voltas da bobina.
 
 ** Motor elétrico
 
-Figura:
-https://pt.wikipedia.org/wiki/Ficheiro:RadialReciprocatingElectricMotor.gif
+O motor elétrico é um dispositivo que converte energia elétrica em
+energia mecânica (movimento), aproveitando a força que um campo
+magnético exerce sobre um condutor percorrido por corrente elétrica.
 
-** Indução Magnética
+#+begin_quote
+Em um motor, a corrente elétrica percorre uma espira imersa em um campo
+magnético. A força magnética sobre os lados da espira produz um
+torque, que a faz girar.
+#+end_quote
 
-Figura:
+Os motores de corrente contínua (CC) são alimentados por tensão
+contínua, como pilhas e baterias. Já os motores de corrente alternada
+(CA) são alimentados pela rede elétrica, cuja tensão varia
+periodicamente, o que mantém o motor girando de forma contínua.
 
-Fonte:
-https://phet.colorado.edu/pt_BR/simulations/faradays-electromagnetic-lab
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    <a href="https://pt.wikipedia.org/wiki/Motor_el%C3%A9trico" target="_blank">Motor elétrico</a> – Princípio de funcionamento.
+  </p>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/RadialReciprocatingElectricMotor.gif"
+       alt="Animação do princípio de funcionamento de um motor elétrico"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:RadialReciprocatingElectricMotor.gif">Wikimedia Commons</a>,
+    domínio público, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Motor de corrente contínua (CC).
+  </p>
+  <img src="./pictures/motor-cc.png"
+       alt="Esquema de um motor de corrente contínua"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://www.youtube.com/watch?v=mQaKVjsJR7Y" target="_blank">Motor CC, Como funciona? - Canal JAES Company Português</a>.
+  </p>
+</div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Motor de corrente alternada (CA).
+  </p>
+  <img src="./pictures/motor-ca.png"
+       alt="Esquema de um motor de corrente alternada"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://youtu.be/xtVzj9Au63k" target="_blank">How AC Motors Work - Canal Let's Grow Up</a>.
+  </p>
+</div>
+#+END_EXPORT
+
+** Indução magnética
+
+Assim como uma corrente elétrica gera um campo magnético, o contrário
+também acontece: um campo magnético variável pode gerar corrente
+elétrica em um circuito. Esse fenômeno é chamado de indução
+eletromagnética e foi descoberto por Michael Faraday em 1831.
+
+#+begin_quote
+Lei de Faraday: a força eletromotriz (\( \varepsilon \)) induzida em um
+circuito é proporcional à taxa de variação do fluxo magnético
+(\( \Phi_B \)) que o atravessa.
+#+end_quote
+
+\begin{equation}
+\varepsilon = -\frac{\Delta \Phi_B}{\Delta t}
+\end{equation}
+
+O sinal negativo é consequência da Lei de Lenz: a corrente induzida
+sempre se opõe à variação do fluxo magnético que a originou.
+
+Para explorar esse fenômeno, veja a simulação
+[[https://phet.colorado.edu/pt_BR/simulations/faradays-electromagnetic-lab][Laboratório Eletromagnético de Faraday - phet.colorado.edu]].
 
 ** Gerador elétrico
 
+O gerador elétrico é o dispositivo que converte energia mecânica em
+energia elétrica, funcionando como o oposto do motor. Ao girar uma
+espira (ou bobina) dentro de um campo magnético, o fluxo magnético que
+a atravessa varia e, pela Lei de Faraday, surge uma força eletromotriz
+induzida — ou seja, uma corrente elétrica.
 
+#+begin_quote
+Motor: energia elétrica \(\rightarrow\) energia mecânica.
+Gerador: energia mecânica \(\rightarrow\) energia elétrica.
+#+end_quote
+
+Assim, motores e geradores são essencialmente o mesmo dispositivo,
+operando em sentidos opostos de conversão de energia.
 
 ** Materiais magnéticos
 
-- Neodímio-Ferro-Boro (NdFeB)
-- Samráio-Cobalto (SmCo)
+Quanto ao comportamento na presença de um campo magnético, os
+materiais podem ser classificados em:
+
+- Ferromagnéticos: são fortemente atraídos por ímãs e podem se tornar
+  ímãs permanentes. Exemplos: ferro, níquel, cobalto e suas ligas.
+- Paramagnéticos: são fracamente atraídos por ímãs. Exemplos: alumínio
+  e platina.
+- Diamagnéticos: são fracamente repelidos por ímãs. Exemplos: cobre,
+  água e bismuto.
+
+- Ímãs permanentes
+
+  - Neodímio-Ferro-Boro (NdFeB)
+  - Samário-Cobalto (SmCo)
+
+- Eletroímãs
+
+  - Ímãs temporários produzidos pela passagem de corrente elétrica em
+    uma bobina, geralmente com um núcleo de ferro.
 
 ** Resumo
-- Comparação entre forças: gravitacional, elétrica, magnética
+
+- Comparação entre forças: gravitacional, elétrica e magnética
 - Campo magnético
 - Origem do magnetismo
   - Movimento da carga elétrica gerando magnetismo
     - Lei de Biot-Savart
     - Lei de Ampère
-  - Magnetismo intríseco das partículas elementares: SPIN
+  - Magnetismo intrínseco das partículas elementares: SPIN
 - Magnetismo gerando corrente elétrica
   - Lei da indução de Faraday
-- Motor Elétrico
-- Gerador Elétrico
+- Motor elétrico
+- Gerador elétrico
 
 * Eletromagnetismo
 
 ** Indução magnética
 
-[[https://phet.colorado.edu/pt_BR/simulations/faradays-electromagnetic-lab][Simulação Laboratório Eletromagnético de Faraday - phet.colorado.edu]] 
+[[https://phet.colorado.edu/pt_BR/simulations/faradays-electromagnetic-lab][Simulação Laboratório Eletromagnético de Faraday - phet.colorado.edu]]
 
+[[https://phet.colorado.edu/pt_BR/simulations/faradays-law][Simulação: Lei de Faraday - https://phet.colorado.edu]]
 
-[[https://phet.colorado.edu/pt_BR/simulations/faradays-law][Simulação: Lei de Faraday - https://phet.colorado.edu]] 
+A Lei de Faraday relaciona a força eletromotriz induzida à variação do
+fluxo magnético através de um circuito. A Lei de Lenz determina o
+sentido da corrente induzida, que sempre se opõe à variação do fluxo.
 
 ** Gerador
 
-[[https://phet.colorado.edu/pt_BR/simulations/generator][Simulação: gerador - https://phet.colorado.edu]] 
+[[https://phet.colorado.edu/pt_BR/simulations/generator][Simulação: gerador - https://phet.colorado.edu]]
+
+O gerador transforma energia mecânica (rotação) em energia elétrica por
+indução eletromagnética.
 
 ** Transformadores
 
+O transformador é um dispositivo que altera os valores de tensão e de
+corrente alternada, sem mudar a frequência. Ele é formado por duas
+bobinas (primária e secundária) enroladas em um mesmo núcleo de ferro.
+
+#+begin_quote
+A razão entre as tensões é igual à razão entre o número de espiras das
+bobinas.
+#+end_quote
+
+\begin{equation}
+\frac{V_p}{V_s} = \frac{N_p}{N_s}
+\end{equation}
+
+onde \(V_p\) e \(V_s\) são as tensões na primária e na secundária, e
+\(N_p\) e \(N_s\) os respectivos números de espiras.
+
+- Se \(N_s > N_p\), o transformador *eleva* a tensão.
+- Se \(N_s < N_p\), o transformador *reduz* a tensão.
+
 ** Motores
+
+Os motores elétricos utilizam a força magnética sobre condutores
+percorridos por corrente elétrica para converter energia elétrica em
+energia mecânica (ver [[* Noções sobre força magnética][Noções sobre força magnética]]).
 
 * Física moderna
 

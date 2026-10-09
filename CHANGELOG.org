@@ -12,3 +12,6 @@ ser adicionados com o comando =/registrar-alteracao=.
 - editado: AGENTS.md (21:20)
 - editado: README.org (20:43)
 - editado: README.md (20:43)
+
+* 2026-10-09
+- editado: content/fisica-3.org (00:08)

@@ -1080,7 +1080,6 @@ Fonte:
 
 
 
-
 ** Escalas termométricas
 
 Principais escalas de temperatura: 
@@ -1121,18 +1120,153 @@ Principais escalas de temperatura:
 
 \[ T_k = T_C + 273\]
 
+** Transformações de energia
+
+*** Propoagação de calor
+
+**** Condução
+
+Calor é conduzido ponto a ponto, onde a energia sendo transferida por
+colisões a nível molecular. 
+
+
+#+CAPTION: Calor sendo transferido por condução.
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <a href="https://upload.wikimedia.org/wikipedia/commons/2/2d/Heat-conduction.svg" target="_blank">
+    <img width="512" alt="Ilustração da condução de calor" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Heat-conduction.svg" style="width:100%; height:auto;">
+  </a>
+  <p style="font-style:italic; font-size:0.9em;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Heat-conduction.svg">MikeRun</a>, 
+    <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+**** Convecção
+
+Em fluidos, a diferença de temperatura causa regiões com diferentes
+densidades, deviso a expansão térmica (relacionada à dilatação térmica). 
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Representação da convecção, onde o fluido aquecido sobe, enquanto o fluido frio desce.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Convection.gif"
+       alt="<a href=" "
+       style="width:60%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+
+
+ Fonte: 
+
+ <a href="https://commons.wikimedia.org/wiki/File:Convection.gif">User:Oni Lukos</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
+</p>
+</div>
+#+END_EXPORT
 
 
 
 
 
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+Um dissipador de calor proporcciona uma grande área de ruperfície para convecção, ótimizando a transferência de calor.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Radiator_FxJ_v2.JPG"
+       alt="<a href=" "
+       style="width:60%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
 
+ Fonte: <a href="https://commons.wikimedia.org/wiki/File:Radiator_FxJ_v2.JPG">FxJ</a>, Public domain, via Wikimedia Commons
+</p>
+</div>
+#+END_EXPORT
+
+
+**** Irradiação
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Emissão de infra vermelho por um cachorro. 
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Infrared_dog.jpg"
+       alt="infrared_dog.jpg"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Infrared_dog.jpg">NASA/IPAC</a>, Public domain, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+   O <a href="https://pt.wikipedia.org/wiki/Espectro_eletromagn%C3%A9tico" target="_blank"> espectro eletromagnético </a> em função da temperatura de emissão (entre outras informaçẽs).
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Espectro_EM_pt.svg"
+       alt="Espectro_EM_pt.svg"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Espectro_EM_pt.svg">Khemis</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+
+*** Energia Mecânica em energia elétrica
+
+https://phet.colorado.edu/pt_BR/simulations/generator
+
+*** Energia Mecânica em Calor
+
+
+*** Energia química em calor
+
+- combustão
+
+*** Energia térmica em ondas eletromagnéticas
+
+- Irradiação 
 ** Mudanças de Fase
+
+https://phet.colorado.edu/pt_BR/simulations/states-of-matter
 
 * TÓPICOS EM TERMODINÂMICA - PARTE 2
 ** Tópicos da ementa abordados nessa seção
   - Calorimetria nos alimentos, Propagação do calor nos alimentos,
   - Níveis de energia dos alimentos,
+** Capacidade térmica
+* APLICAÇÕES
+
+** Garrafa Térmica
+
+- [[https://www.youtube.com/watch?v=kBRxfenqkWA&pp=ygUeZ2FycmFmYSB0w6lybWljYSBjb21vIGZ1bmNpb25h0gcJCTUMAYcqIYzv][A garrafa térmica e a propagação do calor - canal: REA de Ciências]]
+
+** Aparelho Microondas
+
+- [[https://www.youtube.com/watch?v=dCxJ4K649Cw&pp=ygUZZnVuY2lvbmFtZW50byBtaWNyb29uZGFzIA%3D%3D][Forno Micro-ondas | Como funciona? - Canal: JAES Company Português]]
+
+** Panela de pressão
+
+- [[https://youtu.be/lXuXP2scW7g][Como funciona uma panela de pressão? - Canal: Planeta Química -
+  Prof. Emiliano Chemello]] 
+
+** Refrigeradores
+
+- [[https://youtu.be/EIP3pSio7-M][How Does A Refrigerator Work? - The Explained Channel]] 
 
 * TÓPICOS EM ÓPTICA
 ** Tópicos da ementa abordados nessa seção
