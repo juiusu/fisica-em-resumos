@@ -297,6 +297,7 @@ iremos considerá-las sinônimos.
 
 * Eletrodinâmica
 
+** introdução
 Aqui começaremos a considerar as cargas elétricas em movimento.
 
 Como apliação direta dessa área da física temos os circuitos
@@ -1000,7 +1001,8 @@ ou
 
 
 
-* Noções sobre força magnética
+* Magnetismo e Eletricidade
+** Noções sobre força magnética
 
 Todos nós já tivemos alguma experiência com imãs, e já experimentamos
 a atração magnética de alguma forma. Sabemos que dois imãs podem se
@@ -1400,50 +1402,7 @@ materiais podem ser classificados em:
 - Gerador elétrico
 
 * Eletromagnetismo
-
-** Indução magnética
-
-[[https://phet.colorado.edu/pt_BR/simulations/faradays-electromagnetic-lab][Simulação Laboratório Eletromagnético de Faraday - phet.colorado.edu]]
-
-[[https://phet.colorado.edu/pt_BR/simulations/faradays-law][Simulação: Lei de Faraday - https://phet.colorado.edu]]
-
-A Lei de Faraday relaciona a força eletromotriz induzida à variação do
-fluxo magnético através de um circuito. A Lei de Lenz determina o
-sentido da corrente induzida, que sempre se opõe à variação do fluxo.
-
-** Gerador
-
-[[https://phet.colorado.edu/pt_BR/simulations/generator][Simulação: gerador - https://phet.colorado.edu]]
-
-O gerador transforma energia mecânica (rotação) em energia elétrica por
-indução eletromagnética.
-
-** Transformadores
-
-O transformador é um dispositivo que altera os valores de tensão e de
-corrente alternada, sem mudar a frequência. Ele é formado por duas
-bobinas (primária e secundária) enroladas em um mesmo núcleo de ferro.
-
-#+begin_quote
-A razão entre as tensões é igual à razão entre o número de espiras das
-bobinas.
-#+end_quote
-
-\begin{equation}
-\frac{V_p}{V_s} = \frac{N_p}{N_s}
-\end{equation}
-
-onde \(V_p\) e \(V_s\) são as tensões na primária e na secundária, e
-\(N_p\) e \(N_s\) os respectivos números de espiras.
-
-- Se \(N_s > N_p\), o transformador *eleva* a tensão.
-- Se \(N_s < N_p\), o transformador *reduz* a tensão.
-
-** Motores
-
-Os motores elétricos utilizam a força magnética sobre condutores
-percorridos por corrente elétrica para converter energia elétrica em
-energia mecânica (ver [[* Noções sobre força magnética][Noções sobre força magnética]]).
+** Ondas eletromagnéticas
 
 * Física moderna
 
@@ -1472,3 +1431,7 @@ energia mecânica (ver [[* Noções sobre força magnética][Noções sobre for�
 ** [[file:atividade-fis3-u3-a2.org][Atividade avaliativa 2 - unidade 3]]
 
 ** [[file:lista-magnetismo-1.org]]
+
+** [[file:lista-eletromagnetismo-vf.org][Lista de exercícios: Eletromagnetismo (verdadeiro ou falso)]]
+
+** 

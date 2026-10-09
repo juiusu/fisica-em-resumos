@@ -1,0 +1,643 @@
+#+title: Exercícios: Eletromagnetismo (V ou F)
+#+options: toc:2
+#+language: pt-BR
+
+* Instruções
+
+Esta lista reúne questões de verdadeiro ou falso sobre o bloco de
+eletromagnetismo estudado em Física III: ímãs e campo magnético,
+magnetismo e corrente elétrica, motores, indução eletromagnética,
+geradores, materiais magnéticos e transformadores.
+
+Em cada questão, classifique as cinco afirmações como **verdadeiras
+(V)** ou **falsas (F)** e assinale a alternativa que apresenta a
+sequência correta.
+
+* Questões
+
+** Questão 1 — Forças fundamentais
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: forças, gravitação, eletrostática, magnetismo
+:END:
+
+Sobre a comparação entre as forças gravitacional, eletrostática e
+magnética, julgue as afirmações a seguir.
+
+(   ) As três forças diminuem quando a distância entre os corpos aumenta.
+
+(   ) Se a distância entre dois corpos dobra, a força fica quatro vezes menor.
+
+(   ) A força magnética depende apenas da distância, e não da magnetização dos ímãs.
+
+(   ) A força gravitacional é proporcional ao produto das massas.
+
+(   ) A força elétrica é inversamente proporcional à distância, e não ao seu quadrado.
+
+#+BEGIN_EXPORT html
+a) V - F - F - V - F    b) V - V - V - V - F    c) V - V - F - V - F    d) F - V - F - V - F    e) V - V - F - F - V
+#+END_EXPORT
+
+** Questão 2 — Atração e repulsão entre polos
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: ímãs, polos, atração, repulsão
+:END:
+
+Sobre a interação entre ímãs, julgue as afirmações.
+
+(   ) Polos de mesmo nome se repelem e polos de nomes diferentes se atraem.
+
+(   ) Dois polos norte sempre se atraem.
+
+(   ) A força entre dois ímãs pode ser de atração ou de repulsão, dependendo da orientação dos polos.
+
+(   ) Se aproximarmos o polo sul de um ímã do polo sul de outro, haverá atração.
+
+(   ) Ímãs exercem força sobre outros ímãs mesmo sem contato direto.
+
+#+BEGIN_EXPORT html
+a) F - F - V - F - V    b) V - F - V - F - V    c) V - V - F - V - F    d) V - F - V - V - F    e) V - F - F - F - V
+#+END_EXPORT
+
+** Questão 3 — Monopolo magnético
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: magnetismo, monopolo, ímãs
+:END:
+
+Sobre a existência de polos magnéticos isolados, julgue as afirmações.
+
+(   ) É possível isolar um polo norte magnético, separando-o do polo sul.
+
+(   ) Ao quebrar um ímã ao meio, obtemos dois ímãs, cada um com polo norte e polo sul.
+
+(   ) Existem monopolos magnéticos na natureza, assim como existem cargas elétricas isoladas.
+
+(   ) Não existe monopolo magnético.
+
+(   ) As linhas de campo magnético são sempre fechadas, pois não há monopolo.
+
+#+BEGIN_EXPORT html
+a) V - F - F - V - V    b) F - F - F - V - V    c) F - V - V - V - F    d) F - V - F - F - V    e) F - V - F - V - V
+#+END_EXPORT
+
+** Questão 4 — Campo magnético e unidade
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: campo magnético, tesla, grandezas
+:END:
+
+Sobre o conceito de campo magnético, julgue as afirmações.
+
+(   ) O campo magnético é a região ao redor de um ímã ou de uma corrente onde se manifesta a força magnética.
+
+(   ) A unidade de campo magnético no SI é o volt (V).
+
+(   ) A unidade de campo magnético no SI é o tesla (T).
+
+(   ) O campo magnético só existe dentro do ímã; fora dele não há campo.
+
+(   ) O campo magnético é uma grandeza vetorial, com módulo, direção e sentido.
+
+#+BEGIN_EXPORT html
+a) V - V - F - F - V    b) F - F - V - F - V    c) V - F - F - F - V    d) V - F - V - F - V    e) V - F - V - V - F
+#+END_EXPORT
+
+** Questão 5 — Linhas de campo magnético
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: campo magnético, linhas de campo
+:END:
+
+Sobre as linhas de campo magnético, julgue as afirmações.
+
+(   ) Por fora do ímã, as linhas de campo saem do polo norte e entram no polo sul.
+
+(   ) As linhas de campo magnético podem se cruzar em um mesmo ponto.
+
+(   ) Regiões onde as linhas de campo estão mais próximas indicam campo magnético mais intenso.
+
+(   ) As linhas de campo magnético formam sempre linhas fechadas.
+
+(   ) As linhas de campo magnético começam e terminam em um único polo, como acontece com as cargas elétricas.
+
+#+BEGIN_EXPORT html
+a) V - F - F - V - F    b) V - F - V - F - F    c) V - V - V - V - F    d) V - F - V - V - V    e) V - F - V - V - F
+#+END_EXPORT
+
+** Questão 6 — Bússola e campo magnético da Terra
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: bússola, campo geomagnético, ímãs
+:END:
+
+As figuras mostram uma bússola próxima a um ímã permanente e uma
+bússola orientada pelo campo magnético da Terra. Com base nelas, julgue
+as afirmações.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Bússola próxima a um ímã permanente.
+  </p>
+  <img src="./pictures/iman-busola.png"
+       alt="Bússola próxima a um ímã permanente"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor a partir da simulação
+    <a href="https://phet.colorado.edu/pt_BR/simulations/magnet-and-compass" target="_blank">Ímã e Bússola - PhET</a>.
+  </p>
+</div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Bússola orientada pelo campo magnético da Terra.
+  </p>
+  <img src="./pictures/terra-busola.png"
+       alt="Bússola orientada pelo campo magnético da Terra"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor a partir da simulação
+    <a href="https://phet.colorado.edu/pt_BR/simulations/magnet-and-compass" target="_blank">Ímã e Bússola - PhET</a>.
+  </p>
+</div>
+#+END_EXPORT
+
+(   ) A agulha da bússola se orienta na direção do campo magnético do local.
+
+(   ) O campo magnético da Terra orienta a agulha da bússola.
+
+(   ) O polo norte geográfico da Terra coincide exatamente com o polo norte magnético.
+
+(   ) Na primeira figura, a bússola sofre desvio por causa do campo do ímã.
+
+(   ) A bússola indica a direção do campo elétrico da Terra.
+
+#+BEGIN_EXPORT html
+a) V - V - F - V - F    b) V - F - V - V - F    c) V - V - V - F - F    d) F - V - F - V - F    e) V - V - F - F - V
+#+END_EXPORT
+
+** Questão 7 — Experimento de Oersted
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: Oersted, corrente elétrica, magnetismo
+:END:
+
+A figura mostra a corrente elétrica de um circuito gerando campo
+magnético. Sobre o experimento de Oersted, julgue as afirmações.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Corrente elétrica gerando campo magnético.
+  </p>
+  <img src="./pictures/corrente-magnetica.png"
+       alt="Corrente elétrica gerando campo magnético"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor a partir da simulação
+    <a href="https://phet.colorado.edu/pt_BR/simulations/magnets-and-electromagnets" target="_blank">Ímãs e Eletroímãs - PhET</a>.
+  </p>
+</div>
+#+END_EXPORT
+
+(   ) Oersted observou que uma bússola é desviada por um fio percorrido por corrente elétrica.
+
+(   ) Cargas elétricas em movimento geram campo magnético.
+
+(   ) Uma corrente elétrica produz apenas campo elétrico, e nunca campo magnético.
+
+(   ) O experimento de Oersted não teve relação com o magnetismo.
+
+(   ) O campo magnético ao redor de um fio depende da corrente que o percorre.
+
+#+BEGIN_EXPORT html
+a) V - V - F - F - F    b) V - F - V - F - F    c) V - V - F - V - F    d) F - V - F - F - V    e) V - V - V - F - F
+#+END_EXPORT
+
+** Questão 8 — Bobina, solenoide e eletroímã
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: bobina, solenoide, eletroímã
+:END:
+
+A figura mostra uma bobina ligada a uma pilha e o campo magnético
+produzido. Sobre bobinas e eletroímãs, julgue as afirmações.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Bobina ligada a uma pilha e seu campo magnético.
+  </p>
+  <img src="./pictures/bobina-pilha.png"
+       alt="Bobina ligada a uma pilha"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor a partir da simulação
+    <a href="https://phet.colorado.edu/pt_BR/simulations/magnets-and-electromagnets" target="_blank">Ímãs e Eletroímãs - PhET</a>.
+  </p>
+</div>
+#+END_EXPORT
+
+(   ) Uma bobina percorrida por corrente se comporta como um ímã em barra.
+
+(   ) O campo magnético de um eletroímã existe enquanto há corrente elétrica.
+
+(   ) Ao desligar a corrente, o eletroímã continua produzindo campo magnético permanente.
+
+(   ) Um eletroímã pode ter núcleo de ferro para intensificar o campo.
+
+(   ) O campo magnético no interior de um solenoide depende da corrente que o percorre.
+
+#+BEGIN_EXPORT html
+a) V - F - V - V - F    b) V - V - V - F - F    c) V - V - F - V - V    d) V - V - F - V - F    e) F - V - F - V - V
+#+END_EXPORT
+
+** Questão 9 — Campo da bobina e número de voltas
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: bobina, voltas, campo magnético
+:END:
+
+As figuras mostram a medição do campo no interior de uma bobina com 2
+voltas e com 4 voltas, mantendo a mesma pilha e a mesma corrente. Sobre
+esse experimento, julgue as afirmações.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Campo magnético no interior de uma bobina com 2 voltas.
+  </p>
+  <img src="./pictures/bobina-2-voltas.png"
+       alt="Bobina com 2 voltas"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor a partir da simulação
+    <a href="https://phet.colorado.edu/pt_BR/simulations/magnets-and-electromagnets" target="_blank">Ímãs e Eletroímãs - PhET</a>.
+  </p>
+</div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Campo magnético no interior de uma bobina com 4 voltas.
+  </p>
+  <img src="./pictures/bobina-4-voltas.png"
+       alt="Bobina com 4 voltas"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor a partir da simulação
+    <a href="https://phet.colorado.edu/pt_BR/simulations/magnets-and-electromagnets" target="_blank">Ímãs e Eletroímãs - PhET</a>.
+  </p>
+</div>
+#+END_EXPORT
+
+(   ) Mantendo a mesma corrente, aumentar o número de voltas aumenta o campo no interior da bobina.
+
+(   ) Dobrando o número de voltas, com a mesma corrente, o campo magnético no interior dobra.
+
+(   ) O número de voltas da bobina não influencia o campo magnético no seu interior.
+
+(   ) Aumentar a corrente elétrica na bobina aumenta o campo magnético produzido.
+
+(   ) O campo no interior da bobina depende apenas do material do núcleo, e não da corrente.
+
+#+BEGIN_EXPORT html
+a) V - V - F - V - V    b) V - V - V - F - F    c) V - V - F - V - F    d) V - F - V - V - F    e) F - V - F - V - F
+#+END_EXPORT
+
+** Questão 10 — Força magnética sobre um condutor
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: força magnética, condutor, corrente
+:END:
+
+Sobre a força magnética que atua em um condutor percorrido por
+corrente, julgue as afirmações.
+
+(   ) Um condutor percorrido por corrente, imerso em um campo magnético, pode sofrer força.
+
+(   ) A força magnética sobre o condutor depende da corrente e do campo magnético.
+
+(   ) A força magnética sobre um fio com corrente é sempre nula dentro de um ímã.
+
+(   ) A força magnética é a base do funcionamento dos motores elétricos.
+
+(   ) A direção da força magnética é perpendicular tanto ao campo quanto à corrente.
+
+#+BEGIN_EXPORT html
+a) V - V - F - V - V    b) V - V - V - F - V    c) V - F - V - V - V    d) F - V - F - V - V    e) V - V - F - F - V
+#+END_EXPORT
+
+** Questão 11 — Motor elétrico: energia e torque
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: motor elétrico, torque, energia
+:END:
+
+A figura ilustra um motor de corrente contínua. Sobre o motor
+elétrico, julgue as afirmações.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Motor de corrente contínua (CC).
+  </p>
+  <img src="./pictures/motor-cc.png"
+       alt="Esquema de um motor de corrente contínua"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://www.youtube.com/watch?v=mQaKVjsJR7Y" target="_blank">Motor CC, Como funciona? - Canal JAES Company Português</a>.
+  </p>
+</div>
+#+END_EXPORT
+
+(   ) O motor elétrico converte energia elétrica em energia mecânica.
+
+(   ) A força magnética sobre a espira produz um torque que a faz girar.
+
+(   ) O motor elétrico converte energia mecânica em energia elétrica.
+
+(   ) A corrente elétrica na espira não interfere no funcionamento do motor.
+
+(   ) O motor elétrico funciona sem a presença de campo magnético.
+
+#+BEGIN_EXPORT html
+a) V - V - F - F - F    b) V - F - V - F - F    c) V - V - F - V - F    d) F - V - F - F - V    e) V - V - V - F - F
+#+END_EXPORT
+
+** Questão 12 — Motores de corrente contínua e alternada
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: motor CC, motor CA, corrente alternada
+:END:
+
+As figuras mostram esquemas de um motor de corrente contínua (CC) e de
+um motor de corrente alternada (CA). Sobre esses motores, julgue as
+afirmações.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Motor de corrente contínua (CC).
+  </p>
+  <img src="./pictures/motor-cc.png"
+       alt="Esquema de um motor de corrente contínua"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://www.youtube.com/watch?v=mQaKVjsJR7Y" target="_blank">Motor CC, Como funciona? - Canal JAES Company Português</a>.
+  </p>
+</div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Motor de corrente alternada (CA).
+  </p>
+  <img src="./pictures/motor-ca.png"
+       alt="Esquema de um motor de corrente alternada"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://youtu.be/xtVzj9Au63k" target="_blank">How AC Motors Work - Canal Let's Grow Up</a>.
+  </p>
+</div>
+#+END_EXPORT
+
+(   ) Motores de corrente contínua (CC) são alimentados por tensão contínua, como pilhas e baterias.
+
+(   ) Motores de corrente alternada (CA) são alimentados pela rede elétrica.
+
+(   ) Motores CA e CC são idênticos e funcionam apenas com corrente contínua.
+
+(   ) Tanto motores CC quanto CA baseiam-se na força magnética sobre condutores com corrente.
+
+(   ) O motor CC não utiliza ímãs nem campo magnético.
+
+#+BEGIN_EXPORT html
+a) V - F - V - V - F    b) V - V - V - V - F    c) V - V - F - V - F    d) F - V - F - V - F    e) V - V - F - F - V
+#+END_EXPORT
+
+** Questão 13 — Fluxo magnético e indução
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: indução eletromagnética, fluxo magnético
+:END:
+
+Sobre o fluxo magnético e a indução eletromagnética, julgue as
+afirmações.
+
+(   ) A variação do fluxo magnético através de um circuito pode gerar corrente elétrica.
+
+(   ) A esse fenômeno damos o nome de indução eletromagnética.
+
+(   ) Um campo magnético constante, sem variação, sempre gera corrente induzida.
+
+(   ) O fluxo magnético depende do campo e da área atravessada.
+
+(   ) A indução eletromagnética foi descoberta por Michael Faraday.
+
+#+BEGIN_EXPORT html
+a) V - V - F - V - V    b) V - V - F - V - F    c) V - F - V - V - V    d) V - V - V - F - V    e) F - V - F - V - V
+#+END_EXPORT
+
+** Questão 14 — Lei de Faraday
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: lei de Faraday, força eletromotriz, indução
+:END:
+
+Sobre a lei de Faraday, julgue as afirmações.
+
+(   ) A força eletromotriz induzida é proporcional à taxa de variação do fluxo magnético.
+
+(   ) Quanto mais rápido varia o fluxo magnético, maior a força eletromotriz induzida.
+
+(   ) A lei de Faraday afirma que a corrente induzida independe da variação do fluxo.
+
+(   ) A lei de Faraday está associada à indução eletromagnética.
+
+(   ) A lei de Faraday só se aplica a ímãs permanentes, e não a bobinas.
+
+#+BEGIN_EXPORT html
+a) V - F - V - V - F    b) V - V - V - F - F    c) V - V - F - F - V    d) V - V - F - V - V    e) V - V - F - V - F
+#+END_EXPORT
+
+** Questão 15 — Lei de Lenz
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: dificil
+:tag: lei de Lenz, indução, sentido da corrente
+:END:
+
+Sobre a lei de Lenz, julgue as afirmações.
+
+(   ) A corrente induzida se opõe à variação do fluxo magnético que a originou.
+
+(   ) A lei de Lenz explica o sentido da corrente induzida.
+
+(   ) A corrente induzida tende a reforçar sempre a variação do fluxo.
+
+(   ) O sinal negativo na lei de Faraday está relacionado à lei de Lenz.
+
+(   ) A lei de Lenz contradiz a lei de Faraday.
+
+#+BEGIN_EXPORT html
+a) V - V - F - V - F    b) V - F - V - V - F    c) V - V - V - F - F    d) F - V - F - V - F    e) V - V - F - F - V
+#+END_EXPORT
+
+** Questão 16 — Gerador elétrico
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: gerador, indução, energia
+:END:
+
+Sobre o gerador elétrico, julgue as afirmações.
+
+(   ) O gerador elétrico converte energia mecânica em energia elétrica.
+
+(   ) O funcionamento do gerador baseia-se na indução eletromagnética.
+
+(   ) O gerador e o motor têm a mesma função: ambos convertem energia elétrica em mecânica.
+
+(   ) Ao girar uma bobina em um campo magnético, surge força eletromotriz induzida.
+
+(   ) O gerador não precisa de movimento nem de campo magnético para funcionar.
+
+#+BEGIN_EXPORT html
+a) V - F - V - V - F    b) V - V - F - V - F    c) V - V - V - F - F    d) F - V - F - V - F    e) V - V - F - F - V
+#+END_EXPORT
+
+** Questão 17 — Materiais magnéticos
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: ferromagnéticos, paramagnéticos, diamagnéticos
+:END:
+
+Sobre o comportamento dos materiais na presença de um campo
+magnético, julgue as afirmações.
+
+(   ) Materiais ferromagnéticos são fortemente atraídos por ímãs.
+
+(   ) Ferro, níquel e cobalto são exemplos de materiais ferromagnéticos.
+
+(   ) Materiais diamagnéticos são fortemente atraídos por ímãs.
+
+(   ) Materiais paramagnéticos são fracamente atraídos por ímãs.
+
+(   ) Todos os materiais se comportam da mesma forma na presença de um ímã.
+
+#+BEGIN_EXPORT html
+a) V - F - V - V - F    b) V - V - V - V - F    c) V - V - F - V - F    d) F - V - F - V - F    e) V - V - F - F - V
+#+END_EXPORT
+
+** Questão 18 — Ímãs permanentes e eletroímãs
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: ímãs permanentes, eletroímãs, neodímio
+:END:
+
+Sobre ímãs permanentes e eletroímãs, julgue as afirmações.
+
+(   ) O neodímio-ferro-boro (NdFeB) é usado em ímãs permanentes.
+
+(   ) Um eletroímã é um ímã temporário produzido pela corrente em uma bobina.
+
+(   ) Um eletroímã mantém seu magnetismo permanente mesmo sem corrente.
+
+(   ) O núcleo de ferro pode intensificar o campo de um eletroímã.
+
+(   ) Todos os eletroímãs são ímãs permanentes.
+
+#+BEGIN_EXPORT html
+a) V - F - V - V - F    b) V - V - V - F - F    c) V - V - F - F - V    d) V - V - F - V - F    e) F - V - F - V - F
+#+END_EXPORT
+
+** Questão 19 — Transformadores: relação de espiras
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: transformadores, espiras, tensão
+:END:
+
+Sobre a relação entre tensão e número de espiras em um transformador,
+julgue as afirmações.
+
+(   ) O transformador é formado por duas bobinas enroladas em um núcleo comum.
+
+(   ) A razão entre as tensões é igual à razão entre o número de espiras.
+
+(   ) A tensão na secundária independe do número de espiras da secundária.
+
+(   ) Se a secundária tem mais espiras que a primária, a tensão é elevada.
+
+(   ) O transformador funciona apenas com corrente contínua constante.
+
+#+BEGIN_EXPORT html
+a) V - F - V - V - F    b) V - V - V - F - F    c) V - V - F - F - V    d) V - V - F - V - V    e) V - V - F - V - F
+#+END_EXPORT
+
+** Questão 20 — Transformadores: tensão e potência
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: dificil
+:tag: transformadores, potência, elevação, redução
+:END:
+
+Sobre a elevação e a redução de tensão em transformadores, julgue as
+afirmações.
+
+(   ) Um transformador elevador aumenta a tensão.
+
+(   ) Um transformador redutor diminui a tensão.
+
+(   ) Um transformador ideal aumenta a potência fornecida.
+
+(   ) Em um transformador ideal, a potência de entrada é igual à de saída, desprezando perdas.
+
+(   ) O transformador altera a frequência da corrente alternada.
+
+#+BEGIN_EXPORT html
+a) V - V - F - V - F    b) V - F - V - V - F    c) V - V - V - F - F    d) F - V - F - V - F    e) V - V - F - F - V
+#+END_EXPORT
