@@ -39,9 +39,9 @@ Sugestões dos alunos serão sempre bem-vindas.
 * [[file:fisica-2.org][Física II]]
 
 * [[file:fisica-3.org][Física III]]
-
 * [[file:fisica-aplicada-TA.org][FÍSICA APLICADA: Curso Superior em Tecnologia de Alimentos]]
 * [[file:fisica-aplicada-TPQ.org][FÍSICA APLICADA: Curso Superior em Tecnologia de Processos Químicos]]
+* [[topicos-fisica-sociedade.org][Tópicos de Física e Sociedade]]
 * 
 
 * Referências

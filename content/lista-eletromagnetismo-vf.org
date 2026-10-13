@@ -98,7 +98,7 @@ a) V - F - F - V - V    b) F - F - F - V - V    c) F - V - V - V - F    d) F - V
 
 Sobre o conceito de campo magnético, julgue as afirmações.
 
-(   ) O campo magnético é a região ao redor de um ímã ou de uma corrente onde se manifesta a força magnética.
+(   ) O campo magnético está ao redor de um ímã ou de uma corrente, onde pode se manifesta a força magnética sobre uma carga magnética colocada ali (uma búlsola, ou pequeno ímã, por exemplo).
 
 (   ) A unidade de campo magnético no SI é o volt (V).
 
@@ -637,6 +637,118 @@ afirmações.
 (   ) Em um transformador ideal, a potência de entrada é igual à de saída, desprezando perdas.
 
 (   ) O transformador altera a frequência da corrente alternada.
+
+#+BEGIN_EXPORT html
+a) V - V - F - V - F    b) V - F - V - V - F    c) V - V - V - F - F    d) F - V - F - V - F    e) V - V - F - F - V
+#+END_EXPORT
+
+** Questão 21 — Lei de Faraday e indução eletromagnética
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: lei de Faraday, indução, fluxo magnético, gerador
+:END:
+
+As figuras mostram o giro de um ímã próximo a uma bobina ligada a um
+voltímetro, em dois momentos distintos. Com base nelas, julgue as
+afirmações.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Giro do ímã gerando tensão elétrica positiva (do ponto de vista do voltímetro acoplado).
+  </p>
+  <img src="./pictures/faraday-gerador1.png"
+       alt="Gerador de Faraday: ímã girando e voltímetro indicando tensão positiva"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor a partir da simulação
+    <a href="https://phet.colorado.edu/sims/html/faradays-electromagnetic-lab/latest/faradays-electromagnetic-lab_all.html?locale=pt_BR" target="_blank">Laboratório Eletromagnético de Faraday - PhET</a>.
+  </p>
+</div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Giro do ímã gerando tensão elétrica negativa (do ponto de vista do voltímetro acoplado).
+  </p>
+  <img src="./pictures/faraday-gerador2.png"
+       alt="Gerador de Faraday: ímã girando e voltímetro indicando tensão negativa"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor a partir da simulação
+    <a href="https://phet.colorado.edu/sims/html/faradays-electromagnetic-lab/latest/faradays-electromagnetic-lab_all.html?locale=pt_BR" target="_blank">Laboratório Eletromagnético de Faraday - PhET</a>.
+  </p>
+</div>
+#+END_EXPORT
+
+(   ) A rotação do ímã provoca variação do fluxo magnético que atravessa a bobina.
+
+(   ) A variação do fluxo magnético induz uma tensão elétrica na bobina, medida pelo voltímetro.
+
+(   ) A tensão induzida independe do movimento do ímã; basta que ele esteja próximo à bobina.
+
+(   ) A força eletromotriz induzida é proporcional à taxa de variação do fluxo magnético.
+
+(   ) Como o ímã está sempre girando, a tensão induzida tem sempre o mesmo sinal.
+
+#+BEGIN_EXPORT html
+a) V - F - V - V - F    b) V - V - V - F - F    c) V - V - F - V - F    d) F - V - F - V - F    e) V - V - F - F - V
+#+END_EXPORT
+
+** Questão 22 — Gerador elétrico
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: gerador, corrente alternada, energia, indução
+:END:
+
+Considere as mesmas figuras da questão anterior, que mostram um
+dispositivo no qual o giro de um ímã gera tensão elétrica em uma
+bobina. Julgue as afirmações.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Giro do ímã gerando tensão elétrica positiva (do ponto de vista do voltímetro acoplado).
+  </p>
+  <img src="./pictures/faraday-gerador1.png"
+       alt="Gerador de Faraday: ímã girando e voltímetro indicando tensão positiva"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor a partir da simulação
+    <a href="https://phet.colorado.edu/sims/html/faradays-electromagnetic-lab/latest/faradays-electromagnetic-lab_all.html?locale=pt_BR" target="_blank">Laboratório Eletromagnético de Faraday - PhET</a>.
+  </p>
+</div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Giro do ímã gerando tensão elétrica negativa (do ponto de vista do voltímetro acoplado).
+  </p>
+  <img src="./pictures/faraday-gerador2.png"
+       alt="Gerador de Faraday: ímã girando e voltímetro indicando tensão negativa"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor a partir da simulação
+    <a href="https://phet.colorado.edu/sims/html/faradays-electromagnetic-lab/latest/faradays-electromagnetic-lab_all.html?locale=pt_BR" target="_blank">Laboratório Eletromagnético de Faraday - PhET</a>.
+  </p>
+</div>
+#+END_EXPORT
+
+(   ) A energia mecânica da rotação do ímã é convertida em energia elétrica.
+
+(   ) Como a tensão se alterna, ora positiva, ora negativa, o dispositivo ilustra um gerador de corrente alternada.
+
+(   ) O dispositivo mostrado funciona como motor, convertendo energia elétrica em movimento.
+
+(   ) O gerador baseia-se na indução eletromagnética (Lei de Faraday).
+
+(   ) Para gerar tensão, basta manter o ímã parado e próximo à bobina.
 
 #+BEGIN_EXPORT html
 a) V - V - F - V - F    b) V - F - V - V - F    c) V - V - V - F - F    d) F - V - F - V - F    e) V - V - F - F - V

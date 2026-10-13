@@ -1359,11 +1359,49 @@ induzida — ou seja, uma corrente elétrica.
 
 #+begin_quote
 Motor: energia elétrica \(\rightarrow\) energia mecânica.
+
 Gerador: energia mecânica \(\rightarrow\) energia elétrica.
 #+end_quote
 
 Assim, motores e geradores são essencialmente o mesmo dispositivo,
 operando em sentidos opostos de conversão de energia.
+
+As figuras abaixo mostram como a Lei de Indução de Faraday explica o
+funcionamento de um gerador. No exemplo ilustrado, a rotação do ímã
+varia o campo magnético que atravessa a bobina, gerando uma tensão
+elétrica medida pelo voltímetro. Como o ímã gira continuamente, a
+tensão assume valores ora positivos, ora negativos: esse é um exemplo
+de gerador de corrente alternada.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Giro do ímã gerando tensão elétrica positiva (do ponto de vista do voltímetro acoplado).
+  </p>
+  <img src="./pictures/faraday-gerador1.png"
+       alt="Gerador de Faraday: ímã girando e voltímetro indicando tensão positiva"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor a partir da simulação
+    <a href="https://phet.colorado.edu/sims/html/faradays-electromagnetic-lab/latest/faradays-electromagnetic-lab_all.html?locale=pt_BR" target="_blank">Laboratório Eletromagnético de Faraday - PhET</a>.
+  </p>
+</div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Giro do ímã gerando tensão elétrica negativa (do ponto de vista do voltímetro acoplado).
+  </p>
+  <img src="./pictures/faraday-gerador2.png"
+       alt="Gerador de Faraday: ímã girando e voltímetro indicando tensão negativa"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: criado pelo autor a partir da simulação
+    <a href="https://phet.colorado.edu/sims/html/faradays-electromagnetic-lab/latest/faradays-electromagnetic-lab_all.html?locale=pt_BR" target="_blank">Laboratório Eletromagnético de Faraday - PhET</a>.
+  </p>
+</div>
+#+END_EXPORT
 
 ** Materiais magnéticos
 
