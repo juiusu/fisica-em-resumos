@@ -83,10 +83,15 @@ Fonte:  <a href="https://commons.wikimedia.org/wiki/File:Translational_motion.gi
 </div>
 #+END_EXPORT
 
-9. A condução é a transferência de calor ponto a ponto, por colisões
+1. A condução é a transferência de calor ponto a ponto, por colisões
    entre as partículas, sem transporte de matéria.
-10. A condução é o processo em que o calor se propaga pelo deslocamento
-    de porções de fluido aquecido que sobem e depois esfriam.
+2. A condução é o processo em que o calor se propaga pelo deslocamento
+   de porções de fluido aquecido que sobem e depois esfriam.
+3. A condução é o tipo de transferência de energia que pode se dá pelo vácuo.
+4. Os materiais que transferem o calor por condução de forma rápida
+   são conhecidos como condutores de calor, enquanto que os que
+   conduzem de forma lenta são chamados de isolantes.
+5. Os metais são, em geral, péssimos condutores de calor.
 
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
@@ -105,10 +110,14 @@ Fonte:  <a href="https://commons.wikimedia.org/wiki/File:Translational_motion.gi
 </div>
 #+END_EXPORT
 
-11. Na convecção, o fluido aquecido fica menos denso e sobe, enquanto o
-    fluido mais frio, mais denso, desce.
-12. A convecção é o processo de propagação de calor que ocorre mesmo no
-    vácuo, sem a necessidade de um meio material.
+1. Na convecção, o fluido aquecido fica menos denso e sobe, enquanto o
+   fluido mais frio, mais denso, desce.
+2. A convecção é o processo de propagação de calor que ocorre mesmo no
+   vácuo, sem a necessidade de um meio material.
+3. Para se utilizar do processo de convecção de forma mais eficiente,
+   os arcondicionados devem ser posicionados locais mais altos.
+4. Para se utilizar do processo de convecção de forma mais eficiente,
+   os aquecedores devem ser posicionados no alto.
 
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
@@ -126,11 +135,16 @@ Fonte:  <a href="https://commons.wikimedia.org/wiki/File:Translational_motion.gi
 </div>
 #+END_EXPORT
 
-13. A irradiação é a transferência de calor por ondas eletromagnéticas e
-    pode ocorrer no vácuo, como no caso do calor do Sol que chega à Terra.
-14. Quanto maior a temperatura de um corpo, menor a quantidade de energia
-    irradiada e maior o comprimento de onda predominante da radiação
-    emitida.
-15. Na imagem de infravermelho (termografia), a temperatura de cada ponto
-    do corpo pode ser identificada a partir da radiação emitida, princípio
-    semelhante ao do termômetro infravermelho.
+1. A irradiação é a transferência de calor por ondas eletromagnéticas e
+   pode ocorrer no vácuo, como no caso do calor do Sol que chega à Terra.
+2. Quanto maior a temperatura de um corpo, menor a quantidade de energia
+   irradiada e maior o comprimento de onda predominante da radiação
+   emitida.
+3. Na imagem de infravermelho (termografia), a temperatura de cada ponto
+   do corpo pode ser identificada a partir da radiação emitida, princípio
+   semelhante ao do termômetro infravermelho.
+4. Quanto maior a temperatura, maior a frequência da onda
+   eletromagnética emitira por irradiação. Por isso, corpos biológicos
+   emitem majoritariamente na faixa de infravermelho, e corpos com
+   temperaturas mais elevadas, como um prego aquecido em fogo, podem
+   emitir na faiza visível (iniciando no vermelho).
