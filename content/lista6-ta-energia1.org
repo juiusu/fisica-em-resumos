@@ -1,0 +1,5 @@
+#+options: toc:1
+#+language: pt-BR
+#+title: Lista de questões sobre transformações de energia
+#+AUTHOR: Professor Joilson Silva Porto
+#+LATEX_CLASS: article

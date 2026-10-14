@@ -1109,6 +1109,17 @@ Principais escalas de temperatura:
 </div>
 #+END_EXPORT
 
+A escala Celsius é definida a partir de dois pontos fixos: adota-se 0 °C
+para a fusão (derretimento) do gelo e 100 °C para a ebulição da água,
+ambos à pressão de 1 atmosfera. O intervalo entre esses dois pontos é
+dividido em 100 partes iguais — razão do antigo nome "graus centígrados".
+
+A escala Kelvin foi pensada para não ter valores negativos. Em vez de usar
+a fusão e a ebulição da água como referência, ela parte do zero absoluto,
+a menor temperatura possível, em que a agitação das partículas é mínima, e
+define uma escala em que não existem temperaturas abaixo de zero. Por isso
+a escala Kelvin é chamada de absoluta e não utiliza o símbolo de grau.
+
 - Conversão de Celsius para Fahrenheit (e vice-versa)
 
 \[ T_C = \frac{5}{9}\left( T_F - 32 \right)\]
@@ -1168,25 +1179,20 @@ densidades, devido à expansão térmica (relacionada à dilatação térmica).
 
 
 
-
-
-#+BEGIN_EXPORT html
-<div style="text-align:center; max-width:700px; margin:auto;">
-  <p style="font-weight:bold; font-size:1.1em;">
-Um dissipador de calor proporciona uma grande área de superfície para convecção, otimizando a transferência de calor.
-  </p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Radiator_FxJ_v2.JPG"
-       alt="Dissipador de calor (radiador) com grande área de superfície"
-       style="width:60%; height:auto;">
-  <p style="font-style:italic; font-size:0.9em;">
-
- Fonte: <a href="https://commons.wikimedia.org/wiki/File:Radiator_FxJ_v2.JPG">FxJ</a>, Public domain, via Wikimedia Commons
-</p>
-</div>
-#+END_EXPORT
-
-
 **** Irradiação
+
+Irradiação (ou radiação térmica) é a transferência de calor por meio de
+ondas eletromagnéticas, que não necessitam de um meio material para se
+propagar — é assim que o calor do Sol atravessa o vácuo e chega até a
+Terra. Todo corpo com temperatura acima do zero absoluto emite radiação;
+quanto maior a temperatura, maior a quantidade de energia irradiada e
+menor o comprimento de onda predominante, de modo que um corpo muito
+quente pode emitir luz visível, enquanto um corpo à temperatura ambiente
+emite, principalmente, radiação infravermelha.
+
+Exemplos no cotidiano vão do calor sentido na pele ao Sol ao
+funcionamento de fornos e aquecedores que aquecem objetos à distância,
+sem contato.
 
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
@@ -1203,6 +1209,14 @@ Um dissipador de calor proporciona uma grande área de superfície para convecç
   </p>
 </div>
 #+END_EXPORT
+
+Na figura "Emissão de infra vermelho por um cachorro", cada ponto da
+imagem corresponde à radiação infravermelha emitida por aquela região do
+corpo do animal: a frequência (e a intensidade) dessa radiação indica a
+temperatura local, de modo que as áreas mais quentes aparecem destacadas.
+Esse é o mesmo princípio do termômetro infravermelho, que mede a
+temperatura de um objeto à distância, sem contato, a partir da radiação
+que ele emite.
 
 
 
@@ -1221,6 +1235,15 @@ Um dissipador de calor proporciona uma grande área de superfície para convecç
   </p>
 </div>
 #+END_EXPORT
+
+Essa figura reúne, em um mesmo painel, várias informações sobre o
+espectro eletromagnético: a faixa de temperatura de emissão (em Kelvin),
+associada a cada tipo de radiação, e as escalas de comprimento de onda e
+de frequência, permitindo comparar o tamanho das ondas e a energia
+envolvida em cada região do espectro — do infravermelho ao ultravioleta,
+por exemplo. Assim, ela ajuda a visualizar que corpos a diferentes
+temperaturas emitem radiação em diferentes comprimentos de onda e
+frequências.
 
 
 *** Energia Mecânica em energia elétrica
@@ -1301,7 +1324,7 @@ materiais que não interagem entre si, exceto por colisões
 perfeitamente elásticas. Nesse modelo, a pressão \(P\), o volume \(V\)
 e a temperatura absoluta \(T\) relacionam-se pela equação de estado:
 
-\[ PV = nRT \]
+\( PV = nRT \) 
 
 em que \(n\) é o número de mols e \(R = 8,31\,J/(mol \cdot K)\) é a
 constante universal dos gases. A equação mostra que, para uma
@@ -1484,4 +1507,11 @@ cozimento.
 
 - [[file:lista4_tpq-ta.org][Quarta lista - Leis de Newton]] - (para enregar via SIGAA, manuscrito
   e digitalizado, até o dia 20/09)
+
+- [[file:lista5-ta-propagacao-de-calor.org][Quinta Lista - propagação de calor]] - Disponível no Google Forms
+
+- [[file:lista6-ta-energia1.org][Sexta Lista - transformações de energia]] - Será disponibilizado no
+  Google Formas
+  
+
 

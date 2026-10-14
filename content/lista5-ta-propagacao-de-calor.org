@@ -1,0 +1,136 @@
+#+options: toc:1
+#+language: pt-BR
+#+title: Lista 5 - Revisão: Temperatura, Escalas Termométricas e Propagação de Calor
+#+AUTHOR: Professor Joilson Silva Porto
+#+LATEX_CLASS: article
+
+* Instruções
+- Leia atentamente cada afirmação e assinale V (verdadeiro) ou F (falso).
+- As questões retomam os tópicos: conceito de temperatura, escalas
+  termométricas e propagação de calor (condução, convecção e irradiação).
+- Consulte o material das aulas e as anotações sempre que necessário.
+
+* Conceito de temperatura
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Representação da temperatura de um <a href="https://pt.wikipedia.org/wiki/G%C3%A1s_ideal" target="_blank"> Gás ideal </a>.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Translational_motion.gif"
+       alt="Movimento translacional das moléculas de um gás ideal"
+       style="width:60%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+Fonte:  <a href="https://commons.wikimedia.org/wiki/File:Translational_motion.gif">A. Greg (Greg L at English Wikipedia)</a>, Public domain, via Wikimedia Commons
+</p>
+</div>
+#+END_EXPORT
+
+1. A temperatura de um corpo está relacionada à agitação (energia de
+   movimento) das partículas que o constituem.
+2. Quanto maior a temperatura de um corpo, maior é a agitação de suas
+   partículas.
+3. A temperatura mede a quantidade de calor armazenada em um corpo, e não
+   a agitação de suas partículas.
+4. Um corpo a \(0\,^\circ C\) não possui nenhuma energia de movimento em
+   suas partículas, pois se encontra no zero absoluto.
+
+* Escalas termométricas
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Comparação entre as principais escalas de temperatura
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Escalas_de_Temperatura.jpg"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    "<a rel="noopener noreferrer" href="https://commons.wikimedia.org/w/index.php?curid=92805740">Escalas de Temperatura</a>" 
+    by <a rel="noopener noreferrer" href="https://commons.wikimedia.org/wiki/User:Mjmauler">Mjmauler</a> 
+    is licensed under 
+    <a rel="noopener noreferrer" href="https://creativecommons.org/licenses/by-sa/4.0/?ref=openverse">
+      CC BY-SA 4.0 
+      <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;" />
+      <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-right: 0.125em; display: inline;" />
+      <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-right: 0.125em; display: inline;" />
+    </a>.
+  </p>
+</div>
+#+END_EXPORT
+
+5. Na escala Celsius, o ponto de fusão do gelo corresponde a \(0\,^\circ
+   C\) e o ponto de ebulição da água a \(100\,^\circ C\), à pressão de 1
+   atmosfera.
+6. O intervalo entre os pontos de fusão e de ebulição da água é dividido
+   em 100 partes iguais na escala Celsius.
+7. A escala Kelvin admite temperaturas negativas, assim como a escala
+   Celsius.
+8. A escala Kelvin parte do zero absoluto, a menor temperatura possível,
+   e por isso é chamada de escala absoluta, sem valores negativos.
+
+* Propagação de calor
+
+#+CAPTION: Calor sendo transferido por condução.
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <a href="https://upload.wikimedia.org/wikipedia/commons/2/2d/Heat-conduction.svg" target="_blank">
+    <img width="512" alt="Ilustração da condução de calor" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Heat-conduction.svg" style="width:100%; height:auto;">
+  </a>
+  <p style="font-style:italic; font-size:0.9em;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Heat-conduction.svg">MikeRun</a>, 
+    <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
+  </p>
+</div>
+#+END_EXPORT
+
+9. A condução é a transferência de calor ponto a ponto, por colisões
+   entre as partículas, sem transporte de matéria.
+10. A condução é o processo em que o calor se propaga pelo deslocamento
+    de porções de fluido aquecido que sobem e depois esfriam.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Representação da convecção, onde o fluido aquecido sobe, enquanto o fluido frio desce.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Convection.gif"
+       alt="Animação da convecção: fluido aquecido sobe e fluido frio desce"
+       style="width:60%; height:auto;">
+  <p style="font-style:italic; font-size:0.9em;">
+
+ Fonte: 
+
+ <a href="https://commons.wikimedia.org/wiki/File:Convection.gif">User:Oni Lukos</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
+</p>
+</div>
+#+END_EXPORT
+
+11. Na convecção, o fluido aquecido fica menos denso e sobe, enquanto o
+    fluido mais frio, mais denso, desce.
+12. A convecção é o processo de propagação de calor que ocorre mesmo no
+    vácuo, sem a necessidade de um meio material.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Emissão de infra vermelho por um cachorro. 
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Infrared_dog.jpg"
+       alt="infrared_dog.jpg"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Infrared_dog.jpg">NASA/IPAC</a>, Public domain, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+13. A irradiação é a transferência de calor por ondas eletromagnéticas e
+    pode ocorrer no vácuo, como no caso do calor do Sol que chega à Terra.
+14. Quanto maior a temperatura de um corpo, menor a quantidade de energia
+    irradiada e maior o comprimento de onda predominante da radiação
+    emitida.
+15. Na imagem de infravermelho (termografia), a temperatura de cada ponto
+    do corpo pode ser identificada a partir da radiação emitida, princípio
+    semelhante ao do termômetro infravermelho.

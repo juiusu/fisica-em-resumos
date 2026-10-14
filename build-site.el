@@ -20,7 +20,6 @@
 ;; Load the publishing system
 (require 'ox-publish)
 
-(org-publish-all t)
 (image-type-available-p 'png)
 
 
