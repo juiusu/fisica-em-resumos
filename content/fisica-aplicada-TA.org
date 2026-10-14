@@ -1051,7 +1051,7 @@ ela representa a energia do movimento das partículas (moléculas, ou
     Representação da temperatura de um <a href="https://pt.wikipedia.org/wiki/G%C3%A1s_ideal" target="_blank"> Gás ideal </a>.
   </p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Translational_motion.gif"
-       alt="<a href="https://commons.wikimedia.org/wiki/File:Cshaft.gif"
+       alt="Movimento translacional das moléculas de um gás ideal"
        style="width:60%; height:auto;">
   <p style="font-style:italic; font-size:0.9em;">
 Fonte:  <a href="https://commons.wikimedia.org/wiki/File:Translational_motion.gif">A. Greg (Greg L at English Wikipedia)</a>, Public domain, via Wikimedia Commons
@@ -1065,19 +1065,16 @@ Fonte:  <a href="https://commons.wikimedia.org/wiki/File:Translational_motion.gi
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
-    Representação da vibração dos átomos em uma molécula devido à temperatura, nesse exemmplo a proteína <a href="https://pt.wikipedia.org/wiki/Temperatura" target="_blank"> alfa-hélice </a>.
+    Representação da vibração dos átomos em uma molécula devido à temperatura; neste exemplo, a proteína <a href="https://pt.wikipedia.org/wiki/Temperatura" target="_blank"> alfa-hélice </a>.
   </p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Thermally_Agitated_Molecule.gif"
-       alt="<a href=" "
+       alt="Vibração térmica dos átomos de uma molécula de alfa-hélice"
        style="width:60%; height:auto;">
   <p style="font-style:italic; font-size:0.9em;">
-Fonte: 
-<a href="https://commons.wikimedia.org/wiki/File:Thermally_Agitated_Molecule.gif">http:/</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
-</p>
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Thermally_Agitated_Molecule.gif">User:Greg L</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons
+  </p>
 </div>
 #+END_EXPORT
-
-
 
 
 ** Escalas termométricas
@@ -1086,9 +1083,9 @@ Principais escalas de temperatura:
 
 | Escala     | Fusão da água | Ebulição da água |
 |------------+---------------+------------------|
-| Celsius    | \(0 ^0 C\)    | \(100 ^0 C\)     |
-| Fahrenheit | \(32 ^0  F\)  | \( 212 ^0 F\)    |
-| Kelvin     | \( 273 K\)    | \( 373 K\)       |
+| Celsius    | \(0\,^\circ C\)    | \(100\,^\circ C\)   |
+| Fahrenheit | \(32\,^\circ F\)   | \(212\,^\circ F\)   |
+| Kelvin     | \(273\,K\)         | \(373\,K\)          |
 
 
 #+BEGIN_EXPORT html
@@ -1112,11 +1109,11 @@ Principais escalas de temperatura:
 </div>
 #+END_EXPORT
 
-- Conversão de Celsius para Fahrenheit (e virce-versa)
+- Conversão de Celsius para Fahrenheit (e vice-versa)
 
 \[ T_C = \frac{5}{9}\left( T_F - 32 \right)\]
 
-- Conversão de celsius para Kelvin
+- Conversão de Celsius para Kelvin
 
 \[ T_k = T_C + 273\]
 
@@ -1148,7 +1145,7 @@ colisões a nível molecular.
 **** Convecção
 
 Em fluidos, a diferença de temperatura causa regiões com diferentes
-densidades, deviso a expansão térmica (relacionada à dilatação térmica). 
+densidades, devido à expansão térmica (relacionada à dilatação térmica). 
 
 
 #+BEGIN_EXPORT html
@@ -1157,7 +1154,7 @@ densidades, deviso a expansão térmica (relacionada à dilatação térmica).
     Representação da convecção, onde o fluido aquecido sobe, enquanto o fluido frio desce.
   </p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Convection.gif"
-       alt="<a href=" "
+       alt="Animação da convecção: fluido aquecido sobe e fluido frio desce"
        style="width:60%; height:auto;">
   <p style="font-style:italic; font-size:0.9em;">
 
@@ -1176,10 +1173,10 @@ densidades, deviso a expansão térmica (relacionada à dilatação térmica).
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
-Um dissipador de calor proporcciona uma grande área de ruperfície para convecção, ótimizando a transferência de calor.
+Um dissipador de calor proporciona uma grande área de superfície para convecção, otimizando a transferência de calor.
   </p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Radiator_FxJ_v2.JPG"
-       alt="<a href=" "
+       alt="Dissipador de calor (radiador) com grande área de superfície"
        style="width:60%; height:auto;">
   <p style="font-style:italic; font-size:0.9em;">
 
@@ -1228,27 +1225,222 @@ Um dissipador de calor proporcciona uma grande área de ruperfície para convec�
 
 *** Energia Mecânica em energia elétrica
 
-https://phet.colorado.edu/pt_BR/simulations/generator
+Um gerador elétrico transforma energia mecânica em energia elétrica.
+Numa usina hidrelétrica, a água em movimento gira uma turbina que, por
+sua vez, gira um ímã no interior de uma bobina e induz uma corrente
+elétrica (fenômeno da indução eletromagnética). Em resumo: o movimento
+(energia mecânica) é convertido em corrente elétrica (energia
+elétrica).
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Gerador de corrente alternada: transformação de energia mecânica em energia elétrica.
+  </p>
+  <img src="./pictures/faraday-gerador-luz.png"
+       alt="Simulação de um gerador elétrico acendendo uma lâmpada"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://phet.colorado.edu/pt_BR/simulations/generator" target="_blank">PhET Interactive Simulations: Generator</a>,
+    University of Colorado Boulder, CC BY 4.0
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
 
 *** Energia Mecânica em Calor
 
+O atrito entre duas superfícies transforma energia mecânica em energia
+térmica. Ao esfregar as mãos, por exemplo, elas se aquecem. Em escala
+microscópica, o atrito aumenta a agitação das partículas, o que
+percebemos como aumento de temperatura.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Atrito e calor: transformação de energia mecânica em energia térmica.
+  </p>
+  <img src="./pictures/atrito-calor.png"
+       alt="Atrito entre dois livros aumentando a agitação molecular e a temperatura"
+       style="width:70%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://phet.colorado.edu/pt_BR/simulations/friction" target="_blank">PhET Interactive Simulations: Friction</a>,
+    University of Colorado Boulder, CC BY 4.0
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
 
 *** Energia química em calor
 
-- combustão
+Nas reações químicas, a energia armazenada nas ligações químicas pode
+ser liberada na forma de calor. É o que ocorre na combustão (queima de
+gás, álcool, madeira) e também nas pilhas e baterias, que convertem
+energia química em energia elétrica e, por efeito Joule, em calor.
+
+Exemplos:
+- Combustão (queima de alimentos e de combustíveis);
+- Pilhas e baterias;
+- Metabolismo dos alimentos no corpo (respiração celular).
 
 *** Energia térmica em ondas eletromagnéticas
 
-- Irradiação 
+Todo corpo com temperatura acima do zero absoluto emite radiação
+eletromagnética (irradiação). Quanto maior a temperatura, maior a
+quantidade de energia irradiada e menor o comprimento de onda
+predominante. É por isso que um corpo muito quente pode emitir luz
+visível, enquanto um corpo à temperatura ambiente emite,
+principalmente, radiação infravermelha.
+
+** Noções sobre Gás ideal
+
+Um gás ideal é um modelo em que as partículas são consideradas pontos
+materiais que não interagem entre si, exceto por colisões
+perfeitamente elásticas. Nesse modelo, a pressão \(P\), o volume \(V\)
+e a temperatura absoluta \(T\) relacionam-se pela equação de estado:
+
+\[ PV = nRT \]
+
+em que \(n\) é o número de mols e \(R = 8,31\,J/(mol \cdot K)\) é a
+constante universal dos gases. A equação mostra que, para uma
+quantidade fixa de gás, a alteração de uma dessas grandezas afeta as
+demais.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Simulação de um gás ideal: relação entre pressão, volume e temperatura.
+  </p>
+  <img src="./pictures/simulacao-gas-ideal.png"
+       alt="Simulação de gás ideal com partículas, termômetro e medidor de pressão"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://phet.colorado.edu/pt_BR/simulations/gas-properties" target="_blank">PhET Interactive Simulations: Gas Properties</a>,
+    University of Colorado Boulder, CC BY 4.0
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
 ** Mudanças de Fase
 
-https://phet.colorado.edu/pt_BR/simulations/states-of-matter
+A matéria pode se apresentar em diferentes fases (sólida, líquida e
+gasosa). As passagens de uma fase para outra são chamadas de mudanças
+de fase e ocorrem com troca de calor, mas com a temperatura
+permanecendo constante durante a transformação:
+
+- Fusão: sólido \(\rightarrow\) líquido;
+- Solidificação: líquido \(\rightarrow\) sólido;
+- Vaporização: líquido \(\rightarrow\) gasoso;
+- Condensação: gasoso \(\rightarrow\) líquido;
+- Sublimação: sólido \(\rightarrow\) gasoso (e a ressublimação, o inverso).
+
+O diagrama de fases representa, em um gráfico de pressão por
+temperatura, as condições em que cada fase é estável. As linhas que
+separam as regiões são as curvas de coexistência; o ponto em que as
+três fases coexistem é o ponto triplo, e o ponto além do qual não se
+distingue líquido e gás é o ponto crítico.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Simulação da mudança de fase da água em função da temperatura e da pressão.
+  </p>
+  <img src="./pictures/diagrama-de-fase-agua.png"
+       alt="Simulação dos estados da matéria com água, termômetro, medidor de pressão e diagrama de fase"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://phet.colorado.edu/sims/html/states-of-matter/latest/states-of-matter_all.html?locale=pt_BR" target="_blank">PhET Interactive Simulations: States of Matter</a>,
+    University of Colorado Boulder, CC BY 4.0
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Diagrama de fases típico de uma substância pura.
+  </p>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Phase-diag-pt.svg"
+       alt="Diagrama de fases (pressão versus temperatura) com as regiões sólida, líquida e gasosa"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Phase-diag-pt.svg">Abacatabacaxi</a>
+    (baseado em Maksim / Booyabazooka), <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
 
 * TÓPICOS EM TERMODINÂMICA - PARTE 2
 ** Tópicos da ementa abordados nessa seção
   - Calorimetria nos alimentos, Propagação do calor nos alimentos,
   - Níveis de energia dos alimentos,
-** Capacidade térmica
+** Calor Latente e Calor sensível
+
+Quando um corpo recebe ou cede calor, podem ocorrer duas situações:
+
+- Calor sensível: provoca variação de temperatura, sem mudança de
+  fase. É calculado por
+
+  \[ Q = m \, c \, \Delta T \]
+
+  em que \(m\) é a massa, \(c\) o calor específico e \(\Delta T\) a
+  variação de temperatura.
+
+- Calor latente: provoca mudança de fase, sem variação de temperatura.
+  É calculado por
+
+  \[ Q = m \, L \]
+
+  em que \(L\) é o calor latente (de fusão, vaporização etc.),
+  característico de cada substância.
+
+Durante uma mudança de fase, toda a energia fornecida é usada para
+alterar o arranjo das partículas, e a temperatura permanece constante
+até que a transformação se complete.
+
+** Capacidade térmica e calor específico
+
+A capacidade térmica \(C\) de um corpo é a quantidade de calor
+necessária para variar sua temperatura em \(1\,^\circ C\):
+
+\[ C = \frac{Q}{\Delta T} \]
+
+O calor específico \(c\) é a capacidade térmica por unidade de massa:
+
+\[ c = \frac{C}{m} = \frac{Q}{m \, \Delta T} \]
+
+Quanto maior o calor específico de uma substância, mais calor é
+necessário para aquecê-la. A água tem calor específico elevado,
+\(c \approx 1\,cal/(g \cdot ^\circ C) = 4180\,J/(kg \cdot K)\), por
+isso demora mais para aquecer e para esfriar do que o azeite, que
+possui calor específico menor.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Comparação entre o fornecimento de calor para água e azeite.
+  </p>
+  <img src="./pictures/calorespecifico-agua-azeite.png"
+       alt="Dois recipientes, com água e azeite, aquecidos pela mesma fonte; o azeite esquenta mais rápido"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://phet.colorado.edu/sims/html/energy-forms-and-changes/latest/energy-forms-and-changes_all.html?locale=pt_BR" target="_blank">PhET Interactive Simulations: Energy Forms and Changes</a>,
+    University of Colorado Boulder, CC BY 4.0
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
 * APLICAÇÕES
 
 ** Garrafa Térmica
@@ -1260,6 +1452,14 @@ https://phet.colorado.edu/pt_BR/simulations/states-of-matter
 - [[https://www.youtube.com/watch?v=dCxJ4K649Cw&pp=ygUZZnVuY2lvbmFtZW50byBtaWNyb29uZGFzIA%3D%3D][Forno Micro-ondas | Como funciona? - Canal: JAES Company Português]]
 
 ** Panela de pressão
+
+Uma panela de pressão cozinha os alimentos mais rápido porque, ao
+lacrar a tampa, o vapor não escapa e a pressão interna aumenta. A água
+entra em ebulição quando sua pressão de vapor se iguala à pressão
+interna. Com a válvula mantendo a pressão em torno de \(2\,atm\), a
+água ferve a aproximadamente \(120\,^\circ C\) (contra \(100\,^\circ C\)
+ao nível do mar). Esse aumento de temperatura reduz o tempo de
+cozimento.
 
 - [[https://youtu.be/lXuXP2scW7g][Como funciona uma panela de pressão? - Canal: Planeta Química -
   Prof. Emiliano Chemello]] 

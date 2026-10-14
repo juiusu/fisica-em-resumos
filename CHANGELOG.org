@@ -16,3 +16,7 @@ ser adicionados com o comando =/registrar-alteracao=.
 * 2026-10-09
 - editado: content/lista-eletromagnetismo-vf.org (14:13)
 - editado: content/fisica-3.org (00:08)
+
+* 2026-10-14
+- editado: content/index.org (01:38)
+- editado: content/fisica-aplicada-TA.org (01:17)
