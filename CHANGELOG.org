@@ -20,3 +20,7 @@ ser adicionados com o comando =/registrar-alteracao=.
 * 2026-10-14
 - editado: content/index.org (01:38)
 - editado: content/fisica-aplicada-TA.org (01:17)
+
+* 2026-10-20
+- editado: content/lista-terras-raras-vf.org (18:51)
+- editado: content/fisica-3.org (18:51)

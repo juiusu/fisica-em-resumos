@@ -1,0 +1,263 @@
+#+title: Exercícios: Terras raras e ímãs (V ou F)
+#+options: toc:2
+#+language: pt-BR
+
+* Instruções
+
+Esta lista reúne questões de verdadeiro ou falso sobre terras raras e
+ímãs de alto desempenho, tema estudado junto ao bloco de
+eletromagnetismo de Física III: ímãs permanentes, materiais magnéticos,
+aplicações tecnológicas, contexto brasileiro e sustentabilidade.
+
+Em cada questão, classifique as cinco afirmações como **verdadeiras
+(V)** ou **falsas (F)** e assinale a alternativa que apresenta a
+sequência correta.
+
+* Questões
+
+** Questão 1 — O que são terras raras
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: terras raras, elementos químicos, lantanídeos
+:END:
+
+Sobre a definição e a abundância das terras raras, julgue as
+afirmações.
+
+(   ) São 17 elementos químicos: os 15 lantanídeos, o escândio e o ítrio.
+
+(   ) São elementos radioativos em sua maioria.
+
+(   ) O nome "raras" significa que são mais raras que o ouro na crosta terrestre.
+
+(   ) O cério pode ser mais abundante na crosta terrestre que o cobre.
+
+(   ) A dificuldade está em separá-las, pois têm propriedades químicas parecidas.
+
+#+BEGIN_EXPORT html
+a) V - F - F - V - V    b) V - V - F - V - V    c) V - F - V - V - F    d) F - F - V - V - V    e) V - F - F - F - V
+#+END_EXPORT
+
+** Questão 2 — Terras raras e magnetismo
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: terras raras, magnetismo, 4f, coercividade
+:END:
+
+Sobre a relação entre terras raras e magnetismo, julgue as afirmações.
+
+(   ) Os elétrons da camada 4f desses elementos ajudam a fixar a direção da magnetização.
+
+(   ) Os ímãs de terras raras são fortes porque não possuem domínios magnéticos.
+
+(   ) Quanto maior a coercividade, mais difícil é desmagnetizar o ímã.
+
+(   ) A estrutura cristalina pode favorecer uma direção preferencial de magnetização.
+
+(   ) Um ímã de neodímio perde toda a sua força espontaneamente à temperatura ambiente.
+
+#+BEGIN_EXPORT html
+a) V - F - V - V - F    b) V - V - V - V - F    c) V - F - F - V - F    d) F - F - V - V - V    e) V - F - V - F - V
+#+END_EXPORT
+
+** Questão 3 — Ímãs de NdFeB e SmCo
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: NdFeB, SmCo, ímãs permanentes, temperatura
+:END:
+
+Sobre os principais ímãs permanentes de terras raras, julgue as
+afirmações.
+
+(   ) NdFeB significa neodímio-ferro-boro.
+
+(   ) O SmCo é formado por samário e cobalto.
+
+(   ) Ímãs de NdFeB são sempre a melhor escolha em temperaturas muito altas.
+
+(   ) Disprósio e térbio podem ser adicionados para melhorar o desempenho em temperaturas mais altas.
+
+(   ) Ímãs de terras raras são ímãs temporários, que só funcionam com corrente elétrica.
+
+#+BEGIN_EXPORT html
+a) V - V - F - V - F    b) V - V - V - V - F    c) V - F - F - V - F    d) F - V - F - V - F    e) V - V - F - F - V
+#+END_EXPORT
+
+** Questão 4 — Aplicações tecnológicas
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: aplicações, motores, aerogeradores, eletrônicos
+:END:
+
+Sobre as aplicações dos ímãs de terras raras, julgue as afirmações.
+
+(   ) Motores de veículos elétricos podem usar ímãs de terras raras.
+
+(   ) Aerogeradores podem usar ímãs permanentes fortes para gerar eletricidade.
+
+(   ) Fones de ouvido e alto-falantes usam ímãs.
+
+(   ) Discos rígidos de computador não utilizam ímãs.
+
+(   ) O uso de ímãs mais fortes pode permitir motores menores e mais eficientes.
+
+#+BEGIN_EXPORT html
+a) V - V - V - F - V    b) V - V - F - F - V    c) V - F - V - F - V    d) V - V - V - V - F    e) F - V - V - F - V
+#+END_EXPORT
+
+** Questão 5 — Brasil e terras raras
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: Brasil, reservas, Pitinga, China, minerais estratégicos
+:END:
+
+Sobre o contexto brasileiro e mundial das terras raras, julgue as
+afirmações.
+
+(   ) O Brasil está entre os países com as maiores reservas de terras raras.
+
+(   ) Toda a produção brasileira de ímãs de terras raras é feita com minério extraído no Amazonas.
+
+(   ) A China tem papel de destaque na separação e no refino desses elementos.
+
+(   ) A região de Pitinga, no Amazonas, tem potencial para terras raras.
+
+(   ) Terras raras são consideradas minerais estratégicos por vários países.
+
+#+BEGIN_EXPORT html
+a) V - F - V - V - V    b) V - F - V - V - F    c) V - V - V - V - V    d) F - F - V - V - V    e) V - F - F - V - V
+#+END_EXPORT
+
+** Questão 6 — Sustentabilidade e reciclagem
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: mineração, resíduos, monazita, tório, reciclagem
+:END:
+
+Sobre os impactos ambientais e a reciclagem de terras raras, julgue as
+afirmações.
+
+(   ) A extração e a separação de terras raras podem gerar resíduos e consumir muita energia.
+
+(   ) Como as terras raras são radioativas, seu uso em ímãs é proibido.
+
+(   ) Minerais associados às terras raras, como a monazita, podem conter tório, que exige cuidados.
+
+(   ) Reciclar ímãs de discos rígidos, motores e turbinas pode reduzir a necessidade de mineração.
+
+(   ) Ímãs de terras raras não podem ser reciclados.
+
+#+BEGIN_EXPORT html
+a) V - F - V - V - F    b) V - V - V - V - F    c) V - F - F - V - F    d) F - F - V - V - F    e) V - F - V - F - V
+#+END_EXPORT
+
+** Questão 7 — Domínios magnéticos e desmagnetização
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: domínios magnéticos, imantação, temperatura de Curie, monopolo
+:END:
+
+Sobre o comportamento dos materiais ferromagnéticos, julgue as
+afirmações.
+
+(   ) Em um material ferromagnético, os domínios magnéticos são regiões onde os pequenos ímãs atômicos tendem a se alinhar.
+
+(   ) Quando um material é imantado, os domínios se alinham e o campo magnético resultante aumenta.
+
+(   ) Aquecer um ímã acima de uma certa temperatura pode fazê-lo perder seu magnetismo permanente.
+
+(   ) Um ímã permanente mantém seu magnetismo porque sua corrente elétrica externa nunca é desligada.
+
+(   ) Quebrar um ímã de terras raras ao meio cria um monopolo magnético.
+
+#+BEGIN_EXPORT html
+a) V - V - V - F - F    b) V - V - F - F - F    c) V - F - V - F - F    d) F - V - V - F - F    e) V - V - V - F - V
+#+END_EXPORT
+
+** Questão 8 — Ferrite e terras raras
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: dificil
+:tag: ferrite, NdFeB, coercividade, comparação
+:END:
+
+Sobre a comparação entre ímãs de ferrite e ímãs de terras raras,
+julgue as afirmações.
+
+(   ) Para um mesmo tamanho, um ímã de NdFeB pode produzir um campo mais forte que um ímã de ferrite.
+
+(   ) Ímãs de ferrite são feitos de óxido de ferro com outros elementos, como bário ou estrôncio.
+
+(   ) Ímãs de terras raras têm, em geral, maior coercividade que ímãs de ferrite.
+
+(   ) Um ímã de ferrite é sempre mais forte que um ímã de NdFeB do mesmo tamanho.
+
+(   ) A alta coercividade torna os ímãs de terras raras adequados para aplicações que exigem estabilidade do campo.
+
+#+BEGIN_EXPORT html
+a) V - V - V - F - V    b) V - V - F - F - V    c) V - F - V - F - V    d) V - V - V - V - F    e) F - V - V - F - V
+#+END_EXPORT
+
+** Questão 9 — Mitos sobre terras raras
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: mitos, neodímio, ligas, abundância
+:END:
+
+Sobre ideias comuns a respeito das terras raras, julgue as afirmações.
+
+(   ) "Terra rara" é sinônimo de elemento radioativo.
+
+(   ) Todos os elementos de terras raras são fortemente magnéticos por si só.
+
+(   ) O neodímio puro é um ímã permanente muito forte.
+
+(   ) O ímã de NdFeB é uma liga, e não neodímio puro.
+
+(   ) O nome "terras raras" não significa que todos esses elementos sejam raros na crosta terrestre.
+
+#+BEGIN_EXPORT html
+a) F - F - F - V - V    b) F - F - V - V - V    c) F - V - F - V - V    d) V - F - F - V - V    e) F - F - F - V - F
+#+END_EXPORT
+
+** Questão 10 — Terras raras e eletromagnetismo
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: motores, geradores, Lei de Faraday, indução
+:END:
+
+Sobre a relação entre terras raras e os conceitos de eletromagnetismo,
+julgue as afirmações.
+
+(   ) Em um motor, a corrente elétrica interage com o campo magnético para produzir movimento.
+
+(   ) Em um gerador, a variação do fluxo magnético induz uma tensão elétrica.
+
+(   ) Ímãs de terras raras substituem a necessidade de corrente elétrica em um eletroímã.
+
+(   ) Um ímã permanente pode fornecer o campo magnético necessário em um gerador, sem eletroímã.
+
+(   ) A Lei de Faraday deixa de valer quando o ímã é de terras raras.
+
+#+BEGIN_EXPORT html
+a) V - V - F - V - F    b) V - V - V - V - F    c) V - F - F - V - F    d) F - V - F - V - F    e) V - V - F - F - V
+#+END_EXPORT

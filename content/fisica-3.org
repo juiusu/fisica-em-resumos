@@ -1425,6 +1425,118 @@ materiais podem ser classificados em:
   - Ímãs temporários produzidos pela passagem de corrente elétrica em
     uma bobina, geralmente com um núcleo de ferro.
 
+** Terras raras: os ímãs mais fortes do mundo
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Óxidos de terras raras (sentido horário, a partir do topo): praseodímio, cério, lantânio, neodímio, samário e gadolínio.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Rareearthoxides.jpg"
+       alt="Amostras de óxidos de terras raras de diferentes cores"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Rareearthoxides.jpg">Peggy Greb, USDA</a>,
+    Public domain, via Wikimedia Commons
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+Quando você usa fones de ouvido, um alto-falante ou o motor de um
+veículo elétrico, provavelmente está a poucos centímetros de um ímã
+feito com terras raras. Esses são os ímãs permanentes mais fortes que
+existem, e ajudam a mostrar que o estudo do magnetismo está muito
+presente na tecnologia atual.
+
+*** O que são terras raras?
+
+Terras raras são 17 elementos químicos: os 15 lantanídeos, além do
+escândio (Sc) e do ítrio (Y). Apesar do nome, não são tão raras assim
+na crosta terrestre. O cério, por exemplo, é mais abundante que o
+cobre. A dificuldade está em encontrá-los concentrados e,
+principalmente, em separá-los uns dos outros, pois têm propriedades
+químicas muito parecidas.
+
+Alguns exemplos e seus usos:
+
+- Neodímio (Nd) e praseodímio (Pr): ímãs muito fortes.
+- Samário (Sm): ímãs que suportam temperaturas mais altas.
+- Disprósio (Dy) e térbio (Tb): ajudam o ímã a não perder força
+  quando esquenta.
+- Európio (Eu) e térbio (Tb): telas e lâmpadas.
+- Cério (Ce) e lantânio (La): catalisadores e polimento de vidros.
+
+#+begin_quote
+Curiosidade: terras raras não são "raras" como o ouro. O problema é
+que elas aparecem misturadas e são difíceis de separar. Por isso, um
+país pode ter reservas grandes e, ao mesmo tempo, importar ímãs
+prontos.
+#+end_quote
+
+*** Por que esses ímãs são tão fortes?
+
+Em materiais ferromagnéticos, como o ferro, os elétrons se comportam
+como pequenos ímãs. Em cada região do material, chamada de domínio
+magnético, esses pequenos ímãs apontam para a mesma direção. Quando o
+material é imantado, os domínios se alinham e o campo magnético se
+soma.
+
+Nos ímãs de terras raras, os elétrons da camada 4f desses elementos
+ajudam a fixar a direção da magnetização, enquanto o ferro e o cobalto
+fornecem boa parte do magnetismo. Além disso, a estrutura do cristal
+"prende" essa magnetização em uma direção preferencial, dificultando
+que ela se desorganize. Essa combinação permite construir ímãs de
+neodímio-ferro-boro (NdFeB) muito menores e mais fortes que os ímãs de
+ferro comuns.
+
+O preço dessa força aparece quando queremos desmagnetizar o ímã: é
+preciso um campo externo muito intenso. Dizemos que esses materiais
+têm alta coercividade. Em um ímã de ferrite (óxido de ferro com bário
+ou estrôncio), isso é bem mais fácil.
+
+*** Onde eles aparecem no dia a dia?
+
+- Motores de veículos elétricos e de bicicletas elétricas.
+- Aerogeradores (turbinas eólicas), que transformam movimento em
+  energia elétrica.
+- Fones de ouvido, alto-falantes e microfones.
+- Discos rígidos de computadores e pequenos motores de
+  eletrodomésticos.
+
+Repare que todos esses exemplos dependem do que estudamos neste
+capítulo: força magnética, motores, geradores e indução. Os ímãs de
+terras raras não substituem o eletromagnetismo; eles tornam os
+dispositivos mais compactos e eficientes.
+
+*** O Brasil e as terras raras
+
+O Brasil está entre os países com as maiores reservas de terras raras
+do mundo. Há depósitos importantes em Minas Gerais e em Goiás, e
+pesquisas recentes indicam potencial também no Amazonas, na região de
+Pitinga. Mesmo assim, a maior parte da separação e do refino é feita
+na China, o que torna esses elementos estratégicos para a indústria e
+para as relações internacionais.
+
+Essa é uma boa oportunidade para pensar em ciência, economia e meio
+ambiente ao mesmo tempo: extrair e separar terras raras pode gerar
+resíduos e consumir muita energia. Além disso, minerais associados a
+elas, como a monazita, podem conter tório, que exige cuidados
+especiais. Por isso, a reciclagem de ímãs de discos rígidos, motores e
+turbinas é um tema cada vez mais importante.
+
+*** Para lembrar
+
+- Terras raras: 15 lantanídeos + escândio + ítrio.
+- NdFeB e SmCo são ímãs permanentes de alto desempenho.
+- Os elétrons 4f e a estrutura do cristal ajudam a explicar a força e
+  a resistência à desmagnetização.
+- Aplicações: motores, geradores, turbinas eólicas e eletrônicos.
+- O Brasil tem reservas, mas o domínio do refino é estratégico.
+
+Veja também a [[file:lista-terras-raras-vf.org][lista de exercícios de verdadeiro ou falso sobre terras raras]].
+
 ** Resumo
 
 - Comparação entre forças: gravitacional, elétrica e magnética
@@ -1438,6 +1550,7 @@ materiais podem ser classificados em:
   - Lei da indução de Faraday
 - Motor elétrico
 - Gerador elétrico
+- Terras raras e ímãs de alto desempenho
 
 * Eletromagnetismo
 ** Ondas eletromagnéticas
@@ -1471,5 +1584,7 @@ materiais podem ser classificados em:
 ** [[file:lista-magnetismo-1.org]]
 
 ** [[file:lista-eletromagnetismo-vf.org][Lista de exercícios: Eletromagnetismo (verdadeiro ou falso)]]
+
+** [[file:lista-terras-raras-vf.org][Lista de exercícios: Terras raras (verdadeiro ou falso)]]
 
 ** 
