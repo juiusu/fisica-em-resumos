@@ -1,3 +1,4 @@
+
 #+options: toc:1
 #+language: pt-BR
 #+title: Lista de questões sobre transformações de energia

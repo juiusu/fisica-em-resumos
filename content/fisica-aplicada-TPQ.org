@@ -1396,14 +1396,19 @@ distingue líquido e gás é o ponto crítico.
   - Teorema de Arquimedes.
 * Listas de exercícios
 
-- [[file:lista1-TOA.org][Primeira Lista de Exercícios]] - (lista de revisão)
-- [[file:lista2-TOA.org][Segunda Lista de Exercícios]] - (para entregar de forma física, em
+- [[file:lista1-TOA.org][Lista 01]] - (lista de revisão)
+- [[file:lista2-TOA.org][Lista 02]] - (para entregar de forma física, em
   dupla, para entregar no dia 24/08)
-- [[file:lista3-TPQ.org][Terceira Lista - Cinemática]] - (para entregar via SIGAA, manuscrita e
+- [[file:lista3-TPQ.org][Lista 03 - Cinemática]] - (para entregar via SIGAA, manuscrita e
   digitalizada, até o dia 13/09) 
-- [[file:lista4_tpq-ta.org][Quarta lista - Leis de Newton]] - (para enregar via SIGAA, manuscrito
+- [[file:lista4_tpq-ta.org][Lista 04 - Leis de Newton]] - (para enregar via SIGAA, manuscrito
   e digitalizado, até o dia 20/09)
-- [[file:lista5_tpq-ta.org][Quinta lista - Estudo Dirigido: energia Mecânica]]
+- [[file:lista5_tpq-ta.org][Lista 05 - Estudo Dirigido: energia Mecânica]]
+  
+- [[file:lista5-ta-propagacao-de-calor.org][Lista 06 - propagação de calor]] - Disponível no Google Forms
+
+- [[file:lista6-ta-energia1.org][Lista 07 - transformações de energia]] - Será disponibilizado no
+  Google Formas
 
 
 * Links

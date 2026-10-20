@@ -1076,7 +1076,6 @@ Fonte:  <a href="https://commons.wikimedia.org/wiki/File:Translational_motion.gi
 </div>
 #+END_EXPORT
 
-
 ** Escalas termométricas
 
 Principais escalas de temperatura: 
