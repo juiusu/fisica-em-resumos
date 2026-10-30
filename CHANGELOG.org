@@ -24,3 +24,6 @@ ser adicionados com o comando =/registrar-alteracao=.
 * 2026-10-20
 - editado: content/lista-terras-raras-vf.org (18:51)
 - editado: content/fisica-3.org (18:51)
+
+* 2026-10-29
+- editado: content/fisica-3.org (22:59)

@@ -223,15 +223,17 @@ a) V - V - V - F - V    b) V - V - F - F - V    c) V - F - V - F - V    d) V - V
 
 Sobre ideias comuns a respeito das terras raras, julgue as afirmações.
 
-(   ) "Terra rara" é sinônimo de elemento radioativo.
+( ) "Terra rara" é sinônimo de elemento radioativo.
 
-(   ) Todos os elementos de terras raras são fortemente magnéticos por si só.
+( ) Todos os elementos de terras raras são fortemente magnéticos por
+si só.
 
-(   ) O neodímio puro é um ímã permanente muito forte.
+( ) O neodímio puro é um ímã permanente muito forte.
 
-(   ) O ímã de NdFeB é uma liga, e não neodímio puro.
+( ) O ímã de NdFeB é uma liga, e não neodímio puro.
 
-(   ) O nome "terras raras" não significa que todos esses elementos sejam raros na crosta terrestre.
+( ) O nome "terras raras" não significa que todos esses elementos
+sejam raros na crosta terrestre.
 
 #+BEGIN_EXPORT html
 a) F - F - F - V - V    b) F - F - V - V - V    c) F - V - F - V - V    d) V - F - F - V - V    e) F - F - F - V - F

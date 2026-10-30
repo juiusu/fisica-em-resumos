@@ -1555,21 +1555,267 @@ Veja também a [[file:lista-terras-raras-vf.org][lista de exercícios de verdade
 * Eletromagnetismo
 ** Ondas eletromagnéticas
 
+As relações entre a eletricidade e o magnetismo foram sintetizadas
+por James Clerk Maxwell em quatro equações, as Equações de Maxwell.
+Não vamos escrevê-las aqui, pois sua forma matemática foge do escopo
+deste resumo, mas a ideia central pode ser resumida assim:
+
+#+begin_quote
+1. Campos elétricos variáveis geram campos magnéticos variáveis;
+2. Campos magnéticos variáveis geram campos elétricos variáveis.
+#+end_quote
+
+Essa dependência mútua permite que os campos se sustentem e se
+propaguem pelo espaço, formando uma onda eletromagnética. Diferente
+do som, que precisa de um meio material para se propagar, a onda
+eletromagnética também se propaga no vácuo.
+
+Na onda eletromagnética, o campo elétrico (\(E\)) e o campo magnético
+(\(B\)) oscilam perpendicularmente entre si e também à direção de
+propagação. Por isso ela é uma onda transversal. A onda transporta
+energia, e não matéria, e no vácuo viaja com a velocidade
+
+\begin{equation}
+c \approx 3,0\times 10^{8} \, \text{m/s}
+\end{equation}
+
+que é a velocidade da luz no vácuo.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:550px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Onda eletromagnética: os campos elétrico e magnético oscilam perpendicularmente entre si e à direção de propagação.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Electromagneticwave3D.gif"
+       alt="Animação de uma onda eletromagnética com campos elétrico e magnético perpendiculares"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Electromagneticwave3D.gif">Lookang</a>,
+    <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
+
+Como em qualquer onda, podemos relacionar a velocidade (\(v\)), o
+comprimento de onda (\(\lambda\)) e a frequência (\(f\)):
+
+\begin{equation}
+v = \lambda f
+\end{equation}
+
+No vácuo, essa relação fica \(c = \lambda f\). A frequência é
+determinada pela fonte que produz a onda. Quando a onda passa de um
+meio para outro, sua frequência não muda, mas sua velocidade e seu
+comprimento de onda podem mudar.
+
+*** Espectro eletromagnético
+
+Todas as ondas eletromagnéticas têm a mesma natureza. O que as
+diferencia é a frequência e, consequentemente, o comprimento de onda.
+O conjunto de todos os tipos de onda eletromagnética é chamado de
+espectro eletromagnético.
+
+| Região           | Comprimento de onda (aprox.) | Frequência (aprox.) | Exemplos e aplicações |
+|------------------+------------------------------+---------------------+-----------------------|
+| Rádio            | maior que 1 m                | menor que 300 MHz   | Rádio, TV, celular |
+| Micro-ondas      | 1 mm a 1 m                   | 300 MHz a 300 GHz   | Forno de micro-ondas, Wi-Fi, radar |
+| Infravermelho    | 700 nm a 1 mm                | 300 GHz a \(4,3\times 10^{14}\) Hz | Controle remoto, câmera térmica, aquecimento |
+| Luz visível      | 400 nm a 700 nm              | \(4,3\times 10^{14}\) a \(7,5\times 10^{14}\) Hz | Visão humana, fotossíntese |
+| Ultravioleta     | 10 nm a 400 nm               | \(7,5\times 10^{14}\) a \(3\times 10^{16}\) Hz | Bronzeamento, esterilização, vitamina D |
+| Raios X          | 0,01 nm a 10 nm              | \(3\times 10^{16}\) a \(3\times 10^{19}\) Hz | Radiografia, tomografia |
+| Raios gama       | menor que 0,01 nm            | maior que \(3\times 10^{19}\) Hz | Medicina nuclear, radioterapia, astronomia |
+
+#+begin_quote
+As fronteiras entre as regiões são aproximadas e se sobrepõem. O que
+importa é a ordem: das ondas de rádio, com maior comprimento de onda,
+aos raios gama, com o menor.
+#+end_quote
+
+A luz visível ocupa uma faixa muito estreita do espectro, entre
+aproximadamente 400 nm e 700 nm. Dentro dela, as cores vão do vermelho
+(maior comprimento de onda) ao violeta (menor comprimento de onda).
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:600px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Espectro da luz visível: do vermelho (maior comprimento de onda) ao violeta (menor comprimento de onda).
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Espectro_vis%C3%ADvel_da_luz.png/960px-Espectro_vis%C3%ADvel_da_luz.png"
+       alt="Faixa do espectro visível com as cores do vermelho ao violeta"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Espectro_vis%C3%ADvel_da_luz.png">EPTrilhas</a>,
+    <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    O espectro eletromagnético completo, das ondas de rádio aos raios gama.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Espectro_EM_pt.svg/960px-Espectro_EM_pt.svg.png"
+       alt="Espectro eletromagnético com as regiões de rádio, micro-ondas, infravermelho, visível, ultravioleta, raios X e raios gama"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Espectro_EM_pt.svg">Khemis</a>,
+    <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
+
+Uma diferença importante para a saúde é que a radiação ultravioleta,
+os raios X e os raios gama são radiações ionizantes: têm energia
+suficiente para arrancar elétrons de átomos e moléculas, podendo
+danificar células. Já as ondas de rádio, as micro-ondas e o
+infravermelho são não ionizantes. Isso não significa que sejam
+inofensivas em qualquer intensidade, mas o risco é de outra natureza
+(aquecimento, por exemplo).
+
+*** Emissão térmica: todo corpo irradia
+
+Cargas elétricas em movimento acelerado emitem ondas eletromagnéticas.
+Como toda a matéria é formada por cargas e está em constante agitação
+térmica, então:
+
+#+begin_quote
+Todo corpo emite radiação eletromagnética devido à sua temperatura.
+#+end_quote
+
+Essa emissão é chamada de radiação térmica. O espectro emitido é
+contínuo e depende da temperatura do corpo. Duas leis resumem esse
+comportamento:
+
+- Lei de Wien: quanto maior a temperatura, menor o comprimento de onda
+  em que a emissão é máxima.
+
+  \begin{equation}
+  \lambda_{\text{máx}} T \approx 2,9\times 10^{-3} \, \text{m}\cdot\text{K}
+  \end{equation}
+
+- Lei de Stefan-Boltzmann: a potência total emitida cresce muito
+  rapidamente com a temperatura.
+
+  \begin{equation}
+  P = \sigma A T^{4}
+  \end{equation}
+
+  em que \(\sigma \approx 5,67\times 10^{-8} \, \text{W}\cdot\text{m}^{-2}\cdot\text{K}^{-4}\)
+  e \(A\) é a área da superfície. Se a temperatura dobra, a potência
+  emitida fica cerca de 16 vezes maior.
+
+Essas leis explicam por que um pedaço de ferro aquecido passa de
+vermelho escuro a laranja e depois a branco, e por que o Sol
+(aproximadamente 5800 K) emite muita luz visível, enquanto a Terra
+(aproximadamente 300 K) emite principalmente infravermelho. O modelo
+ideal usado para estudar esse comportamento é o corpo negro, que
+absorve e emite toda a radiação que recebe.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Espectro eletromagnético com exemplos, frequências e temperaturas típicas de emissão de corpos negros.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/EM_Spectrum_Properties_pt.svg/960px-EM_Spectrum_Properties_pt.svg.png"
+       alt="Espectro eletromagnético com comprimentos de onda, frequências, exemplos e temperaturas de corpo negro"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:EM_Spectrum_Properties_pt.svg">Villate</a>
+    (versão original de Inductiveload), Domínio público, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
+
+*** Absorção, reflexão e emissão
+
+Quando uma onda eletromagnética atinge um material, parte de sua
+energia pode ser refletida, parte absorvida e parte transmitida. A
+energia total se conserva:
+
+#+begin_quote
+Energia incidente = energia refletida + energia absorvida + energia transmitida.
+#+end_quote
+
+A absorção transfere energia para o material, aumentando sua energia
+interna e, em geral, sua temperatura. É o que acontece com a água no
+forno de micro-ondas e com o solo iluminado pelo Sol. Por outro lado,
+um corpo aquecido também emite radiação. Em equilíbrio, um bom
+absorvedor é também um bom emissor, e uma superfície que reflete bem
+emite pouco. Por isso superfícies escuras esquentam mais ao Sol e
+garrafas térmicas usam paredes espelhadas.
+
+A reflexão é o que nos permite ver os objetos iluminados. Em uma
+superfície opaca, a cor que enxergamos corresponde às frequências que
+são refletidas de forma difusa até nossos olhos. Um objeto vermelho
+reflete principalmente o vermelho e absorve a maior parte das outras
+cores; um objeto branco reflete grande parte da luz visível; um objeto
+negro absorve a maior parte dela. Ainda assim, um objeto negro pode
+emitir bem no infravermelho, o que é detectado por câmeras térmicas.
+
+A transmissão ocorre quando a onda atravessa o material. O vidro, por
+exemplo, é transparente à luz visível, mas absorve boa parte do
+infravermelho. Esse comportamento está na base do efeito estufa: a
+atmosfera deixa passar a luz visível do Sol, mas absorve e reemite
+parte do infravermelho emitido pela superfície da Terra, o que ajuda a
+manter o planeta aquecido. Gases como vapor de água, gás carbônico e
+metano participam desse processo.
+
+Além disso, a luz pode ser espalhada ao interagir com partículas e
+moléculas. O espalhamento da luz azul pela atmosfera é o que dá a cor
+do céu durante o dia; ao amanhecer e ao anoitecer, a luz atravessa uma
+camada maior de ar, a luz azul é espalhada para fora do caminho e
+predominam os tons avermelhados.
+
+*** Para lembrar
+
+- Ondas eletromagnéticas são formadas por campos elétricos e
+  magnéticos oscilantes, perpendiculares entre si e à propagação.
+- Elas se propagam no vácuo com velocidade \(c \approx 3,0\times 10^{8} \, \text{m/s}\).
+- Vale \(v = \lambda f\); a frequência é determinada pela fonte.
+- O espectro eletromagnético vai das ondas de rádio aos raios gama.
+- A luz visível é apenas uma pequena parte do espectro (400 nm a 700 nm).
+- Todo corpo emite radiação térmica; quanto maior a temperatura, maior a
+  potência emitida e menor o comprimento de onda predominante.
+- Ao atingir a matéria, a radiação pode ser refletida, absorvida ou
+  transmitida; a cor dos objetos depende da luz refletida.
+- UV, raios X e raios gama são radiações ionizantes.
+
+Veja também a [[file:lista-eletromagnetismo-vf.org][lista de exercícios de verdadeiro ou falso sobre eletromagnetismo]].
+
+
+
 * Física moderna
 
-** Efeitos fotoelétrico e Compton
+** Origens da Física Moderna:
 
-** Dualidade onda-partícula
+- crise da Física clássica
+- quantização da energia
+- radiação do corpo negro, efeito fotoelétrico e efeito Compton.
 
-** Modelo atômico de Bohr
+** Relatividade restrita:
 
-** Radioatividade
+postulados, dilatação do tempo, contração do
+espaço e equivalência massa-energia.
 
-** Física nuclear
+** Mecânica Quântica:
+dualidade onda-partícula, princípio da incerteza,
+função de onda e equação de Schrödinger. Estrutura atômica.
 
-** Modelo padrão
+** Física Nuclear:
+estrutura do núcleo, radioatividade, fissão e fusão
+nuclear, radiações ionizantes e não ionizantes, aplicações na saúde e na
+indústria.
 
-** Cosmologia
+** Física de partículas:
+partículas elementares, forças fundamentais e modelo padrão.
+
+** Algumas aplicaçõesa da física contemporânea:
+
+semicondutores, laser,
+supercondutores, nanotecnologia e computação quântica. 
+
+** Cosmologia e Astronomia
 
 * Exercícios e problemas
 
