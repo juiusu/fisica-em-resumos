@@ -1787,16 +1787,280 @@ Veja também a [[file:lista-eletromagnetismo-vf.org][lista de exercícios de ver
 
 * Física moderna
 
-** Origens da Física Moderna:
+No fim do século XIX, a Física clássica parecia ter explicado quase
+tudo. A mecânica de Newton descrevia o movimento e o eletromagnetismo
+de Maxwell descrevia a luz. Porém, alguns experimentos envolvendo a
+luz e a matéria não podiam ser explicados com essas teorias. Foi dessa
+crise que nasceram a teoria quântica e a relatividade, bases da Física
+moderna.
 
-- crise da Física clássica
-- quantização da energia
-- radiação do corpo negro, efeito fotoelétrico e efeito Compton.
+** Origens da Física Moderna
 
-** Relatividade restrita:
+*** A crise da Física clássica
 
-postulados, dilatação do tempo, contração do
-espaço e equivalência massa-energia.
+A Física clássica tinha dois pilares: a mecânica, para o movimento dos
+corpos, e o eletromagnetismo, para a luz e os fenômenos elétricos. Nesse
+modelo, a luz era uma onda contínua e a energia podia variar de forma
+contínua. O problema é que essa ideia não explicava certos resultados
+experimentais, como a radiação emitida por corpos aquecidos e a
+interação da luz com os metais. Para resolver essas contradições, foi
+preciso abandonar a ideia de que tudo na natureza é contínuo.
+
+*** Quantização da energia
+
+Em 1900, Max Planck propôs que a energia emitida ou absorvida pela
+matéria não era contínua, mas vinha em pacotes pequenos e bem definidos,
+chamados *quanta*. A energia de cada pacote depende da frequência da
+radiação:
+
+\begin{equation}
+E = hf
+\end{equation}
+
+em que \(h \approx 6,63\times 10^{-34} \, \text{J}\cdot\text{s}\) é a
+constante de Planck e \(f\) é a frequência. Quanto maior a frequência,
+maior a energia de cada quantum. Em 1905, Albert Einstein estendeu essa
+ideia à própria luz, dizendo que ela também é formada por pacotes de
+energia, mais tarde chamados de fótons.
+
+*** Radiação do corpo negro
+
+Um corpo negro é um modelo ideal que absorve e emite toda a radiação
+que recebe. Ao estudar a luz emitida por ele em diferentes temperaturas,
+a teoria clássica previa um crescimento absurdo da energia emitida em
+frequências muito altas, o que ficou conhecido como *catástrofe do
+ultravioleta*. A hipótese de Planck, com a energia quantizada, ajustou
+os dados experimentais e mostrou que a Física clássica não era
+suficiente nesse domínio.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Curvas de emissão de um corpo negro em diferentes temperaturas.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Black_body.svg/960px-Black_body.svg.png"
+       alt="Gráfico da radiação de corpo negro com curvas para diferentes temperaturas"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Black_body.svg">Darth Kule</a>,
+    Domínio público, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
+
+*** Efeito fotoelétrico
+
+Quando a luz incide sobre um metal, ela pode arrancar elétrons de sua
+superfície. Esse é o efeito fotoelétrico. A teoria ondulatória previa que
+bastaria aumentar a intensidade da luz para arrancar elétrons, e que a
+energia deles cresceria com a intensidade. Os experimentos, porém,
+mostraram outra coisa: só há emissão acima de uma frequência mínima, e a
+energia dos elétrons depende da frequência da luz, não da intensidade.
+A intensidade apenas aumenta a quantidade de elétrons arrancados.
+
+Einstein explicou o fenômeno considerando a luz como um conjunto de
+fótons. Cada fóton transfere sua energia \(hf\) a um único elétron.
+Parte dessa energia é usada para vencer a atração do metal e o restante
+vira energia cinética do elétron. Se \(hf\) for menor que esse valor
+mínimo, nenhum elétron escapa, por mais intensa que seja a luz.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Efeito fotoelétrico: fótons de luz arrancam elétrons de um metal.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Photoelectric_effect_in_a_solid_-_diagram.svg/960px-Photoelectric_effect_in_a_solid_-_diagram.svg.png"
+       alt="Diagrama do efeito fotoelétrico com fótons incidindo sobre uma placa metálica e elétrons sendo emitidos"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Photoelectric_effect_in_a_solid_-_diagram.svg">Ponor</a>,
+    <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
+
+*** Efeito Compton
+
+No efeito Compton, raios X atingem elétrons e são espalhados com
+comprimento de onda maior do que o original. Se a luz fosse apenas uma
+onda, esse deslocamento não deveria ocorrer. Tratando a luz como
+partícula, com energia e quantidade de movimento, o fenômeno é explicado
+como uma colisão: o fóton transfere parte de sua energia ao elétron e
+sai com menos energia, ou seja, com maior comprimento de onda.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Espalhamento Compton: o fóton colide com o elétron e perde energia.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Compton-scattering.svg/960px-Compton-scattering.svg.png"
+       alt="Diagrama do espalhamento Compton com fóton incidente, elétron e fóton espalhado"
+       style="width:70%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Compton-scattering.svg">JabberWok</a>,
+    <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
+
+*** Para lembrar
+
+- A Física clássica não explicava a radiação do corpo negro, o efeito
+  fotoelétrico e o efeito Compton.
+- A energia é quantizada: \(E = hf\), com \(h\) sendo a constante de
+  Planck.
+- A luz pode se comportar como onda e também como partícula (fóton).
+- Essas ideias deram origem à Mecânica Quântica.
+
+** Relatividade restrita
+
+A Relatividade Restrita foi proposta por Einstein em 1905 e trata de
+observadores em movimento retilíneo e uniforme, isto é, sem aceleração.
+Ela se apoia em dois postulados:
+
+1. As leis da Física são as mesmas em todos os referenciais inerciais.
+2. A velocidade da luz no vácuo é a mesma para todos os observadores,
+   não importando o movimento da fonte ou do observador.
+
+O segundo postulado é o mais estranho: se você corre em direção a um
+feixe de luz, ainda mede a mesma velocidade \(c\) que mediria parado.
+Para que isso seja possível, o tempo e o espaço deixam de ser absolutos.
+Cada observador tem seu próprio tempo e seu próprio espaço, e até a
+ideia de "ao mesmo tempo" passa a depender do referencial.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Dois referenciais em movimento relativo: cada um tem seu próprio tempo e espaço.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Frames_of_reference_in_relative_motion.svg/960px-Frames_of_reference_in_relative_motion.svg.png"
+       alt="Dois sistemas de referência com eixos e observadores em movimento relativo"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Frames_of_reference_in_relative_motion.svg">Krea</a>,
+    <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
+
+*** Dilatação do tempo
+
+Um relógio em movimento em relação a um observador funciona mais
+devagar do que um relógio parado em relação a ele. Esse efeito é
+chamado de dilatação do tempo e é tanto maior quanto mais próxima da
+velocidade da luz for a velocidade relativa. O fator que mede essa
+diferença é
+
+\begin{equation}
+\gamma = \frac{1}{\sqrt{1 - v^{2}/c^{2}}}
+\end{equation}
+
+Assim, \(\Delta t = \gamma\,\Delta t_0\), em que \(\Delta t_0\) é o
+intervalo medido pelo relógio em repouso. Para velocidades comuns,
+\(\gamma\) é praticamente igual a 1 e o efeito é imperceptível. Para
+velocidades próximas de \(c\), o tempo passa a se dilatar de forma
+significativa. É por isso que múons criados na alta atmosfera chegam
+até o solo: para eles, o tempo de decaimento parece maior.
+
+*** Contração do espaço
+
+O comprimento de um objeto medido por um observador que o vê em
+movimento é menor na direção do movimento:
+
+\begin{equation}
+L = \frac{L_0}{\gamma}
+\end{equation}
+
+Essa contração não é uma compressão física do objeto, mas consequência
+de como comprimentos e intervalos de tempo são medidos em referenciais
+diferentes. As dimensões perpendiculares ao movimento não mudam.
+
+*** Equivalência massa-energia
+
+Einstein mostrou que massa e energia estão relacionadas:
+
+\begin{equation}
+E = mc^{2}
+\end{equation}
+
+Como \(c\) é muito grande, uma massa pequena corresponde a uma energia
+enorme. Isso explica a grande quantidade de energia liberada nas
+reações nucleares e na fusão que ocorre no Sol. Massa não é algo
+"separado" da energia: é uma forma de energia.
+
+*** Para lembrar
+
+- A velocidade da luz é a mesma para todos os observadores inerciais.
+- O tempo e o espaço são relativos; a simultaneidade também.
+- Relógios em movimento atrasam (dilatação do tempo).
+- Comprimentos se contraem na direção do movimento.
+- Massa e energia são equivalentes: \(E = mc^{2}\).
+- Nenhum corpo com massa pode atingir a velocidade da luz.
+
+** Relatividade geral
+
+A Relatividade Geral, publicada por Einstein em 1915, amplia a
+Relatividade Restrita para referenciais acelerados e inclui a
+gravidade. A ideia central é o princípio da equivalência: localmente, é
+impossível distinguir um referencial acelerado de um campo
+gravitacional. Uma pessoa dentro de um elevador fechado não sabe se
+está parada na Terra ou acelerando no espaço.
+
+A partir disso, Einstein propôs que a gravidade não é uma força que
+puxa os corpos à distância, mas a curvatura do espaço-tempo causada
+pela massa e pela energia. Corpos e luz não são "puxados": eles seguem
+o caminho mais natural possível nesse espaço-tempo curvo. Em uma frase
+famosa, a matéria diz ao espaço-tempo como se curvar, e o espaço-tempo
+diz à matéria como se mover.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Representação da curvatura do espaço-tempo causada por um corpo de grande massa.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Spacetime_curvature.png"
+       alt="Malha do espaço-tempo deformada por uma esfera representando um corpo massivo"
+       style="width:70%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Spacetime_curvature.png">Johnstone</a>,
+    <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
+
+A Relatividade Geral explica e prevê vários fenômenos:
+
+- A luz de estrelas distantes se curva ao passar perto do Sol, o que foi
+  observado no eclipse solar de 29 de maio de 1919, em duas expedições:
+  uma em Sobral, no Ceará (Brasil), e outra na Ilha do Príncipe, na
+  África. Esse desvio também produz lentes gravitacionais.
+- A órbita de Mercúrio tem uma pequena precessão que a teoria clássica
+  não explicava completamente.
+- Relógios em regiões de gravidade mais intensa funcionam mais devagar.
+  Essa diferença precisa ser corrigida no GPS.
+- Buracos negros são regiões em que a curvatura é tão intensa que nem a
+  luz consegue escapar.
+- Ondas gravitacionais, deformações do espaço-tempo, foram detectadas
+  pela primeira vez em 2015.
+- Em escala cosmológica, a teoria descreve a expansão do Universo e
+  serve de base para o modelo do Big Bang.
+
+As observações de 1919 tiveram participação brasileira: a equipe do
+Observatório Nacional, no Rio de Janeiro, acompanhou e apoiou a
+expedição em Sobral, e as chapas fotográficas obtidas lá estiveram
+entre as principais confirmações do desvio da luz previsto por
+Einstein. Saiba mais em
+[[https://pt.wikipedia.org/wiki/Eclipse_solar_de_29_de_maio_de_1919][Eclipse solar de 29 de maio de 1919]].
+
+*** Para lembrar
+
+- A Relatividade Geral trata de referenciais acelerados e da gravidade.
+- Pelo princípio da equivalência, acelerar e sentir gravidade são
+  localmente indistinguíveis.
+- A gravidade é a curvatura do espaço-tempo produzida por massa e
+  energia.
+- A teoria foi confirmada pelo desvio da luz, por correções em relógios,
+  por buracos negros e por ondas gravitacionais.
 
 ** Mecânica Quântica:
 dualidade onda-partícula, princípio da incerteza,

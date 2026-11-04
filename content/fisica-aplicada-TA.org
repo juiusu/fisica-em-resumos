@@ -1463,13 +1463,154 @@ possui calor específico menor.
 </div>
 #+END_EXPORT
 
+** Exemplos de aplicação: calor específico, capacidade térmica e calor latente
+
+Antes dos exemplos, vale reunir alguns valores úteis. Lembre-se de que
+\(1\,cal \approx 4,18\,J\) e que, nas equações, a massa e o calor
+específico devem estar em unidades compatíveis.
+
+#+CAPTION: Valores aproximados usados nos exemplos
+#+ATTR_HTML: :align center
+| Substância        | Calor específico                    |
+|-------------------+-------------------------------------|
+| Água (líquida)    | \(1,00\,cal/(g \cdot ^\circ C)\)    |
+| Gelo              | \(0,50\,cal/(g \cdot ^\circ C)\)    |
+| Azeite            | \(0,47\,cal/(g \cdot ^\circ C)\)    |
+| Alumínio          | \(0,22\,cal/(g \cdot ^\circ C)\)    |
+| Ferro             | \(0,11\,cal/(g \cdot ^\circ C)\)    |
+| Areia             | \(0,20\,cal/(g \cdot ^\circ C)\)    |
+
+#+CAPTION: Calores latentes da água
+#+ATTR_HTML: :align center
+| Transformação                     | Calor latente                     |
+|-----------------------------------+-----------------------------------|
+| Fusão do gelo (\(0\,^\circ C\))   | \(L_f = 80\,cal/g\)               |
+| Vaporização da água (\(100\,^\circ C\)) | \(L_v = 540\,cal/g\)         |
+
+*** Capacidade térmica
+
+A capacidade térmica mede quanto calor um *corpo* precisa receber para
+variar sua temperatura em \(1\,^\circ C\):
+
+\[ C = \frac{Q}{\Delta T} = m \, c \]
+
+*Exemplo.* Uma panela de alumínio tem massa \(m = 500\,g\) e calor
+específico \(c = 0,22\,cal/(g \cdot ^\circ C)\). Sua capacidade térmica é
+
+\[ C = m \, c = 500 \cdot 0,22 = 110\,cal/^\circ C \]
+
+Ou seja, são necessárias \(110\,cal\) para aquecer a panela em
+\(1\,^\circ C\). Para aquecê-la de \(20\,^\circ C\) até
+\(100\,^\circ C\) (\(\Delta T = 80\,^\circ C\)):
+
+\[ Q = C \, \Delta T = 110 \cdot 80 = 8800\,cal \approx 8,8\,kcal \]
+
+Isso ajuda a entender por que uma panela grossa demora mais para
+esquentar do que uma fina: ela tem maior capacidade térmica e "rouba"
+parte do calor antes de aquecer o alimento.
+
+*** Calor específico
+
+O calor específico mede quanto calor *cada grama* (ou cada quilograma)
+de uma substância precisa receber para variar \(1\,^\circ C\):
+
+\[ Q = m \, c \, \Delta T \]
+
+*Exemplo 1 — aquecendo água.* Quantos calor são necessários para
+aquecer \(2\,kg\) de água de \(20\,^\circ C\) até \(80\,^\circ C\)?
+
+- Massa: \(m = 2\,kg = 2000\,g\);
+- Calor específico da água: \(c = 1\,cal/(g \cdot ^\circ C)\);
+- Variação de temperatura: \(\Delta T = 80 - 20 = 60\,^\circ C\).
+
+\[ Q = m \, c \, \Delta T = 2000 \cdot 1 \cdot 60 = 120000\,cal \]
+\[ Q = 120\,kcal \approx 5,0 \times 10^5\,J \]
+
+*Exemplo 2 — água contra azeite.* Se fornecermos a mesma quantidade de
+calor, \(20\,kcal\), a \(2\,kg\) de água e a \(2\,kg\) de azeite, qual
+esquenta mais?
+
+Para a água:
+
+\[ \Delta T = \frac{Q}{m \, c} = \frac{20000}{2000 \cdot 1} = 10\,^\circ C \]
+
+Para o azeite (\(c = 0,47\,cal/(g \cdot ^\circ C)\)):
+
+\[ \Delta T = \frac{20000}{2000 \cdot 0,47} \approx 21,3\,^\circ C \]
+
+O azeite esquenta cerca de duas vezes mais rápido que a água. É por isso
+que, numa fritura, o óleo atinge temperaturas muito altas enquanto a
+água dos alimentos demora mais para aquecer — e também por isso a água é
+usada como referência e como agente de resfriamento.
+
+*** Calor latente
+
+O calor latente é o calor trocado durante uma *mudança de fase*, sem
+variação de temperatura:
+
+\[ Q = m \, L \]
+
+*Exemplo 1 — derretendo gelo.* Qual o calor necessário para derreter
+\(500\,g\) de gelo a \(0\,^\circ C\)?
+
+\[ Q = m \, L_f = 500 \cdot 80 = 40000\,cal = 40\,kcal \]
+
+Durante toda a fusão a temperatura permanece em \(0\,^\circ C\): o calor
+recebido é usado para quebrar o arranjo cristalino do gelo, e não para
+aumentar a agitação das partículas.
+
+*Exemplo 2 — ferver água.* Qual o calor necessário para vaporizar
+\(100\,g\) de água já a \(100\,^\circ C\)?
+
+\[ Q = m \, L_v = 100 \cdot 540 = 54000\,cal = 54\,kcal \]
+
+Observe que vaporizar \(100\,g\) de água exige mais calor do que
+derreter \(500\,g\) de gelo. É por isso que o vapor de água é tão
+perigoso em queimaduras: ao condensar sobre a pele, ele libera uma
+grande quantidade de calor.
+
+*Exemplo 3 — gelo resfriando uma bebida.* Para resfriar um copo,
+colocamos \(100\,g\) de gelo a \(-10\,^\circ C\) em uma bebida. Quanto
+calor o gelo absorve até virar água a \(20\,^\circ C\)? O processo tem
+três etapas:
+
+- Aquecer o gelo de \(-10\,^\circ C\) até \(0\,^\circ C\):
+  \[ Q_1 = 100 \cdot 0,50 \cdot 10 = 500\,cal \]
+- Derreter o gelo a \(0\,^\circ C\):
+  \[ Q_2 = 100 \cdot 80 = 8000\,cal \]
+- Aquecer a água resultante de \(0\,^\circ C\) até \(20\,^\circ C\):
+  \[ Q_3 = 100 \cdot 1 \cdot 20 = 2000\,cal \]
+
+\[ Q_{total} = Q_1 + Q_2 + Q_3 = 500 + 8000 + 2000 = 10500\,cal \]
+\[ Q_{total} \approx 10,5\,kcal \]
+
+A maior parte do calor (\(8000\,cal\)) foi usada na fusão, e não no
+aquecimento. Isso explica por que o gelo é tão eficiente para resfriar
+bebidas.
+
 * APLICAÇÕES
 
 ** Garrafa Térmica
 
+A garrafa térmica é feita com paredes duplas de vidro (ou inox) e
+vácuo entre elas. O vácuo praticamente elimina a condução e a convecção,
+pois não há meio material para transportar o calor; as superfícies
+espelhadas, por sua vez, refletem a radiação térmica. Assim, os três
+processos de propagação do calor são reduzidos ao mesmo tempo, e o
+líquido interno permanece quente (ou frio) por mais tempo.
+
 - [[https://www.youtube.com/watch?v=kBRxfenqkWA&pp=ygUeZ2FycmFmYSB0w6lybWljYSBjb21vIGZ1bmNpb25h0gcJCTUMAYcqIYzv][A garrafa térmica e a propagação do calor - canal: REA de Ciências]]
 
 ** Aparelho Microondas
+
+O forno micro-ondas produz ondas eletromagnéticas de alta frequência
+(micro-ondas) que fazem as moléculas polares, principalmente as de
+água, girar e vibrar rapidamente. Esse movimento molecular é o próprio
+aumento de agitação térmica, ou seja, a comida esquenta "por dentro",
+sem depender de condução a partir de uma superfície quente. Alimentos
+com pouca água (como pães secos) ou recipientes sem água aquecem menos,
+e materiais metálicos refletem as micro-ondas, por isso não devem ir ao
+forno.
 
 - [[https://www.youtube.com/watch?v=dCxJ4K649Cw&pp=ygUZZnVuY2lvbmFtZW50byBtaWNyb29uZGFzIA%3D%3D][Forno Micro-ondas | Como funciona? - Canal: JAES Company Português]]
 
@@ -1487,6 +1628,16 @@ cozimento.
   Prof. Emiliano Chemello]] 
 
 ** Refrigeradores
+
+O refrigerador usa um fluido refrigerante que circula em um ciclo
+fechado. Na parte interna (congelador), ele evapora absorvendo calor do
+ambiente — graças ao calor latente de vaporização — e resfria o
+interior. Em seguida, o compressor comprime esse vapor, aumentando sua
+temperatura; na parte externa (atrás ou embaixo da geladeira), ele
+condensa e libera calor para o ambiente. O trabalho realizado pelo
+compressor (energia elétrica convertida em mecânica) é o que permite
+transportar calor de um lugar frio para um lugar quente, processo que
+não ocorre espontaneamente.
 
 - [[https://youtu.be/EIP3pSio7-M][How Does A Refrigerator Work? - The Explained Channel]] 
 
