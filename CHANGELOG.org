@@ -33,3 +33,11 @@ ser adicionados com o comando =/registrar-alteracao=.
 
 * 2026-11-04
 - editado: content/fisica-aplicada-TA.org (07:59)
+
+* 2026-11-08
+- editado: content/fisica-aplicada-TPQ.org (16:15)
+- editado: content/fisica-aplicada-TA.org (16:15)
+
+* 2026-11-09
+- editado: content/gas-ideal_e_mudanca-de-fase.org (13:00)
+- editado: content/fisica-aplicada-TA.org (12:03)

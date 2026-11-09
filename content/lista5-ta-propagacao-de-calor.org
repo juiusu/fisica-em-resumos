@@ -10,7 +10,7 @@
   termométricas e propagação de calor (condução, convecção e irradiação).
 - Consulte o material das aulas e as anotações sempre que necessário.
 
-* Conceito de temperatura
+* 1. Conceito de temperatura
 
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
@@ -26,16 +26,19 @@ Fonte:  <a href="https://commons.wikimedia.org/wiki/File:Translational_motion.gi
 </div>
 #+END_EXPORT
 
-1. A temperatura de um corpo está relacionada à agitação (energia de
+- [ ] A temperatura de um corpo está relacionada à agitação (energia de
    movimento) das partículas que o constituem.
-2. Quanto maior a temperatura de um corpo, maior é a agitação de suas
+   
+- [ ] Quanto maior a temperatura de um corpo, maior é a agitação de suas
    partículas.
-3. A temperatura mede a quantidade de calor armazenada em um corpo, e não
+
+- [ ] A temperatura mede a quantidade de calor armazenada em um corpo, e não
    a agitação de suas partículas.
-4. Um corpo a \(0\,^\circ C\) não possui nenhuma energia de movimento em
+
+- [ ] Um corpo a \(0\,^\circ C\) não possui nenhuma energia de movimento em
    suas partículas, pois se encontra no zero absoluto.
 
-* Escalas termométricas
+* 2. Escalas termométricas
 
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
@@ -58,17 +61,20 @@ Fonte:  <a href="https://commons.wikimedia.org/wiki/File:Translational_motion.gi
 </div>
 #+END_EXPORT
 
-5. Na escala Celsius, o ponto de fusão do gelo corresponde a \(0\,^\circ
+- [ ] Na escala Celsius, o ponto de fusão do gelo corresponde a \(0\,^\circ
    C\) e o ponto de ebulição da água a \(100\,^\circ C\), à pressão de 1
    atmosfera.
-6. O intervalo entre os pontos de fusão e de ebulição da água é dividido
+   
+- [ ] O intervalo entre os pontos de fusão e de ebulição da água é dividido
    em 100 partes iguais na escala Celsius.
-7. A escala Kelvin admite temperaturas negativas, assim como a escala
+
+- [ ] A escala Kelvin admite temperaturas negativas, assim como a escala
    Celsius.
-8. A escala Kelvin parte do zero absoluto, a menor temperatura possível,
+
+- [ ] A escala Kelvin parte do zero absoluto, a menor temperatura possível,
    e por isso é chamada de escala absoluta, sem valores negativos.
 
-* Propagação de calor
+* 3. Propagação de calor
 
 #+CAPTION: Calor sendo transferido por condução.
 #+BEGIN_EXPORT html
@@ -83,15 +89,19 @@ Fonte:  <a href="https://commons.wikimedia.org/wiki/File:Translational_motion.gi
 </div>
 #+END_EXPORT
 
-1. A condução é a transferência de calor ponto a ponto, por colisões
+- [ ] A condução é a transferência de calor ponto a ponto, por colisões
    entre as partículas, sem transporte de matéria.
-2. A condução é o processo em que o calor se propaga pelo deslocamento
+
+- [ ] A condução é o processo em que o calor se propaga pelo deslocamento
    de porções de fluido aquecido que sobem e depois esfriam.
-3. A condução é o tipo de transferência de energia que pode se dá pelo vácuo.
-4. Os materiais que transferem o calor por condução de forma rápida
+
+- [ ] A condução é o tipo de transferência de energia que pode se dá pelo vácuo.
+
+- [ ] Os materiais que transferem o calor por condução de forma rápida
    são conhecidos como condutores de calor, enquanto que os que
    conduzem de forma lenta são chamados de isolantes.
-5. Os metais são, em geral, péssimos condutores de calor.
+
+- [ ] Os metais são, em geral, péssimos condutores de calor.
 
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
@@ -110,13 +120,16 @@ Fonte:  <a href="https://commons.wikimedia.org/wiki/File:Translational_motion.gi
 </div>
 #+END_EXPORT
 
-1. Na convecção, o fluido aquecido fica menos denso e sobe, enquanto o
+- [ ] Na convecção, o fluido aquecido fica menos denso e sobe, enquanto o
    fluido mais frio, mais denso, desce.
-2. A convecção é o processo de propagação de calor que ocorre mesmo no
+
+- [ ] A convecção é o processo de propagação de calor que ocorre mesmo no
    vácuo, sem a necessidade de um meio material.
-3. Para se utilizar do processo de convecção de forma mais eficiente,
+
+- [ ] Para se utilizar do processo de convecção de forma mais eficiente,
    os arcondicionados devem ser posicionados locais mais altos.
-4. Para se utilizar do processo de convecção de forma mais eficiente,
+
+- [ ] Para se utilizar do processo de convecção de forma mais eficiente,
    os aquecedores devem ser posicionados no alto.
 
 #+BEGIN_EXPORT html
@@ -135,15 +148,18 @@ Fonte:  <a href="https://commons.wikimedia.org/wiki/File:Translational_motion.gi
 </div>
 #+END_EXPORT
 
-1. A irradiação é a transferência de calor por ondas eletromagnéticas e
+- [ ] A irradiação é a transferência de calor por ondas eletromagnéticas e
    pode ocorrer no vácuo, como no caso do calor do Sol que chega à Terra.
-2. Quanto maior a temperatura de um corpo, menor a quantidade de energia
+
+- [ ] Quanto maior a temperatura de um corpo, menor a quantidade de energia
    irradiada e maior o comprimento de onda predominante da radiação
    emitida.
-3. Na imagem de infravermelho (termografia), a temperatura de cada ponto
+
+- [ ] Na imagem de infravermelho (termografia), a temperatura de cada ponto
    do corpo pode ser identificada a partir da radiação emitida, princípio
    semelhante ao do termômetro infravermelho.
-4. Quanto maior a temperatura, maior a frequência da onda
+
+- [ ] Quanto maior a temperatura, maior a frequência da onda
    eletromagnética emitira por irradiação. Por isso, corpos biológicos
    emitem majoritariamente na faixa de infravermelho, e corpos com
    temperaturas mais elevadas, como um prego aquecido em fogo, podem

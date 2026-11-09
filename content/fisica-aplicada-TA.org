@@ -231,9 +231,6 @@ Dois mil reais:   U$ \(2.000,00\)
 - revisar conceitos e discutir resultados.
 
 * TÓPICOS EM MECÂNICA
-** Tópicos da ementa abordados nessa seção
-  - Álgebra vetorial;
-  - Movimentos unidimensionais e bidimensionais.
 ** Introdução
 
 A mecânica é a área da física que estuda os movimentos de modo geral;
@@ -1035,9 +1032,6 @@ Exemplos: elétrons em aceleradores, partículas cósmicas, GPS (correções rel
    Exemplos: buracos negros, estrelas de nêutrons, ondas gravitacionais, cosmologia, precessão anômala de Mercúrio, GPS.
    
 * TÓPICOS EM TERMODINÂMICA - PARTE 1
-** Tópicos da ementa abordados nessa seção
-  - Fases da matéria,
-  - Propriedade térmica dos alimentos,
 ** Conceito de temperatura
 
 A temperatura está relacionada a agitação a nível molecular. Ou seja,
@@ -1386,6 +1380,30 @@ distingue líquido e gás é o ponto crítico.
 #+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
+    Diagrama de fases da água, com os pontos triplo, crítico e os pontos
+    convencionais de solidificação e ebulição.
+  </p>
+  <img src="./graphics/diagrama-fase_agua-modelo.png"
+       alt="Diagrama de fases da água (pressão em atm por temperatura em °C), mostrando as regiões sólida, líquida e gasosa, o ponto triplo, o ponto crítico e os pontos de solidificação e ebulição a 1 atm"
+       style="width:70%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: imagem criada pelo autor.
+  </p>
+</div>
+#+END_EXPORT
+
+No diagrama da água, o ponto triplo ocorre em \(0,01\,^\circ C\) e
+\(0,006\,atm\), condição em que gelo, água líquida e vapor coexistem. A
+\(1\,atm\), a fusão acontece a \(0\,^\circ C\) e a ebulição a
+\(100\,^\circ C\), os chamados pontos convencionais. O ponto crítico
+(\(373,99\,^\circ C\) e \(217,75\,atm\)) é o limite acima do qual não se
+distingue mais líquido e gás. Observe também que a curva sólido-líquido é
+inclinada para a esquerda: no caso da água, o aumento da pressão favorece
+a fase líquida, pois o gelo é menos denso que a água líquida.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
     Diagrama de fases típico de uma substância pura.
   </p>
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Phase-diag-pt.svg"
@@ -1402,9 +1420,6 @@ distingue líquido e gás é o ponto crítico.
 #+END_EXPORT
 
 * TÓPICOS EM TERMODINÂMICA - PARTE 2
-** Tópicos da ementa abordados nessa seção
-  - Calorimetria nos alimentos, Propagação do calor nos alimentos,
-  - Níveis de energia dos alimentos,
 ** Calor Latente e Calor sensível
 
 Quando um corpo recebe ou cede calor, podem ocorrer duas situações:
@@ -1489,104 +1504,133 @@ específico devem estar em unidades compatíveis.
 
 *** Capacidade térmica
 
-A capacidade térmica mede quanto calor um *corpo* precisa receber para
-variar sua temperatura em \(1\,^\circ C\):
+A capacidade térmica \(C\) mede quanto calor um *corpo* precisa receber
+para variar sua temperatura em \(1\,^\circ C\):
 
 \[ C = \frac{Q}{\Delta T} = m \, c \]
 
-*Exemplo.* Uma panela de alumínio tem massa \(m = 500\,g\) e calor
-específico \(c = 0,22\,cal/(g \cdot ^\circ C)\). Sua capacidade térmica é
+*Exemplo 1 — panela de alumínio.* Uma panela de alumínio tem massa
+\(m = 500\,g\) e calor específico \(c = 0,22\,cal/(g \cdot ^\circ C)\).
+Qual é a sua capacidade térmica e quanto calor ela absorve ao passar de
+\(20\,^\circ C\) para \(100\,^\circ C\)?
+
+*Dados:* \(m = 500\,g\), \(c = 0,22\,cal/(g \cdot ^\circ C)\),
+\(\Delta T = 100 - 20 = 80\,^\circ C\).
+
+*Resolução:*
 
 \[ C = m \, c = 500 \cdot 0,22 = 110\,cal/^\circ C \]
+\[ Q = C \, \Delta T = 110 \cdot 80 = 8800\,cal \approx 8,8\,kcal \approx 3,7 \times 10^4\,J \]
 
-Ou seja, são necessárias \(110\,cal\) para aquecer a panela em
-\(1\,^\circ C\). Para aquecê-la de \(20\,^\circ C\) até
-\(100\,^\circ C\) (\(\Delta T = 80\,^\circ C\)):
+*Resposta:* a panela tem capacidade térmica de \(110\,cal/^\circ C\) e
+absorve \(8,8\,kcal\) nesse aquecimento.
 
-\[ Q = C \, \Delta T = 110 \cdot 80 = 8800\,cal \approx 8,8\,kcal \]
-
-Isso ajuda a entender por que uma panela grossa demora mais para
-esquentar do que uma fina: ela tem maior capacidade térmica e "rouba"
-parte do calor antes de aquecer o alimento.
+*Interpretação:* a cada \(1\,^\circ C\) de aquecimento, a panela "guarda"
+\(110\,cal\), que não chegam ao alimento. Uma panela mais pesada (maior
+massa, portanto maior \(C\)) demora mais para aquecer e também continua
+quente por mais tempo depois de desligada.
 
 *** Calor específico
 
-O calor específico mede quanto calor *cada grama* (ou cada quilograma)
-de uma substância precisa receber para variar \(1\,^\circ C\):
+O calor específico \(c\) mede quanto calor *cada grama* (ou cada
+quilograma) de uma substância precisa receber para variar \(1\,^\circ C\):
 
 \[ Q = m \, c \, \Delta T \]
 
-*Exemplo 1 — aquecendo água.* Quantos calor são necessários para
-aquecer \(2\,kg\) de água de \(20\,^\circ C\) até \(80\,^\circ C\)?
+*Exemplo 1 — aquecendo água.* Qual é a quantidade de calor necessária
+para aquecer \(2\,kg\) de água de \(20\,^\circ C\) até \(80\,^\circ C\)?
 
-- Massa: \(m = 2\,kg = 2000\,g\);
-- Calor específico da água: \(c = 1\,cal/(g \cdot ^\circ C)\);
-- Variação de temperatura: \(\Delta T = 80 - 20 = 60\,^\circ C\).
+*Dados:* \(m = 2\,kg = 2000\,g\), \(c = 1\,cal/(g \cdot ^\circ C)\),
+\(\Delta T = 80 - 20 = 60\,^\circ C\).
 
-\[ Q = m \, c \, \Delta T = 2000 \cdot 1 \cdot 60 = 120000\,cal \]
-\[ Q = 120\,kcal \approx 5,0 \times 10^5\,J \]
+*Resolução:*
 
-*Exemplo 2 — água contra azeite.* Se fornecermos a mesma quantidade de
-calor, \(20\,kcal\), a \(2\,kg\) de água e a \(2\,kg\) de azeite, qual
-esquenta mais?
+\[ Q = m \, c \, \Delta T = 2000 \cdot 1 \cdot 60 = 120000\,cal = 120\,kcal \]
+\[ Q \approx 120 \cdot 4,18\,kJ \approx 5,0 \times 10^2\,kJ \]
 
-Para a água:
+*Resposta:* são necessárias \(120\,kcal\), ou aproximadamente \(500\,kJ\).
 
-\[ \Delta T = \frac{Q}{m \, c} = \frac{20000}{2000 \cdot 1} = 10\,^\circ C \]
+*Exemplo 2 — água contra azeite.* Fornecemos \(20\,kcal\) a \(2\,kg\) de
+água e a \(2\,kg\) de azeite. Qual dos dois aquece mais?
 
-Para o azeite (\(c = 0,47\,cal/(g \cdot ^\circ C)\)):
+*Dados:* \(Q = 20\,kcal = 20000\,cal\) e \(m = 2000\,g\) nos dois casos;
+\(c_{água} = 1\,cal/(g \cdot ^\circ C)\) e \(c_{azeite} = 0,47\,cal/(g \cdot ^\circ C)\).
 
-\[ \Delta T = \frac{20000}{2000 \cdot 0,47} \approx 21,3\,^\circ C \]
+*Resolução:*
 
-O azeite esquenta cerca de duas vezes mais rápido que a água. É por isso
-que, numa fritura, o óleo atinge temperaturas muito altas enquanto a
-água dos alimentos demora mais para aquecer — e também por isso a água é
-usada como referência e como agente de resfriamento.
+- Água: \(\Delta T = \dfrac{Q}{m \, c} = \dfrac{20000}{2000 \cdot 1} = 10\,^\circ C\)
+- Azeite: \(\Delta T = \dfrac{Q}{m \, c} = \dfrac{20000}{2000 \cdot 0,47} \approx 21,3\,^\circ C\)
+
+*Resposta:* o azeite sobe cerca de duas vezes mais que a água.
+
+*Relação com o dia a dia:* como o azeite tem menor calor específico, a
+mesma quantidade de calor provoca uma variação de temperatura maior. Na
+fritura, o óleo pode ultrapassar \(150\,^\circ C\), enquanto a água em
+ebulição não passa de \(100\,^\circ C\) à pressão atmosférica. Essa é uma
+das razões pelas quais queimaduras causadas por óleo quente costumam ser
+mais graves.
 
 *** Calor latente
 
-O calor latente é o calor trocado durante uma *mudança de fase*, sem
-variação de temperatura:
+O calor latente \(L\) é a quantidade de calor, por unidade de massa,
+trocada durante uma *mudança de fase*. Nessa situação, a temperatura
+permanece constante:
 
 \[ Q = m \, L \]
 
-*Exemplo 1 — derretendo gelo.* Qual o calor necessário para derreter
-\(500\,g\) de gelo a \(0\,^\circ C\)?
+*Exemplo 1 — derretendo gelo.* Qual é o calor necessário para derreter
+\(500\,g\) de gelo que está a \(0\,^\circ C\)?
 
-\[ Q = m \, L_f = 500 \cdot 80 = 40000\,cal = 40\,kcal \]
+*Dados:* \(m = 500\,g\), \(L_f = 80\,cal/g\).
 
-Durante toda a fusão a temperatura permanece em \(0\,^\circ C\): o calor
-recebido é usado para quebrar o arranjo cristalino do gelo, e não para
-aumentar a agitação das partículas.
+*Resolução:*
 
-*Exemplo 2 — ferver água.* Qual o calor necessário para vaporizar
-\(100\,g\) de água já a \(100\,^\circ C\)?
+\[ Q = m \, L_f = 500 \cdot 80 = 40000\,cal = 40\,kcal \approx 1,7 \times 10^2\,kJ \]
 
-\[ Q = m \, L_v = 100 \cdot 540 = 54000\,cal = 54\,kcal \]
+*Resposta:* são necessárias \(40\,kcal\) (cerca de \(167\,kJ\)).
 
-Observe que vaporizar \(100\,g\) de água exige mais calor do que
-derreter \(500\,g\) de gelo. É por isso que o vapor de água é tão
-perigoso em queimaduras: ao condensar sobre a pele, ele libera uma
-grande quantidade de calor.
+*Interpretação:* durante toda a fusão, a temperatura permanece em
+\(0\,^\circ C\). O calor recebido serve para desfazer o arranjo
+cristalino do gelo, e não para aumentar a agitação das partículas.
 
-*Exemplo 3 — gelo resfriando uma bebida.* Para resfriar um copo,
-colocamos \(100\,g\) de gelo a \(-10\,^\circ C\) em uma bebida. Quanto
-calor o gelo absorve até virar água a \(20\,^\circ C\)? O processo tem
-três etapas:
+*Exemplo 2 — vapor e queimaduras.* Qual é o calor necessário para
+vaporizar \(100\,g\) de água já a \(100\,^\circ C\)?
 
-- Aquecer o gelo de \(-10\,^\circ C\) até \(0\,^\circ C\):
-  \[ Q_1 = 100 \cdot 0,50 \cdot 10 = 500\,cal \]
-- Derreter o gelo a \(0\,^\circ C\):
-  \[ Q_2 = 100 \cdot 80 = 8000\,cal \]
-- Aquecer a água resultante de \(0\,^\circ C\) até \(20\,^\circ C\):
-  \[ Q_3 = 100 \cdot 1 \cdot 20 = 2000\,cal \]
+*Dados:* \(m = 100\,g\), \(L_v = 540\,cal/g\).
+
+*Resolução:*
+
+\[ Q = m \, L_v = 100 \cdot 540 = 54000\,cal = 54\,kcal \approx 2,3 \times 10^2\,kJ \]
+
+*Resposta:* são necessárias \(54\,kcal\).
+
+*Comparação:* a mesma massa de água líquida a \(100\,^\circ C\), ao
+esfriar até \(37\,^\circ C\) (temperatura aproximada do corpo humano),
+libera apenas \(Q = 100 \cdot 1 \cdot 63 = 6300\,cal \approx 6,3\,kcal\).
+O vapor que se condensa sobre a pele libera quase 9 vezes mais calor
+(\(54\,kcal\) contra \(6,3\,kcal\)), o que explica a gravidade das
+queimaduras por vapor.
+
+*Exemplo 3 — gelo resfriando uma bebida.* Quanto calor \(100\,g\) de gelo
+a \(-10\,^\circ C\) absorve até se tornar água a \(20\,^\circ C\)?
+Considere \(c_{gelo} = 0,50\,cal/(g \cdot ^\circ C)\). O processo ocorre
+em três etapas:
+
+- Aquecer o gelo de \(-10\,^\circ C\) até \(0\,^\circ C\): \(Q_1 = 100 \cdot 0,50 \cdot 10 = 500\,cal\)
+- Derreter o gelo a \(0\,^\circ C\): \(Q_2 = 100 \cdot 80 = 8000\,cal\)
+- Aquecer a água de \(0\,^\circ C\) até \(20\,^\circ C\): \(Q_3 = 100 \cdot 1 \cdot 20 = 2000\,cal\)
+
+*Resolução:*
 
 \[ Q_{total} = Q_1 + Q_2 + Q_3 = 500 + 8000 + 2000 = 10500\,cal \]
-\[ Q_{total} \approx 10,5\,kcal \]
+\[ Q_{total} = 10,5\,kcal \approx 4,4 \times 10\,kJ \]
 
-A maior parte do calor (\(8000\,cal\)) foi usada na fusão, e não no
-aquecimento. Isso explica por que o gelo é tão eficiente para resfriar
-bebidas.
+*Resposta:* o gelo absorve \(10,5\,kcal\) (cerca de \(44\,kJ\)).
+
+*Interpretação:* essa mesma quantidade de calor é retirada da bebida, que
+esfria. A fusão responde por cerca de \(76\%\) do total (\(8000 / 10500\)):
+a maior parte do efeito de resfriamento vem da mudança de fase, e não do
+aquecimento do gelo.
 
 * APLICAÇÕES
 
@@ -1599,7 +1643,8 @@ espelhadas, por sua vez, refletem a radiação térmica. Assim, os três
 processos de propagação do calor são reduzidos ao mesmo tempo, e o
 líquido interno permanece quente (ou frio) por mais tempo.
 
-- [[https://www.youtube.com/watch?v=kBRxfenqkWA&pp=ygUeZ2FycmFmYSB0w6lybWljYSBjb21vIGZ1bmNpb25h0gcJCTUMAYcqIYzv][A garrafa térmica e a propagação do calor - canal: REA de Ciências]]
+- [[https://www.youtube.com/watch?v=YVnUz7Rl2SA&pp=ygURZ2FycmFmYSB0w6lybWljYSDSBwkJQQwBhyohjO8%3D][Como funciona a garrafa térmica em 4 minutos - Canal: Professor
+  Douglas Gomes]] 
 
 ** Aparelho Microondas
 
@@ -1641,9 +1686,26 @@ não ocorre espontaneamente.
 
 - [[https://youtu.be/EIP3pSio7-M][How Does A Refrigerator Work? - The Explained Channel]] 
 
+** Relação entre brisa marítima e calor específico
+
+As brisas marítimas resultam da diferença de calor específico entre a
+água e a terra. A água tem \(c \approx 1\,cal/(g \cdot ^\circ C)\), cerca
+de cinco vezes maior que o do solo e da areia
+(\(c \approx 0,2\,cal/(g \cdot ^\circ C)\)); assim, para a mesma
+quantidade de calor recebida do Sol, a terra se aquece mais rápido que o
+mar, e o mar demora mais tanto para aquecer quanto para esfriar. Durante
+o dia, o ar sobre a terra aquecida sobe e o ar mais frio vindo do mar
+ocupa seu lugar, gerando a brisa que sopra do mar para a terra. À noite,
+a terra esfria mais rápido que a água e o processo se inverte: o ar sobre
+o mar fica mais quente e sobe, e a brisa passa a soprar da terra para o
+mar. Nos dois casos, o mecanismo é a convecção, causada pela diferença de
+temperatura e de densidade do ar.
+
+
+
+- [[https://youtu.be/bsuZM2R3hPM][O que são brisas? - Brasil Escola]]
+
 * TÓPICOS EM ÓPTICA
-** Tópicos da ementa abordados nessa seção
-  - Óptica nos alimentos.
 
 * Listas de exercícios
 
@@ -1660,8 +1722,10 @@ não ocorre espontaneamente.
 
 - [[file:lista5-ta-propagacao-de-calor.org][Quinta Lista - propagação de calor]] - Disponível no Google Forms
 
-- [[file:lista6-ta-energia1.org][Sexta Lista - transformações de energia]] - Será disponibilizado no
+- [[file:gas-ideal_e_mudanca-de-fase.org][Sexta Lista - gás ideal e mudança de fase]] - Será disponibilizado no
   Google Formas
+
+- Sétima Lista
   
 
 

@@ -1,0 +1,119 @@
+#+options: toc:1
+#+language: pt-BR
+#+title: Lista - Gás Ideal e Mudança de Fase
+#+AUTHOR: Professor Joilson Silva Porto
+#+LATEX_CLASS: article
+
+* Instruções
+- Leia atentamente cada afirmação e assinale V (verdadeiro) ou F (falso).
+- As questões retomam os tópicos: modelo de gás ideal e mudanças de fase.
+- Consulte o material das aulas e as anotações sempre que necessário.
+- Justifique mentalmente cada resposta, identificando o conceito envolvido.
+
+* 1. Gás ideal
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Simulação de um gás ideal: relação entre pressão, volume e temperatura.
+  </p>
+  <img src="./pictures/simulacao-gas-ideal.png"
+       alt="Simulação de gás ideal com partículas, termômetro e medidor de pressão"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://phet.colorado.edu/pt_BR/simulations/gas-properties" target="_blank">PhET Interactive Simulations: Gas Properties</a>,
+    University of Colorado Boulder, CC BY 4.0
+    <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-left: 0.25em; display: inline;" />
+    <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1em; margin-left: 0.125em; display: inline;" />
+  </p>
+</div>
+#+END_EXPORT
+
+- [ ] No modelo de gás ideal, as partículas são tratadas como pontos
+   materiais que não interagem entre si, exceto nas colisões elásticas.
+
+- [ ] A pressão exercida por um gás ideal resulta das colisões de suas
+  partículas contra as paredes do recipiente.
+
+- [ ] No modelo de gás ideal, a temperatura absoluta está relacionada à
+   energia cinética média das partículas.
+
+- [ ] Na equação de estado \(PV = nRT\), a temperatura deve ser usada em
+   graus Celsius.
+
+- [ ] Para uma quantidade fixa de gás, mantendo a temperatura constante,
+   se o volume dobrar, a pressão será reduzida à metade.
+
+- [ ] Para uma quantidade fixa de gás, mantendo a pressão constante, o
+   volume diminui quando a temperatura aumenta.
+
+- [ ] Para uma quantidade fixa de gás, mantendo o volume constante, a
+   pressão aumenta quando a temperatura aumenta.
+
+- [ ] Se a temperatura absoluta de um gás ideal dobrar, mantendo o volume
+   constante, sua pressão também dobra.
+
+- [ ] A equação \(PV = nRT\) mostra que, para uma quantidade fixa de gás,
+   pressão, volume e temperatura são grandezas independentes entre si.
+
+- [ ] O gás ideal é uma descrição aproximada da realidade; em pressões
+   muito altas e temperaturas muito baixas, o modelo pode apresentar
+   erros significativos.
+
+- [ ] A temperatura de \(0\,K\) corresponde ao zero absoluto, situação em
+   que a agitação térmica das partículas é mínima.
+
+* 2. Mudança de fase
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Diagrama de fases da água, com as regiões sólida, líquida e gasosa.
+  </p>
+  <img src="./graphics/diagrama-fase_agua-modelo.png"
+       alt="Diagrama de fases da água (pressão em atm por temperatura em °C), com o ponto triplo, o ponto crítico e os pontos convencionais de solidificação e ebulição"
+       style="width:70%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: imagem criada pelo autor.
+  </p>
+</div>
+#+END_EXPORT
+
+- [ ] Fusão é a passagem do estado sólido para o estado líquido, e a
+   solidificação é o processo inverso.
+
+- [ ] Durante uma mudança de fase, a temperatura do corpo permanece
+   constante enquanto as duas fases coexistem.
+
+- [ ] O calor latente é o calor trocado durante a mudança de fase, sem
+   variação de temperatura.
+
+- [ ] A vaporização só pode ocorrer a \(100\,^\circ C\), quando a água
+   entra em ebulição.
+
+- [ ] A ebulição ocorre quando a pressão de vapor do líquido se iguala à
+   pressão externa.
+
+- [ ] Em uma panela de pressão, o aumento da pressão interna faz a água
+   ferver a uma temperatura maior que \(100\,^\circ C\).
+
+- [ ] A evaporação é uma forma de vaporização que ocorre na superfície do
+   líquido e pode acontecer em qualquer temperatura.
+
+- [ ] A sublimação é a passagem direta do estado sólido para o gasoso,
+   como ocorre com o gelo seco.
+
+- [ ] No ponto triplo, as três fases (sólida, líquida e gasosa) coexistem
+   em equilíbrio.
+
+- [ ] Acima do ponto crítico, não é mais possível distinguir líquido e
+   gás.
+
+- [ ] Durante a ebulição, toda a energia recebida pela água é usada para
+   aumentar sua temperatura.
+
+- [ ] A condensação libera calor para o ambiente, por isso queimaduras
+   por vapor podem ser mais graves que queimaduras por água quente.
+
+- [ ] A água é uma exceção entre as substâncias: o gelo é menos denso que
+   a água líquida, e o aumento da pressão pode favorecer a fusão.
