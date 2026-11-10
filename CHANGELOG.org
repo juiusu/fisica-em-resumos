@@ -39,5 +39,7 @@ ser adicionados com o comando =/registrar-alteracao=.
 - editado: content/fisica-aplicada-TA.org (16:15)
 
 * 2026-11-09
+- editado: content/lista-ondas-eletromagneticas-vf.org (20:23)
+- editado: content/fisica-3.org (20:09)
 - editado: content/gas-ideal_e_mudanca-de-fase.org (13:00)
 - editado: content/fisica-aplicada-TA.org (12:03)

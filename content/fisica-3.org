@@ -1552,9 +1552,9 @@ Veja também a [[file:lista-terras-raras-vf.org][lista de exercícios de verdade
 - Gerador elétrico
 - Terras raras e ímãs de alto desempenho
 
-* Eletromagnetismo
-** Ondas eletromagnéticas
 
+* Ondas eletromagnéticas
+** Natureza da luz
 As relações entre a eletricidade e o magnetismo foram sintetizadas
 por James Clerk Maxwell em quatro equações, as Equações de Maxwell.
 Não vamos escrevê-las aqui, pois sua forma matemática foge do escopo
@@ -1608,7 +1608,7 @@ determinada pela fonte que produz a onda. Quando a onda passa de um
 meio para outro, sua frequência não muda, mas sua velocidade e seu
 comprimento de onda podem mudar.
 
-*** Espectro eletromagnético
+** Espectro eletromagnético
 
 Todas as ondas eletromagnéticas têm a mesma natureza. O que as
 diferencia é a frequência e, consequentemente, o comprimento de onda.
@@ -1636,21 +1636,6 @@ aproximadamente 400 nm e 700 nm. Dentro dela, as cores vão do vermelho
 (maior comprimento de onda) ao violeta (menor comprimento de onda).
 
 #+BEGIN_EXPORT html
-<div style="text-align:center; max-width:600px; margin:auto;">
-  <p style="font-weight:bold; font-size:1.1em;">
-    Espectro da luz visível: do vermelho (maior comprimento de onda) ao violeta (menor comprimento de onda).
-  </p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Espectro_vis%C3%ADvel_da_luz.png/960px-Espectro_vis%C3%ADvel_da_luz.png"
-       alt="Faixa do espectro visível com as cores do vermelho ao violeta"
-       style="width:100%; height:auto;">
-  <p style="font-size:0.75em; color:gray;">
-    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Espectro_vis%C3%ADvel_da_luz.png">EPTrilhas</a>,
-    <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons.
-  </p>
-</div>
-#+END_EXPORT
-
-#+BEGIN_EXPORT html
 <div style="text-align:center; max-width:700px; margin:auto;">
   <p style="font-weight:bold; font-size:1.1em;">
     O espectro eletromagnético completo, das ondas de rádio aos raios gama.
@@ -1673,7 +1658,7 @@ infravermelho são não ionizantes. Isso não significa que sejam
 inofensivas em qualquer intensidade, mas o risco é de outra natureza
 (aquecimento, por exemplo).
 
-*** Emissão térmica: todo corpo irradia
+** Emissão térmica: todo corpo irradia
 
 Cargas elétricas em movimento acelerado emitem ondas eletromagnéticas.
 Como toda a matéria é formada por cargas e está em constante agitação
@@ -1727,7 +1712,7 @@ absorve e emite toda a radiação que recebe.
 </div>
 #+END_EXPORT
 
-*** Absorção, reflexão e emissão
+** Absorção, reflexão e emissão
 
 Quando uma onda eletromagnética atinge um material, parte de sua
 energia pode ser refletida, parte absorvida e parte transmitida. A
@@ -1767,7 +1752,67 @@ do céu durante o dia; ao amanhecer e ao anoitecer, a luz atravessa uma
 camada maior de ar, a luz azul é espalhada para fora do caminho e
 predominam os tons avermelhados.
 
-*** Para lembrar
+** Efeito estufa
+
+O efeito estufa é consequência direta da interação seletiva da radiação
+com a atmosfera. A luz solar chega principalmente na faixa visível, que
+atravessa a atmosfera e aquece a superfície da Terra. Aquecida, a
+superfície emite radiação térmica, sobretudo no infravermelho. Gases
+como vapor de água, gás carbônico (\(\text{CO}_2\)), metano
+(\(\text{CH}_4\)), óxido nitroso (\(\text{N}_2\text{O}\)) e CFCs absorvem
+parte dessa radiação e a reemitem em todas as direções, inclusive de
+volta para a superfície. Com isso, menos energia escapa para o espaço e
+a temperatura média do planeta se mantém mais alta do que seria sem
+esses gases.
+
+Esse aquecimento natural é essencial à vida: sem ele, a Terra seria um
+lugar muito frio. O problema atual é a intensificação do efeito estufa
+pela ação humana — queima de combustíveis fósseis, desmatamento e
+outras atividades —, que aumenta a concentração desses gases na
+atmosfera. Como eles passam a absorver mais infravermelho, o balanço de
+energia do planeta se altera e a temperatura média aumenta. Vale não
+confundir o efeito estufa com o buraco na camada de ozônio: são
+fenômenos diferentes, embora ambos envolvam a atmosfera e a radiação.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    O efeito estufa explicado e ilustrado: a radiação solar aquece a superfície, e parte do infravermelho emitido é absorvida pelos gases da atmosfera.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/O_efeito_estufa_explicado_e_ilustrado.png"
+       alt="Infográfico sobre o efeito estufa: radiação solar, reflexão, absorção pelos gases e ação humana"
+       style="width:55%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:O_efeito_estufa_explicado_e_ilustrado.png">EPTrilhas</a>
+    (finalização: Djulia dos Santos e Maria Augusta Scopel Bohner),
+    <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
+
+A figura a seguir compara, de forma ilustrativa, a contribuição relativa
+de alguns gases para o efeito estufa: \(\text{CO}_2\) (55%), CFCs
+(24%), metano (15%) e óxido nitroso (6%). O vapor de água, embora não
+apareça no gráfico, é o gás de efeito estufa mais abundante na
+atmosfera, mas sua concentração varia muito com a temperatura e a
+região.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Contribuição relativa de alguns gases para o efeito estufa.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Influence_of_greenhouse_gas.gif"
+       alt="Gráfico de setores com a contribuição relativa dos gases: CO2 55%, CFC 24%, CH4 15% e N2O 6%"
+       style="width:30%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Influence_of_greenhouse_gas.gif">Antonín Slejška</a>,
+    <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
+
+** Para lembrar
 
 - Ondas eletromagnéticas são formadas por campos elétricos e
   magnéticos oscilantes, perpendiculares entre si e à propagação.
@@ -2096,5 +2141,7 @@ supercondutores, nanotecnologia e computação quântica.
 ** [[file:lista-eletromagnetismo-vf.org][Lista de exercícios: Eletromagnetismo (verdadeiro ou falso)]]
 
 ** [[file:lista-terras-raras-vf.org][Lista de exercícios: Terras raras (verdadeiro ou falso)]]
+
+** [[file:lista-ondas-eletromagneticas-vf.org][Lista de exercícios: Ondas eletromagnéticas (verdadeiro ou falso)]]
 
 ** 

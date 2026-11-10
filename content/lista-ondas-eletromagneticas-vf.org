@@ -1,0 +1,543 @@
+#+title: Exercícios: Ondas Eletromagnéticas (V ou F)
+#+options: toc:2
+#+language: pt-BR
+
+* Instruções
+
+Esta lista reúne questões de verdadeiro ou falso sobre o bloco de ondas
+eletromagnéticas estudado em Física III: natureza da luz, campos
+elétrico e magnético oscilantes, propagação no vácuo, espectro
+eletromagnético, emissão térmica, absorção, reflexão, transmissão e
+espalhamento da luz.
+
+Em cada questão, classifique as cinco afirmações como **verdadeiras
+(V)** ou **falsas (F)** e assinale a alternativa que apresenta a
+sequência correta.
+
+* Questões
+
+** Questão 1 — Campos que se sustentam
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: Maxwell, campo elétrico, campo magnético, onda eletromagnética
+:END:
+
+Sobre a origem das ondas eletromagnéticas, julgue as afirmações.
+
+(   ) Campos elétricos variáveis podem gerar campos magnéticos variáveis.
+
+(   ) Campos magnéticos variáveis podem gerar campos elétricos variáveis.
+
+(   ) Uma onda eletromagnética se forma porque os campos elétrico e magnético se sustentam mutuamente.
+
+(   ) Uma carga elétrica em repouso emite ondas eletromagnéticas continuamente.
+
+(   ) As equações de Maxwell mostram que eletricidade e magnetismo são fenômenos totalmente independentes.
+
+
+** Questão 2 — Propagação no vácuo
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: vácuo, velocidade da luz, propagação
+:END:
+
+Sobre a propagação das ondas eletromagnéticas, julgue as afirmações.
+
+(   ) Ondas eletromagnéticas precisam de um meio material para se propagar.
+
+(   ) A luz do Sol chega à Terra atravessando o vácuo.
+
+(   ) No vácuo, todas as ondas eletromagnéticas se propagam com a mesma velocidade \(c\).
+
+(   ) A velocidade da luz no vácuo é aproximadamente \(3,0\times 10^{8}\,\text{m/s}\).
+
+(   ) O som e a luz se propagam da mesma forma no vácuo.
+
+
+** Questão 3 — Onda transversal
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: onda transversal, campos, propagação
+:END:
+
+A figura representa uma onda eletromagnética. Sobre sua estrutura,
+julgue as afirmações.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:550px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Onda eletromagnética: os campos elétrico e magnético oscilam perpendicularmente entre si e à direção de propagação.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Electromagneticwave3D.gif"
+       alt="Animação de uma onda eletromagnética com campos elétrico e magnético perpendiculares"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Electromagneticwave3D.gif">Lookang</a>,
+    <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
+
+(   ) Na onda eletromagnética, os campos elétrico e magnético oscilam perpendicularmente entre si.
+
+(   ) Os campos elétrico e magnético oscilam na mesma direção de propagação da onda.
+
+(   ) A onda eletromagnética é uma onda transversal.
+
+(   ) A onda eletromagnética transporta matéria e energia.
+
+(   ) A direção de propagação é perpendicular tanto ao campo elétrico quanto ao campo magnético.
+
+
+** Questão 4 — Relação entre velocidade, frequência e comprimento de onda
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: v = lambda f, frequência, comprimento de onda
+:END:
+
+Sobre a relação \(v = \lambda f\) aplicada às ondas eletromagnéticas,
+julgue as afirmações.
+
+(   ) A relação \(v = \lambda f\) também vale para ondas eletromagnéticas.
+
+(   ) A frequência de uma onda eletromagnética é determinada pela fonte que a produz.
+
+(   ) Ao passar de um meio para outro, a frequência da onda eletromagnética muda.
+
+(   ) No vácuo, vale \(c = \lambda f\).
+
+(   ) Se a frequência de uma onda aumenta e sua velocidade se mantém, o comprimento de onda diminui.
+
+
+** Questão 5 — Espectro eletromagnético
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: espectro eletromagnético, rádio, raios gama
+:END:
+
+A figura mostra o espectro eletromagnético completo. Sobre ele, julgue
+as afirmações.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    O espectro eletromagnético completo, das ondas de rádio aos raios gama.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Espectro_EM_pt.svg/960px-Espectro_EM_pt.svg.png"
+       alt="Espectro eletromagnético com as regiões de rádio, micro-ondas, infravermelho, visível, ultravioleta, raios X e raios gama"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Espectro_EM_pt.svg">Khemis</a>,
+    <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
+
+(   ) Todas as ondas eletromagnéticas têm a mesma natureza; o que as diferencia é a frequência e o comprimento de onda.
+
+(   ) As ondas de rádio têm maior comprimento de onda que os raios gama.
+
+(   ) A luz visível ocupa a maior parte do espectro eletromagnético.
+
+(   ) No vácuo, quanto maior a frequência, menor o comprimento de onda.
+
+(   ) As fronteiras entre as regiões do espectro são exatas e bem definidas.
+
+
+** Questão 6 — Luz visível
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: luz visível, cores, espectro
+:END:
+
+Sobre a faixa visível do espectro, julgue as afirmações.
+
+(   ) A luz visível está aproximadamente entre \(400\,\text{nm}\) e \(700\,\text{nm}\).
+
+(   ) No espectro visível, o vermelho tem maior comprimento de onda que o violeta.
+
+(   ) O violeta tem maior frequência que o vermelho.
+
+(   ) A luz visível é a única faixa do espectro capaz de transportar energia.
+
+(   ) As cores do arco-íris correspondem a diferentes frequências da luz visível.
+
+
+** Questão 7 — Radiações ionizantes
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: ionizante, ultravioleta, raios X, raios gama
+:END:
+
+Sobre os efeitos das radiações eletromagnéticas, julgue as afirmações.
+
+(   ) Ultravioleta, raios X e raios gama são radiações ionizantes.
+
+(   ) Radiações ionizantes podem arrancar elétrons de átomos e danificar células.
+
+(   ) Ondas de rádio, micro-ondas e infravermelho são radiações ionizantes.
+
+(   ) Toda radiação não ionizante é inofensiva em qualquer intensidade.
+
+(   ) A radiação ultravioleta pode causar danos à pele e ao DNA.
+
+
+** Questão 8 — Emissão térmica
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: radiação térmica, temperatura, emissão
+:END:
+
+Sobre a emissão de radiação pelos corpos, julgue as afirmações.
+
+(   ) Todo corpo com temperatura acima do zero absoluto emite radiação eletromagnética.
+
+(   ) A emissão de radiação térmica depende da temperatura do corpo.
+
+(   ) Um corpo a \(0\,^\circ C\) não emite nenhuma radiação.
+
+(   ) Cargas elétricas em movimento acelerado emitem ondas eletromagnéticas.
+
+(   ) A radiação térmica emitida por um corpo é sempre visível.
+
+
+** Questão 9 — Lei de Wien
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: lei de Wien, emissão, temperatura
+:END:
+
+A figura relaciona o espectro eletromagnético a temperaturas típicas de
+emissão. Sobre a Lei de Wien, julgue as afirmações.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Espectro eletromagnético com exemplos, frequências e temperaturas típicas de emissão de corpos negros.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/EM_Spectrum_Properties_pt.svg/960px-EM_Spectrum_Properties_pt.svg.png"
+       alt="Espectro eletromagnético com comprimentos de onda, frequências, exemplos e temperaturas de corpo negro"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:EM_Spectrum_Properties_pt.svg">Villate</a>
+    (versão original de Inductiveload), Domínio público, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
+
+(   ) Quanto maior a temperatura, menor o comprimento de onda em que a emissão é máxima.
+
+(   ) A Lei de Wien relaciona a temperatura do corpo ao comprimento de onda de máxima emissão.
+
+(   ) Um corpo mais quente pode emitir radiação em frequências mais altas.
+
+(   ) O Sol, mais quente que a Terra, emite proporcionalmente mais luz visível que a Terra.
+
+(   ) A Lei de Wien afirma que a potência total emitida é proporcional a \(T^{4}\).
+
+
+** Questão 10 — Lei de Stefan-Boltzmann
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: Stefan-Boltzmann, potência, temperatura
+:END:
+
+Sobre a Lei de Stefan-Boltzmann, julgue as afirmações.
+
+(   ) A potência total emitida por um corpo cresce com a quarta potência da temperatura absoluta.
+
+(   ) Se a temperatura absoluta de um corpo dobra, a potência emitida fica cerca de 16 vezes maior.
+
+(   ) A potência emitida também depende da área da superfície do corpo.
+
+(   ) A expressão \(P = \sigma A T^{4}\) descreve um corpo negro ideal.
+
+(   ) A potência emitida por um corpo é independente de sua temperatura.
+
+
+** Questão 11 — Corpo negro
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: corpo negro, absorção, emissão
+:END:
+
+Sobre o modelo de corpo negro, julgue as afirmações.
+
+(   ) Corpo negro é um modelo ideal que absorve toda a radiação que recebe.
+
+(   ) Um corpo negro também é um emissor ideal.
+
+(   ) Um corpo negro reflete toda a radiação incidente.
+
+(   ) O espectro emitido por um corpo negro depende de sua temperatura.
+
+(   ) O Sol pode ser tratado, com boa aproximação, como um corpo negro.
+
+
+** Questão 12 — Absorção, reflexão e transmissão
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: absorção, reflexão, transmissão, energia
+:END:
+
+Sobre a interação da radiação com a matéria, julgue as afirmações.
+
+(   ) Ao atingir um material, a radiação pode ser refletida, absorvida ou transmitida.
+
+(   ) A energia incidente se conserva: parte é refletida, parte absorvida e parte transmitida.
+
+(   ) A absorção de radiação pode aumentar a energia interna e a temperatura do material.
+
+(   ) Um material transparente transmite toda a radiação em qualquer frequência.
+
+(   ) A reflexão é o que permite ver os objetos iluminados.
+
+
+** Questão 13 — Cor dos objetos
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: cor, reflexão, luz visível
+:END:
+
+Sobre a cor dos objetos, julgue as afirmações.
+
+(   ) Um objeto vermelho reflete principalmente a luz vermelha e absorve a maior parte das outras cores.
+
+(   ) Um objeto branco reflete grande parte da luz visível.
+
+(   ) Um objeto negro absorve a maior parte da luz visível.
+
+(   ) A cor de um objeto depende da luz que ele reflete para nossos olhos.
+
+(   ) Um objeto negro não emite radiação infravermelha.
+
+
+** Questão 14 — Bons absorvedores e bons emissores
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: dificil
+:tag: emissividade, absorção, equilíbrio térmico
+:END:
+
+Sobre a relação entre absorção e emissão, julgue as afirmações.
+
+(   ) Em equilíbrio, um bom absorvedor é também um bom emissor.
+
+(   ) Superfícies escuras esquentam mais ao Sol que superfícies claras.
+
+(   ) Superfícies que refletem bem emitem pouco.
+
+(   ) Garrafas térmicas usam paredes espelhadas para reduzir a troca de calor por radiação.
+
+(   ) Um corpo que absorve pouca radiação também emite muita radiação.
+
+
+** Questão 15 — Efeito estufa
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: efeito estufa, infravermelho, atmosfera
+:END:
+
+Sobre o efeito estufa, julgue as afirmações.
+
+(   ) O vidro é transparente à luz visível, mas absorve boa parte do infravermelho.
+
+(   ) A atmosfera deixa passar a luz visível do Sol e absorve parte do infravermelho emitido pela Terra.
+
+(   ) Gases como vapor de água, gás carbônico e metano participam do efeito estufa.
+
+(   ) O efeito estufa existe apenas por causa da ação humana.
+
+(   ) O efeito estufa contribui para manter o planeta aquecido.
+
+
+** Questão 16 — Espalhamento da luz
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: espalhamento, céu azul, pôr do sol
+:END:
+
+Sobre o espalhamento da luz na atmosfera, julgue as afirmações.
+
+(   ) O espalhamento da luz azul pela atmosfera contribui para a cor do céu durante o dia.
+
+(   ) Ao amanhecer e ao anoitecer, a luz atravessa uma camada maior de atmosfera.
+
+(   ) No pôr do sol predominam tons avermelhados porque a luz azul é mais espalhada para fora do caminho.
+
+(   ) O espalhamento da luz não altera a direção de propagação da luz.
+
+(   ) O céu é azul porque a atmosfera emite luz azul própria.
+
+
+** Questão 17 — Regiões do espectro e aplicações
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: aplicações, micro-ondas, infravermelho, raios X
+:END:
+
+Sobre as aplicações das diferentes regiões do espectro, julgue as
+afirmações.
+
+(   ) O forno de micro-ondas utiliza micro-ondas.
+
+(   ) O controle remoto de TV geralmente utiliza radiação ultravioleta.
+
+(   ) A radiografia utiliza raios X.
+
+(   ) O Wi-Fi utiliza ondas de rádio.
+
+(   ) A radioterapia pode utilizar raios gama.
+
+
+** Questão 18 — Fontes e riscos
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: fontes, antenas, riscos, ultravioleta
+:END:
+
+Sobre as fontes de ondas eletromagnéticas e seus riscos, julgue as
+afirmações.
+
+(   ) Cargas elétricas aceleradas podem emitir ondas eletromagnéticas.
+
+(   ) Antenas convertem corrente elétrica oscilante em ondas eletromagnéticas.
+
+(   ) A exposição excessiva à radiação ultravioleta pode causar queimaduras e câncer de pele.
+
+(   ) O protetor solar atua apenas bloqueando a luz visível.
+
+(   ) Todas as ondas eletromagnéticas são visíveis ao olho humano.
+
+
+** Questão 19 — Mecanismo do efeito estufa
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: efeito estufa, infravermelho, atmosfera
+:END:
+
+A figura ilustra o efeito estufa. Com base nela e no conteúdo estudado,
+julgue as afirmações.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    O efeito estufa explicado e ilustrado: a radiação solar aquece a superfície, e parte do infravermelho emitido é absorvida pelos gases da atmosfera.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/O_efeito_estufa_explicado_e_ilustrado.png"
+       alt="Infográfico sobre o efeito estufa: radiação solar, reflexão, absorção pelos gases e ação humana"
+       style="width:55%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:O_efeito_estufa_explicado_e_ilustrado.png">EPTrilhas</a>
+    (finalização: Djulia dos Santos e Maria Augusta Scopel Bohner),
+    <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
+
+(   ) A luz solar chega à Terra principalmente na faixa visível e atravessa a atmosfera.
+
+(   ) A superfície aquecida emite radiação térmica, sobretudo no infravermelho.
+
+(   ) Os gases de efeito estufa absorvem parte do infravermelho emitido pela superfície e o reemitem em todas as direções, inclusive de volta para a superfície.
+
+(   ) O efeito estufa ocorre porque a atmosfera impede totalmente a entrada da luz solar.
+
+(   ) No efeito estufa, a atmosfera aquece a superfície apenas por condução de calor.
+
+
+** Questão 20 — Efeito estufa natural e intensificação
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: dificil
+:tag: efeito estufa, ação humana, camada de ozônio
+:END:
+
+Sobre o efeito estufa natural e sua intensificação, julgue as
+afirmações.
+
+(   ) O efeito estufa natural é essencial à vida e mantém a temperatura média da Terra mais alta do que seria sem ele.
+
+(   ) A queima de combustíveis fósseis e o desmatamento aumentam a concentração de gases de efeito estufa na atmosfera.
+
+(   ) O aumento desses gases intensifica a absorção de infravermelho e tende a elevar a temperatura média do planeta.
+
+(   ) O efeito estufa e o buraco na camada de ozônio são o mesmo fenômeno.
+
+(   ) A intensificação do efeito estufa ocorre porque os gases passam a refletir a luz visível de volta ao espaço.
+
+
+** Questão 21 — Gases de efeito estufa
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: gases de efeito estufa, CO2, metano, CFC, vapor de água
+:END:
+
+A figura compara, de forma ilustrativa, a contribuição relativa de
+alguns gases para o efeito estufa. Sobre esses gases, julgue as
+afirmações.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Contribuição relativa de alguns gases para o efeito estufa.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Influence_of_greenhouse_gas.gif"
+       alt="Gráfico de setores com a contribuição relativa dos gases: CO2 55%, CFC 24%, CH4 15% e N2O 6%"
+       style="width:30%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Influence_of_greenhouse_gas.gif">Antonín Slejška</a>,
+    <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
+
+(   ) O vapor de água é o gás de efeito estufa mais abundante na atmosfera, embora sua concentração varie com a temperatura e a região.
+
+(   ) O gás carbônico, o metano, o óxido nitroso e os CFCs contribuem para o efeito estufa.
+
+(   ) Segundo a estimativa ilustrada no gráfico, o gás carbônico responde por cerca de 55% da contribuição relativa, seguido pelos CFCs (24%), pelo metano (15%) e pelo óxido nitroso (6%).
+
+(   ) Apenas o gás carbônico participa do efeito estufa; os demais gases não têm influência.
+
+(   ) A concentração de vapor de água na atmosfera é fixa e não depende da temperatura.

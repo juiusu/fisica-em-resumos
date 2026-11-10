@@ -36,9 +36,6 @@ magnética, julgue as afirmações a seguir.
 
 (   ) A força elétrica é inversamente proporcional à distância, e não ao seu quadrado.
 
-#+BEGIN_EXPORT html
-a) V - F - F - V - F    b) V - V - V - V - F    c) V - V - F - V - F    d) F - V - F - V - F    e) V - V - F - F - V
-#+END_EXPORT
 
 ** Questão 2 — Atração e repulsão entre polos
 :PROPERTIES:
@@ -60,9 +57,6 @@ Sobre a interação entre ímãs, julgue as afirmações.
 
 (   ) Ímãs exercem força sobre outros ímãs mesmo sem contato direto.
 
-#+BEGIN_EXPORT html
-a) F - F - V - F - V    b) V - F - V - F - V    c) V - V - F - V - F    d) V - F - V - V - F    e) V - F - F - F - V
-#+END_EXPORT
 
 ** Questão 3 — Monopolo magnético
 :PROPERTIES:
@@ -84,9 +78,6 @@ Sobre a existência de polos magnéticos isolados, julgue as afirmações.
 
 (   ) As linhas de campo magnético são sempre fechadas, pois não há monopolo.
 
-#+BEGIN_EXPORT html
-a) V - F - F - V - V    b) F - F - F - V - V    c) F - V - V - V - F    d) F - V - F - F - V    e) F - V - F - V - V
-#+END_EXPORT
 
 ** Questão 4 — Campo magnético e unidade
 :PROPERTIES:
@@ -108,9 +99,6 @@ Sobre o conceito de campo magnético, julgue as afirmações.
 
 (   ) O campo magnético é uma grandeza vetorial, com módulo, direção e sentido.
 
-#+BEGIN_EXPORT html
-a) V - V - F - F - V    b) F - F - V - F - V    c) V - F - F - F - V    d) V - F - V - F - V    e) V - F - V - V - F
-#+END_EXPORT
 
 ** Questão 5 — Linhas de campo magnético
 :PROPERTIES:
@@ -132,9 +120,6 @@ Sobre as linhas de campo magnético, julgue as afirmações.
 
 (   ) As linhas de campo magnético começam e terminam em um único polo, como acontece com as cargas elétricas.
 
-#+BEGIN_EXPORT html
-a) V - F - F - V - F    b) V - F - V - F - F    c) V - V - V - V - F    d) V - F - V - V - V    e) V - F - V - V - F
-#+END_EXPORT
 
 ** Questão 6 — Bússola e campo magnético da Terra
 :PROPERTIES:
@@ -188,9 +173,6 @@ as afirmações.
 
 (   ) A bússola indica a direção do campo elétrico da Terra.
 
-#+BEGIN_EXPORT html
-a) V - V - F - V - F    b) V - F - V - V - F    c) V - V - V - F - F    d) F - V - F - V - F    e) V - V - F - F - V
-#+END_EXPORT
 
 ** Questão 7 — Experimento de Oersted
 :PROPERTIES:
@@ -228,9 +210,6 @@ magnético. Sobre o experimento de Oersted, julgue as afirmações.
 
 (   ) O campo magnético ao redor de um fio depende da corrente que o percorre.
 
-#+BEGIN_EXPORT html
-a) V - V - F - F - F    b) V - F - V - F - F    c) V - V - F - V - F    d) F - V - F - F - V    e) V - V - V - F - F
-#+END_EXPORT
 
 ** Questão 8 — Bobina, solenoide e eletroímã
 :PROPERTIES:
@@ -268,9 +247,6 @@ produzido. Sobre bobinas e eletroímãs, julgue as afirmações.
 
 (   ) O campo magnético no interior de um solenoide depende da corrente que o percorre.
 
-#+BEGIN_EXPORT html
-a) V - F - V - V - F    b) V - V - V - F - F    c) V - V - F - V - V    d) V - V - F - V - F    e) F - V - F - V - V
-#+END_EXPORT
 
 ** Questão 9 — Campo da bobina e número de voltas
 :PROPERTIES:
@@ -324,9 +300,6 @@ esse experimento, julgue as afirmações.
 
 (   ) O campo no interior da bobina depende apenas do material do núcleo, e não da corrente.
 
-#+BEGIN_EXPORT html
-a) V - V - F - V - V    b) V - V - V - F - F    c) V - V - F - V - F    d) V - F - V - V - F    e) F - V - F - V - F
-#+END_EXPORT
 
 ** Questão 10 — Força magnética sobre um condutor
 :PROPERTIES:
@@ -349,9 +322,6 @@ corrente, julgue as afirmações.
 
 (   ) A direção da força magnética é perpendicular tanto ao campo quanto à corrente.
 
-#+BEGIN_EXPORT html
-a) V - V - F - V - V    b) V - V - V - F - V    c) V - F - V - V - V    d) F - V - F - V - V    e) V - V - F - F - V
-#+END_EXPORT
 
 ** Questão 11 — Motor elétrico: energia e torque
 :PROPERTIES:
@@ -388,9 +358,6 @@ elétrico, julgue as afirmações.
 
 (   ) O motor elétrico funciona sem a presença de campo magnético.
 
-#+BEGIN_EXPORT html
-a) V - V - F - F - F    b) V - F - V - F - F    c) V - V - F - V - F    d) F - V - F - F - V    e) V - V - V - F - F
-#+END_EXPORT
 
 ** Questão 12 — Motores de corrente contínua e alternada
 :PROPERTIES:
@@ -442,9 +409,6 @@ afirmações.
 
 (   ) O motor CC não utiliza ímãs nem campo magnético.
 
-#+BEGIN_EXPORT html
-a) V - F - V - V - F    b) V - V - V - V - F    c) V - V - F - V - F    d) F - V - F - V - F    e) V - V - F - F - V
-#+END_EXPORT
 
 ** Questão 13 — Fluxo magnético e indução
 :PROPERTIES:
@@ -467,9 +431,6 @@ afirmações.
 
 (   ) A indução eletromagnética foi descoberta por Michael Faraday.
 
-#+BEGIN_EXPORT html
-a) V - V - F - V - V    b) V - V - F - V - F    c) V - F - V - V - V    d) V - V - V - F - V    e) F - V - F - V - V
-#+END_EXPORT
 
 ** Questão 14 — Lei de Faraday
 :PROPERTIES:
@@ -491,9 +452,6 @@ Sobre a lei de Faraday, julgue as afirmações.
 
 (   ) A lei de Faraday só se aplica a ímãs permanentes, e não a bobinas.
 
-#+BEGIN_EXPORT html
-a) V - F - V - V - F    b) V - V - V - F - F    c) V - V - F - F - V    d) V - V - F - V - V    e) V - V - F - V - F
-#+END_EXPORT
 
 ** Questão 15 — Lei de Lenz
 :PROPERTIES:
@@ -515,9 +473,6 @@ Sobre a lei de Lenz, julgue as afirmações.
 
 (   ) A lei de Lenz contradiz a lei de Faraday.
 
-#+BEGIN_EXPORT html
-a) V - V - F - V - F    b) V - F - V - V - F    c) V - V - V - F - F    d) F - V - F - V - F    e) V - V - F - F - V
-#+END_EXPORT
 
 ** Questão 16 — Gerador elétrico
 :PROPERTIES:
@@ -539,9 +494,6 @@ Sobre o gerador elétrico, julgue as afirmações.
 
 (   ) O gerador não precisa de movimento nem de campo magnético para funcionar.
 
-#+BEGIN_EXPORT html
-a) V - F - V - V - F    b) V - V - F - V - F    c) V - V - V - F - F    d) F - V - F - V - F    e) V - V - F - F - V
-#+END_EXPORT
 
 ** Questão 17 — Materiais magnéticos
 :PROPERTIES:
@@ -564,9 +516,6 @@ magnético, julgue as afirmações.
 
 (   ) Todos os materiais se comportam da mesma forma na presença de um ímã.
 
-#+BEGIN_EXPORT html
-a) V - F - V - V - F    b) V - V - V - V - F    c) V - V - F - V - F    d) F - V - F - V - F    e) V - V - F - F - V
-#+END_EXPORT
 
 ** Questão 18 — Ímãs permanentes e eletroímãs
 :PROPERTIES:
@@ -588,9 +537,6 @@ Sobre ímãs permanentes e eletroímãs, julgue as afirmações.
 
 (   ) Todos os eletroímãs são ímãs permanentes.
 
-#+BEGIN_EXPORT html
-a) V - F - V - V - F    b) V - V - V - F - F    c) V - V - F - F - V    d) V - V - F - V - F    e) F - V - F - V - F
-#+END_EXPORT
 
 ** Questão 19 — Transformadores: relação de espiras
 :PROPERTIES:
@@ -613,10 +559,6 @@ julgue as afirmações.
 
 (   ) O transformador funciona apenas com corrente contínua constante.
 
-#+BEGIN_EXPORT html
-a) V - F - V - V - F    b) V - V - V - F - F    c) V - V - F - F - V    d) V - V - F - V - V    e) V - V - F - V - F
-#+END_EXPORT
-
 ** Questão 20 — Transformadores: tensão e potência
 :PROPERTIES:
 :origem: banco-criado
@@ -637,10 +579,6 @@ afirmações.
 (   ) Em um transformador ideal, a potência de entrada é igual à de saída, desprezando perdas.
 
 (   ) O transformador altera a frequência da corrente alternada.
-
-#+BEGIN_EXPORT html
-a) V - V - F - V - F    b) V - F - V - V - F    c) V - V - V - F - F    d) F - V - F - V - F    e) V - V - F - F - V
-#+END_EXPORT
 
 ** Questão 21 — Lei de Faraday e indução eletromagnética
 :PROPERTIES:
@@ -694,9 +632,6 @@ afirmações.
 
 (   ) Como o ímã está sempre girando, a tensão induzida tem sempre o mesmo sinal.
 
-#+BEGIN_EXPORT html
-a) V - F - V - V - F    b) V - V - V - F - F    c) V - V - F - V - F    d) F - V - F - V - F    e) V - V - F - F - V
-#+END_EXPORT
 
 ** Questão 22 — Gerador elétrico
 :PROPERTIES:
@@ -750,6 +685,3 @@ bobina. Julgue as afirmações.
 
 (   ) Para gerar tensão, basta manter o ímã parado e próximo à bobina.
 
-#+BEGIN_EXPORT html
-a) V - V - F - V - F    b) V - F - V - V - F    c) V - V - V - F - F    d) F - V - F - V - F    e) V - V - F - F - V
-#+END_EXPORT
