@@ -1825,6 +1825,10 @@ região.
 - Ao atingir a matéria, a radiação pode ser refletida, absorvida ou
   transmitida; a cor dos objetos depende da luz refletida.
 - UV, raios X e raios gama são radiações ionizantes.
+- O efeito estufa é natural e essencial à vida: a atmosfera deixa passar
+  a luz visível e absorve parte do infravermelho emitido pela superfície.
+  Sua intensificação pela ação humana tende a elevar a temperatura média
+  do planeta.
 
 Veja também a [[file:lista-eletromagnetismo-vf.org][lista de exercícios de verdadeiro ou falso sobre eletromagnetismo]].
 

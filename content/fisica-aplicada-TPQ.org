@@ -1616,6 +1616,131 @@ esfria. A fusão responde por cerca de \(76\%\) do total (\(8000 / 10500\)):
 a maior parte do efeito de resfriamento vem da mudança de fase, e não do
 aquecimento do gelo.
 
+* TÓPICOS EM TERMODINÂMICA - LEIS DA TERMODINÂMICA
+
+** Equilíbrio térmico e lei zero
+
+Dois corpos colocados em contato trocam calor até que suas
+temperaturas se igualem. Quando isso acontece, dizemos que eles estão
+em *equilíbrio térmico*. A Lei Zero da Termodinâmica estabelece que, se
+dois corpos estão em equilíbrio térmico com um terceiro, então eles
+estão em equilíbrio térmico entre si.
+
+Essa lei é o que permite comparar temperaturas e construir
+termômetros: o instrumento é colocado em contato com o corpo e, ao
+atingir o equilíbrio térmico, indica a temperatura. É por isso também
+que um café quente esfria até a temperatura ambiente e um copo de água
+gelada se aquece até essa mesma temperatura, desde que não haja
+interferência externa.
+
+*** Equilíbrio térmico e calor específico
+
+Quando dois corpos a temperaturas diferentes são colocados em contato
+térmico, o mais quente cede calor ao mais frio até que ambos atinjam a
+mesma temperatura final \(T\), chamada de *temperatura de equilíbrio*.
+Em um calorímetro ideal, sem perdas de calor para o ambiente e sem
+mudança de fase, a soma dos calores trocados é nula:
+
+\[ Q_1 + Q_2 = 0 \qquad \text{com} \qquad Q_i = m_i \, c_i \, (T - T_i) \]
+
+De forma equivalente, o calor cedido pelo corpo mais quente (em módulo)
+é igual ao calor recebido pelo mais frio.
+
+*Exemplo 1 — mistura de duas porções de água.* Misturam-se \(200\,g\)
+de água a \(80\,^\circ C\) com \(300\,g\) de água a \(20\,^\circ C\).
+Qual é a temperatura de equilíbrio?
+
+*Dados:* \(m_1 = 200\,g\), \(T_1 = 80\,^\circ C\);
+\(m_2 = 300\,g\), \(T_2 = 20\,^\circ C\);
+\(c = 1\,cal/(g \cdot ^\circ C)\) para a água.
+
+*Resolução:* usando \(Q_1 + Q_2 = 0\),
+
+\[ 200(T - 80) + 300(T - 20) = 0 \]
+\[ 200T - 16000 + 300T - 6000 = 0 \]
+\[ 500T = 22000 \quad \Rightarrow \quad T = 44\,^\circ C \]
+
+*Resposta:* \(T = 44\,^\circ C\).
+
+*Interpretação:* a temperatura final fica entre \(20\,^\circ C\) e
+\(80\,^\circ C\), mais próxima de \(20\,^\circ C\), porque a massa de
+água fria é maior.
+
+*Exemplo 2 — metal quente dentro da água.* Uma peça de alumínio de
+\(100\,g\) a \(200\,^\circ C\) é colocada em \(500\,g\) de água a
+\(20\,^\circ C\). Determine a temperatura de equilíbrio. Considere
+\(c_{\text{Al}} = 0,22\,cal/(g \cdot ^\circ C)\) e
+\(c_{\text{água}} = 1\,cal/(g \cdot ^\circ C)\).
+
+*Resolução:*
+
+\[ 100 \cdot 0,22 \cdot (T - 200) + 500 \cdot 1 \cdot (T - 20) = 0 \]
+\[ 22(T - 200) + 500(T - 20) = 0 \]
+\[ 22T - 4400 + 500T - 10000 = 0 \]
+\[ 522T = 14400 \quad \Rightarrow \quad T \approx 27,6\,^\circ C \]
+
+*Resposta:* \(T \approx 27,6\,^\circ C\).
+
+*Interpretação:* o alumínio esfria bastante e a água esquenta pouco,
+pois a água tem maior massa e maior calor específico que o metal.
+
+*Exemplo 3 — água e azeite.* Misturam-se \(200\,g\) de água a
+\(80\,^\circ C\) com \(200\,g\) de azeite a \(20\,^\circ C\). Qual é a
+temperatura de equilíbrio? Considere
+\(c_{\text{azeite}} = 0,47\,cal/(g \cdot ^\circ C)\).
+
+*Resolução:*
+
+\[ 200 \cdot 1 \cdot (T - 80) + 200 \cdot 0,47 \cdot (T - 20) = 0 \]
+\[ (T - 80) + 0,47(T - 20) = 0 \]
+\[ T - 80 + 0,47T - 9,4 = 0 \]
+\[ 1,47T = 89,4 \quad \Rightarrow \quad T \approx 60,8\,^\circ C \]
+
+*Resposta:* \(T \approx 60,8\,^\circ C\).
+
+*Interpretação:* mesmo com massas iguais, a temperatura de equilíbrio
+fica mais próxima de \(80\,^\circ C\), pois a água tem calor específico
+maior que o azeite: ela varia menos de temperatura ao ceder calor.
+
+*Observação:* se houver mudança de fase durante a troca de calor, é
+preciso incluir também o calor latente (\(Q = m \, L\)) no balanço.
+
+** Trabalho, Calor e Primeira Lei
+
+Calor e trabalho são duas formas de transferir energia entre um
+sistema e sua vizinhança. O calor é a energia transferida por causa de
+uma diferença de temperatura; o trabalho é a energia transferida por
+uma força que provoca deslocamento, como \(W = F \, d\) no caso simples
+de força constante na direção do movimento.
+
+A Primeira Lei da Termodinâmica é a conservação da energia aplicada a
+esses processos. Se um sistema recebe calor \(Q\) e realiza trabalho
+\(W\), sua energia interna varia de
+
+\[ \Delta U = Q - W \]
+
+ou, de forma equivalente, \(Q = \Delta U + W\). Assim, nem todo calor
+recebido se transforma em aumento de temperatura: parte pode ser
+convertida em trabalho. Em um ciclo completo, \(\Delta U = 0\), de modo
+que o calor líquido recebido é igual ao trabalho líquido realizado.
+
+Por convenção, \(Q > 0\) quando o sistema recebe calor e \(W > 0\)
+quando o sistema realiza trabalho.
+
+** Propagação de Calor e Segunda Lei
+
+O calor pode se propagar por condução (colisões entre partículas),
+convecção (movimento de fluidos) e irradiação (ondas
+eletromagnéticas). Esses processos explicam como a energia térmica
+passa de um corpo ou de uma região para outra.
+
+A Segunda Lei da Termodinâmica diz que o calor flui espontaneamente do
+corpo mais quente para o mais frio, e nunca no sentido contrário sem
+que se realize trabalho. Por isso um refrigerador precisa de um
+compressor, e nenhuma máquina térmica consegue transformar todo o calor
+recebido em trabalho: parte da energia é sempre dissipada. Em termos de
+entropia, nos processos espontâneos a desordem do universo aumenta.
+
 * APLICAÇÕES
 
 ** Garrafa Térmica
@@ -1668,7 +1793,89 @@ compressor (energia elétrica convertida em mecânica) é o que permite
 transportar calor de um lugar frio para um lugar quente, processo que
 não ocorre espontaneamente.
 
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Ciclo de compressão a vapor de um refrigerador: evaporação no interior, compressão, condensação no exterior e expansão.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Refrigerator-cycle.svg/960px-Refrigerator-cycle.svg.png"
+       alt="Diagrama do ciclo de refrigeração por compressão de vapor, com evaporador, compressor, condensador e válvula de expansão"
+       style="width:75%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Refrigerator-cycle.svg">Ilmari Karonen</a>
+    (versão modificada por Homer Landskirty),
+    <a href="https://www.gnu.org/licenses/fdl-1.2.html">GFDL 1.2 ou posterior</a>, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
+
 - [[https://youtu.be/EIP3pSio7-M][How Does A Refrigerator Work? - The Explained Channel]] 
+
+
+Pontos chaves de conexão com o conteúdo:
+
+1. Calor Latente
+
+
+#+begin_quote
+- Quando um líquido evapora, ele absorve calor;
+- Quando um vapor condensa, ele libera calor.
+#+end_quote
+
+
+2. Balanço energético
+
+#+begin_quote
+- Calor retirado do interior da geladeira;
+- Calor liberado para o ambiente;
+- Trabalho realizado pelo compressor.
+#+end_quote
+
+3. Relação com as leis da termodinâmica
+
+3.1 Primeira Lei
+
+#+begin_quote
+- A energia não é criada nem destruída, apenas transformada de uma
+  forma em outra.
+- A variação da energia interna de um sistema é igual ao calor que ele
+  recebe menos o trabalho que ele realiza: \(\Delta U = Q - W\).
+- No refrigerador, o compressor realiza trabalho sobre o fluido
+  refrigerante, e esse trabalho, junto com o calor retirado do
+  interior, é liberado para o ambiente.
+#+end_quote
+
+
+3.2 Segunda Lei
+
+#+begin_quote
+- O calor flui espontaneamente do corpo mais quente para o mais frio, e
+  nunca no sentido contrário sem que se realize trabalho.
+- Para retirar calor de um ambiente frio e transferi-lo para um
+  ambiente quente é necessário realizar trabalho, como faz o compressor
+  do refrigerador.
+- Nenhuma máquina térmica ou refrigerador tem rendimento de 100%;
+  sempre há energia dissipada.
+#+end_quote
+
+3.3 No refrigerador
+
+#+begin_quote
+Primeira Lei (conservação da energia):
+- O calor retirado do interior (\(Q_{\text{frio}}\)) mais o trabalho
+  realizado pelo compressor (\(W\)) é igual ao calor liberado para o
+  ambiente (\(Q_{\text{quente}}\)): \(Q_{\text{quente}} = Q_{\text{frio}} + W\).
+- No ciclo completo, a energia interna do fluido não varia; a energia
+  apenas é transferida de um lugar para outro.
+
+Segunda Lei:
+- O calor não passa espontaneamente do interior frio para o ambiente
+  quente; isso só ocorre porque o compressor realiza trabalho.
+- A geladeira não "produz frio": ela retira calor do interior e o
+  libera no ambiente, que fica ainda mais aquecido.
+- Por isso as grades atrás da geladeira ficam quentes: é o calor
+  liberado na condensação do fluido refrigerante.
+#+end_quote
 
 ** Relação entre brisa marítima e calor específico
 
@@ -1688,6 +1895,66 @@ temperatura e de densidade do ar.
 
 
 - [[https://youtu.be/bsuZM2R3hPM][O que são brisas? - Brasil Escola]]
+
+** Efeito estufa
+
+O efeito estufa é consequência direta da interação seletiva da radiação
+com a atmosfera. A luz solar chega principalmente na faixa visível, que
+atravessa a atmosfera e aquece a superfície da Terra. Aquecida, a
+superfície emite radiação térmica, sobretudo no infravermelho. Gases
+como vapor de água, gás carbônico (\(\text{CO}_2\)), metano
+(\(\text{CH}_4\)), óxido nitroso (\(\text{N}_2\text{O}\)) e CFCs absorvem
+parte dessa radiação e a reemitem em todas as direções, inclusive de
+volta para a superfície. Com isso, menos energia escapa para o espaço e
+a temperatura média do planeta se mantém mais alta do que seria sem
+esses gases.
+
+Esse aquecimento natural é essencial à vida: sem ele, a Terra seria um
+lugar muito frio. O problema atual é a intensificação do efeito estufa
+pela ação humana — queima de combustíveis fósseis, desmatamento e
+outras atividades —, que aumenta a concentração desses gases na
+atmosfera. Como eles passam a absorver mais infravermelho, o balanço de
+energia do planeta se altera e a temperatura média aumenta. Vale não
+confundir o efeito estufa com o buraco na camada de ozônio: são
+fenômenos diferentes, embora ambos envolvam a atmosfera e a radiação.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    O efeito estufa explicado e ilustrado: a radiação solar aquece a superfície, e parte do infravermelho emitido é absorvida pelos gases da atmosfera.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/O_efeito_estufa_explicado_e_ilustrado.png"
+       alt="Infográfico sobre o efeito estufa: radiação solar, reflexão, absorção pelos gases e ação humana"
+       style="width:55%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:O_efeito_estufa_explicado_e_ilustrado.png">EPTrilhas</a>
+    (finalização: Djulia dos Santos e Maria Augusta Scopel Bohner),
+    <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
+
+A figura a seguir compara, de forma ilustrativa, a contribuição relativa
+de alguns gases para o efeito estufa: \(\text{CO}_2\) (55%), CFCs
+(24%), metano (15%) e óxido nitroso (6%). O vapor de água, embora não
+apareça no gráfico, é o gás de efeito estufa mais abundante na
+atmosfera, mas sua concentração varia muito com a temperatura e a
+região.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Contribuição relativa de alguns gases para o efeito estufa.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Influence_of_greenhouse_gas.gif"
+       alt="Gráfico de setores com a contribuição relativa dos gases: CO2 55%, CFC 24%, CH4 15% e N2O 6%"
+       style="width:30%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Influence_of_greenhouse_gas.gif">Antonín Slejška</a>,
+    <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
 
 * TÓPICOS EM MECÂNMICA DOS FLUIDOS
 ** Parte da ementa que será trabalhada nesse tópico
@@ -1710,7 +1977,16 @@ temperatura e de densidade do ar.
 - [[file:lista5-ta-propagacao-de-calor.org][Lista 06 - propagação de calor]] - Disponível no Google Forms
 
 - [[file:lista6-ta-energia1.org][Lista 07 - transformações de energia]] - Será disponibilizado no
-  Google Formas
+  Google Forms
+
+- [[file:gas-ideal_e_mudanca-de-fase.org][Lista 08 - gás ideal e mudança de fase]] - Será disponibilizado no
+  Google Forms
+
+- [[file:calor-latente_calor-especifico.org][Lista 09 - Calor Latente e Calor Específico]] - questões de
+  verdadeiro ou falso com cálculos
+
+- [[file:equilibrio-termico_calor-especifico.org][Lista 10 - Equilíbrio Térmico e Calor Específico]] - questões de
+  verdadeiro ou falso com cálculos
 
 
 * Links

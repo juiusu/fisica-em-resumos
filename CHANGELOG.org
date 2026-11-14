@@ -43,3 +43,16 @@ ser adicionados com o comando =/registrar-alteracao=.
 - editado: content/fisica-3.org (20:09)
 - editado: content/gas-ideal_e_mudanca-de-fase.org (13:00)
 - editado: content/fisica-aplicada-TA.org (12:03)
+
+* 2026-11-10
+- editado: content/fisica-3.org (13:23)
+
+* 2026-11-11
+- editado: content/fisica-aplicada-TPQ.org (12:02)
+- editado: content/calor-latente_calor-especifico.org (11:43)
+- editado: content/fisica-aplicada-TA.org (11:42)
+
+* 2026-11-14
+- editado: content/fisica-aplicada-TPQ.org (15:38)
+- editado: content/fisica-aplicada-TA.org (15:37)
+- editado: content/equilibrio-termico_calor-especifico.org (15:36)
