@@ -1,0 +1,311 @@
+#+title: Exercícios: Física Moderna (V ou F)
+#+options: toc:2
+#+language: pt-BR
+
+* Instruções
+
+Esta lista reúne questões de verdadeiro ou falso sobre os tópicos de
+Física Moderna: crise da Física clássica, quantização da energia,
+radiação do corpo negro, efeito fotoelétrico, efeito Compton,
+relatividade, Mecânica Quântica, Física Nuclear, Física de Partículas,
+aplicações contemporâneas e cosmologia.
+
+As questões são conceituais e não exigem cálculos. Em cada questão,
+classifique as cinco afirmações como **verdadeiras (V)** ou **falsas
+(F)**.
+
+* Questões
+
+** Questão 1 — Crise da Física clássica
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: física clássica, crise, física moderna
+:END:
+
+Sobre a crise da Física clássica, julgue as afirmações.
+
+(   ) No fim do século XIX, a Física clássica explicava todos os fenômenos conhecidos, sem nenhuma dificuldade.
+
+(   ) A radiação emitida por corpos aquecidos foi um dos problemas que a Física clássica não conseguia explicar.
+
+(   ) O efeito fotoelétrico foi um dos fenômenos que motivaram o surgimento da Física Moderna.
+
+(   ) A Física clássica considerava que a energia podia variar de forma contínua.
+
+(   ) A Física Moderna substituiu completamente a mecânica de Newton em todas as situações.
+
+
+** Questão 2 — Quantização da energia
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: Planck, quanta, fóton, E = hf
+:END:
+
+Sobre a quantização da energia, julgue as afirmações.
+
+(   ) Max Planck propôs que a energia é emitida ou absorvida em pacotes, chamados quanta.
+
+(   ) A energia de um quantum é maior quanto maior for a frequência da radiação.
+
+(   ) A relação \(E = hf\) liga a energia do quantum à frequência, sendo \(h\) a constante de Planck.
+
+(   ) Einstein propôs que a luz também é formada por pacotes de energia, os fótons.
+
+(   ) A ideia de quantização afirma que a energia pode assumir qualquer valor, sem restrições.
+
+
+** Questão 3 — Radiação do corpo negro
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: corpo negro, catástrofe do ultravioleta, Planck
+:END:
+
+Sobre a radiação do corpo negro, julgue as afirmações.
+
+(   ) Corpo negro é um modelo ideal que absorve toda a radiação que recebe.
+
+(   ) A Física clássica previa um aumento absurdo da energia emitida em frequências muito altas, conhecido como catástrofe do ultravioleta.
+
+(   ) A hipótese de Planck conseguiu explicar a radiação do corpo negro.
+
+(   ) Um corpo negro também é um bom emissor de radiação.
+
+(   ) A radiação emitida por um corpo negro independe de sua temperatura.
+
+
+** Questão 4 — Efeito fotoelétrico
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: efeito fotoelétrico, fóton, frequência
+:END:
+
+Sobre o efeito fotoelétrico, julgue as afirmações.
+
+(   ) No efeito fotoelétrico, a luz pode arrancar elétrons de um metal.
+
+(   ) Aumentar apenas a intensidade da luz sempre aumenta a energia dos elétrons arrancados.
+
+(   ) Só há emissão de elétrons se a luz tiver frequência acima de um valor mínimo.
+
+(   ) A energia dos elétrons arrancados depende da frequência da luz.
+
+(   ) Einstein explicou o efeito fotoelétrico considerando a luz como fótons.
+
+
+** Questão 5 — Efeito Compton
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: efeito Compton, fóton, colisão
+:END:
+
+Sobre o efeito Compton, julgue as afirmações.
+
+(   ) No efeito Compton, raios X atingem elétrons e são espalhados.
+
+(   ) Após a colisão, o fóton pode sair com maior comprimento de onda.
+
+(   ) O efeito Compton é explicado tratando a luz como partícula.
+
+(   ) No efeito Compton, o fóton ganha energia do elétron.
+
+(   ) O efeito Compton mostra que a luz pode transferir quantidade de movimento.
+
+
+** Questão 6 — Relatividade restrita: postulados
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: relatividade restrita, postulados, velocidade da luz
+:END:
+
+Sobre os postulados da Relatividade Restrita, julgue as afirmações.
+
+(   ) A Relatividade Restrita foi proposta por Einstein em 1905.
+
+(   ) As leis da Física são as mesmas em todos os referenciais inerciais.
+
+(   ) A velocidade da luz no vácuo depende do movimento da fonte.
+
+(   ) A velocidade da luz no vácuo é a mesma para todos os observadores inerciais.
+
+(   ) Na Relatividade Restrita, tempo e espaço são absolutos.
+
+
+** Questão 7 — Dilatação do tempo e contração do espaço
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: dilatação do tempo, contração do espaço, relatividade
+:END:
+
+Sobre os efeitos relativísticos, julgue as afirmações.
+
+(   ) Um relógio em movimento funciona mais devagar em relação a um observador parado.
+
+(   ) A dilatação do tempo é perceptível em velocidades comuns do dia a dia.
+
+(   ) O comprimento de um objeto em movimento é medido menor na direção do movimento.
+
+(   ) A contração do espaço é uma compressão física real do objeto.
+
+(   ) As dimensões perpendiculares ao movimento também se contraem.
+
+
+** Questão 8 — Equivalência massa-energia
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: E = mc², massa, energia
+:END:
+
+Sobre a relação entre massa e energia, julgue as afirmações.
+
+(   ) A relação \(E = mc^2\) mostra que massa e energia estão relacionadas.
+
+(   ) Uma massa pequena pode corresponder a uma energia muito grande.
+
+(   ) A relação \(E = mc^2\) ajuda a explicar a energia liberada nas reações nucleares.
+
+(   ) Massa e energia são grandezas totalmente independentes.
+
+(   ) Nenhum corpo com massa pode atingir a velocidade da luz.
+
+
+** Questão 9 — Relatividade geral
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: relatividade geral, gravidade, espaço-tempo
+:END:
+
+Sobre a Relatividade Geral, julgue as afirmações.
+
+(   ) A Relatividade Geral foi publicada por Einstein em 1915.
+
+(   ) Pelo princípio da equivalência, acelerar e sentir gravidade são localmente indistinguíveis.
+
+(   ) Na Relatividade Geral, a gravidade é a curvatura do espaço-tempo causada por massa e energia.
+
+(   ) A luz não sofre influência da gravidade.
+
+(   ) Correções relativísticas são usadas no funcionamento do GPS.
+
+
+** Questão 10 — Mecânica Quântica
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: dualidade onda-partícula, incerteza, função de onda
+:END:
+
+Sobre a Mecânica Quântica, julgue as afirmações.
+
+(   ) Na Mecânica Quântica, a matéria e a luz podem se comportar como onda e como partícula.
+
+(   ) O princípio da incerteza diz que não é possível conhecer com precisão total, ao mesmo tempo, a posição e a velocidade de uma partícula.
+
+(   ) A Mecânica Quântica prevê com exatidão a posição de um elétron.
+
+(   ) A função de onda está relacionada à probabilidade de encontrar a partícula em uma região.
+
+(   ) Os elétrons no átomo ocupam níveis de energia bem definidos.
+
+
+** Questão 11 — Física Nuclear
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: núcleo, radioatividade, fissão, fusão
+:END:
+
+Sobre a Física Nuclear, julgue as afirmações.
+
+(   ) O núcleo atômico é formado por prótons e nêutrons.
+
+(   ) A radioatividade ocorre quando núcleos instáveis emitem radiação.
+
+(   ) Na fusão, núcleos leves se unem e liberam energia.
+
+(   ) Na fissão, um núcleo pesado se divide em núcleos menores.
+
+(   ) Radiações ionizantes não oferecem risco às células.
+
+
+** Questão 12 — Física de Partículas
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: quarks, Modelo Padrão, próton, nêutron
+:END:
+
+Sobre as partículas elementares, julgue as afirmações.
+
+(   ) Os férmions formam a matéria, e os bósons transmitem forças.
+
+(   ) Prótons e nêutrons são formados por quarks.
+
+(   ) O próton é formado por dois quarks up e um quark down (uud).
+
+(   ) O nêutron é formado por três quarks up (uuu).
+
+(   ) O Modelo Padrão inclui a gravidade entre as forças que descreve.
+
+
+** Questão 13 — Aplicações da física contemporânea
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: facil
+:tag: semicondutores, laser, supercondutores, nanotecnologia
+:END:
+
+Sobre aplicações da física contemporânea, julgue as afirmações.
+
+(   ) Semicondutores estão na base dos chips e transistores.
+
+(   ) O laser é uma luz concentrada, de uma só cor e direção.
+
+(   ) Supercondutores conduzem eletricidade sem resistência em temperaturas muito baixas.
+
+(   ) A nanotecnologia manipula a matéria na escala de nanômetros.
+
+(   ) A computação quântica usa bits comuns, que só podem estar em 0 ou 1.
+
+
+** Questão 14 — Cosmologia e problemas em aberto
+:PROPERTIES:
+:origem: banco-criado
+:tipo: verdadeiro_falso
+:nivel: medio
+:tag: Big Bang, matéria escura, energia escura
+:END:
+
+Sobre Cosmologia e problemas em aberto da Física, julgue as
+afirmações.
+
+(   ) O modelo do Big Bang propõe que o Universo começou muito quente e denso e vem se expandindo.
+
+(   ) A radiação cósmica de fundo é um "eco" da expansão do Universo.
+
+(   ) A matéria escura emite muita luz e, por isso, é fácil de observar.
+
+(   ) A energia escura estaria relacionada à expansão acelerada do Universo.
+
+(   ) A natureza da matéria escura e da energia escura já é totalmente conhecida.

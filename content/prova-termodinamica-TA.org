@@ -1,0 +1,191 @@
+#+title: Prova de Termodinâmica — Física Aplicada (TA)
+#+options: toc:nil
+#+language: pt-BR
+
+* Instruções
+
+- Esta prova tem 11 questões: 8 de verdadeiro ou falso e 3 abertas.
+- Nas questões 1 a 8, classifique cada afirmação como **V (verdadeira)**
+  ou **F (falsa)**.
+- Nas questões 9 a 11, apresente a resolução e justifique suas
+  respostas.
+- Não é permitido o uso de calculadora.
+- Valor: 10,0 pontos (0,5 por questão de V ou F e 2,0 por questão
+  aberta).
+
+Nome: ______________________________________ Turma: ______________
+
+* Questões de verdadeiro ou falso
+
+** Questão 1 — Temperatura e escalas termométricas
+
+(   ) A temperatura de um corpo está relacionada à agitação das
+partículas que o constituem.
+
+(   ) A temperatura de \(0\,^\circ C\) corresponde, aproximadamente, a
+\(273\,K\).
+
+(   ) A escala Kelvin admite temperaturas negativas.
+
+(   ) Ao passar de \(20\,^\circ C\) para \(40\,^\circ C\), a temperatura
+absoluta do corpo dobra.
+
+(   ) A escala Celsius adota \(0\,^\circ C\) e \(100\,^\circ C\) como
+pontos fixos da água a \(1\,atm\).
+
+
+** Questão 2 — Propagação de calor
+
+(   ) Na condução, o calor é transferido por colisões entre as
+partículas, sem transporte de matéria.
+
+(   ) A convecção ocorre apenas em sólidos.
+
+(   ) A irradiação pode ocorrer no vácuo.
+
+(   ) Os metais são, em geral, bons condutores de calor.
+
+(   ) Na convecção, o fluido mais frio sobe e o mais quente desce.
+
+
+** Questão 3 — Gás ideal
+
+(   ) No modelo de gás ideal, as partículas não interagem entre si,
+exceto nas colisões elásticas.
+
+(   ) A pressão de um gás resulta das colisões das partículas contra
+as paredes do recipiente.
+
+(   ) Na equação \(PV = nRT\), a temperatura deve ser usada em graus
+Celsius.
+
+(   ) Mantendo a temperatura constante, se o volume dobrar, a pressão
+será reduzida à metade.
+
+(   ) A \(0\,K\), a agitação térmica das partículas é mínima.
+
+
+** Questão 4 — Mudanças de fase
+
+(   ) A fusão é a passagem do estado sólido para o estado líquido.
+
+(   ) Durante uma mudança de fase, a temperatura permanece constante
+enquanto as duas fases coexistem.
+
+(   ) A sublimação é a passagem direta do estado sólido para o estado
+gasoso.
+
+(   ) A vaporização só pode ocorrer a \(100\,^\circ C\).
+
+(   ) A condensação libera calor para o ambiente.
+
+
+** Questão 5 — Calor sensível, calor latente e capacidade térmica
+
+(   ) O calor sensível provoca variação de temperatura sem mudança de
+fase.
+
+(   ) O calor latente é calculado pela expressão \(Q = m \, c \,
+\Delta T\).
+
+(   ) A capacidade térmica de um corpo depende da massa e do material
+de que ele é feito.
+
+(   ) A água tem calor específico maior que o azeite.
+
+(   ) Para derreter \(500\,g\) de gelo a \(0\,^\circ C\), são
+necessários \(40\,kcal\). Considere \(L_f = 80\,cal/g\).
+
+
+** Questão 6 — Equilíbrio térmico e troca de calor
+
+(   ) Dois corpos em contato trocam calor até atingirem a mesma
+temperatura.
+
+(   ) No equilíbrio térmico, cessa a troca líquida de calor entre os
+corpos.
+
+(   ) Em um calorímetro ideal, o calor cedido por um corpo é igual ao
+calor recebido pelo outro.
+
+(   ) Ao misturar \(200\,g\) de água a \(80\,^\circ C\) com \(200\,g\)
+de água a \(20\,^\circ C\), a temperatura de equilíbrio é
+\(50\,^\circ C\).
+
+(   ) No equilíbrio térmico, os corpos possuem obrigatoriamente a mesma
+quantidade de calor.
+
+
+** Questão 7 — Leis da Termodinâmica
+
+(   ) A Primeira Lei da Termodinâmica é a conservação da energia
+aplicada aos processos térmicos.
+
+(   ) Na Primeira Lei, a variação da energia interna é dada por
+\(\Delta U = Q - W\).
+
+(   ) A Segunda Lei da Termodinâmica afirma que o calor flui
+espontaneamente do corpo frio para o corpo quente.
+
+(   ) Nenhuma máquina térmica tem rendimento de \(100\%\).
+
+(   ) Em um ciclo completo, a variação da energia interna do sistema é
+nula.
+
+
+** Questão 8 — Aplicações da termodinâmica
+
+(   ) A garrafa térmica reduz a troca de calor por condução,
+convecção e irradiação.
+
+(   ) Na panela de pressão, o aumento da pressão interna faz a água
+ferver acima de \(100\,^\circ C\).
+
+(   ) O refrigerador transfere calor do interior frio para o ambiente
+quente sem realizar trabalho.
+
+(   ) A brisa marítima está relacionada à diferença de calor
+específico entre a água e a terra.
+
+(   ) O efeito estufa ocorre porque a atmosfera absorve parte do
+infravermelho emitido pela superfície da Terra.
+
+
+* Questões abertas
+
+** Questão 9 — Calorimetria e mudança de fase
+
+Determine a quantidade de calor necessária para transformar \(100\,g\)
+de gelo a \(0\,^\circ C\) em água a \(20\,^\circ C\). Considere
+\(L_f = 80\,cal/g\) e \(c_{\text{água}} = 1\,cal/(g \cdot ^\circ C)\).
+
+Em seguida, explique por que a temperatura permanece constante durante
+a fusão do gelo, mesmo recebendo calor.
+
+** Questão 10 — Refrigerador e leis da Termodinâmica
+
+Explique como um refrigerador transfere calor do interior frio para o
+ambiente quente. Em sua resposta, relacione o funcionamento do
+aparelho com a Primeira e a Segunda Lei da Termodinâmica.
+
+** Questão 11 — Equilíbrio térmico com gelo e água
+
+Em um calorímetro ideal, colocam-se \(100\,g\) de gelo a
+\(-10\,^\circ C\) em \(400\,g\) de água a \(40\,^\circ C\). Considere
+\(c_{\text{gelo}} = 0,50\,cal/(g \cdot ^\circ C)\),
+\(L_f = 80\,cal/g\) e \(c_{\text{água}} = 1\,cal/(g \cdot ^\circ C)\).
+Despreze as perdas de calor para o ambiente.
+
+a) Calcule o calor que o gelo absorve para aquecer de
+\(-10\,^\circ C\) até \(0\,^\circ C\).
+
+b) Calcule o calor necessário para derreter completamente o gelo a
+\(0\,^\circ C\).
+
+c) Calcule o calor que a água a \(40\,^\circ C\) liberaria ao esfriar
+até \(0\,^\circ C\).
+
+d) A partir dos resultados anteriores, verifique se todo o gelo
+derrete.
+
+e) Determine a temperatura final de equilíbrio do sistema.

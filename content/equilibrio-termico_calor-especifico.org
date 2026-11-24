@@ -50,8 +50,9 @@ Sobre o equilíbrio térmico, julgue as afirmações.
 :END:
 
 Em um calorímetro ideal, misturam-se \(200\,g\) de água a
-\(80\,^\circ C\) com \(200\,g\) de água a \(20\,^\circ C\). Julgue as
-afirmações.
+\(80\,^\circ C\) com \(200\,g\) de água a \(20\,^\circ C\). Considere
+\(c_{\text{água}} = 1\,cal/(g \cdot ^\circ C)\) e
+\(1\,kcal = 1000\,cal\). Julgue as afirmações.
 
 (   ) A temperatura de equilíbrio é \(50\,^\circ C\).
 
@@ -73,8 +74,8 @@ afirmações.
 :END:
 
 Em um calorímetro ideal, misturam-se \(200\,g\) de água a
-\(80\,^\circ C\) com \(300\,g\) de água a \(20\,^\circ C\). Julgue as
-afirmações.
+\(80\,^\circ C\) com \(300\,g\) de água a \(20\,^\circ C\). Considere
+\(c_{\text{água}} = 1\,cal/(g \cdot ^\circ C)\). Julgue as afirmações.
 
 (   ) A temperatura de equilíbrio é \(44\,^\circ C\).
 
@@ -97,6 +98,7 @@ afirmações.
 
 Em um calorímetro ideal, misturam-se \(200\,g\) de água a
 \(80\,^\circ C\) com \(200\,g\) de azeite a \(20\,^\circ C\). Considere
+\(c_{\text{água}} = 1\,cal/(g \cdot ^\circ C)\) e
 \(c_{\text{azeite}} = 0,47\,cal/(g \cdot ^\circ C)\). Julgue as
 afirmações.
 
@@ -121,7 +123,8 @@ afirmações.
 
 Uma peça de alumínio de \(100\,g\) a \(200\,^\circ C\) é colocada em
 \(500\,g\) de água a \(20\,^\circ C\). Considere
-\(c_{\text{Al}} = 0,22\,cal/(g \cdot ^\circ C)\). Julgue as afirmações.
+\(c_{\text{Al}} = 0,22\,cal/(g \cdot ^\circ C)\) e
+\(c_{\text{água}} = 1\,cal/(g \cdot ^\circ C)\). Julgue as afirmações.
 
 (   ) A temperatura de equilíbrio é aproximadamente \(27,6\,^\circ C\).
 
@@ -143,7 +146,9 @@ Uma peça de alumínio de \(100\,g\) a \(200\,^\circ C\) é colocada em
 :END:
 
 Sobre o calor específico e o aquecimento de substâncias, julgue as
-afirmações.
+afirmações. Considere \(c_{\text{água}} = 1\,cal/(g \cdot ^\circ C)\),
+\(c_{\text{azeite}} = 0,47\,cal/(g \cdot ^\circ C)\) e
+\(1\,kcal = 1000\,cal\).
 
 (   ) Para aquecer \(2\,kg\) de água de \(20\,^\circ C\) até \(80\,^\circ C\) são necessários \(120\,kcal\).
 
@@ -166,7 +171,9 @@ afirmações.
 
 Uma amostra de \(200\,g\) de uma substância desconhecida a
 \(100\,^\circ C\) é colocada em \(400\,g\) de água a \(20\,^\circ C\).
-A temperatura de equilíbrio é \(30\,^\circ C\). Julgue as afirmações.
+A temperatura de equilíbrio é \(30\,^\circ C\). Considere
+\(c_{\text{água}} = 1\,cal/(g \cdot ^\circ C)\) e
+\(1\,kcal = 1000\,cal\). Julgue as afirmações.
 
 (   ) O calor recebido pela água é \(4\,kcal\).
 

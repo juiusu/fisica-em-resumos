@@ -2111,24 +2111,206 @@ Einstein. Saiba mais em
 - A teoria foi confirmada pelo desvio da luz, por correções em relógios,
   por buracos negros e por ondas gravitacionais.
 
-** Mecânica Quântica:
-dualidade onda-partícula, princípio da incerteza,
-função de onda e equação de Schrödinger. Estrutura atômica.
+** Mecânica Quântica
 
-** Física Nuclear:
-estrutura do núcleo, radioatividade, fissão e fusão
-nuclear, radiações ionizantes e não ionizantes, aplicações na saúde e na
-indústria.
+No mundo dos átomos e das partículas, as leis da Física clássica deixam
+de funcionar bem. A Mecânica Quântica foi criada para descrever esse
+mundo microscópico. Nela, a matéria e a luz apresentam *dualidade
+onda-partícula*: dependendo do experimento, um elétron ou um fóton pode
+se comportar como partícula ou como onda.
 
-** Física de partículas:
-partículas elementares, forças fundamentais e modelo padrão.
+Também não é possível conhecer com precisão total, ao mesmo tempo, a
+posição e a velocidade de uma partícula. Essa limitação é o *princípio
+da incerteza*. Por isso, a Mecânica Quântica não prevê exatamente onde
+o elétron estará, mas sim a *probabilidade* de encontrá-lo em cada
+região. Essa probabilidade é descrita pela *função de onda*, cuja
+evolução é dada pela equação de Schrödinger.
 
-** Algumas aplicaçõesa da física contemporânea:
+No átomo, os elétrons ocupam níveis de energia bem definidos. Ao passar
+de um nível para outro, eles emitem ou absorvem luz de frequências
+específicas, o que explica os espectros dos átomos e muitas aplicações
+modernas, como lasers e semicondutores.
 
-semicondutores, laser,
-supercondutores, nanotecnologia e computação quântica. 
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Distribuições de probabilidade do elétron no átomo de hidrogênio em diferentes níveis de energia.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Hydrogen_Density_Plots.png"
+       alt="Distribuições de probabilidade do elétron no átomo de hidrogênio para diferentes níveis de energia"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Hydrogen_Density_Plots.png">PoorLeno</a>,
+    Domínio público, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
+
+** Física Nuclear
+
+O núcleo do átomo é formado por prótons e nêutrons, mantidos unidos
+pela força nuclear forte. Alguns núcleos são instáveis e podem emitir
+radiação, fenômeno chamado de *radioatividade*. As emissões podem ser
+partículas alfa, partículas beta ou raios gama. Radiações ionizantes
+têm energia suficiente para arrancar elétrons dos átomos e podem
+danificar células, por isso exigem cuidados; já as não ionizantes, como
+as ondas de rádio e as micro-ondas, não têm essa energia. Essas
+radiações têm aplicações na medicina, em exames e tratamentos, na
+indústria e na geração de energia. A energia nuclear pode ser obtida
+por fissão ou por fusão, processos em que parte da massa se transforma
+em energia (\(E = mc^2\)).
+
+*** Fusão nuclear
+
+Na fusão, núcleos leves se unem e formam um núcleo mais pesado,
+liberando energia. No Sol, isso acontece principalmente no núcleo, onde
+a temperatura chega a cerca de 15 milhões de graus Celsius e a pressão
+é enorme. Nessa região, os núcleos de hidrogênio (prótons) estão muito
+agitados e conseguem vencer a repulsão elétrica entre si, aproximando-se
+o suficiente para que a força nuclear forte os una.
+
+O processo predominante é a cadeia próton-próton: quatro núcleos de
+hidrogênio se combinam, passando por etapas intermediárias, até formar
+um núcleo de hélio. A massa do hélio formado é um pouco menor que a
+soma das massas dos quatro prótons; essa diferença se transforma em
+energia, de acordo com \(E = mc^2\). A energia é liberada como raios
+gama, luz e calor. No caminho até a superfície, ela é absorvida e
+reemitida muitas vezes, e parte chega à Terra como luz e calor. A cada
+segundo, milhões de toneladas de matéria do Sol se transformam em
+energia, e os neutrinos produzidos nessas reações atravessam o Sol e
+chegam até nós.
+
+Na Terra, os experimentos buscam reproduzir a fusão, geralmente com
+deutério e trítio, mas ela exige temperaturas muito altas.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Fusão de deutério e trítio: os núcleos se aproximam, formam um núcleo instável e liberam um nêutron e hélio-4.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/D-T_fusion.svg/960px-D-T_fusion.svg.png"
+       alt="Diagrama da fusão de deutério e trítio em três etapas"
+       style="width:90%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:D-T_fusion.svg">Panoptik</a>,
+    <a href="https://creativecommons.org/licenses/by/2.5">CC BY 2.5</a>, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Animação da fusão de deutério e trítio.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Animated_D-T_fusion.gif"
+       alt="Animação da fusão de deutério e trítio"
+       style="width:40%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Animated_D-T_fusion.gif">Anynobody</a>,
+    <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
+
+*** Fissão nuclear
+
+Na fissão, um núcleo pesado se divide em dois núcleos menores ao
+absorver um nêutron, liberando energia e mais nêutrons. Esses nêutrons
+podem provocar novas fissões, formando uma reação em cadeia. É o
+princípio usado nas usinas nucleares.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Fissão nuclear: um nêutron é absorvido pelo núcleo de urânio-235, que se divide e libera energia.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Nuclear_fission.svg/500px-Nuclear_fission.svg.png"
+       alt="Diagrama da fissão nuclear do urânio-235 em três etapas"
+       style="width:70%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Nuclear_fission.svg">Fastfission</a>,
+    Domínio público, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
+
+Na situação representada, um nêutron é absorvido pelo urânio-235,
+formando urânio-236, que fica instável. Esse núcleo se divide em dois
+núcleos menores: criptônio-92 (\(^{92}\text{Kr}\)) e bário-141
+(\(^{141}\text{Ba}\)), além de liberar três nêutrons e energia. Observe
+que o número de massa se conserva:
+\(235 + 1 = 92 + 141 + 3 = 236\). Os nêutrons liberados podem ser
+absorvidos por outros núcleos de urânio-235, provocando novas fissões e
+mantendo a reação em cadeia. Esses núcleos formados são chamados de
+produtos de fissão; dependendo da colisão, outros pares podem ser
+gerados.
+
+** Física de Partículas
+
+Toda a matéria é formada por um pequeno conjunto de partículas
+elementares. Os *férmions* (quarks e léptons) formam a matéria, e os
+*bósons* transmitem as forças entre elas. Prótons e nêutrons, por
+exemplo, são formados por quarks. O *Modelo Padrão* organiza essas
+partículas e descreve três das quatro forças fundamentais: a forte, a
+eletromagnética e a fraca. A gravidade ainda não está incluída nesse
+modelo. O bóson de Higgs, descoberto em 2012, está ligado à origem da
+massa das partículas.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Modelo Padrão das partículas elementares.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Standard_Model_of_Elementary_Particles-pt-br.svg/960px-Standard_Model_of_Elementary_Particles-pt-br.svg.png"
+       alt="Tabela do Modelo Padrão com quarks, léptons e bósons"
+       style="width:100%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:Standard_Model_of_Elementary_Particles-pt-br.svg">MissMJ</a>,
+    Domínio público, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
+
+Por exemplo, o próton é formado por dois quarks *up* e um quark *down*
+(\(uud\)), enquanto o nêutron é formado por um quark *up* e dois quarks
+*down* (\(udd\)). Esses quarks são mantidos unidos pela força forte,
+cujos mediadores são os glúons.
+
+** Algumas aplicações da física contemporânea
+
+- *Semicondutores*: materiais cuja condução elétrica pode ser
+  controlada; estão na base dos chips, transistores, diodos e células
+  solares.
+- *Laser*: luz concentrada, de uma só cor e direção, usada em medicina,
+  indústria, leitores de código e telecomunicações.
+- *Supercondutores*: materiais que conduzem eletricidade sem
+  resistência em temperaturas muito baixas; usados em ímãs de
+  ressonância magnética e trens de levitação.
+- *Nanotecnologia*: manipulação da matéria na escala de nanômetros,
+  permitindo novos materiais, sensores e tratamentos médicos.
+- *Computação quântica*: usa *qubits*, que podem estar em mais de um
+  estado ao mesmo tempo, para resolver certos problemas mais rápido que
+  os computadores comuns.
 
 ** Cosmologia e Astronomia
+
+A Cosmologia estuda o Universo como um todo: sua origem, estrutura e
+evolução. A Astronomia estuda os astros — planetas, estrelas, galáxias
+— e os fenômenos que ocorrem no espaço. Hoje, o modelo mais aceito é o
+do Big Bang: o Universo começou muito quente e denso e vem se
+expandindo desde então. As galáxias se afastam umas das outras, e a
+radiação cósmica de fundo é um "eco" dessa expansão. O estudo das
+estrelas também explica como os elementos químicos foram formados.
+
+** Problemas em aberto da física atual
+
+- *Matéria escura*: não emite luz, mas exerce atração gravitacional.
+  Sua presença é inferida pelo movimento de estrelas e galáxias, mas
+  ainda não se sabe do que ela é feita.
+- *Energia escura*: seria responsável pela expansão acelerada do
+  Universo. Sua natureza é desconhecida e é um dos maiores mistérios da
+  Física atual.
 
 * Exercícios e problemas
 
@@ -2147,5 +2329,7 @@ supercondutores, nanotecnologia e computação quântica.
 ** [[file:lista-terras-raras-vf.org][Lista de exercícios: Terras raras (verdadeiro ou falso)]]
 
 ** [[file:lista-ondas-eletromagneticas-vf.org][Lista de exercícios: Ondas eletromagnéticas (verdadeiro ou falso)]]
+
+** [[file:lista-fisica-moderna-vf.org][Lista de exercícios: Física moderna (verdadeiro ou falso)]]
 
 ** 

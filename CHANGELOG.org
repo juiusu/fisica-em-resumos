@@ -56,3 +56,18 @@ ser adicionados com o comando =/registrar-alteracao=.
 - editado: content/fisica-aplicada-TPQ.org (15:38)
 - editado: content/fisica-aplicada-TA.org (15:37)
 - editado: content/equilibrio-termico_calor-especifico.org (15:36)
+
+* 2026-11-16
+- editado: content/equilibrio-termico_calor-especifico.org (11:51)
+- editado: content/calor-latente_calor-especifico.org (11:49)
+
+* 2026-11-17
+- editado: content/fisica-3.org (10:24)
+
+* 2026-11-18
+- editado: content/index.org (00:25)
+- editado: content/prova-termodinamica-TA.org (00:25)
+
+* 2026-11-24
+- editado: content/lista-fisica-moderna-vf.org (08:07)
+- editado: content/fisica-3.org (07:54)

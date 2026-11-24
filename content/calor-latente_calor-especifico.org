@@ -27,8 +27,8 @@ Use \(c_{\text{água}} = 1\,cal/(g \cdot ^\circ C)\),
 :tag: calor específico, água, Q = mcΔT
 :END:
 
-Considere o calor específico da água igual a \(1\,cal/(g \cdot ^\circ C)\).
-Julgue as afirmações.
+Considere o calor específico da água igual a \(1\,cal/(g \cdot ^\circ C)\)
+e \(1\,kcal = 1000\,cal\). Julgue as afirmações.
 
 (   ) Para aquecer \(2\,kg\) de água de \(20\,^\circ C\) até \(80\,^\circ C\) são necessários \(120\,kcal\).
 
@@ -50,8 +50,9 @@ Julgue as afirmações.
 :END:
 
 Fornecemos \(20\,kcal\) a \(2\,kg\) de água e a \(2\,kg\) de azeite.
-Considere \(c_{\text{azeite}} = 0,47\,cal/(g \cdot ^\circ C)\). Julgue as
-afirmações.
+Considere \(c_{\text{água}} = 1\,cal/(g \cdot ^\circ C)\),
+\(c_{\text{azeite}} = 0,47\,cal/(g \cdot ^\circ C)\) e
+\(1\,kcal = 1000\,cal\). Julgue as afirmações.
 
 A. (   ) A água sofre uma variação de temperatura de \(10\,^\circ C\).
 
@@ -73,7 +74,8 @@ E. (   ) Se fossem \(1\,kg\) de azeite, os \(20\,kcal\) provocariam uma variaç�
 :END:
 
 Uma panela de alumínio tem massa \(500\,g\) e calor específico
-\(0,22\,cal/(g \cdot ^\circ C)\). Julgue as afirmações.
+\(0,22\,cal/(g \cdot ^\circ C)\). Considere também
+\(1\,kcal = 1000\,cal\). Julgue as afirmações.
 
 (   ) A capacidade térmica da panela é \(110\,cal/^\circ C\).
 
@@ -94,8 +96,8 @@ Uma panela de alumínio tem massa \(500\,g\) e calor específico
 :tag: calor latente, fusão, gelo
 :END:
 
-Considere o calor latente de fusão do gelo \(L_f = 80\,cal/g\).
-Julgue as afirmações.
+Considere o calor latente de fusão do gelo \(L_f = 80\,cal/g\) e
+\(1\,kcal = 1000\,cal\). Julgue as afirmações.
 
 (   ) Para derreter \(500\,g\) de gelo a \(0\,^\circ C\) são necessários \(40\,kcal\).
 
@@ -116,8 +118,9 @@ Julgue as afirmações.
 :tag: calor latente, vaporização, condensação
 :END:
 
-Considere o calor latente de vaporização da água \(L_v = 540\,cal/g\).
-Julgue as afirmações.
+Considere o calor latente de vaporização da água
+\(L_v = 540\,cal/g\), o calor latente de fusão do gelo
+\(L_f = 80\,cal/g\) e \(1\,kcal = 1000\,cal\). Julgue as afirmações.
 
 (   ) Para vaporizar \(100\,g\) de água a \(100\,^\circ C\) são necessários \(54\,kcal\).
 
@@ -140,7 +143,10 @@ Julgue as afirmações.
 
 Colocamos \(100\,g\) de gelo a \(-10\,^\circ C\) em uma bebida. O gelo
 absorve calor até se transformar em água a \(20\,^\circ C\). O processo
-ocorre em três etapas. Julgue as afirmações.
+ocorre em três etapas. Considere
+\(c_{\text{gelo}} = 0,50\,cal/(g \cdot ^\circ C)\),
+\(L_f = 80\,cal/g\), \(c_{\text{água}} = 1\,cal/(g \cdot ^\circ C)\) e
+\(1\,kcal = 1000\,cal\). Julgue as afirmações.
 
 (   ) Aquecer o gelo de \(-10\,^\circ C\) até \(0\,^\circ C\) absorve \(500\,cal\).
 
@@ -162,8 +168,8 @@ ocorre em três etapas. Julgue as afirmações.
 :END:
 
 Em um calorímetro ideal, misturamos \(200\,g\) de água a
-\(80\,^\circ C\) com \(200\,g\) de água a \(20\,^\circ C\). Julgue as
-afirmações.
+\(80\,^\circ C\) com \(200\,g\) de água a \(20\,^\circ C\). Considere
+\(c_{\text{água}} = 1\,cal/(g \cdot ^\circ C)\). Julgue as afirmações.
 
 (   ) A temperatura de equilíbrio é \(50\,^\circ C\).
 
@@ -185,7 +191,8 @@ afirmações.
 :END:
 
 Sobre as unidades de energia usadas em calorimetria, julgue as
-afirmações.
+afirmações. Considere \(1\,cal \approx 4,18\,J\) e
+\(1\,kcal = 1000\,cal\).
 
 (   ) \(1\,kcal = 1000\,cal\).
 
