@@ -10,9 +10,11 @@ radiação do corpo negro, efeito fotoelétrico, efeito Compton,
 relatividade, Mecânica Quântica, Física Nuclear, Física de Partículas,
 aplicações contemporâneas e cosmologia.
 
-As questões são conceituais e não exigem cálculos. Em cada questão,
-classifique as cinco afirmações como **verdadeiras (V)** ou **falsas
-(F)**.
+As questões 1 a 14 são conceituais, não exigem cálculos e devem ser
+respondidas classificando as cinco afirmações como **verdadeiras (V)**
+ou **falsas (F)**. As questões 15 a 18 são abertas, de reflexão, e não
+têm resposta única: o objetivo é que você expresse seu interesse pelos
+temas estudados.
 
 * Questões
 
@@ -309,3 +311,38 @@ afirmações.
 (   ) A energia escura estaria relacionada à expansão acelerada do Universo.
 
 (   ) A natureza da matéria escura e da energia escura já é totalmente conhecida.
+
+* Questões abertas
+
+Estas questões não têm resposta certa ou errada. Elas servem para você
+refletir sobre os temas estudados e mostrar o que despertou mais seu
+interesse.
+
+** Questão 15 — Conceito mais interessante
+
+Escolha um conceito de Física Moderna estudado nesta lista (por
+exemplo, dualidade onda-partícula, relatividade, quantização da
+energia, decaimento, computação quântica etc.). Explique o que mais
+chamou sua atenção e por quê. Se possível, relacione esse conceito com
+algo do seu dia a dia.
+
+** Questão 16 — Descoberta ou aplicação que mais impacta a sociedade
+
+Qual descoberta ou aplicação da Física Moderna você considera mais
+importante para a sociedade? Justifique sua escolha, citando exemplos
+de como ela está presente no cotidiano ou pode melhorar a vida das
+pessoas.
+
+** Questão 17 — Pergunta para um cientista
+
+Se você pudesse conversar com um cientista importante da Física
+Moderna (como Planck, Einstein, Bohr ou outro), qual pergunta faria?
+Explique o motivo da sua curiosidade e o que esperaria aprender com a
+resposta.
+
+** Questão 18 — O futuro da Física Moderna
+
+Escolha uma área da Física Moderna que você gostaria de acompanhar ou
+estudar mais (por exemplo, computação quântica, Física de Partículas,
+cosmologia, nanotecnologia). Descreva o que desperta seu interesse e
+como você imagina que essa área pode evoluir nas próximas décadas.

@@ -2277,6 +2277,36 @@ Por exemplo, o próton é formado por dois quarks *up* e um quark *down*
 *down* (\(udd\)). Esses quarks são mantidos unidos pela força forte,
 cujos mediadores são os glúons.
 
+** Decaimento
+
+O decaimento é a transformação espontânea de uma partícula ou de um
+núcleo instável em outras partículas, com liberação de energia. No caso
+do nêutron, essa transformação ocorre por meio da força fraca.
+
+Um nêutron livre, fora do núcleo, é instável: metade dos nêutrons de
+uma amostra decai em cerca de 10 minutos. Ele se transforma em um
+próton, um elétron e um antineutrino do elétron:
+
+\[ n \rightarrow p + e^{-} + \bar{\nu}_e \]
+
+Em termos de quarks, um quark *down* do nêutron se transforma em um
+quark *up*, de modo que o nêutron (\(udd\)) se torna um próton
+(\(uud\)). O elétron e o antineutrino são emitidos nesse processo, que
+é um exemplo de *decaimento beta*.
+
+Dentro de um núcleo, um nêutron também pode decair, desde que o núcleo
+resultante seja mais estável. É o que acontece no carbono-14:
+
+\[ ^{14}\text{C} \rightarrow ^{14}\text{N} + e^{-} + \bar{\nu}_e \]
+
+Nesse caso, um dos nêutrons do carbono-14 se transforma em próton, e o
+núcleo passa a ser de nitrogênio-14. Esse decaimento é a base da
+datação por carbono-14 e explica a radioatividade beta de muitos
+núcleos.
+
+Além do decaimento beta, existem outros tipos de decaimento, como o
+alfa e o gama, que também envolvem núcleos instáveis.
+
 ** Algumas aplicações da física contemporânea
 
 - *Semicondutores*: materiais cuja condução elétrica pode ser
@@ -2292,6 +2322,66 @@ cujos mediadores são os glúons.
 - *Computação quântica*: usa *qubits*, que podem estar em mais de um
   estado ao mesmo tempo, para resolver certos problemas mais rápido que
   os computadores comuns.
+
+** Computação quântica
+
+Um computador comum trabalha com *bits*, que assumem apenas dois
+valores, 0 ou 1. A computação quântica usa *qubits*, que podem estar
+em uma combinação de 0 e 1 ao mesmo tempo, chamada de *superposição*.
+Isso permite explorar várias possibilidades simultaneamente em certos
+cálculos.
+
+Além da superposição, dois fenômenos quânticos são importantes:
+
+- *Emaranhamento*: dois ou mais qubits ficam ligados de tal forma que a
+  medição de um afeta o outro, mesmo à distância.
+- *Interferência*: o algoritmo é construído para reforçar as respostas
+  corretas e cancelar as erradas.
+
+Os cálculos são feitos por *portas quânticas*, que alteram os qubits de
+forma controlada. Entre as possíveis aplicações estão a simulação de
+moléculas e materiais, a otimização de problemas e a fatoração de
+números grandes — esta última com impacto na segurança de sistemas
+criptográficos atuais. Também se desenvolve a criptografia quântica,
+que usa princípios da Física para tornar a comunicação mais segura.
+
+O grande desafio é manter os qubits sob controle, pois qualquer
+interação com o ambiente provoca *decoerência*, que destrói a
+informação quântica. Por isso, muitos protótipos funcionam em
+temperaturas próximas do zero absoluto e exigem correção de erros. A
+computação quântica ainda está em desenvolvimento: os computadores
+quânticos atuais não substituem os computadores comuns e servem
+principalmente para tarefas específicas.
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Wafer com chips quânticos da D-Wave.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_%2839188583425%29.jpg/960px-A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_%2839188583425%29.jpg"
+       alt="Wafer com vários chips quânticos da D-Wave"
+       style="width:80%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_(39188583425).jpg">Steve Jurvetson</a>,
+    <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div style="text-align:center; max-width:700px; margin:auto;">
+  <p style="font-weight:bold; font-size:1.1em;">
+    Demonstração de um computador quântico da IBM na ITU/WTSA 2024, em Deli.
+  </p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/IBM_Quantum_Computer_Demo_at_ITUWTSA_2024%2C_Delhi_2.jpg/500px-IBM_Quantum_Computer_Demo_at_ITUWTSA_2024%2C_Delhi_2.jpg"
+       alt="Demonstração de um computador quântico da IBM em uma exposição"
+       style="width:60%; height:auto;">
+  <p style="font-size:0.75em; color:gray;">
+    Fonte: <a href="https://commons.wikimedia.org/wiki/File:IBM_Quantum_Computer_Demo_at_ITUWTSA_2024,_Delhi_2.jpg">Dev Jadiya</a>,
+    <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons.
+  </p>
+</div>
+#+END_EXPORT
 
 ** Cosmologia e Astronomia
 

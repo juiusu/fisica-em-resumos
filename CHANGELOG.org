@@ -71,3 +71,6 @@ ser adicionados com o comando =/registrar-alteracao=.
 * 2026-11-24
 - editado: content/lista-fisica-moderna-vf.org (08:07)
 - editado: content/fisica-3.org (07:54)
+
+* 2026-11-26
+- editado: content/lista-fisica-moderna-vf.org (23:15)
